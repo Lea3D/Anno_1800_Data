@@ -1,0 +1,542 @@
+[
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010296,
+    "guid": 25638,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010218
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010297,
+    "guid": 25639,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010219
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010298,
+    "guid": 25640,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010226
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010299,
+    "guid": 25641,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010221
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010301,
+    "guid": 25642,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010223
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010302,
+    "guid": 25643,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010224
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010303,
+    "guid": 25644,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010225
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010282,
+    "guid": 25645,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010204
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 101331,
+    "guid": 25646,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010566
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010296,
+    "guid": 25651,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010218
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 134622,
+    "guid": 25652,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 134623
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135361,
+    "guid": 25653,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 135229
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135148,
+    "guid": 25654,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 135230
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 132786,
+    "guid": 25655,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 133181
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 132777,
+    "guid": 25656,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 133185
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 133533,
+    "guid": 25657,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 133532
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135133,
+    "guid": 25658,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 135129
+  },
+  {
+    "additionalOutputCycle": 1,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 101331,
+    "guid": 112919,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_oil_extractor_3.png",
+    "name": "Oily Sucker",
+    "product": 1010566
+  },
+  {
+    "additionalOutputCycle": 1,
+    "amount": 2,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 101331,
+    "guid": 112920,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_oil_extractor_2.png",
+    "name": "Oily Super-Sucker",
+    "product": 1010566
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010262,
+    "guid": 269191,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png",
+    "name": "Land Reform Act",
+    "product": 1010192
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010264,
+    "guid": 269254,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png",
+    "name": "Land Reform Act",
+    "product": 1010194
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010265,
+    "guid": 269255,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png",
+    "name": "Land Reform Act",
+    "product": 1010195
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 100654,
+    "guid": 269256,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png",
+    "name": "Land Reform Act",
+    "product": 1010198
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 100655,
+    "guid": 269257,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png",
+    "name": "Land Reform Act",
+    "product": 120014
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010267,
+    "guid": 269564,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png",
+    "name": "Land Reform Act",
+    "product": 1010197
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010269,
+    "guid": 269565,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png",
+    "name": "Land Reform Act",
+    "product": 1010199
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010263,
+    "guid": 269566,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png",
+    "name": "Land Reform Act",
+    "product": 1010193
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010262,
+    "guid": 269366,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png",
+    "name": "Land Reform Act",
+    "product": 1010192
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010296,
+    "guid": 269200,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010218
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010297,
+    "guid": 269275,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010219
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010298,
+    "guid": 269276,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010226
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010299,
+    "guid": 269277,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010221
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010301,
+    "guid": 269278,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010223
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010302,
+    "guid": 269279,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010224
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010303,
+    "guid": 269280,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010225
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010282,
+    "guid": 269281,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010204
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 101331,
+    "guid": 269282,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010566
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010296,
+    "guid": 269399,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 1010218
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 134622,
+    "guid": 280087,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 134623
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135361,
+    "guid": 280088,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 135229
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135148,
+    "guid": 280089,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 135230
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 132786,
+    "guid": 280090,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 133181
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 132777,
+    "guid": 280091,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 133185
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 133533,
+    "guid": 280092,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 133532
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135133,
+    "guid": 280093,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png",
+    "name": "Skilled Labour Act",
+    "product": 135129
+  }
+]

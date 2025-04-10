@@ -1,0 +1,28 @@
+[
+  {
+    "guid": 5000000,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_moderate.png",
+    "name": "Moderate"
+  },
+  {
+    "guid": 5000001,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_southamerica.png",
+    "name": "Colony01"
+  },
+  {
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 160001,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_passage.png",
+    "name": "Arctic"
+  },
+  {
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114327,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_landoflions.png",
+    "name": "Africa"
+  }
+]

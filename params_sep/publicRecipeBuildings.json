@@ -1,0 +1,1529 @@
+[
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 132745,
+    "guid": 132747,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_schnitzel.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010199,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010195,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010234,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Restaurant: Archduke's Schnitzel",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 132749,
+    "guid": 132750,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_goulash.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010193,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010198,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 120034,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Restaurant: Stroggof Goulash",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133352,
+    "guid": 133339,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_fish_and_chips.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010200,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010195,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Restaurant: Fish and Frites",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133353,
+    "guid": 133340,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_venison_ragout.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010235,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010195,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 112694,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Restaurant: Venison en Croûte",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133354,
+    "guid": 133341,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_lobster_fume.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 118728,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010252,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Restaurant: Lobster Cheminée",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 6148,
+    "guid": 6136,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_empanadas.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010193,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 5383,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010235,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Restaurant: Empanadas",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 132759,
+    "guid": 132753,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_berliner.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010235,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010234,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 133183,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Cafe: Donut Fourré",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133357,
+    "guid": 133347,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_eclair.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010235,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010239,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010258,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Cafe: Eclair",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133358,
+    "guid": 133348,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_palmier_biscuit.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010235,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010234,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 133093,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Cafe: Palmier Biscuit",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133359,
+    "guid": 133349,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_venison_tartare.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120014,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 112694,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Cafe: Venison Tartare",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133360,
+    "guid": 133350,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_banana_surprise.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114371,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 120041,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 133093,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Cafe: Banana Surprise",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 6157,
+    "guid": 6138,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_icecream_cup.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 5385,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 5386,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 133183,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Cafe: Cone O'Copia ",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 132758,
+    "guid": 132752,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_daiquiri_tropic.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010251,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010257,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 120041,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Bar: Daiquiri Tropic",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133361,
+    "guid": 133342,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_black_muscovy.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120032,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010257,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010216,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Bar: Black Muscovy",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133362,
+    "guid": 133343,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_montmatre.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010239,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 120016,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Bar: Montmartre '75'",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133363,
+    "guid": 133345,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_glogg.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 112699,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 120014,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 133093,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Bar: Arctic Glogg",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133364,
+    "guid": 133346,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_enbesa_sunrise.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114364,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010257,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 114369,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Bar: Enbesa Sunrise",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 6154,
+    "guid": 6137,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_absinthe.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 5383,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010239,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010216,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 120,
+        "Product": 132723
+      }
+    ],
+    "name": "Bar: Absynthe",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135111,
+    "guid": 135103,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toaster.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010243,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010229,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Department Store: Toasters",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135196,
+    "guid": 135188,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_vacuumcleaner.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010197,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 135150,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Department Store: Vacuum Cleaners",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135195,
+    "guid": 135187,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_dishes.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010201,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010228,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 135129,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Department Store: Crockery",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135197,
+    "guid": 135189,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_refrigerator.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 112706,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010255,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Department Store: Refrigerators",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 658,
+    "guid": 135190,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_suitcase.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114357,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010204,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 135150,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Department Store: Briefcases",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135112,
+    "guid": 135105,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_bankerlamp.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010208,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010204,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010241,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Furniture Store: Banker's Lamps",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135151,
+    "guid": 135121,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_paravent.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010240,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 135087,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 135129,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Furniture Store: Vanity Screens",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135152,
+    "guid": 135120,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_secretary.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010242,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 135129,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010204,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Furniture Store: Writing Desks",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135153,
+    "guid": 135122,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_canopy.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 135087,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 112695,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 112697,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Furniture Store: Four-Poster Beds",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 661,
+    "guid": 135123,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_chesterfield.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010197,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 114357,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 114356,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Furniture Store: Lounge Seating",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135113,
+    "guid": 134631,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toothpaste.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010226,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010203,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010239,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Drug Store: Toothpaste",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135199,
+    "guid": 135191,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_detergent.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 135130,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 1010232,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Drug Store: Detergent",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135200,
+    "guid": 135192,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_lipstick.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 133095,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 120042,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 135129,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Drug Store: Lipstick",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 135201,
+    "guid": 135193,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_facecreme.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 112699,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 133095,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Drug Store: Face Cream",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc9"
+    ],
+    "goodConsumptionUpgrade": 664,
+    "guid": 135194,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_pomade.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114370,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 134616,
+        "StorageAmount": 7
+      },
+      {
+        "Amount": 1,
+        "Product": 114364,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 240,
+        "Product": 1010116
+      }
+    ],
+    "name": "Drug Store: Pomade",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "mall"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133929,
+    "guid": 133928,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_brioche_royale.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010238,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010213,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010193,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010249,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 200,
+        "Product": 132723,
+        "ShutdownThreshold": 1
+      }
+    ],
+    "name": "The Iron Tower: Brioche Royale ",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133934,
+    "guid": 133930,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_trifle_tower.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010257,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010213,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 120014,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010239,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 200,
+        "Product": 132723,
+        "ShutdownThreshold": 1
+      }
+    ],
+    "name": "The Iron Tower: Trifle Tower",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133935,
+    "guid": 133931,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_marmelade_review.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010257,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 120016,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 133183,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 200,
+        "Product": 132723,
+        "ShutdownThreshold": 1
+      }
+    ],
+    "name": "The Iron Tower: Lady Marmelade",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133936,
+    "guid": 133932,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_age_of_exploration.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 112706,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010195,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010198,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010193,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 200,
+        "Product": 132723,
+        "ShutdownThreshold": 1
+      }
+    ],
+    "name": "The Iron Tower: Age of Exploration",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "goodConsumptionUpgrade": 133937,
+    "guid": 133933,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_homarde_lit_de_terrorir.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 118728,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 114357,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 1010195,
+        "StorageAmount": 10
+      },
+      {
+        "Amount": 1,
+        "Product": 114369,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 200,
+        "Product": 132723,
+        "ShutdownThreshold": 1
+      }
+    ],
+    "name": "The Iron Tower: Homard sur Lit de Terroir",
+    "region": 5000000,
+    "tpmin": 1,
+    "type": "eatery"
+  }
+]

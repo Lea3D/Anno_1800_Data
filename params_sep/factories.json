@@ -1,0 +1,8020 @@
+[
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "fertilizerModule": 25241,
+    "guid": 24798,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cane_sugar_1.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 64,
+    "modulesSize": 1,
+    "name": "Hacienda Sugar Cane Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010251,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "fertilizerModule": 25241,
+    "guid": 25003,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_corn.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 64,
+    "modulesSize": 1,
+    "name": "Hacienda Corn Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120034,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "fertilizerModule": 25241,
+    "guid": 25005,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffee_beans.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 64,
+    "modulesSize": 1,
+    "name": "Hacienda Coffee Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120031,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "fertilizerModule": 25241,
+    "guid": 25006,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_caoutchouc.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 64,
+    "modulesSize": 1,
+    "name": "Hacienda Caoutchouc Plantation",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010255,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "fertilizerModule": 25241,
+    "guid": 25009,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cocoa.png",
+    "maintenances": [
+      {
+        "Amount": 5,
+        "InactiveAmount": 3,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 64,
+    "modulesSize": 1,
+    "name": "Hacienda Cocoa Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010254,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "fertilizerModule": 25241,
+    "guid": 25019,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_potatoes.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 64,
+    "modulesSize": 1,
+    "name": "Hacienda Potato Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010195,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "fertilizerModule": 25241,
+    "guid": 25020,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_spices.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 64,
+    "modulesSize": 1,
+    "name": "Hacienda Spice Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114369,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "fertilizerModule": 25241,
+    "guid": 25128,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cereals_2.png",
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 64,
+    "modulesSize": 1,
+    "name": "Hacienda Grain Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010192,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "guid": 24801,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_rum_barrel.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      },
+      {
+        "Amount": 1,
+        "Product": 1010251,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 1010366
+      }
+    ],
+    "name": "Hacienda Rum Distillery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010257,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "guid": 25064,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_beer.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010192,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 120034,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 1010366
+      }
+    ],
+    "name": "Hacienda Beer Brewery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010214,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc10"
+    ],
+    "guid": 25126,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_atole.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120034,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 1010251,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 1010366
+      }
+    ],
+    "name": "Hacienda Atole Maker",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 25131,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "guid": 25350,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_schnapps_4.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010195,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 1010366
+      }
+    ],
+    "name": "Hacienda Schnapps Distillery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010216,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc10"
+    ],
+    "guid": 25508,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tabasco_sauce.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114369,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 1010366
+      }
+    ],
+    "name": "Hacienda Hot Sauce Brewery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 25506,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc10"
+    ],
+    "guid": 24805,
+    "iconPath": "data/ui/2kimages/main/3dicons/hacienda/icon_hacienda_module_fertiliser.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 24807,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 1010366
+      }
+    ],
+    "name": "Hacienda",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 24808,
+        "StorageAmount": 5
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25240,
+    "guid": 1010262,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cereals_2.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 20,
+        "Product": 1010052
+      }
+    ],
+    "module": 269839,
+    "modulesLimit": 144,
+    "modulesSize": 1,
+    "name": "Grain Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010192,
+        "StorageAmount": 2
+      }
+    ],
+    "palaceBuff": 269366,
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 1010263,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_meat_raw.png",
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 20,
+        "Product": 1010052
+      }
+    ],
+    "module": 269957,
+    "modulesLimit": 4,
+    "modulesSize": 12,
+    "name": "Cattle Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010193,
+        "StorageAmount": 1
+      }
+    ],
+    "palaceBuff": 269566,
+    "region": 5000000,
+    "setBuff": 124209,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25240,
+    "guid": 1010264,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_hops.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 20,
+        "Product": 1010052
+      }
+    ],
+    "module": 269837,
+    "modulesLimit": 96,
+    "modulesSize": 1,
+    "name": "Hop Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010194,
+        "StorageAmount": 1
+      }
+    ],
+    "palaceBuff": 269254,
+    "region": 5000000,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25240,
+    "guid": 1010265,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_potatoes.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 20,
+        "Product": 1010052
+      }
+    ],
+    "module": 269837,
+    "modulesLimit": 72,
+    "modulesSize": 1,
+    "name": "Potato Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010195,
+        "StorageAmount": 4
+      }
+    ],
+    "palaceBuff": 269255,
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "freeArea": 240,
+    "guid": 1010266,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wood_log.png",
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017
+      },
+      {
+        "Amount": 5,
+        "Product": 1010052,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Lumberjack's Hut",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 5000000,
+    "setBuff": 191141,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "guid": 1010267,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wool.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010052
+      }
+    ],
+    "module": 269957,
+    "modulesLimit": 3,
+    "modulesSize": 9,
+    "name": "Sheep Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010197,
+        "StorageAmount": 4
+      }
+    ],
+    "palaceBuff": 269564,
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010269,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pigs.png",
+    "maintenances": [
+      {
+        "Amount": 40,
+        "InactiveAmount": 20,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 1010052
+      }
+    ],
+    "module": 269957,
+    "modulesLimit": 5,
+    "modulesSize": 6,
+    "name": "Pig Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010199,
+        "StorageAmount": 4
+      }
+    ],
+    "palaceBuff": 269565,
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "freeArea": 352,
+    "guid": 1010558,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur.png",
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010052,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Hunting Cabin",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010209,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "setBuff": 191141,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25240,
+    "guid": 100654,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pepper.png",
+    "maintenances": [
+      {
+        "Amount": 100,
+        "InactiveAmount": 50,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010052
+      }
+    ],
+    "module": 269837,
+    "modulesLimit": 108,
+    "modulesSize": 1,
+    "name": "Red Pepper Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010198,
+        "StorageAmount": 1
+      }
+    ],
+    "palaceBuff": 269256,
+    "region": 5000000,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25240,
+    "guid": 100655,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_grapes.png",
+    "maintenances": [
+      {
+        "Amount": 200,
+        "InactiveAmount": 100,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010052
+      }
+    ],
+    "module": 269837,
+    "modulesLimit": 128,
+    "modulesSize": 1,
+    "name": "Vineyard",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120014,
+        "StorageAmount": 1
+      }
+    ],
+    "palaceBuff": 269257,
+    "region": 5000000,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": false,
+    "guid": 1010278,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fish.png",
+    "maintenances": [
+      {
+        "Amount": 40,
+        "InactiveAmount": 20,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 1010052
+      }
+    ],
+    "name": "Fishery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010200,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "guid": 1010310,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_niter.png",
+    "maintenances": [
+      {
+        "Amount": 500,
+        "InactiveAmount": 250,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 1010115
+      }
+    ],
+    "name": "Saltpeter Works",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010232,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000000,
+    "setBuff": 191141,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": true,
+    "guid": 1010560,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_quartz_sand.png",
+    "maintenances": [
+      {
+        "Amount": 120,
+        "InactiveAmount": 60,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 1010115
+      }
+    ],
+    "name": "Sand Mine",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010228,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "setBuff": 191141,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010280,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_reinforced_concrete.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010231,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 75,
+        "Product": 1010117
+      }
+    ],
+    "name": "Concrete Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010202,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "guid": 1010281,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_soap_2.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010234,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010115
+      }
+    ],
+    "name": "Soap Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010203,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010283,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bricks.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010201,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 1010115
+      }
+    ],
+    "name": "Brick Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010205,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 100451,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wooden_planks.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010052
+      }
+    ],
+    "name": "Sawmill",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010196,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 4
+  },
+  {
+    "canClip": true,
+    "guid": 1010325,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur_coats.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010209,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010240,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "InactiveAmount": 225,
+        "Product": 1010017
+      },
+      {
+        "Amount": 200,
+        "Product": 1010116
+      }
+    ],
+    "name": "Fur Dealer",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010247,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "guid": 1010286,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_light_bulb.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010241,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010243,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 1000,
+        "InactiveAmount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010117
+      }
+    ],
+    "name": "Light Bulb Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010208,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 1010285,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_glass_window_3.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      },
+      {
+        "Amount": 1,
+        "Product": 1010241,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 200,
+        "InactiveAmount": 100,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010116
+      }
+    ],
+    "name": "Window-Makers",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010207,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 1010288,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sail.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010197,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 75,
+        "InactiveAmount": 38,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010115
+      }
+    ],
+    "name": "Sailmakers",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010210,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 100416,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_clay.png",
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010115
+      }
+    ],
+    "name": "Clay Pit",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010201,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "setBuff": 191141,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010289,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_chassis.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      },
+      {
+        "Amount": 1,
+        "Product": 1010255,
+        "StorageAmount": 2
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 1200,
+        "InactiveAmount": 600,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010117
+      }
+    ],
+    "name": "Coachmakers",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010211,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": false,
+    "guid": 1010291,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bread.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010235,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 60,
+        "InactiveAmount": 30,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010115
+      }
+    ],
+    "name": "Bakery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010213,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 1010292,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_beer.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010194,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 1010236,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 200,
+        "InactiveAmount": 100,
+        "Product": 1010017
+      },
+      {
+        "Amount": 75,
+        "Product": 1010115
+      }
+    ],
+    "name": "Brewery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010214,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 1010293,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_goulash_01.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010193,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 1010198,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 100,
+        "InactiveAmount": 50,
+        "Product": 1010017
+      },
+      {
+        "Amount": 75,
+        "Product": 1010116
+      }
+    ],
+    "name": "Artisanal Kitchen",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010215,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": false,
+    "guid": 1010295,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_canned_goulash.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010227,
+        "StorageAmount": 8
+      },
+      {
+        "Amount": 1,
+        "Product": 1010215,
+        "StorageAmount": 2
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 100,
+        "InactiveAmount": 50,
+        "Product": 1010017
+      },
+      {
+        "Amount": 75,
+        "Product": 1010116
+      }
+    ],
+    "name": "Cannery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010217,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": false,
+    "guid": 1010294,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_schnapps_4.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010195,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 40,
+        "InactiveAmount": 20,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010052
+      }
+    ],
+    "name": "Schnapps Distillery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010216,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010316,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_meat_sausage.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010199,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 80,
+        "InactiveAmount": 40,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010115
+      }
+    ],
+    "name": "Butcher's",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010238,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 100659,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_champagne.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120014,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010241,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 1000,
+        "InactiveAmount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010116
+      }
+    ],
+    "name": "Champagne Cellar",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120016,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010296,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_beams.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 200,
+        "InactiveAmount": 100,
+        "Product": 1010017
+      },
+      {
+        "Amount": 200,
+        "Product": 1010115
+      }
+    ],
+    "name": "Steelworks",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010218,
+        "StorageAmount": 2
+      }
+    ],
+    "palaceBuff": 269399,
+    "region": 5000000,
+    "tpmin": 1.3333333333333335
+  },
+  {
+    "canClip": false,
+    "guid": 1010297,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_steel.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010227,
+        "StorageAmount": 8
+      },
+      {
+        "Amount": 1,
+        "Product": 1010226,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 100,
+        "InactiveAmount": 50,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010115
+      }
+    ],
+    "name": "Furnace",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 4
+      }
+    ],
+    "palaceBuff": 269275,
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "freeArea": 352,
+    "guid": 1010298,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_burn.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010115,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Charcoal Kiln",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010226,
+        "StorageAmount": 4
+      }
+    ],
+    "palaceBuff": 269276,
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010299,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_weapons.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 150,
+        "InactiveAmount": 75,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010115
+      }
+    ],
+    "name": "Weapon Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010221,
+        "StorageAmount": 1
+      }
+    ],
+    "palaceBuff": 269277,
+    "region": 5000000,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": false,
+    "guid": 1010301,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_advanced_weaponry.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010222,
+        "StorageAmount": 2
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 2200,
+        "InactiveAmount": 1100,
+        "Product": 1010017
+      },
+      {
+        "Amount": 250,
+        "Product": 1010117
+      }
+    ],
+    "name": "Heavy Weapons Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010223,
+        "StorageAmount": 1
+      }
+    ],
+    "palaceBuff": 269278,
+    "region": 5000000,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": false,
+    "guid": 1010302,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_steam_machine.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010204,
+        "StorageAmount": 2
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 1800,
+        "InactiveAmount": 900,
+        "Product": 1010017
+      },
+      {
+        "Amount": 250,
+        "Product": 1010117
+      }
+    ],
+    "name": "Motor Assembly Line",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010224,
+        "StorageAmount": 1
+      }
+    ],
+    "palaceBuff": 269279,
+    "region": 5000000,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": true,
+    "guid": 1010303,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_steam_carriage.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010211,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 1010224,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 3000,
+        "InactiveAmount": 1500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 500,
+        "Product": 1010117
+      }
+    ],
+    "name": "Cab Assembly Line",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010225,
+        "StorageAmount": 2
+      }
+    ],
+    "palaceBuff": 269280,
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 1010282,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_brass.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010229,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010230,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 250,
+        "InactiveAmount": 125,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 1010115
+      }
+    ],
+    "name": "Brass Smeltery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010204,
+        "StorageAmount": 2
+      }
+    ],
+    "palaceBuff": 269281,
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 101331,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_oil.png",
+    "maintenances": [
+      {
+        "Amount": 250,
+        "InactiveAmount": 125,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010115
+      }
+    ],
+    "name": "Oil Refinery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010566,
+        "StorageAmount": 200
+      }
+    ],
+    "palaceBuff": 269282,
+    "region": 5000000,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "guid": 1010304,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_2.png",
+    "inputs": [
+      {
+        "Product": 1591,
+        "StorageAmount": 12
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010115
+      }
+    ],
+    "name": "Coal Mine",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010226,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "guid": 1010305,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_iron.png",
+    "inputs": [
+      {
+        "Product": 1591,
+        "StorageAmount": 12
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010115
+      }
+    ],
+    "name": "Iron Mine",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010227,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "guid": 1010307,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tin_ore.png",
+    "inputs": [
+      {
+        "Product": 1591,
+        "StorageAmount": 12
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 250,
+        "InactiveAmount": 125,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 1010115
+      }
+    ],
+    "name": "Zinc Mine",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010229,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010308,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_copper.png",
+    "inputs": [
+      {
+        "Product": 1591,
+        "StorageAmount": 12
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 250,
+        "InactiveAmount": 125,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 1010115
+      }
+    ],
+    "name": "Copper Mine",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010230,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010309,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cement.png",
+    "inputs": [
+      {
+        "Product": 1591,
+        "StorageAmount": 12
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 250,
+        "InactiveAmount": 125,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 1010115
+      }
+    ],
+    "name": "Limestone Quarry",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010231,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "setBuff": 191141,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010312,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tallow.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010199,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 40,
+        "InactiveAmount": 20,
+        "Product": 1010017
+      },
+      {
+        "Amount": 40,
+        "Product": 1010115
+      }
+    ],
+    "name": "Rendering Works",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010234,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 1010313,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_flour.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010192,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010052
+      }
+    ],
+    "name": "Flour Mill",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010235,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010314,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_malt.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010192,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 150,
+        "InactiveAmount": 75,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 1010115
+      }
+    ],
+    "name": "Malthouse",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010236,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "guid": 1010315,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_working_cloth.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010197,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010052
+      }
+    ],
+    "name": "Framework Knitters",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010237,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010300,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dynamite.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010234,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010232,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 1000,
+        "InactiveAmount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 250,
+        "Product": 1010117
+      }
+    ],
+    "name": "Dynamite Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010222,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "guid": 1010319,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_glass.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010228,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 100,
+        "InactiveAmount": 50,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010116
+      }
+    ],
+    "name": "Glassmakers",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010241,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010320,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_inlay.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 750,
+        "InactiveAmount": 375,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010117
+      }
+    ],
+    "name": "Marquetry Workshop",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010242,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 1010321,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_carbon_filament.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010226,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 725,
+        "InactiveAmount": 367,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010117
+      }
+    ],
+    "name": "Filament Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010243,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "guid": 1010323,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_high_wheeler.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010255,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 1200,
+        "InactiveAmount": 600,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010117
+      }
+    ],
+    "name": "Bicycle Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010245,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010324,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pocket_watch.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010241,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010249,
+        "StorageAmount": 2
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 1400,
+        "InactiveAmount": 700,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010117
+      }
+    ],
+    "name": "Clockmakers",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010246,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": false,
+    "guid": 1010284,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sewing_machine.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      },
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "InactiveAmount": 250,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010116
+      }
+    ],
+    "name": "Sewing Machine Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010206,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010326,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_phonographs.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010242,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 1010204,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 1600,
+        "InactiveAmount": 800,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010117
+      }
+    ],
+    "name": "Gramophone Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010248,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": false,
+    "guid": 1010327,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gold.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010226,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010233,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 750,
+        "InactiveAmount": 375,
+        "Product": 1010017
+      },
+      {
+        "Amount": 125,
+        "Product": 1010117
+      }
+    ],
+    "name": "Goldsmiths",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010249,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 1010328,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_jewelry.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010256,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010249,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 2500,
+        "InactiveAmount": 1250,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010116
+      }
+    ],
+    "name": "Jewellers",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010250,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "guid": 101250,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_glasses.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010241,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010204,
+        "StorageAmount": 2
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 1000,
+        "InactiveAmount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010117
+      }
+    ],
+    "name": "Spectacle Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120030,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25241,
+    "guid": 1010329,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cane_sugar_1.png",
+    "maintenances": [
+      {
+        "Amount": 5,
+        "InactiveAmount": 3,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 128,
+    "modulesSize": 1,
+    "name": "Sugar Cane Plantation",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010251,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25241,
+    "guid": 1010330,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tobacco.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269848,
+    "modulesLimit": 192,
+    "modulesSize": 1,
+    "name": "Tobacco Plantation",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010252,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": true,
+    "fertilizerModule": 25241,
+    "guid": 1010331,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cotton.png",
+    "maintenances": [
+      {
+        "Amount": 5,
+        "InactiveAmount": 3,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269848,
+    "modulesLimit": 144,
+    "modulesSize": 1,
+    "name": "Cotton Plantation",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010253,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25241,
+    "guid": 1010332,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cocoa.png",
+    "maintenances": [
+      {
+        "Amount": 5,
+        "InactiveAmount": 3,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269848,
+    "modulesLimit": 128,
+    "modulesSize": 1,
+    "name": "Cocoa Plantation",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010254,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25241,
+    "guid": 1010333,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_caoutchouc.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269848,
+    "modulesLimit": 144,
+    "modulesSize": 1,
+    "name": "Caoutchouc Plantation",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010255,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "guid": 101260,
+    "inputs": [],
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366,
+        "ShutdownThreshold": 0.2,
+        "VectorElement": null
+      }
+    ],
+    "name": "agriculture_colony01_06 (Timber Yard)",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 191141,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25241,
+    "guid": 101251,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffee_beans.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269848,
+    "modulesLimit": 168,
+    "modulesSize": 1,
+    "name": "Coffee Plantation",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120031,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25241,
+    "guid": 101263,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_banana.png",
+    "maintenances": [
+      {
+        "Amount": 5,
+        "InactiveAmount": 3,
+        "Product": 1010017,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 0,
+              "TemplateName": "FactoryBuilding7"
+            }
+          }
+        }
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 1,
+              "TemplateName": "FactoryBuilding7"
+            }
+          }
+        }
+      }
+    ],
+    "module": 269848,
+    "modulesLimit": 128,
+    "modulesSize": 1,
+    "name": "Plantain Plantation",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120041,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 101269,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_meat_raw.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 20,
+        "Product": 1010366
+      }
+    ],
+    "module": 269958,
+    "modulesLimit": 6,
+    "modulesSize": 12,
+    "name": "Cattle Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010193,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 124209,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25241,
+    "guid": 101270,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_corn.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 168,
+    "modulesSize": 1,
+    "name": "Corn Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120034,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 101272,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_alpaca_wool.png",
+    "maintenances": [
+      {
+        "Amount": 5,
+        "InactiveAmount": 3,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269958,
+    "modulesLimit": 4,
+    "modulesSize": 9,
+    "name": "Alpaca Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120036,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 124209,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "guid": 1010339,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pearls.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010366
+      }
+    ],
+    "name": "Pearl Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010256,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": false,
+    "guid": 101262,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fishoil.png",
+    "maintenances": [
+      {
+        "Amount": 5,
+        "InactiveAmount": 3,
+        "Product": 1010017,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 0,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      },
+      {
+        "Amount": 15,
+        "Product": 1010366,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 1,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      }
+    ],
+    "name": "Fish Oil Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120042,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 101261,
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 20,
+        "Product": 1010366,
+        "VectorElement": null
+      }
+    ],
+    "name": "factory_colony01_01 (Timber Factory)",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010196,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 4
+  },
+  {
+    "canClip": true,
+    "guid": 101265,
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010240,
+        "StorageAmount": 6,
+        "VectorElement": null
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 15,
+        "InactiveAmount": 8,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 20,
+        "Product": 1010366,
+        "VectorElement": null
+      }
+    ],
+    "name": "factory_colony01_02 (Sailcloth Factory)",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010210,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "guid": 1010318,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cotton_fur.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010253,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "name": "Cotton Mill",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010240,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 101267,
+    "inputs": [],
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 100,
+        "Product": 1010367,
+        "VectorElement": null
+      }
+    ],
+    "name": "factory_colony01_04 (Clay Pit)",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010201,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 191141,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 101268,
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010201,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 50,
+        "Product": 1010367,
+        "VectorElement": null
+      }
+    ],
+    "name": "factory_colony01_05 (Brick Factory)",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010205,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "guid": 101415,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_felt.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120036,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "name": "Felt Producer",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120044,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "guid": 101273,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bowler_hat.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010240,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 120044,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 20,
+        "Product": 1010367
+      }
+    ],
+    "name": "Bombín Weaver",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120037,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010340,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_rum_barrel.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      },
+      {
+        "Amount": 1,
+        "Product": 1010251,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 1010366
+      }
+    ],
+    "name": "Rum Distillery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010257,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010341,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_chocolate.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010239,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010254,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010367
+      }
+    ],
+    "name": "Chocolate Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010258,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 101252,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffe_cup.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120031,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 150,
+        "InactiveAmount": 75,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010367
+      }
+    ],
+    "name": "Coffee Roaster",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120032,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 101264,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fried_bananas.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120042,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 120041,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 15,
+        "InactiveAmount": 8,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 1010366
+      }
+    ],
+    "name": "Fried Plantain Kitchen",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120033,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 101271,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_burrito.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010193,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 120034,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 100,
+        "InactiveAmount": 50,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010367
+      }
+    ],
+    "name": "Tortilla Maker",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120035,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 1010561,
+    "inputs": [],
+    "maintenances": [
+      {
+        "Amount": 250,
+        "InactiveAmount": 125,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 75,
+        "Product": 1010367,
+        "VectorElement": null
+      }
+    ],
+    "name": "heavy_colony01_01 (Oil Heavy Industry)",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010566,
+        "StorageAmount": 200
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "guid": 101311,
+    "inputs": [
+      {
+        "Product": 1591,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 250,
+        "InactiveAmount": 125,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 100,
+        "Product": 1010367,
+        "VectorElement": null
+      }
+    ],
+    "name": "mining_colony01_01 (Gold Ore Mine)",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010233,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 0.4
+  },
+  {
+    "canClip": true,
+    "guid": 1010317,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_salt.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010251,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 1010367
+      }
+    ],
+    "name": "Sugar Refinery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010239,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 101266,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_poncho.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120036,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 15,
+        "InactiveAmount": 8,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 1010366
+      }
+    ],
+    "name": "Poncho Darner",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120043,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 101296,
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 100,
+        "InactiveAmount": 50,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 100,
+        "Product": 1010367,
+        "VectorElement": null
+      }
+    ],
+    "name": "processing_colony01_03 (Inlay Processing)",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010242,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 1010342,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cigars.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010242,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010252,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 250,
+        "InactiveAmount": 125,
+        "Product": 1010017
+      },
+      {
+        "Amount": 175,
+        "Product": 1010367
+      }
+    ],
+    "name": "Cigar Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010259,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc3"
+    ],
+    "freeArea": 240,
+    "guid": 114703,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wood_log.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Lumberjack's Hut",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 160001,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "freeArea": 352,
+    "guid": 112667,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_reindeer_meat.png",
+    "inputs": [
+      {
+        "Product": 1955,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 40,
+        "InactiveAmount": 20,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Caribou Hunter",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112694,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 160001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112676,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_goose_feathers.png",
+    "maintenances": [
+      {
+        "Amount": 70,
+        "InactiveAmount": 35,
+        "Product": 1010017
+      },
+      {
+        "Amount": 35,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "modulesLimit": 5,
+    "modulesSize": 6,
+    "name": "Goose Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112697,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 160001,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "freeArea": 504,
+    "guid": 112673,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bear_fur.png",
+    "inputs": [
+      {
+        "Product": 1955,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 90,
+        "InactiveAmount": 45,
+        "Product": 1010017
+      },
+      {
+        "Amount": 40,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Bear Hunter",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112695,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 160001,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112682,
+    "iconPath": "data/ui/2kimages/main/3dicons/animals/icon_husky.png",
+    "maintenances": [
+      {
+        "Amount": 150,
+        "InactiveAmount": 75,
+        "Product": 1010017
+      },
+      {
+        "Amount": 80,
+        "Product": 112654,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "modulesLimit": 4,
+    "modulesSize": 12,
+    "name": "Husky Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112698,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 160001,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "freeArea": 352,
+    "guid": 116034,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur.png",
+    "inputs": [
+      {
+        "Product": 1955,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 40,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Prime Hunting Cabin",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010209,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 160001,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "freeArea": 352,
+    "guid": 114705,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_burn.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Charcoal Kiln",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010226,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 160001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112666,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_whale_oil_2.png",
+    "maintenances": [
+      {
+        "Amount": 75,
+        "InactiveAmount": 38,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Whale Hunter",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112699,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 160001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112674,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_seal_skin.png",
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 20,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Seal Hunter",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112696,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 160001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 114704,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wooden_planks.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Sawmill",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010196,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 160001,
+    "tpmin": 4
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112675,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sleeping_bags.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 112696,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 112697,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 120,
+        "InactiveAmount": 60,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Sleeping Bag Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112701,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 160001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112679,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_oil_lamps.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 112699,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010204,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 200,
+        "InactiveAmount": 100,
+        "Product": 1010017
+      },
+      {
+        "Amount": 70,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Oil Lamp Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112702,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 160001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112672,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur_parka.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 112695,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 112696,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 350,
+        "InactiveAmount": 175,
+        "Product": 1010017
+      },
+      {
+        "Amount": 80,
+        "Product": 112654,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Parka Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112700,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 160001,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112681,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sled_frame.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 112696,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 450,
+        "InactiveAmount": 225,
+        "Product": 1010017
+      },
+      {
+        "Amount": 80,
+        "Product": 112654,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Sled Frame Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112704,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 160001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112680,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sled.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 112698,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 112704,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 650,
+        "InactiveAmount": 325,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 112654,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Husky Sled Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112703,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 160001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112668,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pemmican.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 112699,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 112694,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 60,
+        "InactiveAmount": 30,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 112653,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Pemmican Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112705,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 160001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112690,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gas_red.png",
+    "maintenances": [
+      {
+        "Amount": 1000,
+        "InactiveAmount": 500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 250,
+        "Product": 112654,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Arctic Gas Mine",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 112706,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 160001,
+    "tpmin": 0.22222222222222224
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 116029,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gold_ore.png",
+    "inputs": [
+      {
+        "Product": 1591,
+        "StorageAmount": 7
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 112654,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Deep Gold Mine",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010233,
+        "StorageAmount": 3
+      }
+    ],
+    "region": 160001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "guid": 118571,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gasoline.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010566,
+        "StorageAmount": 50
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 350,
+        "InactiveAmount": 175,
+        "Product": 1010017
+      },
+      {
+        "Amount": 75,
+        "Product": 1010115,
+        "ShutdownThreshold": 0.5
+      }
+    ],
+    "name": "Fuel Station",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 270042,
+        "StorageAmount": 20
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "guid": 269840,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gasoline.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010566,
+        "StorageAmount": 50
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 350,
+        "InactiveAmount": 175,
+        "Product": 1010017
+      },
+      {
+        "Amount": 75,
+        "Product": 1010367,
+        "ShutdownThreshold": 0.5
+      }
+    ],
+    "name": "Fuel Station",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 270042,
+        "StorageAmount": 20
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 119028,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gasoline.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010566,
+        "StorageAmount": 50
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 350,
+        "InactiveAmount": 175,
+        "Product": 1010017
+      },
+      {
+        "Amount": 75,
+        "Product": 114341,
+        "ShutdownThreshold": 0.5
+      }
+    ],
+    "name": "Fuel Station",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 270042,
+        "StorageAmount": 20
+      }
+    ],
+    "region": 114327,
+    "tpmin": 4
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc8",
+      "dlc12"
+    ],
+    "freeArea": 240,
+    "guid": 133004,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coconut.png",
+    "inputs": [
+      {
+        "Product": 1955,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 35,
+        "Product": 1010366,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Orchard: Coconut Oil",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 133095,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 191141,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc8",
+      "dlc9"
+    ],
+    "freeArea": 240,
+    "guid": 133030,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cinamon.png",
+    "inputs": [
+      {
+        "Product": 1955,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 35,
+        "Product": 1010366,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Orchard: Cinnamon",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 133093,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 191141,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc8",
+      "dlc9",
+      "dlc12"
+    ],
+    "freeArea": 240,
+    "guid": 133031,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_citrus.png",
+    "inputs": [
+      {
+        "Product": 1955,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 35,
+        "Product": 1010366,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Orchard: Citrus",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 191141,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc8",
+      "dlc9",
+      "dlc12"
+    ],
+    "freeArea": 240,
+    "guid": 134614,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cellulose.png",
+    "inputs": [
+      {
+        "Product": 1955,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 35,
+        "Product": 1010366,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Orchard: Camphor Wax",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 134616,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 191141,
+    "tpmin": 2
+  },
+  {
+    "dlcs": [
+      "dlc11"
+    ],
+    "guid": 924,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_bomb_b.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010232,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010222,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 550,
+        "Product": 1010115
+      }
+    ],
+    "name": "Bomb Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 846,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc11"
+    ],
+    "guid": 934,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_seamines.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010230,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010222,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 550,
+        "Product": 1010115
+      }
+    ],
+    "name": "Sea Mine Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 847,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc11"
+    ],
+    "guid": 935,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_pamphlets.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010253,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 550,
+        "Product": 1010115
+      }
+    ],
+    "name": "Pamphlet Printer",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 848,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc11"
+    ],
+    "guid": 936,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_care_packages.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010217,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010258,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010216,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 550,
+        "Product": 1010115
+      }
+    ],
+    "name": "Care Package Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 849,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc11",
+      "dlc12"
+    ],
+    "freeArea": 352,
+    "guid": 1345,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_burn.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 15,
+        "Product": 1010366,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Charcoal Kiln",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010226,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc11"
+    ],
+    "freeArea": 366,
+    "guid": 1418,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_industrial_lubricant_a.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120042,
+        "StorageAmount": 9
+      },
+      {
+        "Amount": 1,
+        "Product": 1010232,
+        "StorageAmount": 9
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 250,
+        "InactiveAmount": 125,
+        "Product": 1010017
+      },
+      {
+        "Amount": 65,
+        "Product": 1010366,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Industrial Oil Press",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1414,
+        "StorageAmount": 9
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc11",
+      "dlc12"
+    ],
+    "guid": 835,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_aluminium.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 836,
+        "StorageAmount": 2,
+        "VectorElement": null
+      },
+      {
+        "Amount": 1,
+        "Product": 1010226,
+        "StorageAmount": 2
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 540,
+        "InactiveAmount": 270,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 40,
+        "Product": 1010367,
+        "VectorElement": null
+      }
+    ],
+    "name": "Aluminium Smelter",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 838,
+        "StorageAmount": 4,
+        "VectorElement": null
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc11"
+    ],
+    "guid": 906,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_bomb_b.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010232,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010222,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 300,
+        "Product": 1010366
+      }
+    ],
+    "name": "Bomb Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 846,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc11"
+    ],
+    "guid": 907,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_seamines.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010230,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010222,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 300,
+        "Product": 1010366
+      }
+    ],
+    "name": "Sea Mine Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 847,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc11"
+    ],
+    "guid": 908,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_pamphlets.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010253,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 300,
+        "Product": 1010366
+      }
+    ],
+    "name": "Pamphlet Printer",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 848,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc11"
+    ],
+    "guid": 916,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_care_packages.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010217,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010258,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010216,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 300,
+        "Product": 1010366
+      }
+    ],
+    "name": "Care Package Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 849,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc11"
+    ],
+    "guid": 915,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_water.png",
+    "inputs": [
+      {
+        "Product": 917,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 300,
+        "Product": 1010366
+      }
+    ],
+    "name": "Water Drop Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 850,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc11",
+      "dlc12"
+    ],
+    "guid": 1308,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bauxit.png",
+    "inputs": [],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 220,
+        "Product": 1010366,
+        "VectorElement": null
+      }
+    ],
+    "name": "Bauxite Mine",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 836,
+        "StorageAmount": 12,
+        "VectorElement": null
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 191141,
+    "tpmin": 6
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc11"
+    ],
+    "guid": 1353,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_helium.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1414,
+        "StorageAmount": 8
+      },
+      {
+        "Amount": 1,
+        "Product": 1010201,
+        "StorageAmount": 8
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "InactiveAmount": 250,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 120,
+        "Product": 1010367,
+        "VectorElement": null
+      }
+    ],
+    "name": "Helium Extractor",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 840,
+        "StorageAmount": 8,
+        "VectorElement": null
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 4
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc6"
+    ],
+    "freeArea": 240,
+    "guid": 122963,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_wansa_wood.png",
+    "maintenances": [
+      {
+        "Amount": 15,
+        "InactiveAmount": 8,
+        "Product": 1010017
+      },
+      {
+        "Amount": 15,
+        "Product": 114340,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Wanza Woodcutter",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114356,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 114327,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "fertilizerModule": 25242,
+    "guid": 114448,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_linen_farm.png",
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017
+      },
+      {
+        "Amount": 5,
+        "Product": 114340
+      }
+    ],
+    "module": 119026,
+    "modulesLimit": 96,
+    "modulesSize": 1,
+    "name": "Linseed Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114365,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "fertilizerModule": 25242,
+    "guid": 114447,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_hibiscus_farm.png",
+    "maintenances": [
+      {
+        "Amount": 15,
+        "InactiveAmount": 8,
+        "Product": 1010017
+      },
+      {
+        "Amount": 15,
+        "Product": 114340
+      }
+    ],
+    "module": 119026,
+    "modulesLimit": 144,
+    "modulesSize": 1,
+    "name": "Hibiscus Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114364,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "fertilizerModule": 25242,
+    "guid": 114450,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_teff_grass.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 20,
+        "Product": 114340
+      }
+    ],
+    "module": 119026,
+    "modulesLimit": 168,
+    "modulesSize": 1,
+    "name": "Teff Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114367,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc6"
+    ],
+    "fertilizerModule": 25242,
+    "guid": 114451,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_indigo.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 20,
+        "Product": 114340
+      }
+    ],
+    "module": 119026,
+    "modulesLimit": 144,
+    "modulesSize": 1,
+    "name": "Indigo Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114368,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc6"
+    ],
+    "fertilizerModule": 25242,
+    "guid": 114452,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_spices.png",
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 15,
+        "Product": 114340
+      }
+    ],
+    "module": 119026,
+    "modulesLimit": 128,
+    "modulesSize": 1,
+    "name": "Spice Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114369,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114453,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_beeswax.png",
+    "maintenances": [
+      {
+        "Amount": 70,
+        "InactiveAmount": 35,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 114340
+      }
+    ],
+    "module": 119026,
+    "modulesLimit": 192,
+    "modulesSize": 1,
+    "name": "Apiary",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114370,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 114327,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114439,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_watusi.png",
+    "maintenances": [
+      {
+        "Amount": 10,
+        "InactiveAmount": 5,
+        "Product": 1010017
+      },
+      {
+        "Amount": 20,
+        "Product": 114340
+      }
+    ],
+    "module": 119025,
+    "modulesLimit": 5,
+    "modulesSize": 16,
+    "name": "Sanga Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114357,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114456,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_goat_milk.png",
+    "maintenances": [
+      {
+        "Amount": 5,
+        "InactiveAmount": 3,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 114340
+      }
+    ],
+    "module": 119025,
+    "modulesLimit": 4,
+    "modulesSize": 12,
+    "name": "Goat Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114371,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114440,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_salt.png",
+    "maintenances": [
+      {
+        "Amount": 15,
+        "InactiveAmount": 8,
+        "Product": 1010017,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 0,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      },
+      {
+        "Amount": 15,
+        "Product": 114340,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 1,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      }
+    ],
+    "name": "Salt Works",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114358,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 114327,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 118729,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_seafood.png",
+    "maintenances": [
+      {
+        "Amount": 40,
+        "InactiveAmount": 20,
+        "Product": 1010017,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 0,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      },
+      {
+        "Amount": 35,
+        "Product": 114340,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 1,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      }
+    ],
+    "name": "Lobster Fishery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 118728,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 117743,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_clay.png",
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 0,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      },
+      {
+        "Amount": 35,
+        "Product": 114340,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 1,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      }
+    ],
+    "name": "Clay Collector",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010201,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 114327,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 117744,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_paper.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 55,
+        "InactiveAmount": 28,
+        "Product": 1010017,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 0,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      },
+      {
+        "Amount": 85,
+        "Product": 114341,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 1,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      }
+    ],
+    "name": "Paper Mill",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 117702,
+        "StorageAmount": 8
+      }
+    ],
+    "region": 114327,
+    "tpmin": 4
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114441,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_linen_fabric.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114365,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 114340
+      }
+    ],
+    "name": "Linen Mill",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114391,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 114327,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114459,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_teff_flour.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114367,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 114369,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 75,
+        "InactiveAmount": 38,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 114341
+      }
+    ],
+    "name": "Teff Mill",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114408,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 114327,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114461,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_candles.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114370,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010253,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 120,
+        "InactiveAmount": 60,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 114341
+      }
+    ],
+    "name": "Chandler",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 117701,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 114327,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114444,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_dried_meat.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114357,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 114358,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 25,
+        "InactiveAmount": 13,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 114340
+      }
+    ],
+    "name": "Dry-House",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114359,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 114327,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114466,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_traditional_clothing.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114391,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 20,
+        "InactiveAmount": 10,
+        "Product": 1010017
+      },
+      {
+        "Amount": 40,
+        "Product": 114340
+      }
+    ],
+    "name": "Embroiderer",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114401,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114468,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_hibiscus_tea.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114364,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 60,
+        "InactiveAmount": 30,
+        "Product": 1010017
+      },
+      {
+        "Amount": 35,
+        "Product": 114340
+      }
+    ],
+    "name": "Tea Spicer",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114390,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 114327,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 118725,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_ceramics.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010201,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 114368,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 100,
+        "InactiveAmount": 50,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 114341
+      }
+    ],
+    "name": "Ceramics Workshop",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 118724,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 114327,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114469,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_tapestries.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114391,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 114368,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 190,
+        "InactiveAmount": 95,
+        "Product": 1010017
+      },
+      {
+        "Amount": 90,
+        "Product": 114341
+      }
+    ],
+    "name": "Tapestry Looms",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114404,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 114327,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114467,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_mud_bricks.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010201,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 114367,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 40,
+        "InactiveAmount": 20,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 114341
+      }
+    ],
+    "name": "Brick Dry-House",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114402,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114471,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_wat_stew.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 118728,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 114408,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 150,
+        "InactiveAmount": 75,
+        "Product": 1010017
+      },
+      {
+        "Amount": 70,
+        "Product": 114341
+      }
+    ],
+    "name": "Wat Kitchen",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114410,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114472,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_tobacco_pipes.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010201,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 1010252,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 180,
+        "InactiveAmount": 90,
+        "Product": 1010017
+      },
+      {
+        "Amount": 75,
+        "Product": 114341
+      }
+    ],
+    "name": "Pipe Maker",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114414,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 114327,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114470,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_scriptures.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114368,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 117702,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 250,
+        "InactiveAmount": 125,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 114341
+      }
+    ],
+    "name": "Luminer",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 117698,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114464,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_lanterns.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 117701,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010241,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 300,
+        "InactiveAmount": 150,
+        "Product": 1010017
+      },
+      {
+        "Amount": 75,
+        "Product": 114341
+      }
+    ],
+    "name": "Lanternsmith",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 117699,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 114327,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 118733,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_leather_shoes.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114357,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 350,
+        "InactiveAmount": 175,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010116
+      }
+    ],
+    "name": "Bootmakers",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114428,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 118734,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_suits.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 114391,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 1010240,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 450,
+        "InactiveAmount": 225,
+        "Product": 1010017
+      },
+      {
+        "Amount": 200,
+        "Product": 1010116
+      }
+    ],
+    "name": "Tailor's Shop",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114430,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 118735,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_telephones.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010243,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 1010242,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 1200,
+        "InactiveAmount": 600,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010117
+      }
+    ],
+    "name": "Telephone Manufacturer",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 114431,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 0.6666666666666667
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 124738,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffe_cup.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010236,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 3500,
+        "InactiveAmount": 1750,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010117
+      }
+    ],
+    "name": "Advanced Coffee Roaster",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 120032,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 124737,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_rum_barrel.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010226,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010195,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 3000,
+        "InactiveAmount": 1500,
+        "Product": 1010017
+      },
+      {
+        "Amount": 130,
+        "Product": 1010117
+      }
+    ],
+    "name": "Advanced Rum Distillery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010257,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 124739,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cotton_fur.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010197,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 3300,
+        "InactiveAmount": 1650,
+        "Product": 1010017
+      },
+      {
+        "Amount": 140,
+        "Product": 1010117
+      }
+    ],
+    "name": "Advanced Cotton Mill",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010240,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc8"
+    ],
+    "guid": 132777,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_lemonade.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010232,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010239,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 800,
+        "InactiveAmount": 400,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010117
+      }
+    ],
+    "name": "Chemical Plant: Lemonade",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 133185,
+        "StorageAmount": 10
+      }
+    ],
+    "palaceBuff": 280091,
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc8"
+    ],
+    "guid": 132786,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_shampoo.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010203,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 133095,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 133093,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 800,
+        "InactiveAmount": 400,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010117
+      }
+    ],
+    "name": "Chemical Plant: Shampoo",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 133181,
+        "StorageAmount": 10
+      }
+    ],
+    "palaceBuff": 280090,
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc8"
+    ],
+    "guid": 133533,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_souvenir.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010241,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010253,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 134616,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 800,
+        "InactiveAmount": 400,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010117
+      }
+    ],
+    "name": "Chemical Plant: Souvenirs",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 133532,
+        "StorageAmount": 10
+      }
+    ],
+    "palaceBuff": 280092,
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc8",
+      "dlc10"
+    ],
+    "freeArea": 240,
+    "guid": 133496,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_jam.png",
+    "inputs": [
+      {
+        "Product": 1955,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 35,
+        "Product": 1010052,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Orchard: Jam",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 133183,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000000,
+    "setBuff": 191141,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc9"
+    ],
+    "freeArea": 240,
+    "guid": 135088,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cherry_wood.png",
+    "inputs": [
+      {
+        "Product": 1955,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 35,
+        "Product": 1010052,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Orchard: Cherry Wood",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135087,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000000,
+    "setBuff": 191141,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc9"
+    ],
+    "freeArea": 240,
+    "guid": 135085,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wood_resin.png",
+    "inputs": [
+      {
+        "Product": 1955,
+        "StorageAmount": 10
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 50,
+        "InactiveAmount": 25,
+        "Product": 1010017
+      },
+      {
+        "Amount": 35,
+        "Product": 1010052,
+        "ShutdownThreshold": 0.2
+      }
+    ],
+    "name": "Orchard: Resin",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135086,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000000,
+    "setBuff": 191141,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc9"
+    ],
+    "guid": 134622,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_elevator.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010242,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010224,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 500,
+        "Product": 1010115
+      }
+    ],
+    "name": "Assembly Line: Elevators",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 134623,
+        "StorageAmount": 3
+      }
+    ],
+    "palaceBuff": 280087,
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc9"
+    ],
+    "guid": 135361,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_cookie.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010234,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010235,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 500,
+        "Product": 1010115
+      }
+    ],
+    "name": "Assembly Line: Biscuits",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135229,
+        "StorageAmount": 3
+      }
+    ],
+    "palaceBuff": 280088,
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc9"
+    ],
+    "guid": 135148,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_typewriter.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010204,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 135129,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 500,
+        "Product": 1010115
+      }
+    ],
+    "name": "Assembly Line: Typewriters",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135230,
+        "StorageAmount": 3
+      }
+    ],
+    "palaceBuff": 280089,
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc9"
+    ],
+    "guid": 135133,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_lacquer.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010228,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 135086,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 135130,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 800,
+        "InactiveAmount": 400,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010117
+      }
+    ],
+    "name": "Chemical Plant: Lacquer",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135129,
+        "StorageAmount": 10
+      }
+    ],
+    "palaceBuff": 280093,
+    "region": 5000000,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc9"
+    ],
+    "guid": 135418,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_cognac.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120014,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 135087,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010239,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 350,
+        "Product": 1010116
+      }
+    ],
+    "name": "Artisan's Workshop: Cognac",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135234,
+        "StorageAmount": 3
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc9"
+    ],
+    "guid": 135397,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_violin.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 135087,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 135129,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 350,
+        "Product": 1010116
+      }
+    ],
+    "name": "Artisan's Workshop: Violins",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135233,
+        "StorageAmount": 3
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc9"
+    ],
+    "guid": 135407,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_billard.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 135087,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 120044,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 135150,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 350,
+        "Product": 1010116
+      }
+    ],
+    "name": "Artisan's Workshop: Billiard Tables",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135232,
+        "StorageAmount": 3
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc9"
+    ],
+    "guid": 135669,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toys.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120044,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 135150,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 135129,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 350,
+        "Product": 1010116
+      }
+    ],
+    "name": "Artisan's Workshop: Toys",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135231,
+        "StorageAmount": 3
+      }
+    ],
+    "region": 5000000,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc9"
+    ],
+    "guid": 135185,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_bubble_gum.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010255,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010239,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 133093,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 800,
+        "InactiveAmount": 400,
+        "Product": 1010017
+      },
+      {
+        "Amount": 125,
+        "Product": 1010367
+      }
+    ],
+    "name": "Chemical Plant: Chewing Gum",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135186,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc9",
+      "dlc12"
+    ],
+    "guid": 135134,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_ethanol.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 120034,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 800,
+        "InactiveAmount": 400,
+        "Product": 1010017
+      },
+      {
+        "Amount": 125,
+        "Product": 1010367
+      }
+    ],
+    "name": "Chemical Plant: Ethanol",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135130,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc9",
+      "dlc12"
+    ],
+    "guid": 135224,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_celluloid.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010253,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 134616,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 135130,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 800,
+        "InactiveAmount": 400,
+        "Product": 1010017
+      },
+      {
+        "Amount": 125,
+        "Product": 1010367
+      }
+    ],
+    "name": "Chemical Plant: Celluloid",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 135150,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 5457,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_nandu_leather.png",
+    "maintenances": [
+      {
+        "Amount": 5,
+        "InactiveAmount": 3,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269958,
+    "modulesLimit": 4,
+    "modulesSize": 16,
+    "name": "Nandu Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5384,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 124209,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "fertilizerModule": 25241,
+    "guid": 5463,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_herbs_with_flower.png",
+    "maintenances": [
+      {
+        "Amount": 5,
+        "InactiveAmount": 3,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 128,
+    "modulesSize": 1,
+    "name": "Herb Garden",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5383,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "fertilizerModule": 25241,
+    "guid": 5814,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_orchid.png",
+    "maintenances": [
+      {
+        "Amount": 5,
+        "InactiveAmount": 3,
+        "Product": 1010017
+      },
+      {
+        "Amount": 10,
+        "Product": 1010366
+      }
+    ],
+    "module": 269849,
+    "modulesLimit": 128,
+    "modulesSize": 1,
+    "name": "Orchid Farm",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5386,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "guid": 7919,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_squid.png",
+    "maintenances": [
+      {
+        "Amount": 150,
+        "InactiveAmount": 75,
+        "Product": 1010017,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 0,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      },
+      {
+        "Amount": 25,
+        "Product": 1010366,
+        "VectorElement": {
+          "InheritanceMapV2": {
+            "Entry": {
+              "Index": 1,
+              "TemplateName": "FarmBuilding"
+            }
+          }
+        }
+      }
+    ],
+    "name": "Calamari Fishery",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5380,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 6080,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_steel.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010227,
+        "StorageAmount": 8
+      },
+      {
+        "Amount": 1,
+        "Product": 1010226,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 100,
+        "InactiveAmount": 50,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 1010367
+      }
+    ],
+    "name": "Furnace",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 6083,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sewing_machine.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 8
+      },
+      {
+        "Amount": 1,
+        "Product": 838,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "InactiveAmount": 250,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 5406
+      }
+    ],
+    "name": "Sewing Machine Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010206,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 6279,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_electric_cable_3.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010230,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 1010255,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 725,
+        "InactiveAmount": 367,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010367
+      }
+    ],
+    "name": "Cable Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 6280,
+        "StorageAmount": 2
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 5458,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_jalea.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 5380,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 5383,
+        "StorageAmount": 4
+      },
+      {
+        "Amount": 1,
+        "Product": 120034,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 150,
+        "InactiveAmount": 75,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 5406
+      }
+    ],
+    "name": "Jalea Kitchen",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5381,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 5459,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_icecream_cone.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 5385,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010258,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 200,
+        "InactiveAmount": 100,
+        "Product": 1010017
+      },
+      {
+        "Amount": 100,
+        "Product": 5406
+      }
+    ],
+    "name": "Ice Cream Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5382,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 6594,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_mezcal.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 133097,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010239,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 5383,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 150,
+        "InactiveAmount": 75,
+        "Product": 1010017
+      },
+      {
+        "Amount": 25,
+        "Product": 5406
+      }
+    ],
+    "name": "Mezcal Bar",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 6600,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 5658,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_scooter.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 5390,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 5400,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010255,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 2000,
+        "InactiveAmount": 1000,
+        "Product": 1010017
+      },
+      {
+        "Amount": 200,
+        "Product": 5406
+      }
+    ],
+    "name": "Scooter Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5391,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 0.5
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 5659,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_motor.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 6280,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 135150,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 400,
+        "InactiveAmount": 200,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 1010367
+      }
+    ],
+    "name": "Motor Assembly Plant",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5390,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 5862,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_ventilator.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 5390,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 838,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "InactiveAmount": 250,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 5406
+      }
+    ],
+    "name": "Fan Factory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5395,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 1388,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_iron.png",
+    "inputs": [],
+    "maintenances": [
+      {
+        "Amount": 300,
+        "InactiveAmount": 150,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 180,
+        "Product": 1010366,
+        "VectorElement": null
+      }
+    ],
+    "name": "Mineral Mine",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010227,
+        "StorageAmount": 8,
+        "VectorElement": null
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 1390,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_minerals.png",
+    "inputs": [],
+    "maintenances": [
+      {
+        "Amount": 500,
+        "InactiveAmount": 250,
+        "Product": 1010017,
+        "VectorElement": null
+      },
+      {
+        "Amount": 120,
+        "Product": 1010367,
+        "VectorElement": null
+      }
+    ],
+    "name": "Mineral Mine",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5398,
+        "StorageAmount": 6,
+        "VectorElement": null
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 4
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 5657,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_perfume.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 5386,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 135130,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 133095,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 200,
+        "InactiveAmount": 100,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 5406
+      }
+    ],
+    "name": "Perfume Mixer",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5388,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 5879,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_ballsports.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 5384,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010255,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 15,
+        "InactiveAmount": 8,
+        "Product": 1010017
+      },
+      {
+        "Amount": 30,
+        "Product": 1010366
+      }
+    ],
+    "name": "Ball Manufactory",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5803,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 5933,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_costumes.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010240,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 5400,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 5401,
+        "StorageAmount": 4
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 250,
+        "InactiveAmount": 125,
+        "Product": 1010017
+      },
+      {
+        "Amount": 50,
+        "Product": 5406
+      }
+    ],
+    "name": "Costume Shop",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5389,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 5828,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_film_role.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010232,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 135150,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 800,
+        "InactiveAmount": 400,
+        "Product": 1010017
+      },
+      {
+        "Amount": 125,
+        "Product": 1010367
+      }
+    ],
+    "name": "Chemical Plant: Film Reels",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5392,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 2
+  },
+  {
+    "canClip": true,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 6630,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_police_equipment.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 120008,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 5
+      },
+      {
+        "Amount": 1,
+        "Product": 1010240,
+        "StorageAmount": 5
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 300,
+        "Product": 1010366
+      }
+    ],
+    "name": "Arsenal: Police Equipment",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5394,
+        "StorageAmount": 10
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 6629,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_extinguisher.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 1010219,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 1010255,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 300,
+        "Product": 1010367
+      }
+    ],
+    "name": "Laboratory: Fire Extinguisher",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5393,
+        "StorageAmount": 3
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1.3333333333333335
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 6631,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_medicine.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 5383,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 5386,
+        "StorageAmount": 3
+      },
+      {
+        "Amount": 1,
+        "Product": 135130,
+        "StorageAmount": 3
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 600,
+        "InactiveAmount": 300,
+        "Product": 1010017
+      },
+      {
+        "Amount": 300,
+        "Product": 5406
+      }
+    ],
+    "name": "Laboratory: Medicine",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5397,
+        "StorageAmount": 3
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1.3333333333333335
+  },
+  {
+    "canClip": false,
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 5462,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_pigments.png",
+    "inputs": [
+      {
+        "Amount": 1,
+        "Product": 5398,
+        "StorageAmount": 6
+      },
+      {
+        "Amount": 1,
+        "Product": 1010232,
+        "StorageAmount": 6
+      }
+    ],
+    "maintenances": [
+      {
+        "Amount": 150,
+        "InactiveAmount": 75,
+        "Product": 1010017
+      },
+      {
+        "Amount": 150,
+        "Product": 5406
+      }
+    ],
+    "name": "Laboratory: Pigments",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5400,
+        "StorageAmount": 4
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 1.3333333333333335
+  },
+  {
+    "guid": 8027,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_niter.png",
+    "maintenances": [],
+    "name": "Powered Pasture",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 1010232,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 124209,
+    "tpmin": 0.25
+  },
+  {
+    "guid": 8002,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sheep_milk.png",
+    "maintenances": [],
+    "name": "Powered Pasture",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5385,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 124209,
+    "tpmin": 1
+  },
+  {
+    "canClip": true,
+    "guid": 8026,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_nandu_feathers.png",
+    "maintenances": [],
+    "name": "Powered Pasture",
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 5401,
+        "StorageAmount": 1
+      }
+    ],
+    "region": 5000001,
+    "setBuff": 124209,
+    "tpmin": 0.5
+  },
+  {
+    "dlcs": [
+      "dlc10"
+    ],
+    "guid": 190872,
+    "icon": "data/ui/2kimages/main/3dicons/icon_dung.png",
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dung.png",
+    "maintenances": [],
+    "outputs": [
+      {
+        "Amount": 1,
+        "Product": 24807
+      }
+    ],
+    "region": 5000001,
+    "tpmin": 0.6666666666666666
+  }
+]

@@ -1,0 +1,309 @@
+[
+  {
+    "goodsProduction": [
+      {
+        "Good": 1010196,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010218,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010205,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010206,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010246,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010248,
+        "ProductionPerMinute": 7
+      }
+    ],
+    "guid": 45,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_02.png",
+    "name": "Sir Archibald Blake",
+    "regions": [
+      5000000
+    ]
+  },
+  {
+    "goodsProduction": [
+      {
+        "Good": 1010210,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010221,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 1010249,
+        "ProductionPerMinute": 6
+      },
+      {
+        "Good": 1010223,
+        "ProductionPerMinute": 3
+      }
+    ],
+    "guid": 73,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_03.png",
+    "name": "Anne Harlow",
+    "regions": [
+      5000000
+    ]
+  },
+  {
+    "goodsProduction": [
+      {
+        "Good": 1010210,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010221,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 1010249,
+        "ProductionPerMinute": 6
+      },
+      {
+        "Good": 1010223,
+        "ProductionPerMinute": 3
+      }
+    ],
+    "guid": 76,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_04.png",
+    "name": "Jean La Fortune",
+    "regions": [
+      5000001
+    ]
+  },
+  {
+    "goodsProduction": [
+      {
+        "Good": 1010251,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010254,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010239,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010240,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010252,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010256,
+        "ProductionPerMinute": 7
+      }
+    ],
+    "guid": 29,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_05.png",
+    "name": "Isabel Sarmento",
+    "regions": [
+      5000001
+    ]
+  },
+  {
+    "goodsProduction": [
+      {
+        "Good": 112518,
+        "ProductionPerMinute": 1
+      },
+      {
+        "Good": 112520,
+        "ProductionPerMinute": 1
+      },
+      {
+        "Good": 112523,
+        "ProductionPerMinute": 1
+      },
+      {
+        "Good": 1010219,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 1010255,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 1010196,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 1010227,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 1010211,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 1010224,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 1010243,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 1010232,
+        "ProductionPerMinute": 5
+      }
+    ],
+    "guid": 77,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_06.png",
+    "name": "Old Nate",
+    "regions": [
+      5000000,
+      160001
+    ]
+  },
+  {
+    "goodsProduction": [
+      {
+        "Good": 1010227,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010226,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010229,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010230,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010231,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010233,
+        "ProductionPerMinute": 7
+      }
+    ],
+    "guid": 46,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_07.png",
+    "name": "Eli Bleakworth",
+    "regions": [
+      5000000
+    ]
+  },
+  {
+    "goodsProduction": [
+      {
+        "Good": 1010257,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010258,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 120032,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010259,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 1010256,
+        "ProductionPerMinute": 7
+      }
+    ],
+    "guid": 78,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_08.png",
+    "name": "Madame Kahina",
+    "regions": [
+      5000000
+    ]
+  },
+  {
+    "goodsProduction": [
+      {
+        "Good": 112698,
+        "ProductionPerMinute": 4
+      },
+      {
+        "Good": 112695,
+        "ProductionPerMinute": 3
+      },
+      {
+        "Good": 112705,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 112696,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 112699,
+        "ProductionPerMinute": 5
+      },
+      {
+        "Good": 112694,
+        "ProductionPerMinute": 4
+      }
+    ],
+    "guid": 237,
+    "iconPath": "data/ui/2kimages/main/profiles/inuit_trader.png",
+    "name": "Qumaq",
+    "regions": [
+      160001
+    ]
+  },
+  {
+    "goodsProduction": [
+      {
+        "Good": 114356,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 114364,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 114391,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 114402,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 114357,
+        "ProductionPerMinute": 7
+      },
+      {
+        "Good": 114408,
+        "ProductionPerMinute": 7
+      }
+    ],
+    "guid": 119051,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_13.png",
+    "name": "Emperor Ketema",
+    "regions": [
+      114327
+    ]
+  }
+]
