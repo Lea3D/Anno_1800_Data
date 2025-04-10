@@ -1,220 +1,945 @@
-"guid","friendly_name","id","region","tpmin","canClip","inputs","maintenances","outputs"
-"24798","Hacienda Sugar Cane Farm","hacienda_sugar_cane_farm","colony01","2","","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""sugar_cane"", ""StorageAmount"": 4}]"
-"25003","Hacienda Corn Farm","hacienda_corn_farm","colony01","1","","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""corn"", ""StorageAmount"": 4}]"
-"25005","Hacienda Coffee Farm","hacienda_coffee_farm","colony01","1","","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""coffee_beans"", ""StorageAmount"": 2}]"
-"25006","Hacienda Caoutchouc Plantation","hacienda_caoutchouc_plantation","colony01","1","","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""caoutchouc"", ""StorageAmount"": 4}]"
-"25009","Hacienda Cocoa Farm","hacienda_cocoa_farm","colony01","1","","[]","[{""Amount"": 5, ""InactiveAmount"": 3, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""cocoa"", ""StorageAmount"": 2}]"
-"25019","Hacienda Potato Farm","hacienda_potato_farm","colony01","2","","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""potatoes"", ""StorageAmount"": 4}]"
-"25020","Hacienda Spice Farm","hacienda_spice_farm","colony01","1","","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""spices"", ""StorageAmount"": 2}]"
-"25128","Hacienda Grain Farm","hacienda_grain_farm","colony01","1","","[]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""grain"", ""StorageAmount"": 2}]"
-"24801","Hacienda Rum Distillery","hacienda_rum_distillery","colony01","2","","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}, {""Amount"": 1, ""Product"": ""sugar_cane"", ""StorageAmount"": 6}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""rum"", ""StorageAmount"": 4}]"
-"25064","Hacienda Beer Brewery","hacienda_beer_brewery","colony01","1","","[{""Amount"": 1, ""Product"": ""grain"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""corn"", ""StorageAmount"": 3}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""beer"", ""StorageAmount"": 2}]"
-"25126","Hacienda Atole Maker","hacienda_atole_maker","colony01","1","False","[{""Amount"": 1, ""Product"": ""corn"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""sugar_cane"", ""StorageAmount"": 4}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""atole"", ""StorageAmount"": 2}]"
-"25350","Hacienda Schnapps Distillery","hacienda_schnapps_distillery","colony01","1","","[{""Amount"": 1, ""Product"": ""potatoes"", ""StorageAmount"": 6}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""schnapps"", ""StorageAmount"": 4}]"
-"25508","Hacienda Hot Sauce Brewery","hacienda_hot_sauce_brewery","colony01","0.5","False","[{""Amount"": 1, ""Product"": ""spices"", ""StorageAmount"": 4}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""hot_sauce"", ""StorageAmount"": 2}]"
-"24805","Hacienda","hacienda","colony01","2","False","[{""Amount"": 1, ""Product"": ""dung"", ""StorageAmount"": 5}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""fertiliser"", ""StorageAmount"": 5}]"
-"1010262","Grain Farm","grain_farm","moderate","1","False","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 20, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""grain"", ""StorageAmount"": 2}]"
-"1010263","Cattle Farm","cattle_farm","moderate","0.5","False","[]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 20, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""beef"", ""StorageAmount"": 1}]"
-"1010264","Hop Farm","hop_farm","moderate","0.6666666666666667","False","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 20, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""hops"", ""StorageAmount"": 1}]"
-"1010265","Potato Farm","potato_farm","moderate","2","False","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 20, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""potatoes"", ""StorageAmount"": 4}]"
-"1010266","Lumberjack's Hut","lumberjack's_hut","moderate","4","True","[]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins""}, {""Amount"": 5, ""Product"": ""farmer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}]"
-"1010267","Sheep Farm","sheep_farm","moderate","2","False","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""wool"", ""StorageAmount"": 4}]"
-"1010269","Pig Farm","pig_farm","moderate","1","False","[]","[{""Amount"": 40, ""InactiveAmount"": 20, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""pigs"", ""StorageAmount"": 4}]"
-"1010558","Hunting Cabin","hunting_cabin","moderate","1","False","[]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""farmer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""furs"", ""StorageAmount"": 4}]"
-"100654","Red Pepper Farm","red_pepper_farm","moderate","0.5","False","[]","[{""Amount"": 100, ""InactiveAmount"": 50, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""red_peppers"", ""StorageAmount"": 1}]"
-"100655","Vineyard","vineyard","moderate","0.5","False","[]","[{""Amount"": 200, ""InactiveAmount"": 100, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""grapes"", ""StorageAmount"": 1}]"
-"1010278","Fishery","fishery","moderate","2","False","[]","[{""Amount"": 40, ""InactiveAmount"": 20, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""fish"", ""StorageAmount"": 4}]"
-"1010310","Saltpeter Works","saltpeter_works","moderate","0.5","True","[]","[{""Amount"": 500, ""InactiveAmount"": 250, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""saltpeter"", ""StorageAmount"": 1}]"
-"1010560","Sand Mine","sand_mine","moderate","2","True","[]","[{""Amount"": 120, ""InactiveAmount"": 60, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""quartz_sand"", ""StorageAmount"": 4}]"
-"1010280","Concrete Factory","concrete_factory","moderate","1","False","[{""Amount"": 1, ""Product"": ""cement"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 4}]","[{""Amount"": 400, ""InactiveAmount"": 200, ""Product"": ""coins""}, {""Amount"": 75, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""reinforced_concrete"", ""StorageAmount"": 2}]"
-"1010281","Soap Factory","soap_factory","moderate","2","True","[{""Amount"": 1, ""Product"": ""tallow"", ""StorageAmount"": 4}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""soap"", ""StorageAmount"": 4}]"
-"1010283","Brick Factory","brick_factory","moderate","1","False","[{""Amount"": 1, ""Product"": ""clay"", ""StorageAmount"": 4}]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""bricks"", ""StorageAmount"": 2}]"
-"100451","Sawmill","sawmill","moderate","4","False","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""timber"", ""StorageAmount"": 8}]"
-"1010325","Fur Dealer","fur_dealer","moderate","2","True","[{""Amount"": 1, ""Product"": ""furs"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""cotton_fabric"", ""StorageAmount"": 6}]","[{""Amount"": 500, ""InactiveAmount"": 225, ""Product"": ""coins""}, {""Amount"": 200, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""fur_coats"", ""StorageAmount"": 4}]"
-"1010286","Light Bulb Factory","light_bulb_factory","moderate","1","True","[{""Amount"": 1, ""Product"": ""glass"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""filaments"", ""StorageAmount"": 3}]","[{""Amount"": 1000, ""InactiveAmount"": 500, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""light_bulbs"", ""StorageAmount"": 2}]"
-"1010285","Window-Makers","window-makers","moderate","1","False","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}, {""Amount"": 1, ""Product"": ""glass"", ""StorageAmount"": 4}]","[{""Amount"": 200, ""InactiveAmount"": 100, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""windows"", ""StorageAmount"": 2}]"
-"1010288","Sailmakers","sailmakers","moderate","2","False","[{""Amount"": 1, ""Product"": ""wool"", ""StorageAmount"": 6}]","[{""Amount"": 75, ""InactiveAmount"": 38, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""sails"", ""StorageAmount"": 4}]"
-"100416","Clay Pit","clay_pit","moderate","2","False","[]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""clay"", ""StorageAmount"": 4}]"
-"1010289","Coachmakers","coachmakers","moderate","0.5","False","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}, {""Amount"": 1, ""Product"": ""caoutchouc"", ""StorageAmount"": 2}]","[{""Amount"": 1200, ""InactiveAmount"": 600, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""chassis"", ""StorageAmount"": 1}]"
-"1010291","Bakery","bakery","moderate","1","False","[{""Amount"": 1, ""Product"": ""flour"", ""StorageAmount"": 4}]","[{""Amount"": 60, ""InactiveAmount"": 30, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""bread"", ""StorageAmount"": 2}]"
-"1010292","Brewery","brewery","moderate","1","False","[{""Amount"": 1, ""Product"": ""hops"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""malt"", ""StorageAmount"": 4}]","[{""Amount"": 200, ""InactiveAmount"": 100, ""Product"": ""coins""}, {""Amount"": 75, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""beer"", ""StorageAmount"": 2}]"
-"1010293","Artisanal Kitchen","artisanal_kitchen","moderate","0.5","False","[{""Amount"": 1, ""Product"": ""beef"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""red_peppers"", ""StorageAmount"": 3}]","[{""Amount"": 100, ""InactiveAmount"": 50, ""Product"": ""coins""}, {""Amount"": 75, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""goulash"", ""StorageAmount"": 1}]"
-"1010295","Cannery","cannery","moderate","0.6666666666666667","False","[{""Amount"": 1, ""Product"": ""iron"", ""StorageAmount"": 8}, {""Amount"": 1, ""Product"": ""goulash"", ""StorageAmount"": 2}]","[{""Amount"": 100, ""InactiveAmount"": 50, ""Product"": ""coins""}, {""Amount"": 75, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""canned_food"", ""StorageAmount"": 1}]"
-"1010294","Schnapps Distillery","schnapps_distillery","moderate","2","False","[{""Amount"": 1, ""Product"": ""potatoes"", ""StorageAmount"": 6}]","[{""Amount"": 40, ""InactiveAmount"": 20, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""schnapps"", ""StorageAmount"": 4}]"
-"1010316","Butcher's","butcher's","moderate","1","False","[{""Amount"": 1, ""Product"": ""pigs"", ""StorageAmount"": 6}]","[{""Amount"": 80, ""InactiveAmount"": 40, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""sausages"", ""StorageAmount"": 4}]"
-"100659","Champagne Cellar","champagne_cellar","moderate","2","False","[{""Amount"": 1, ""Product"": ""grapes"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""glass"", ""StorageAmount"": 6}]","[{""Amount"": 1000, ""InactiveAmount"": 500, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""champagne"", ""StorageAmount"": 4}]"
-"1010296","Steelworks","steelworks","moderate","1.3333333333333335","False","[{""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 4}]","[{""Amount"": 200, ""InactiveAmount"": 100, ""Product"": ""coins""}, {""Amount"": 200, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""steel_beams"", ""StorageAmount"": 2}]"
-"1010297","Furnace","furnace","moderate","2","False","[{""Amount"": 1, ""Product"": ""iron"", ""StorageAmount"": 8}, {""Amount"": 1, ""Product"": ""coal"", ""StorageAmount"": 6}]","[{""Amount"": 100, ""InactiveAmount"": 50, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 4}]"
-"1010298","Charcoal Kiln","charcoal_kiln","moderate","2","False","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""worker_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""coal"", ""StorageAmount"": 4}]"
-"1010299","Weapon Factory","weapon_factory","moderate","0.6666666666666667","False","[{""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 4}]","[{""Amount"": 150, ""InactiveAmount"": 75, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""weapons"", ""StorageAmount"": 1}]"
-"1010301","Heavy Weapons Factory","heavy_weapons_factory","moderate","0.5","False","[{""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""dynamite"", ""StorageAmount"": 2}]","[{""Amount"": 2200, ""InactiveAmount"": 1100, ""Product"": ""coins""}, {""Amount"": 250, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""advanced_weapons"", ""StorageAmount"": 1}]"
-"1010302","Motor Assembly Line","motor_assembly_line","moderate","0.6666666666666667","False","[{""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""brass"", ""StorageAmount"": 2}]","[{""Amount"": 1800, ""InactiveAmount"": 900, ""Product"": ""coins""}, {""Amount"": 250, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""steam_motors"", ""StorageAmount"": 1}]"
-"1010303","Cab Assembly Line","cab_assembly_line","moderate","1","True","[{""Amount"": 1, ""Product"": ""chassis"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""steam_motors"", ""StorageAmount"": 3}]","[{""Amount"": 3000, ""InactiveAmount"": 1500, ""Product"": ""coins""}, {""Amount"": 500, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""steam_carriages"", ""StorageAmount"": 2}]"
-"1010282","Brass Smeltery","brass_smeltery","moderate","1","False","[{""Amount"": 1, ""Product"": ""zinc"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""copper"", ""StorageAmount"": 4}]","[{""Amount"": 250, ""InactiveAmount"": 125, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""brass"", ""StorageAmount"": 2}]"
-"101331","Oil Refinery","oil_refinery","moderate","4","False","[]","[{""Amount"": 250, ""InactiveAmount"": 125, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""oil"", ""StorageAmount"": 200}]"
-"1010304","Coal Mine","coal_mine","moderate","4","False","[{""Product"": ""mineral_resource"", ""StorageAmount"": 12}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""coal"", ""StorageAmount"": 8}]"
-"1010305","Iron Mine","iron_mine","moderate","4","False","[{""Product"": ""mineral_resource"", ""StorageAmount"": 12}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""iron"", ""StorageAmount"": 8}]"
-"1010307","Zinc Mine","zinc_mine","moderate","2","False","[{""Product"": ""mineral_resource"", ""StorageAmount"": 12}]","[{""Amount"": 250, ""InactiveAmount"": 125, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""zinc"", ""StorageAmount"": 4}]"
-"1010308","Copper Mine","copper_mine","moderate","2","False","[{""Product"": ""mineral_resource"", ""StorageAmount"": 12}]","[{""Amount"": 250, ""InactiveAmount"": 125, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""copper"", ""StorageAmount"": 4}]"
-"1010309","Limestone Quarry","limestone_quarry","moderate","2","False","[{""Product"": ""mineral_resource"", ""StorageAmount"": 12}]","[{""Amount"": 250, ""InactiveAmount"": 125, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""cement"", ""StorageAmount"": 4}]"
-"1010312","Rendering Works","rendering_works","moderate","1","False","[{""Amount"": 1, ""Product"": ""pigs"", ""StorageAmount"": 6}]","[{""Amount"": 40, ""InactiveAmount"": 20, ""Product"": ""coins""}, {""Amount"": 40, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""tallow"", ""StorageAmount"": 4}]"
-"1010313","Flour Mill","flour_mill","moderate","2","False","[{""Amount"": 1, ""Product"": ""grain"", ""StorageAmount"": 6}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""flour"", ""StorageAmount"": 4}]"
-"1010314","Malthouse","malthouse","moderate","2","False","[{""Amount"": 1, ""Product"": ""grain"", ""StorageAmount"": 6}]","[{""Amount"": 150, ""InactiveAmount"": 75, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""malt"", ""StorageAmount"": 4}]"
-"1010315","Framework Knitters","framework_knitters","moderate","2","True","[{""Amount"": 1, ""Product"": ""wool"", ""StorageAmount"": 6}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""farmer_workforce""}]","[{""Amount"": 1, ""Product"": ""work_clothes"", ""StorageAmount"": 4}]"
-"1010300","Dynamite Factory","dynamite_factory","moderate","1","False","[{""Amount"": 1, ""Product"": ""tallow"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""saltpeter"", ""StorageAmount"": 3}]","[{""Amount"": 1000, ""InactiveAmount"": 500, ""Product"": ""coins""}, {""Amount"": 250, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""dynamite"", ""StorageAmount"": 2}]"
-"1010319","Glassmakers","glassmakers","moderate","2","True","[{""Amount"": 1, ""Product"": ""quartz_sand"", ""StorageAmount"": 6}]","[{""Amount"": 100, ""InactiveAmount"": 50, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""glass"", ""StorageAmount"": 4}]"
-"1010320","Marquetry Workshop","marquetry_workshop","moderate","1","False","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}]","[{""Amount"": 750, ""InactiveAmount"": 375, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""wood_veneers"", ""StorageAmount"": 2}]"
-"1010321","Filament Factory","filament_factory","moderate","1","False","[{""Amount"": 1, ""Product"": ""coal"", ""StorageAmount"": 4}]","[{""Amount"": 725, ""InactiveAmount"": 367, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""filaments"", ""StorageAmount"": 2}]"
-"1010323","Bicycle Factory","bicycle_factory","moderate","2","True","[{""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""caoutchouc"", ""StorageAmount"": 6}]","[{""Amount"": 1200, ""InactiveAmount"": 600, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""penny_farthings"", ""StorageAmount"": 4}]"
-"1010324","Clockmakers","clockmakers","moderate","0.6666666666666667","False","[{""Amount"": 1, ""Product"": ""glass"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""gold"", ""StorageAmount"": 2}]","[{""Amount"": 1400, ""InactiveAmount"": 700, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""pocket_watches"", ""StorageAmount"": 1}]"
-"1010284","Sewing Machine Factory","sewing_machine_factory","moderate","2","False","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}, {""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 6}]","[{""Amount"": 500, ""InactiveAmount"": 250, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""sewing_machines"", ""StorageAmount"": 4}]"
-"1010326","Gramophone Factory","gramophone_factory","moderate","0.5","False","[{""Amount"": 1, ""Product"": ""wood_veneers"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""brass"", ""StorageAmount"": 3}]","[{""Amount"": 1600, ""InactiveAmount"": 800, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""gramophones"", ""StorageAmount"": 1}]"
-"1010327","Goldsmiths","goldsmiths","moderate","1","False","[{""Amount"": 1, ""Product"": ""coal"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""gold_ore"", ""StorageAmount"": 3}]","[{""Amount"": 750, ""InactiveAmount"": 375, ""Product"": ""coins""}, {""Amount"": 125, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""gold"", ""StorageAmount"": 2}]"
-"1010328","Jewellers","jewellers","moderate","2","False","[{""Amount"": 1, ""Product"": ""pearls"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""gold"", ""StorageAmount"": 6}]","[{""Amount"": 2500, ""InactiveAmount"": 1250, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""jewelry"", ""StorageAmount"": 4}]"
-"101250","Spectacle Factory","spectacle_factory","moderate","0.6666666666666667","True","[{""Amount"": 1, ""Product"": ""glass"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""brass"", ""StorageAmount"": 2}]","[{""Amount"": 1000, ""InactiveAmount"": 500, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""spectacles"", ""StorageAmount"": 1}]"
-"1010329","Sugar Cane Plantation","sugar_cane_plantation","colony01","2","False","[]","[{""Amount"": 5, ""InactiveAmount"": 3, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""sugar_cane"", ""StorageAmount"": 4}]"
-"1010330","Tobacco Plantation","tobacco_plantation","colony01","0.5","False","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""tobacco"", ""StorageAmount"": 1}]"
-"1010331","Cotton Plantation","cotton_plantation","colony01","1","True","[]","[{""Amount"": 5, ""InactiveAmount"": 3, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""cotton"", ""StorageAmount"": 2}]"
-"1010332","Cocoa Plantation","cocoa_plantation","colony01","1","False","[]","[{""Amount"": 5, ""InactiveAmount"": 3, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""cocoa"", ""StorageAmount"": 2}]"
-"1010333","Caoutchouc Plantation","caoutchouc_plantation","colony01","1","False","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""caoutchouc"", ""StorageAmount"": 2}]"
-"101260","agriculture_colony01_06 (Timber Yard)","agriculture_colony01_06_(timber_yard)","colony01","4","True","[]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 10, ""Product"": ""jornalero_workforce"", ""ShutdownThreshold"": 0.2, ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}]"
-"101251","Coffee Plantation","coffee_plantation","colony01","1","False","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""coffee_beans"", ""StorageAmount"": 2}]"
-"101263","Plantain Plantation","plantain_plantation","colony01","2","False","[]","[{""Amount"": 5, ""InactiveAmount"": 3, ""Product"": ""coins"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 0, ""TemplateName"": ""FactoryBuilding7""}}}}, {""Amount"": 10, ""Product"": ""jornalero_workforce"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 1, ""TemplateName"": ""FactoryBuilding7""}}}}]","[{""Amount"": 1, ""Product"": ""plantains"", ""StorageAmount"": 4}]"
-"101269","Cattle Farm","cattle_farm","colony01","1","False","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 20, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""beef"", ""StorageAmount"": 2}]"
-"101270","Corn Farm","corn_farm","colony01","1","False","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""corn"", ""StorageAmount"": 2}]"
-"101272","Alpaca Farm","alpaca_farm","colony01","2","False","[]","[{""Amount"": 5, ""InactiveAmount"": 3, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""alpaca_wool"", ""StorageAmount"": 4}]"
-"1010339","Pearl Farm","pearl_farm","colony01","0.6666666666666667","True","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""pearls"", ""StorageAmount"": 1}]"
-"101262","Fish Oil Factory","fish_oil_factory","colony01","2","False","[]","[{""Amount"": 5, ""InactiveAmount"": 3, ""Product"": ""coins"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 0, ""TemplateName"": ""FarmBuilding""}}}}, {""Amount"": 15, ""Product"": ""jornalero_workforce"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 1, ""TemplateName"": ""FarmBuilding""}}}}]","[{""Amount"": 1, ""Product"": ""fish_oil"", ""StorageAmount"": 4}]"
-"101261","factory_colony01_01 (Timber Factory)","factory_colony01_01_(timber_factory)","colony01","4","False","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 20, ""Product"": ""jornalero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""timber"", ""StorageAmount"": 8}]"
-"101265","factory_colony01_02 (Sailcloth Factory)","factory_colony01_02_(sailcloth_factory)","colony01","2","True","[{""Amount"": 1, ""Product"": ""cotton_fabric"", ""StorageAmount"": 6, ""VectorElement"": null}]","[{""Amount"": 15, ""InactiveAmount"": 8, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 20, ""Product"": ""jornalero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""sails"", ""StorageAmount"": 4}]"
-"1010318","Cotton Mill","cotton_mill","colony01","2","True","[{""Amount"": 1, ""Product"": ""cotton"", ""StorageAmount"": 6}]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""cotton_fabric"", ""StorageAmount"": 4}]"
-"101267","factory_colony01_04 (Clay Pit)","factory_colony01_04_(clay_pit)","colony01","2","False","[]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 100, ""Product"": ""obrero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""clay"", ""StorageAmount"": 4}]"
-"101268","factory_colony01_05 (Brick Factory)","factory_colony01_05_(brick_factory)","colony01","1","False","[{""Amount"": 1, ""Product"": ""clay"", ""StorageAmount"": 4}]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 50, ""Product"": ""obrero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""bricks"", ""StorageAmount"": 2}]"
-"101415","Felt Producer","felt_producer","colony01","2","True","[{""Amount"": 1, ""Product"": ""alpaca_wool"", ""StorageAmount"": 6}]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""felt"", ""StorageAmount"": 4}]"
-"101273","Bombín Weaver","bombín_weaver","colony01","2","True","[{""Amount"": 1, ""Product"": ""cotton_fabric"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""felt"", ""StorageAmount"": 6}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 20, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""bombins"", ""StorageAmount"": 4}]"
-"1010340","Rum Distillery","rum_distillery","colony01","2","False","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}, {""Amount"": 1, ""Product"": ""sugar_cane"", ""StorageAmount"": 6}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""rum"", ""StorageAmount"": 4}]"
-"1010341","Chocolate Factory","chocolate_factory","colony01","2","False","[{""Amount"": 1, ""Product"": ""sugar"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""cocoa"", ""StorageAmount"": 6}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""chocolate"", ""StorageAmount"": 4}]"
-"101252","Coffee Roaster","coffee_roaster","colony01","2","False","[{""Amount"": 1, ""Product"": ""coffee_beans"", ""StorageAmount"": 6}]","[{""Amount"": 150, ""InactiveAmount"": 75, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""coffee"", ""StorageAmount"": 4}]"
-"101264","Fried Plantain Kitchen","fried_plantain_kitchen","colony01","2","False","[{""Amount"": 1, ""Product"": ""fish_oil"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""plantains"", ""StorageAmount"": 6}]","[{""Amount"": 15, ""InactiveAmount"": 8, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""fried_plantains"", ""StorageAmount"": 4}]"
-"101271","Tortilla Maker","tortilla_maker","colony01","2","False","[{""Amount"": 1, ""Product"": ""beef"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""corn"", ""StorageAmount"": 6}]","[{""Amount"": 100, ""InactiveAmount"": 50, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""tortillas"", ""StorageAmount"": 4}]"
-"1010561","heavy_colony01_01 (Oil Heavy Industry)","heavy_colony01_01_(oil_heavy_industry)","colony01","4","False","[]","[{""Amount"": 250, ""InactiveAmount"": 125, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 75, ""Product"": ""obrero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""oil"", ""StorageAmount"": 200}]"
-"101311","mining_colony01_01 (Gold Ore Mine)","mining_colony01_01_(gold_ore_mine)","colony01","0.4","False","[{""Product"": ""mineral_resource"", ""StorageAmount"": 6}]","[{""Amount"": 250, ""InactiveAmount"": 125, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 100, ""Product"": ""obrero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""gold_ore"", ""StorageAmount"": 1}]"
-"1010317","Sugar Refinery","sugar_refinery","colony01","2","True","[{""Amount"": 1, ""Product"": ""sugar_cane"", ""StorageAmount"": 6}]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""sugar"", ""StorageAmount"": 4}]"
-"101266","Poncho Darner","poncho_darner","colony01","2","False","[{""Amount"": 1, ""Product"": ""alpaca_wool"", ""StorageAmount"": 6}]","[{""Amount"": 15, ""InactiveAmount"": 8, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""ponchos"", ""StorageAmount"": 4}]"
-"101296","processing_colony01_03 (Inlay Processing)","processing_colony01_03_(inlay_processing)","colony01","1","False","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}]","[{""Amount"": 100, ""InactiveAmount"": 50, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 100, ""Product"": ""obrero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""wood_veneers"", ""StorageAmount"": 2}]"
-"1010342","Cigar Factory","cigar_factory","colony01","2","False","[{""Amount"": 1, ""Product"": ""wood_veneers"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""tobacco"", ""StorageAmount"": 6}]","[{""Amount"": 250, ""InactiveAmount"": 125, ""Product"": ""coins""}, {""Amount"": 175, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""cigars"", ""StorageAmount"": 4}]"
-"114703","Lumberjack's Hut","lumberjack's_hut","arctic","4","True","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}]"
-"112667","Caribou Hunter","caribou_hunter","arctic","1","False","[{""Product"": ""cultivation_area"", ""StorageAmount"": 5}]","[{""Amount"": 40, ""InactiveAmount"": 20, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""caribou_meat"", ""StorageAmount"": 2}]"
-"112676","Goose Farm","goose_farm","arctic","0.5","False","[]","[{""Amount"": 70, ""InactiveAmount"": 35, ""Product"": ""coins""}, {""Amount"": 35, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""goose_feathers"", ""StorageAmount"": 1}]"
-"112673","Bear Hunter","bear_hunter","arctic","0.6666666666666667","False","[{""Product"": ""cultivation_area"", ""StorageAmount"": 5}]","[{""Amount"": 90, ""InactiveAmount"": 45, ""Product"": ""coins""}, {""Amount"": 40, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""bear_fur"", ""StorageAmount"": 1}]"
-"112682","Husky Farm","husky_farm","arctic","0.5","False","[]","[{""Amount"": 150, ""InactiveAmount"": 75, ""Product"": ""coins""}, {""Amount"": 80, ""Product"": ""technicians_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""huskies"", ""StorageAmount"": 1}]"
-"116034","Prime Hunting Cabin","prime_hunting_cabin","arctic","4","False","[{""Product"": ""cultivation_area"", ""StorageAmount"": 5}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 40, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""furs"", ""StorageAmount"": 8}]"
-"114705","Charcoal Kiln","charcoal_kiln","arctic","2","False","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""coal"", ""StorageAmount"": 4}]"
-"112666","Whale Hunter","whale_hunter","arctic","1","False","[]","[{""Amount"": 75, ""InactiveAmount"": 38, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""whale_oil"", ""StorageAmount"": 2}]"
-"112674","Seal Hunter","seal_hunter","arctic","2","False","[]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 20, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""seal_skin"", ""StorageAmount"": 2}]"
-"114704","Sawmill","sawmill","arctic","4","False","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""timber"", ""StorageAmount"": 8}]"
-"112675","Sleeping Bag Factory","sleeping_bag_factory","arctic","1","True","[{""Amount"": 1, ""Product"": ""seal_skin"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""goose_feathers"", ""StorageAmount"": 4}]","[{""Amount"": 120, ""InactiveAmount"": 60, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""sleeping_bags"", ""StorageAmount"": 4}]"
-"112679","Oil Lamp Factory","oil_lamp_factory","arctic","1","True","[{""Amount"": 1, ""Product"": ""whale_oil"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""brass"", ""StorageAmount"": 4}]","[{""Amount"": 200, ""InactiveAmount"": 100, ""Product"": ""coins""}, {""Amount"": 70, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""oil_lamps"", ""StorageAmount"": 2}]"
-"112672","Parka Factory","parka_factory","arctic","0.6666666666666667","True","[{""Amount"": 1, ""Product"": ""bear_fur"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""seal_skin"", ""StorageAmount"": 4}]","[{""Amount"": 350, ""InactiveAmount"": 175, ""Product"": ""coins""}, {""Amount"": 80, ""Product"": ""technicians_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""parkas"", ""StorageAmount"": 1}]"
-"112681","Sled Frame Factory","sled_frame_factory","arctic","1","False","[{""Amount"": 1, ""Product"": ""seal_skin"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 4}]","[{""Amount"": 450, ""InactiveAmount"": 225, ""Product"": ""coins""}, {""Amount"": 80, ""Product"": ""technicians_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""sleds"", ""StorageAmount"": 2}]"
-"112680","Husky Sled Factory","husky_sled_factory","arctic","1","True","[{""Amount"": 1, ""Product"": ""huskies"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""sleds"", ""StorageAmount"": 4}]","[{""Amount"": 650, ""InactiveAmount"": 325, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""technicians_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""husky_sleds"", ""StorageAmount"": 2}]"
-"112668","Pemmican Factory","pemmican_factory","arctic","1","False","[{""Amount"": 1, ""Product"": ""whale_oil"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""caribou_meat"", ""StorageAmount"": 4}]","[{""Amount"": 60, ""InactiveAmount"": 30, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""explorer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""pemmican"", ""StorageAmount"": 2}]"
-"112690","Arctic Gas Mine","arctic_gas_mine","arctic","0.22222222222222224","True","[]","[{""Amount"": 1000, ""InactiveAmount"": 500, ""Product"": ""coins""}, {""Amount"": 250, ""Product"": ""technicians_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""arctic_gas"", ""StorageAmount"": 1}]"
-"116029","Deep Gold Mine","deep_gold_mine","arctic","1","False","[{""Product"": ""mineral_resource"", ""StorageAmount"": 7}]","[{""Amount"": 400, ""InactiveAmount"": 200, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""technicians_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""gold_ore"", ""StorageAmount"": 3}]"
-"118571","Fuel Station","fuel_station","moderate","4","False","[{""Amount"": 1, ""Product"": ""oil"", ""StorageAmount"": 50}]","[{""Amount"": 350, ""InactiveAmount"": 175, ""Product"": ""coins""}, {""Amount"": 75, ""Product"": ""worker_workforce"", ""ShutdownThreshold"": 0.5}]","[{""Amount"": 1, ""Product"": ""fuel"", ""StorageAmount"": 20}]"
-"269840","Fuel Station","fuel_station","colony01","4","False","[{""Amount"": 1, ""Product"": ""oil"", ""StorageAmount"": 50}]","[{""Amount"": 350, ""InactiveAmount"": 175, ""Product"": ""coins""}, {""Amount"": 75, ""Product"": ""obrero_workforce"", ""ShutdownThreshold"": 0.5}]","[{""Amount"": 1, ""Product"": ""fuel"", ""StorageAmount"": 20}]"
-"119028","Fuel Station","fuel_station","africa","4","False","[{""Amount"": 1, ""Product"": ""oil"", ""StorageAmount"": 50}]","[{""Amount"": 350, ""InactiveAmount"": 175, ""Product"": ""coins""}, {""Amount"": 75, ""Product"": ""elder_workforce"", ""ShutdownThreshold"": 0.5}]","[{""Amount"": 1, ""Product"": ""fuel"", ""StorageAmount"": 20}]"
-"133004","Orchard: Coconut Oil","orchard:_coconut_oil","colony01","2","True","[{""Product"": ""cultivation_area"", ""StorageAmount"": 10}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 35, ""Product"": ""jornalero_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""coconut_oil"", ""StorageAmount"": 10}]"
-"133030","Orchard: Cinnamon","orchard:_cinnamon","colony01","2","True","[{""Product"": ""cultivation_area"", ""StorageAmount"": 10}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 35, ""Product"": ""jornalero_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""cinnamon"", ""StorageAmount"": 10}]"
-"133031","Orchard: Citrus","orchard:_citrus","colony01","2","True","[{""Product"": ""cultivation_area"", ""StorageAmount"": 10}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 35, ""Product"": ""jornalero_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""citrus"", ""StorageAmount"": 10}]"
-"134614","Orchard: Camphor Wax","orchard:_camphor_wax","colony01","2","True","[{""Product"": ""cultivation_area"", ""StorageAmount"": 10}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 35, ""Product"": ""jornalero_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""camphor_wax"", ""StorageAmount"": 10}]"
-"924","Bomb Factory","bomb_factory","moderate","1","","[{""Amount"": 1, ""Product"": ""saltpeter"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""dynamite"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 5}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 550, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""bombs"", ""StorageAmount"": 10}]"
-"934","Sea Mine Factory","sea_mine_factory","moderate","1","","[{""Amount"": 1, ""Product"": ""copper"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""dynamite"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 5}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 550, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""sea_mines"", ""StorageAmount"": 10}]"
-"935","Pamphlet Printer","pamphlet_printer","moderate","1","","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""cotton"", ""StorageAmount"": 5}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 550, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""pamphlets"", ""StorageAmount"": 10}]"
-"936","Care Package Factory","care_package_factory","moderate","1","","[{""Amount"": 1, ""Product"": ""canned_food"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""chocolate"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""schnapps"", ""StorageAmount"": 5}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 550, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""care_packages"", ""StorageAmount"": 10}]"
-"1345","Charcoal Kiln","charcoal_kiln","colony01","2","","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 15, ""Product"": ""jornalero_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""coal"", ""StorageAmount"": 4}]"
-"1418","Industrial Oil Press","industrial_oil_press","colony01","2","False","[{""Amount"": 1, ""Product"": ""fish_oil"", ""StorageAmount"": 9}, {""Amount"": 1, ""Product"": ""saltpeter"", ""StorageAmount"": 9}]","[{""Amount"": 250, ""InactiveAmount"": 125, ""Product"": ""coins""}, {""Amount"": 65, ""Product"": ""jornalero_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""industrial_lubricant"", ""StorageAmount"": 9}]"
-"835","Aluminium Smelter","aluminium_smelter","colony01","0.6666666666666667","False","[{""Amount"": 1, ""Product"": ""bauxite_"", ""StorageAmount"": 2, ""VectorElement"": null}, {""Amount"": 1, ""Product"": ""coal"", ""StorageAmount"": 2}]","[{""Amount"": 540, ""InactiveAmount"": 270, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 40, ""Product"": ""obrero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""aluminium_profiles"", ""StorageAmount"": 4, ""VectorElement"": null}]"
-"906","Bomb Factory","bomb_factory","colony01","1","True","[{""Amount"": 1, ""Product"": ""saltpeter"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""dynamite"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 5}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 300, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""bombs"", ""StorageAmount"": 10}]"
-"907","Sea Mine Factory","sea_mine_factory","colony01","1","True","[{""Amount"": 1, ""Product"": ""copper"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""dynamite"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 5}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 300, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""sea_mines"", ""StorageAmount"": 10}]"
-"908","Pamphlet Printer","pamphlet_printer","colony01","1","True","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""cotton"", ""StorageAmount"": 5}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 300, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""pamphlets"", ""StorageAmount"": 10}]"
-"916","Care Package Factory","care_package_factory","colony01","1","True","[{""Amount"": 1, ""Product"": ""canned_food"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""chocolate"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""schnapps"", ""StorageAmount"": 5}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 300, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""care_packages"", ""StorageAmount"": 10}]"
-"915","Water Drop Factory","water_drop_factory","colony01","1","True","[{""Product"": ""water"", ""StorageAmount"": 5}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 300, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""water_drop"", ""StorageAmount"": 10}]"
-"1308","Bauxite Mine","bauxite_mine","colony01","6","False","[]","[{""Amount"": 400, ""InactiveAmount"": 200, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 220, ""Product"": ""jornalero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""bauxite_"", ""StorageAmount"": 12, ""VectorElement"": null}]"
-"1353","Helium Extractor","helium_extractor","colony01","4","False","[{""Amount"": 1, ""Product"": ""industrial_lubricant"", ""StorageAmount"": 8}, {""Amount"": 1, ""Product"": ""clay"", ""StorageAmount"": 8}]","[{""Amount"": 500, ""InactiveAmount"": 250, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 120, ""Product"": ""obrero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""helium"", ""StorageAmount"": 8, ""VectorElement"": null}]"
-"122963","Wanza Woodcutter","wanza_woodcutter","africa","4","True","[]","[{""Amount"": 15, ""InactiveAmount"": 8, ""Product"": ""coins""}, {""Amount"": 15, ""Product"": ""shepherd_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""wanza_timber"", ""StorageAmount"": 8}]"
-"114448","Linseed Farm","linseed_farm","africa","1","False","[]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins""}, {""Amount"": 5, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""linseed"", ""StorageAmount"": 2}]"
-"114447","Hibiscus Farm","hibiscus_farm","africa","1","False","[]","[{""Amount"": 15, ""InactiveAmount"": 8, ""Product"": ""coins""}, {""Amount"": 15, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""hibiscus_petals"", ""StorageAmount"": 2}]"
-"114450","Teff Farm","teff_farm","africa","1","False","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 20, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""teff"", ""StorageAmount"": 2}]"
-"114451","Indigo Farm","indigo_farm","africa","1","True","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 20, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""indigo_dye"", ""StorageAmount"": 2}]"
-"114452","Spice Farm","spice_farm","africa","1","True","[]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 15, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""spices"", ""StorageAmount"": 2}]"
-"114453","Apiary","apiary","africa","2","False","[]","[{""Amount"": 70, ""InactiveAmount"": 35, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""beeswax"", ""StorageAmount"": 4}]"
-"114439","Sanga Farm","sanga_farm","africa","1","False","[]","[{""Amount"": 10, ""InactiveAmount"": 5, ""Product"": ""coins""}, {""Amount"": 20, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""sanga_cow"", ""StorageAmount"": 2}]"
-"114456","Goat Farm","goat_farm","africa","1","False","[]","[{""Amount"": 5, ""InactiveAmount"": 3, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""goat_milk"", ""StorageAmount"": 2}]"
-"114440","Salt Works","salt_works","africa","2","False","[]","[{""Amount"": 15, ""InactiveAmount"": 8, ""Product"": ""coins"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 0, ""TemplateName"": ""FarmBuilding""}}}}, {""Amount"": 15, ""Product"": ""shepherd_workforce"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 1, ""TemplateName"": ""FarmBuilding""}}}}]","[{""Amount"": 1, ""Product"": ""salt"", ""StorageAmount"": 4}]"
-"118729","Lobster Fishery","lobster_fishery","africa","1","False","[]","[{""Amount"": 40, ""InactiveAmount"": 20, ""Product"": ""coins"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 0, ""TemplateName"": ""FarmBuilding""}}}}, {""Amount"": 35, ""Product"": ""shepherd_workforce"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 1, ""TemplateName"": ""FarmBuilding""}}}}]","[{""Amount"": 1, ""Product"": ""lobster"", ""StorageAmount"": 2}]"
-"117743","Clay Collector","clay_collector","africa","4","False","[]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 0, ""TemplateName"": ""FarmBuilding""}}}}, {""Amount"": 35, ""Product"": ""shepherd_workforce"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 1, ""TemplateName"": ""FarmBuilding""}}}}]","[{""Amount"": 1, ""Product"": ""clay"", ""StorageAmount"": 8}]"
-"117744","Paper Mill","paper_mill","africa","4","False","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 6}]","[{""Amount"": 55, ""InactiveAmount"": 28, ""Product"": ""coins"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 0, ""TemplateName"": ""FarmBuilding""}}}}, {""Amount"": 85, ""Product"": ""elder_workforce"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 1, ""TemplateName"": ""FarmBuilding""}}}}]","[{""Amount"": 1, ""Product"": ""paper"", ""StorageAmount"": 8}]"
-"114441","Linen Mill","linen_mill","africa","2","True","[{""Amount"": 1, ""Product"": ""linseed"", ""StorageAmount"": 6}]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""linen"", ""StorageAmount"": 4}]"
-"114459","Teff Mill","teff_mill","africa","2","False","[{""Amount"": 1, ""Product"": ""teff"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""spices"", ""StorageAmount"": 4}]","[{""Amount"": 75, ""InactiveAmount"": 38, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""elder_workforce""}]","[{""Amount"": 1, ""Product"": ""spiced_flour"", ""StorageAmount"": 4}]"
-"114461","Chandler","chandler","africa","2","False","[{""Amount"": 1, ""Product"": ""beeswax"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""cotton"", ""StorageAmount"": 6}]","[{""Amount"": 120, ""InactiveAmount"": 60, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""elder_workforce""}]","[{""Amount"": 1, ""Product"": ""ornate_candles"", ""StorageAmount"": 4}]"
-"114444","Dry-House","dry-house","africa","2","True","[{""Amount"": 1, ""Product"": ""sanga_cow"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""salt"", ""StorageAmount"": 4}]","[{""Amount"": 25, ""InactiveAmount"": 13, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""dried_meat"", ""StorageAmount"": 4}]"
-"114466","Embroiderer","embroiderer","africa","1","False","[{""Amount"": 1, ""Product"": ""linen"", ""StorageAmount"": 3}]","[{""Amount"": 20, ""InactiveAmount"": 10, ""Product"": ""coins""}, {""Amount"": 40, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""finery"", ""StorageAmount"": 2}]"
-"114468","Tea Spicer","tea_spicer","africa","0.6666666666666667","False","[{""Amount"": 1, ""Product"": ""hibiscus_petals"", ""StorageAmount"": 6}]","[{""Amount"": 60, ""InactiveAmount"": 30, ""Product"": ""coins""}, {""Amount"": 35, ""Product"": ""shepherd_workforce""}]","[{""Amount"": 1, ""Product"": ""hibiscus_tea"", ""StorageAmount"": 1}]"
-"118725","Ceramics Workshop","ceramics_workshop","africa","2","False","[{""Amount"": 1, ""Product"": ""clay"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""indigo_dye"", ""StorageAmount"": 3}]","[{""Amount"": 100, ""InactiveAmount"": 50, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""elder_workforce""}]","[{""Amount"": 1, ""Product"": ""ceramics"", ""StorageAmount"": 4}]"
-"114469","Tapestry Looms","tapestry_looms","africa","2","False","[{""Amount"": 1, ""Product"": ""linen"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""indigo_dye"", ""StorageAmount"": 3}]","[{""Amount"": 190, ""InactiveAmount"": 95, ""Product"": ""coins""}, {""Amount"": 90, ""Product"": ""elder_workforce""}]","[{""Amount"": 1, ""Product"": ""tapestries"", ""StorageAmount"": 4}]"
-"114467","Brick Dry-House","brick_dry-house","africa","1","False","[{""Amount"": 1, ""Product"": ""clay"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""teff"", ""StorageAmount"": 3}]","[{""Amount"": 40, ""InactiveAmount"": 20, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""elder_workforce""}]","[{""Amount"": 1, ""Product"": ""mud_bricks"", ""StorageAmount"": 2}]"
-"114471","Wat Kitchen","wat_kitchen","africa","1","True","[{""Amount"": 1, ""Product"": ""lobster"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""spiced_flour"", ""StorageAmount"": 4}]","[{""Amount"": 150, ""InactiveAmount"": 75, ""Product"": ""coins""}, {""Amount"": 70, ""Product"": ""elder_workforce""}]","[{""Amount"": 1, ""Product"": ""seafood_stew"", ""StorageAmount"": 2}]"
-"114472","Pipe Maker","pipe_maker","africa","0.6666666666666667","False","[{""Amount"": 1, ""Product"": ""clay"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""tobacco"", ""StorageAmount"": 4}]","[{""Amount"": 180, ""InactiveAmount"": 90, ""Product"": ""coins""}, {""Amount"": 75, ""Product"": ""elder_workforce""}]","[{""Amount"": 1, ""Product"": ""clay_pipe"", ""StorageAmount"": 1}]"
-"114470","Luminer","luminer","africa","1","False","[{""Amount"": 1, ""Product"": ""indigo_dye"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""paper"", ""StorageAmount"": 4}]","[{""Amount"": 250, ""InactiveAmount"": 125, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""elder_workforce""}]","[{""Amount"": 1, ""Product"": ""illuminated_script"", ""StorageAmount"": 2}]"
-"114464","Lanternsmith","lanternsmith","africa","1","False","[{""Amount"": 1, ""Product"": ""ornate_candles"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""glass"", ""StorageAmount"": 4}]","[{""Amount"": 300, ""InactiveAmount"": 150, ""Product"": ""coins""}, {""Amount"": 75, ""Product"": ""elder_workforce""}]","[{""Amount"": 1, ""Product"": ""lanterns"", ""StorageAmount"": 2}]"
-"118733","Bootmakers","bootmakers","moderate","1","True","[{""Amount"": 1, ""Product"": ""sanga_cow"", ""StorageAmount"": 6}]","[{""Amount"": 350, ""InactiveAmount"": 175, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""leather_boots"", ""StorageAmount"": 2}]"
-"118734","Tailor's Shop","tailor's_shop","moderate","1","False","[{""Amount"": 1, ""Product"": ""linen"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""cotton_fabric"", ""StorageAmount"": 3}]","[{""Amount"": 450, ""InactiveAmount"": 225, ""Product"": ""coins""}, {""Amount"": 200, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""tailored_suits"", ""StorageAmount"": 2}]"
-"118735","Telephone Manufacturer","telephone_manufacturer","moderate","0.6666666666666667","True","[{""Amount"": 1, ""Product"": ""filaments"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""wood_veneers"", ""StorageAmount"": 3}]","[{""Amount"": 1200, ""InactiveAmount"": 600, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""telephones"", ""StorageAmount"": 1}]"
-"124738","Advanced Coffee Roaster","advanced_coffee_roaster","moderate","1","False","[{""Amount"": 1, ""Product"": ""malt"", ""StorageAmount"": 6}]","[{""Amount"": 3500, ""InactiveAmount"": 1750, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""coffee"", ""StorageAmount"": 4}]"
-"124737","Advanced Rum Distillery","advanced_rum_distillery","moderate","1","False","[{""Amount"": 1, ""Product"": ""coal"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""potatoes"", ""StorageAmount"": 6}]","[{""Amount"": 3000, ""InactiveAmount"": 1500, ""Product"": ""coins""}, {""Amount"": 130, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""rum"", ""StorageAmount"": 4}]"
-"124739","Advanced Cotton Mill","advanced_cotton_mill","moderate","1","True","[{""Amount"": 1, ""Product"": ""wool"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 6}]","[{""Amount"": 3300, ""InactiveAmount"": 1650, ""Product"": ""coins""}, {""Amount"": 140, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""cotton_fabric"", ""StorageAmount"": 4}]"
-"132777","Chemical Plant: Lemonade","chemical_plant:_lemonade","moderate","2","True","[{""Amount"": 1, ""Product"": ""saltpeter"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""sugar"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""citrus"", ""StorageAmount"": 5}]","[{""Amount"": 800, ""InactiveAmount"": 400, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""lemonade"", ""StorageAmount"": 10}]"
-"132786","Chemical Plant: Shampoo","chemical_plant:_shampoo","moderate","2","True","[{""Amount"": 1, ""Product"": ""soap"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""coconut_oil"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""cinnamon"", ""StorageAmount"": 5}]","[{""Amount"": 800, ""InactiveAmount"": 400, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""shampoo"", ""StorageAmount"": 10}]"
-"133533","Chemical Plant: Souvenirs","chemical_plant:_souvenirs","moderate","2","True","[{""Amount"": 1, ""Product"": ""glass"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""cotton"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""camphor_wax"", ""StorageAmount"": 5}]","[{""Amount"": 800, ""InactiveAmount"": 400, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""souvenirs"", ""StorageAmount"": 10}]"
-"133496","Orchard: Jam","orchard:_jam","moderate","2","True","[{""Product"": ""cultivation_area"", ""StorageAmount"": 10}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 35, ""Product"": ""farmer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""jam"", ""StorageAmount"": 10}]"
-"135088","Orchard: Cherry Wood","orchard:_cherry_wood","moderate","2","True","[{""Product"": ""cultivation_area"", ""StorageAmount"": 10}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 35, ""Product"": ""farmer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""cherry_wood"", ""StorageAmount"": 10}]"
-"135085","Orchard: Resin","orchard:_resin","moderate","2","True","[{""Product"": ""cultivation_area"", ""StorageAmount"": 10}]","[{""Amount"": 50, ""InactiveAmount"": 25, ""Product"": ""coins""}, {""Amount"": 35, ""Product"": ""farmer_workforce"", ""ShutdownThreshold"": 0.2}]","[{""Amount"": 1, ""Product"": ""resin"", ""StorageAmount"": 10}]"
-"134622","Assembly Line: Elevators","assembly_line:_elevators","moderate","2","False","[{""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""wood_veneers"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""steam_motors"", ""StorageAmount"": 4}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 500, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""elevators"", ""StorageAmount"": 3}]"
-"135361","Assembly Line: Biscuits","assembly_line:_biscuits","moderate","2","False","[{""Amount"": 1, ""Product"": ""tallow"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""flour"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""citrus"", ""StorageAmount"": 4}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 500, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""biscuits"", ""StorageAmount"": 3}]"
-"135148","Assembly Line: Typewriters","assembly_line:_typewriters","moderate","2","False","[{""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""brass"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""lacquer"", ""StorageAmount"": 4}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 500, ""Product"": ""worker_workforce""}]","[{""Amount"": 1, ""Product"": ""typewriters"", ""StorageAmount"": 3}]"
-"135133","Chemical Plant: Lacquer","chemical_plant:_lacquer","moderate","2","True","[{""Amount"": 1, ""Product"": ""quartz_sand"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""resin"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""ethanol"", ""StorageAmount"": 5}]","[{""Amount"": 800, ""InactiveAmount"": 400, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""engineer_workforce""}]","[{""Amount"": 1, ""Product"": ""lacquer"", ""StorageAmount"": 10}]"
-"135418","Artisan's Workshop: Cognac","artisan's_workshop:_cognac","moderate","1","False","[{""Amount"": 1, ""Product"": ""grapes"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""cherry_wood"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""sugar"", ""StorageAmount"": 4}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 350, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""cognac"", ""StorageAmount"": 3}]"
-"135397","Artisan's Workshop: Violins","artisan's_workshop:_violins","moderate","1","False","[{""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""cherry_wood"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""lacquer"", ""StorageAmount"": 4}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 350, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""violins"", ""StorageAmount"": 3}]"
-"135407","Artisan's Workshop: Billiard Tables","artisan's_workshop:_billiard_tables","moderate","1","False","[{""Amount"": 1, ""Product"": ""cherry_wood"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""felt"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""celluloid"", ""StorageAmount"": 4}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 350, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""billiard_tables"", ""StorageAmount"": 3}]"
-"135669","Artisan's Workshop: Toys","artisan's_workshop:_toys","moderate","1","False","[{""Amount"": 1, ""Product"": ""felt"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""celluloid"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""lacquer"", ""StorageAmount"": 4}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 350, ""Product"": ""artisan_workforce""}]","[{""Amount"": 1, ""Product"": ""toys"", ""StorageAmount"": 3}]"
-"135185","Chemical Plant: Chewing Gum","chemical_plant:_chewing_gum","colony01","2","True","[{""Amount"": 1, ""Product"": ""caoutchouc"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""sugar"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""cinnamon"", ""StorageAmount"": 5}]","[{""Amount"": 800, ""InactiveAmount"": 400, ""Product"": ""coins""}, {""Amount"": 125, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""chewing_gum"", ""StorageAmount"": 10}]"
-"135134","Chemical Plant: Ethanol","chemical_plant:_ethanol","colony01","2","True","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""corn"", ""StorageAmount"": 5}]","[{""Amount"": 800, ""InactiveAmount"": 400, ""Product"": ""coins""}, {""Amount"": 125, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""ethanol"", ""StorageAmount"": 10}]"
-"135224","Chemical Plant: Celluloid","chemical_plant:_celluloid","colony01","2","True","[{""Amount"": 1, ""Product"": ""cotton"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""camphor_wax"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""ethanol"", ""StorageAmount"": 5}]","[{""Amount"": 800, ""InactiveAmount"": 400, ""Product"": ""coins""}, {""Amount"": 125, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""celluloid"", ""StorageAmount"": 10}]"
-"5457","Nandu Farm","nandu_farm","colony01","2","False","[]","[{""Amount"": 5, ""InactiveAmount"": 3, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""nandu_leather"", ""StorageAmount"": 4}]"
-"5463","Herb Garden","herb_garden","colony01","2","True","[]","[{""Amount"": 5, ""InactiveAmount"": 3, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""herbs"", ""StorageAmount"": 4}]"
-"5814","Orchid Farm","orchid_farm","colony01","2","False","[]","[{""Amount"": 5, ""InactiveAmount"": 3, ""Product"": ""coins""}, {""Amount"": 10, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""orchid"", ""StorageAmount"": 4}]"
-"7919","Calamari Fishery","calamari_fishery","colony01","1","False","[]","[{""Amount"": 150, ""InactiveAmount"": 75, ""Product"": ""coins"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 0, ""TemplateName"": ""FarmBuilding""}}}}, {""Amount"": 25, ""Product"": ""jornalero_workforce"", ""VectorElement"": {""InheritanceMapV2"": {""Entry"": {""Index"": 1, ""TemplateName"": ""FarmBuilding""}}}}]","[{""Amount"": 1, ""Product"": ""calamari"", ""StorageAmount"": 4}]"
-"6080","Furnace","furnace","colony01","2","","[{""Amount"": 1, ""Product"": ""iron"", ""StorageAmount"": 8}, {""Amount"": 1, ""Product"": ""coal"", ""StorageAmount"": 6}]","[{""Amount"": 100, ""InactiveAmount"": 50, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 4}]"
-"6083","Sewing Machine Factory","sewing_machine_factory","colony01","2","","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 8}, {""Amount"": 1, ""Product"": ""aluminium_profiles"", ""StorageAmount"": 6}]","[{""Amount"": 500, ""InactiveAmount"": 250, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""artista_workforce""}]","[{""Amount"": 1, ""Product"": ""sewing_machines"", ""StorageAmount"": 4}]"
-"6279","Cable Factory","cable_factory","colony01","1","False","[{""Amount"": 1, ""Product"": ""copper"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""caoutchouc"", ""StorageAmount"": 4}]","[{""Amount"": 725, ""InactiveAmount"": 367, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""electric_cables"", ""StorageAmount"": 2}]"
-"5458","Jalea Kitchen","jalea_kitchen","colony01","2","True","[{""Amount"": 1, ""Product"": ""calamari"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""herbs"", ""StorageAmount"": 4}, {""Amount"": 1, ""Product"": ""corn"", ""StorageAmount"": 4}]","[{""Amount"": 150, ""InactiveAmount"": 75, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""artista_workforce""}]","[{""Amount"": 1, ""Product"": ""jalea"", ""StorageAmount"": 4}]"
-"5459","Ice Cream Factory","ice_cream_factory","colony01","1","False","[{""Amount"": 1, ""Product"": ""milk"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""chocolate"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""citrus"", ""StorageAmount"": 6}]","[{""Amount"": 200, ""InactiveAmount"": 100, ""Product"": ""coins""}, {""Amount"": 100, ""Product"": ""artista_workforce""}]","[{""Amount"": 1, ""Product"": ""ice_cream"", ""StorageAmount"": 4}]"
-"6594","Mezcal Bar","mezcal_bar","colony01","2","True","[{""Amount"": 1, ""Product"": ""citrus"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""sugar"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""herbs"", ""StorageAmount"": 6}]","[{""Amount"": 150, ""InactiveAmount"": 75, ""Product"": ""coins""}, {""Amount"": 25, ""Product"": ""artista_workforce""}]","[{""Amount"": 1, ""Product"": ""mezcal"", ""StorageAmount"": 4}]"
-"5658","Scooter Factory","scooter_factory","colony01","0.5","False","[{""Amount"": 1, ""Product"": ""motor"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""pigments"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""caoutchouc"", ""StorageAmount"": 6}]","[{""Amount"": 2000, ""InactiveAmount"": 1000, ""Product"": ""coins""}, {""Amount"": 200, ""Product"": ""artista_workforce""}]","[{""Amount"": 1, ""Product"": ""scooter"", ""StorageAmount"": 4}]"
-"5659","Motor Assembly Plant","motor_assembly_plant","colony01","1","True","[{""Amount"": 1, ""Product"": ""electric_cables"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""celluloid"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 6}]","[{""Amount"": 400, ""InactiveAmount"": 200, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""motor"", ""StorageAmount"": 4}]"
-"5862","Fan Factory","fan_factory","colony01","1","","[{""Amount"": 1, ""Product"": ""motor"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""aluminium_profiles"", ""StorageAmount"": 6}]","[{""Amount"": 500, ""InactiveAmount"": 250, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""artista_workforce""}]","[{""Amount"": 1, ""Product"": ""fans"", ""StorageAmount"": 4}]"
-"1388","Mineral Mine","mineral_mine","colony01","4","","[]","[{""Amount"": 300, ""InactiveAmount"": 150, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 180, ""Product"": ""jornalero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""iron"", ""StorageAmount"": 8, ""VectorElement"": null}]"
-"1390","Mineral Mine","mineral_mine","colony01","4","False","[]","[{""Amount"": 500, ""InactiveAmount"": 250, ""Product"": ""coins"", ""VectorElement"": null}, {""Amount"": 120, ""Product"": ""obrero_workforce"", ""VectorElement"": null}]","[{""Amount"": 1, ""Product"": ""minerals"", ""StorageAmount"": 6, ""VectorElement"": null}]"
-"5657","Perfume Mixer","perfume_mixer","colony01","1","False","[{""Amount"": 1, ""Product"": ""orchid"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""ethanol"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""coconut_oil"", ""StorageAmount"": 6}]","[{""Amount"": 200, ""InactiveAmount"": 100, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""artista_workforce""}]","[{""Amount"": 1, ""Product"": ""perfumes"", ""StorageAmount"": 4}]"
-"5879","Ball Manufactory","ball_manufactory","colony01","2","False","[{""Amount"": 1, ""Product"": ""nandu_leather"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""caoutchouc"", ""StorageAmount"": 6}]","[{""Amount"": 15, ""InactiveAmount"": 8, ""Product"": ""coins""}, {""Amount"": 30, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""soccer_balls"", ""StorageAmount"": 4}]"
-"5933","Costume Shop","costume_shop","colony01","1","False","[{""Amount"": 1, ""Product"": ""cotton_fabric"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""pigments"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""nandu_feathers"", ""StorageAmount"": 4}]","[{""Amount"": 250, ""InactiveAmount"": 125, ""Product"": ""coins""}, {""Amount"": 50, ""Product"": ""artista_workforce""}]","[{""Amount"": 1, ""Product"": ""costumes"", ""StorageAmount"": 4}]"
-"5828","Chemical Plant: Film Reels","chemical_plant:_film_reels","colony01","2","True","[{""Amount"": 1, ""Product"": ""saltpeter"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""celluloid"", ""StorageAmount"": 5}]","[{""Amount"": 800, ""InactiveAmount"": 400, ""Product"": ""coins""}, {""Amount"": 125, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""film_reel"", ""StorageAmount"": 10}]"
-"6630","Arsenal: Police Equipment","arsenal:_police_equipment","colony01","1","True","[{""Amount"": 1, ""Product"": ""wood"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 5}, {""Amount"": 1, ""Product"": ""cotton_fabric"", ""StorageAmount"": 5}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 300, ""Product"": ""jornalero_workforce""}]","[{""Amount"": 1, ""Product"": ""police_equipment"", ""StorageAmount"": 10}]"
-"6629","Laboratory: Fire Extinguisher","laboratory:_fire_extinguisher","colony01","1.3333333333333335","False","[{""Amount"": 1, ""Product"": ""steel"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""caoutchouc"", ""StorageAmount"": 3}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 300, ""Product"": ""obrero_workforce""}]","[{""Amount"": 1, ""Product"": ""fire_extinguishers"", ""StorageAmount"": 3}]"
-"6631","Laboratory: Medicine","laboratory:_medicine","colony01","1.3333333333333335","False","[{""Amount"": 1, ""Product"": ""herbs"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""orchid"", ""StorageAmount"": 3}, {""Amount"": 1, ""Product"": ""ethanol"", ""StorageAmount"": 3}]","[{""Amount"": 600, ""InactiveAmount"": 300, ""Product"": ""coins""}, {""Amount"": 300, ""Product"": ""artista_workforce""}]","[{""Amount"": 1, ""Product"": ""medicine"", ""StorageAmount"": 3}]"
-"5462","Laboratory: Pigments","laboratory:_pigments","colony01","1.3333333333333335","False","[{""Amount"": 1, ""Product"": ""minerals"", ""StorageAmount"": 6}, {""Amount"": 1, ""Product"": ""saltpeter"", ""StorageAmount"": 6}]","[{""Amount"": 150, ""InactiveAmount"": 75, ""Product"": ""coins""}, {""Amount"": 150, ""Product"": ""artista_workforce""}]","[{""Amount"": 1, ""Product"": ""pigments"", ""StorageAmount"": 4}]"
-"8027","Powered Pasture","powered_pasture","colony01","0.25","","[]","[]","[{""Amount"": 1, ""Product"": ""saltpeter"", ""StorageAmount"": 1}]"
-"8002","Powered Pasture","powered_pasture","colony01","1","","[]","[]","[{""Amount"": 1, ""Product"": ""milk"", ""StorageAmount"": 1}]"
-"8026","Powered Pasture","powered_pasture","colony01","0.5","True","[]","[]","[{""Amount"": 1, ""Product"": ""nandu_feathers"", ""StorageAmount"": 1}]"
-"190872","","","colony01","0.6666666666666666","","[]","[]","[{""Amount"": 1, ""Product"": ""dung""}]"
+guid;iconPath
+4100010;icons\data\ui\2kimages\main\3dicons\icon_anarchist.png
+410040;icons\data\ui\2kimages\main\3dicons\icon_dlc_sunken_treasure_256.png
+410041;icons\data\ui\2kimages\main\3dicons\icon_dlc_botanica_256.png
+410042;icons\data\ui\2kimages\main\3dicons\icon_dlc_passage_256.png
+410059;icons\data\ui\2kimages\main\3dicons\icon_dlc_palace_256.png
+410070;icons\data\ui\2kimages\main\3dicons\icon_dlc_bright_harvest_256.png
+410071;icons\data\ui\2kimages\main\3dicons\icon_dlc_land_of_lions_256.png
+410083;icons\data\ui\2kimages\main\3dicons\icon_dlc_docklands_256.png
+410084;icons\data\ui\2kimages\main\3dicons\icon_dlc_tourist_season_256.png
+410085;icons\data\ui\2kimages\main\3dicons\icon_dlc_high_life_256.png
+24961;icons\data\ui\2kimages\main\3dicons\icon_dlc_seeds_of_change_256.png
+24962;icons\data\ui\2kimages\main\3dicons\icon_dlc_empire_of_the_skies_256.png
+24963;icons\data\ui\2kimages\main\3dicons\icon_dlc_new_world_rising_256.png
+24798;icons\data\ui\2kimages\main\3dicons\icon_cane_sugar_1.png
+25003;icons\data\ui\2kimages\main\3dicons\icon_corn.png
+25005;icons\data\ui\2kimages\main\3dicons\icon_coffee_beans.png
+25006;icons\data\ui\2kimages\main\3dicons\icon_caoutchouc.png
+25009;C:\Users\leapr\OneDrive\Documents\github\Anno_1800_Data\icons\data\ui\2kimages\main\3dicons\icon_cocoa.png
+25019;icons\data\ui\2kimages\main\3dicons\icon_potatoes.png
+25020;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_spices.png
+25128;icons\data\ui\2kimages\main\3dicons\icon_cereals_2.png
+24801;icons\data\ui\2kimages\main\3dicons\icon_rum_barrel.png
+25064;icons\data\ui\2kimages\main\3dicons\icon_beer.png
+25126;icons\data\ui\2kimages\main\3dicons\scenario\goods\icon_atole.png
+25350;icons\data\ui\2kimages\main\3dicons\icon_schnapps_4.png
+25508;icons\data\ui\2kimages\main\3dicons\icon_tabasco_sauce.png
+24805;icons\data\ui\2kimages\main\3dicons\hacienda\icon_hacienda_module_fertiliser.png
+1010262;icons\data\ui\2kimages\main\3dicons\icon_cereals_2.png
+1010263;icons\data\ui\2kimages\main\3dicons\icon_meat_raw.png
+1010264;icons\data\ui\2kimages\main\3dicons\icon_hops.png
+1010265;icons\data\ui\2kimages\main\3dicons\icon_potatoes.png
+1010266;icons\data\ui\2kimages\main\3dicons\icon_wood_log.png
+1010267;icons\data\ui\2kimages\main\3dicons\icon_wool.png
+1010269;icons\data\ui\2kimages\main\3dicons\icon_pigs.png
+1010558;icons\data\ui\2kimages\main\3dicons\icon_fur.png
+100654;icons\data\ui\2kimages\main\3dicons\icon_pepper.png
+100655;icons\data\ui\2kimages\main\3dicons\icon_grapes.png
+1010278;icons\data\ui\2kimages\main\3dicons\icon_fish.png
+1010310;icons\data\ui\2kimages\main\3dicons\icon_niter.png
+1010560;icons\data\ui\2kimages\main\3dicons\icon_quartz_sand.png
+1010280;icons\data\ui\2kimages\main\3dicons\icon_reinforced_concrete.png
+1010281;icons\data\ui\2kimages\main\3dicons\icon_soap_2.png
+1010283;icons\data\ui\2kimages\main\3dicons\icon_bricks.png
+100451;icons\data\ui\2kimages\main\3dicons\icon_wooden_planks.png
+1010325;icons\data\ui\2kimages\main\3dicons\icon_fur_coats.png
+1010286;icons\data\ui\2kimages\main\3dicons\icon_light_bulb.png
+1010285;icons\data\ui\2kimages\main\3dicons\icon_glass_window_3.png
+1010288;icons\data\ui\2kimages\main\3dicons\icon_sail.png
+100416;icons\data\ui\2kimages\main\3dicons\icon_clay.png
+1010289;icons\data\ui\2kimages\main\3dicons\icon_chassis.png
+1010291;icons\data\ui\2kimages\main\3dicons\icon_bread.png
+1010292;icons\data\ui\2kimages\main\3dicons\icon_beer.png
+1010293;icons\data\ui\2kimages\main\3dicons\icon_goulash_01.png
+1010295;icons\data\ui\2kimages\main\3dicons\icon_canned_goulash.png
+1010294;icons\data\ui\2kimages\main\3dicons\icon_schnapps_4.png
+1010316;icons\data\ui\2kimages\main\3dicons\icon_meat_sausage.png
+100659;icons\data\ui\2kimages\main\3dicons\icon_champagne.png
+1010296;icons\data\ui\2kimages\main\3dicons\icon_beams.png
+1010297;icons\data\ui\2kimages\main\3dicons\icon_steel.png
+1010298;icons\data\ui\2kimages\main\3dicons\icon_coal_burn.png
+1010299;icons\data\ui\2kimages\main\3dicons\icon_weapons.png
+1010301;icons\data\ui\2kimages\main\3dicons\icon_advanced_weaponry.png
+1010302;icons\data\ui\2kimages\main\3dicons\icon_steam_machine.png
+1010303;icons\data\ui\2kimages\main\3dicons\icon_steam_carriage.png
+1010282;icons\data\ui\2kimages\main\3dicons\icon_brass.png
+101331;icons\data\ui\2kimages\main\3dicons\icon_oil.png
+1010304;icons\data\ui\2kimages\main\3dicons\icon_coal_2.png
+1010305;icons\data\ui\2kimages\main\3dicons\icon_iron.png
+1010307;icons\data\ui\2kimages\main\3dicons\icon_tin_ore.png
+1010308;icons\data\ui\2kimages\main\3dicons\icon_copper.png
+1010309;icons\data\ui\2kimages\main\3dicons\icon_cement.png
+1010312;icons\data\ui\2kimages\main\3dicons\icon_tallow.png
+1010313;icons\data\ui\2kimages\main\3dicons\icon_flour.png
+1010314;icons\data\ui\2kimages\main\3dicons\icon_malt.png
+1010315;icons\data\ui\2kimages\main\3dicons\icon_working_cloth.png
+1010300;icons\data\ui\2kimages\main\3dicons\icon_dynamite.png
+1010319;icons\data\ui\2kimages\main\3dicons\icon_glass.png
+1010320;icons\data\ui\2kimages\main\3dicons\icon_inlay.png
+1010321;icons\data\ui\2kimages\main\3dicons\icon_carbon_filament.png
+1010323;icons\data\ui\2kimages\main\3dicons\icon_high_wheeler.png
+1010324;icons\data\ui\2kimages\main\3dicons\icon_pocket_watch.png
+1010284;icons\data\ui\2kimages\main\3dicons\icon_sewing_machine.png
+1010326;icons\data\ui\2kimages\main\3dicons\icon_phonographs.png
+1010327;icons\data\ui\2kimages\main\3dicons\icon_gold.png
+1010328;icons\data\ui\2kimages\main\3dicons\icon_jewelry.png
+101250;icons\data\ui\2kimages\main\3dicons\icon_glasses.png
+1010329;icons\data\ui\2kimages\main\3dicons\icon_cane_sugar_1.png
+1010330;icons\data\ui\2kimages\main\3dicons\icon_tobacco.png
+1010331;icons\data\ui\2kimages\main\3dicons\icon_cotton.png
+1010332;icons\data\ui\2kimages\main\3dicons\icon_cocoa.png
+1010333;icons\data\ui\2kimages\main\3dicons\icon_caoutchouc.png
+101251;icons\data\ui\2kimages\main\3dicons\icon_coffee_beans.png
+101263;icons\data\ui\2kimages\main\3dicons\icon_banana.png
+101269;icons\data\ui\2kimages\main\3dicons\icon_meat_raw.png
+101270;icons\data\ui\2kimages\main\3dicons\icon_corn.png
+101272;icons\data\ui\2kimages\main\3dicons\icon_alpaca_wool.png
+1010339;icons\data\ui\2kimages\main\3dicons\icon_pearls.png
+101262;icons\data\ui\2kimages\main\3dicons\icon_fishoil.png
+1010318;icons\data\ui\2kimages\main\3dicons\icon_cotton_fur.png
+101415;icons\data\ui\2kimages\main\3dicons\icon_felt.png
+101273;icons\data\ui\2kimages\main\3dicons\icon_bowler_hat.png
+1010340;icons\data\ui\2kimages\main\3dicons\icon_rum_barrel.png
+1010341;icons\data\ui\2kimages\main\3dicons\icon_chocolate.png
+101252;icons\data\ui\2kimages\main\3dicons\icon_coffe_cup.png
+101264;icons\data\ui\2kimages\main\3dicons\icon_fried_bananas.png
+101271;icons\data\ui\2kimages\main\3dicons\icon_burrito.png
+1010317;icons\data\ui\2kimages\main\3dicons\icon_salt.png
+101266;icons\data\ui\2kimages\main\3dicons\icon_poncho.png
+1010342;icons\data\ui\2kimages\main\3dicons\icon_cigars.png
+114703;icons\data\ui\2kimages\main\3dicons\icon_wood_log.png
+112667;icons\data\ui\2kimages\main\3dicons\icon_reindeer_meat.png
+112676;icons\data\ui\2kimages\main\3dicons\icon_goose_feathers.png
+112673;icons\data\ui\2kimages\main\3dicons\icon_bear_fur.png
+112682;icons\data\ui\2kimages\main\3dicons\animals\icon_husky.png
+116034;icons\data\ui\2kimages\main\3dicons\icon_fur.png
+114705;icons\data\ui\2kimages\main\3dicons\icon_coal_burn.png
+112666;icons\data\ui\2kimages\main\3dicons\icon_whale_oil_2.png
+112674;icons\data\ui\2kimages\main\3dicons\icon_seal_skin.png
+114704;icons\data\ui\2kimages\main\3dicons\icon_wooden_planks.png
+112675;icons\data\ui\2kimages\main\3dicons\icon_sleeping_bags.png
+112679;icons\data\ui\2kimages\main\3dicons\icon_oil_lamps.png
+112672;icons\data\ui\2kimages\main\3dicons\icon_fur_parka.png
+112681;icons\data\ui\2kimages\main\3dicons\icon_sled_frame.png
+112680;icons\data\ui\2kimages\main\3dicons\icon_sled.png
+112668;icons\data\ui\2kimages\main\3dicons\icon_pemmican.png
+112690;icons\data\ui\2kimages\main\3dicons\icon_gas_red.png
+116029;icons\data\ui\2kimages\main\3dicons\icon_gold_ore.png
+118571;icons\data\ui\2kimages\main\3dicons\icon_gasoline.png
+269840;icons\data\ui\2kimages\main\3dicons\icon_gasoline.png
+119028;icons\data\ui\2kimages\main\3dicons\icon_gasoline.png
+133004;icons\data\ui\2kimages\main\3dicons\icon_coconut.png
+133030;icons\data\ui\2kimages\main\3dicons\icon_cinamon.png
+133031;icons\data\ui\2kimages\main\3dicons\icon_citrus.png
+134614;icons\data\ui\2kimages\main\3dicons\icon_cellulose.png
+924;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_bomb_b.png
+934;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_seamines.png
+935;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_pamphlets.png
+936;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_care_packages.png
+1345;icons\data\ui\2kimages\main\3dicons\icon_coal_burn.png
+1418;icons\data\ui\2kimages\main\3dicons\icon_industrial_lubricant_a.png
+835;icons\data\ui\2kimages\main\3dicons\icon_aluminium.png
+906;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_bomb_b.png
+907;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_seamines.png
+908;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_pamphlets.png
+916;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_care_packages.png
+915;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_water.png
+1308;icons\data\ui\2kimages\main\3dicons\icon_bauxit.png
+1353;icons\data\ui\2kimages\main\3dicons\icon_helium.png
+122963;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_wansa_wood.png
+114448;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_linen_farm.png
+114447;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_hibiscus_farm.png
+114450;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_teff_grass.png
+114451;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_indigo.png
+114452;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_spices.png
+114453;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_beeswax.png
+114439;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_watusi.png
+114456;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_goat_milk.png
+114440;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_salt.png
+118729;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_seafood.png
+117743;icons\data\ui\2kimages\main\3dicons\icon_clay.png
+117744;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_paper.png
+114441;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_linen_fabric.png
+114459;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_teff_flour.png
+114461;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_candles.png
+114444;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_dried_meat.png
+114466;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_traditional_clothing.png
+114468;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_hibiscus_tea.png
+118725;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_ceramics.png
+114469;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_tapestries.png
+114467;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_mud_bricks.png
+114471;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_wat_stew.png
+114472;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_tobacco_pipes.png
+114470;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_scriptures.png
+114464;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_lanterns.png
+118733;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_leather_shoes.png
+118734;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_suits.png
+118735;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_telephones.png
+124738;icons\data\ui\2kimages\main\3dicons\icon_coffe_cup.png
+124737;icons\data\ui\2kimages\main\3dicons\icon_rum_barrel.png
+124739;icons\data\ui\2kimages\main\3dicons\icon_cotton_fur.png
+132777;icons\data\ui\2kimages\main\3dicons\icon_lemonade.png
+132786;icons\data\ui\2kimages\main\3dicons\icon_shampoo.png
+133533;icons\data\ui\2kimages\main\3dicons\icon_souvenir.png
+133496;icons\data\ui\2kimages\main\3dicons\icon_jam.png
+135088;icons\data\ui\2kimages\main\3dicons\icon_cherry_wood.png
+135085;icons\data\ui\2kimages\main\3dicons\icon_wood_resin.png
+134622;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_elevator.png
+135361;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_cookie.png
+135148;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_typewriter.png
+135133;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_lacquer.png
+135418;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_cognac.png
+135397;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_violin.png
+135407;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_billard.png
+135669;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_toys.png
+135185;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_bubble_gum.png
+135134;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_ethanol.png
+135224;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_celluloid.png
+5457;icons\data\ui\2kimages\main\3dicons\production_goods\icon_nandu_leather.png
+5463;icons\data\ui\2kimages\main\3dicons\production_goods\icon_herbs_with_flower.png
+5814;icons\data\ui\2kimages\main\3dicons\production_goods\icon_orchid.png
+7919;icons\data\ui\2kimages\main\3dicons\production_goods\icon_squid.png
+6080;icons\data\ui\2kimages\main\3dicons\icon_steel.png
+6083;icons\data\ui\2kimages\main\3dicons\icon_sewing_machine.png
+6279;icons\data\ui\2kimages\main\3dicons\scenario\goods\icon_electric_cable_3.png
+5458;icons\data\ui\2kimages\main\3dicons\production_goods\icon_jalea.png
+5459;icons\data\ui\2kimages\main\3dicons\production_goods\icon_icecream_cone.png
+6594;icons\data\ui\2kimages\main\3dicons\production_goods\icon_mezcal.png
+5658;icons\data\ui\2kimages\main\3dicons\production_goods\icon_scooter.png
+5659;icons\data\ui\2kimages\main\3dicons\production_goods\icon_motor.png
+5862;icons\data\ui\2kimages\main\3dicons\production_goods\icon_ventilator.png
+1388;icons\data\ui\2kimages\main\3dicons\icon_iron.png
+1390;icons\data\ui\2kimages\main\3dicons\production_goods\icon_minerals.png
+5657;icons\data\ui\2kimages\main\3dicons\production_goods\icon_perfume.png
+5879;icons\data\ui\2kimages\main\3dicons\production_goods\icon_ballsports.png
+5933;icons\data\ui\2kimages\main\3dicons\production_goods\icon_costumes.png
+5828;icons\data\ui\2kimages\main\3dicons\production_goods\icon_film_role.png
+6630;icons\data\ui\2kimages\main\3dicons\recipes\icon_police_equipment.png
+6629;icons\data\ui\2kimages\main\3dicons\production_goods\icon_extinguisher.png
+6631;icons\data\ui\2kimages\main\3dicons\production_goods\icon_medicine.png
+5462;icons\data\ui\2kimages\main\3dicons\production_goods\icon_pigments.png
+8027;icons\data\ui\2kimages\main\3dicons\icon_niter.png
+8002;icons\data\ui\2kimages\main\3dicons\icon_sheep_milk.png
+8026;icons\data\ui\2kimages\main\3dicons\production_goods\icon_nandu_feathers.png
+190872;icons\data\ui\2kimages\main\3dicons\icon_dung.png
+190619;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_fisherman_102.png
+190620;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_pearl_diver_201.png
+190621;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_worker_414.png
+190622;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_navigator_102.png
+190625;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_206.png
+190626;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_201_c.png
+190627;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_106.png
+190628;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_101.png
+190630;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_401_b.png
+190632;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_102.png
+190642;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_teacher_805.png
+190643;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_torcedor_512.png
+190689;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_farmer_201.png
+190690;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_farmer_403.png
+190691;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normaldress_308.png
+190692;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_farmer_105.png
+190693;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_farmer_102_b.png
+190742;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_explorer_716.png
+190737;icons\data\ui\2kimages\main\3dicons\specialists\icon_hunter_native.png
+190738;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_forester_401.png
+190743;icons\data\ui\2kimages\main\3dicons\specialists\icon_hunter_common.png
+190750;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_farmer_302.png
+190751;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_105.png
+190761;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_104.png
+191309;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_travelagent_723.png
+191310;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_206.png
+191318;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_worker_418.png
+191319;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_206.png
+191323;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_407.png
+191324;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_108.png
+191327;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normaldress_304.png
+191348;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_409.png
+191328;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_401.png
+192039;icons\data\ui\2kimages\main\3dicons\specialists\icon_boris_franke.png
+191329;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normaldress_810.png
+191345;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_601.png
+191349;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_entertainer_508.png
+191346;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_602.png
+191347;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_teacher_515.png
+191331;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_101.png
+191332;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_202_b.png
+191356;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_201.png
+191333;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_401.png
+191334;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_102.png
+191375;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_106.png
+191353;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_401.png
+191376;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_worker_109.png
+191354;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_202.png
+191355;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_102.png
+191369;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normaldress_815.png
+191370;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_welldress_812.png
+191371;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_curator_702.png
+191383;icons\data\ui\2kimages\main\3dicons\specialists\icon_priest_uncommon.png
+191386;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_202_b.png
+191387;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_farmer_602.png
+191402;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_entertainer_508.png
+191403;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_101.png
+191401;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_402.png
+191388;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_102.png
+191404;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_401_c.png
+191406;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_201.png
+191407;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_401.png
+191400;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_baker_401.png
+191405;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_401.png
+191408;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_201.png
+191418;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_worker_206.png
+191419;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_401.png
+191420;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_406.png
+191424;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_202.png
+191422;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_205.png
+191425;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_carpenter_721.png
+191428;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_worker_204.png
+191430;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_worker_202.png
+191431;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_107.png
+191462;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_worker_205.png
+191463;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_worker_109.png
+191465;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_103.png
+191583;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_shepherd_519.png
+191584;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_207.png
+191590;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_106.png
+191591;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_204.png
+192443;icons\data\ui\2kimages\main\3dicons\specialists\influencer\icon_influencer_lewis_2.png
+193187;icons\data\ui\2kimages\main\3dicons\specialists\influencer\icon_influencer_alex_hancock.png
+116162;icons\data\ui\2kimages\main\3dicons\machine_items\icon_lamp_maker.png
+116163;icons\data\ui\2kimages\main\3dicons\machine_items\icon_electric_battery.png
+116164;icons\data\ui\2kimages\main\3dicons\machine_items\icon_berries_press.png
+116165;icons\data\ui\2kimages\main\3dicons\machine_items\icon_canning_machine.png
+116167;icons\data\ui\2kimages\main\3dicons\machine_items\icon_gas_extractor.png
+116185;icons\data\ui\2kimages\main\3dicons\machine_items\icon_cola_mola_machine.png
+116187;icons\data\ui\2kimages\main\3dicons\machine_items\icon_cigars_roller.png
+116189;icons\data\ui\2kimages\main\3dicons\machine_items\icon_ballon_radar.png
+116190;icons\data\ui\2kimages\main\3dicons\machine_items\icon_electric_potato_harvester.png
+24806;icons\data\ui\2kimages\main\3dicons\icon_dung.png
+7225;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_inuit_specialist_1003_a.png
+8347;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_shepherd_509.png
+8348;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_worker_328.png
+8351;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_forester_822.png
+8355;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_105.png
+8356;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_shepherd_510.png
+112879;icons\data\ui\2kimages\main\3dicons\consumables\icon_gold_ore_finder_3.png
+112880;icons\data\ui\2kimages\main\3dicons\consumables\icon_gold_ore_finder_2.png
+112881;icons\data\ui\2kimages\main\3dicons\consumables\icon_gold_ore_finder_1.png
+112882;icons\data\ui\2kimages\main\3dicons\consumables\icon_ore_finder_3.png
+112883;icons\data\ui\2kimages\main\3dicons\consumables\icon_ore_finder_2.png
+112884;icons\data\ui\2kimages\main\3dicons\consumables\icon_ore_finder_1.png
+112885;icons\data\ui\2kimages\main\3dicons\consumables\icon_oil_extractor_3.png
+112886;icons\data\ui\2kimages\main\3dicons\consumables\icon_oil_extractor_2.png
+112887;icons\data\ui\2kimages\main\3dicons\consumables\icon_oil_extractor_1.png
+113799;icons\data\ui\2kimages\main\3dicons\specialists\systemic\sunken_treasure_rewards\icon_coffee_specialist_800.png
+116132;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_inuit_specialist_1000.png
+116144;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_inuit_specialist_901b.png
+116152;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_inuit_specialist_1005_b.png
+116153;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_inuit_specialist_904.png
+116154;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_inuit_specialist_1004.png
+125112;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_herder_1.png
+125118;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_innkeeper_2.png
+125122;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_enbesan_cook_3b.png
+125124;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_ewahedo_faith_2.png
+125128;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_traditional_handcraft_3b.png
+125129;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_water_use_expert_1.png
+125133;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_keeper_of_tradition_2.png
+125138;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_tailor_2.png
+125139;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_tailor_3.png
+136739;icons\data\ui\2kimages\main\3dicons\highlife\icon_plantation_item_2.png
+136746;icons\data\ui\2kimages\main\3dicons\highlife\icon_chemical_plant_item_2.png
+136647;icons\data\ui\2kimages\main\3dicons\specialists\highlife\icon_specialist_chef_1.png
+136649;icons\data\ui\2kimages\main\3dicons\specialists\highlife\icon_specialist_chef_3.png
+958;icons\data\ui\2kimages\main\3dicons\specialists\empireofskies\icon_combustion_chemist.png
+1772;icons\data\ui\2kimages\main\3dicons\specialists\empireofskies\icon_cold_fracking_expert_a.png
+1964;icons\data\ui\2kimages\main\3dicons\specialists\empireofskies\icon_nw_dung_collector.png
+1897;icons\data\ui\2kimages\main\3dicons\specialists\empireofskies\icon_synthesis_expert.png
+1966;icons\data\ui\2kimages\main\3dicons\specialists\empireofskies\icon_enbesa_dung_collector.png
+1961;icons\data\ui\2kimages\main\3dicons\specialists\empireofskies\icon_top_soil_scientist_sa.png
+1956;icons\data\ui\2kimages\main\3dicons\specialists\empireofskies\icon_top_soil_scientist_eu.png
+1948;icons\data\ui\2kimages\main\3dicons\specialists\empireofskies\icon_explosive_expert.png
+2223;icons\data\ui\2kimages\main\3dicons\specialists\empireofskies\icon_warm_fracking_expert.png
+2224;icons\data\ui\2kimages\main\3dicons\specialists\empireofskies\icon_scientist_mineralogist.png
+1895;icons\data\ui\2kimages\main\3dicons\specialists\empireofskies\icon_emergency_military.png
+8908;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_doctor_518.png
+136823;icons\data\ui\2kimages\main\3dicons\highlife\icon_plantation_item_2_sa.png
+136819;icons\data\ui\2kimages\main\3dicons\highlife\icon_plantation_item_3_sa.png
+136827;icons\data\ui\2kimages\main\3dicons\highlife\icon_chemical_plant_item_1.png
+137631;icons\data\ui\2kimages\main\3dicons\highlife\icon_assembly_line_item_new_2.png
+136885;icons\data\ui\2kimages\main\3dicons\specialists\highlife\icon_specialist_mall_01.png
+270041;icons\data\ui\2kimages\main\3dicons\icon_om_tractor.png
+25240;icons\data\ui\2kimages\main\3dicons\icon_silo.png
+25241;icons\data\ui\2kimages\main\3dicons\icon_silo.png
+25242;icons\data\ui\2kimages\main\3dicons\icon_silo.png
+269837;icons\data\ui\2kimages\main\3dicons\icon_tractor.png
+269839;icons\data\ui\2kimages\main\3dicons\icon_tractor.png
+269957;icons\data\ui\2kimages\main\3dicons\icon_silo.png
+269848;icons\data\ui\2kimages\main\3dicons\icon_tractor.png
+269849;icons\data\ui\2kimages\main\3dicons\icon_tractor.png
+269958;icons\data\ui\2kimages\main\3dicons\icon_silo.png
+119026;icons\data\ui\2kimages\main\3dicons\icon_tractor.png
+119027;icons\data\ui\2kimages\main\3dicons\icon_tractor.png
+119025;icons\data\ui\2kimages\main\3dicons\icon_silo.png
+25638;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25639;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25640;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25641;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25642;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25643;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25644;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25645;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25646;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25651;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25652;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25653;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25654;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25655;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25656;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25657;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+25658;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+112919;icons\data\ui\2kimages\main\3dicons\consumables\icon_oil_extractor_3.png
+112920;icons\data\ui\2kimages\main\3dicons\consumables\icon_oil_extractor_2.png
+269191;icons\data\ui\2kimages\main\3dicons\palace\icon_agricultural_subsidy.png
+269254;icons\data\ui\2kimages\main\3dicons\palace\icon_agricultural_subsidy.png
+269255;icons\data\ui\2kimages\main\3dicons\palace\icon_agricultural_subsidy.png
+269256;icons\data\ui\2kimages\main\3dicons\palace\icon_agricultural_subsidy.png
+269257;icons\data\ui\2kimages\main\3dicons\palace\icon_agricultural_subsidy.png
+269564;icons\data\ui\2kimages\main\3dicons\palace\icon_agricultural_subsidy.png
+269565;icons\data\ui\2kimages\main\3dicons\palace\icon_agricultural_subsidy.png
+269566;icons\data\ui\2kimages\main\3dicons\palace\icon_agricultural_subsidy.png
+269366;icons\data\ui\2kimages\main\3dicons\palace\icon_agricultural_subsidy.png
+269200;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+269275;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+269276;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+269277;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+269278;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+269279;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+269280;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+269281;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+269282;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+269399;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+280087;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+280088;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+280089;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+280090;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+280091;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+280092;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+280093;icons\data\ui\2kimages\main\3dicons\palace\icon_manufacturing_reform.png
+112641;icons\data\ui\2kimages\main\icons\icon_session_passage.png
+15000000;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_farmer.png
+15000001;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_worker.png
+15000002;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_artisan.png
+15000003;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_engineer.png
+15000004;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_investor.png
+15000005;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_jornalero.png
+15000006;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_obrera.png
+5403;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_artista.png
+601379;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_tourist.png
+112642;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_colony03_tier01.png
+112643;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_colony03_tier02.png
+114329;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_sheperd.png
+114330;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_elder.png
+118745;icons\data\ui\2kimages\main\3dicons\resident\icon_resident_scholars.png
+114751;icons\data\ui\2kimages\main\3dicons\icon_heating_center.png
+117547;icons\data\ui\2kimages\main\3dicons\icon_electric_works_gas.png
+100780;icons\data\ui\2kimages\main\3dicons\icon_electric_works_oil.png
+5164;icons\data\ui\2kimages\main\3dicons\icon_electric_works_coal.png
+502031;icons\data\ui\2kimages\main\icons\icon_session_moderate.png
+502052;icons\data\ui\2kimages\main\icons\icon_session_moderate.png
+502040;icons\data\ui\2kimages\main\icons\icon_session_moderate.png
+502046;icons\data\ui\2kimages\main\icons\icon_session_moderate.png
+1010017;icons\data\ui\2kimages\main\icons\icon_resource_money_4.png
+1010190;icons\data\ui\2kimages\main\icons\icon_influence.png
+25131;icons\data\ui\2kimages\main\3dicons\scenario\goods\icon_atole.png
+24807;icons\data\ui\2kimages\main\3dicons\icon_dung.png
+24808;icons\data\ui\2kimages\main\3dicons\scenario\goods\icon_fertilizer_good.png
+25506;icons\data\ui\2kimages\main\3dicons\icon_tabasco_sauce.png
+25546;icons\data\ui\2kimages\main\3dicons\hacienda\icon_hacienda_main.png
+103866;icons\data\ui\2kimages\main\3dicons\narative_item\empireofskies\icon_pile_of_letters.png
+120021;icons\data\ui\2kimages\main\3dicons\icon_coal.png
+1010566;icons\data\ui\2kimages\main\3dicons\icon_oil.png
+120022;icons\data\ui\2kimages\main\3dicons\icon_electricity.png
+119392;icons\data\ui\2kimages\main\icons\icon_research_resource.png
+1591;icons\data\ui\2kimages\main\3dicons\icon_mineral_desposits.png
+1955;icons\data\ui\2kimages\main\3dicons\icon_fertile_lands.png
+836;icons\data\ui\2kimages\main\3dicons\icon_bauxit.png
+838;icons\data\ui\2kimages\main\3dicons\icon_aluminium.png
+840;icons\data\ui\2kimages\main\3dicons\icon_helium.png
+1414;icons\data\ui\2kimages\main\3dicons\icon_industrial_lubricant_a.png
+846;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_bomb_b.png
+847;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_seamines.png
+848;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_pamphlets.png
+849;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_care_packages.png
+850;icons\data\ui\2kimages\main\3dicons\drop_goods\icon_dropgood_water.png
+917;icons\data\ui\2kimages\main\3dicons\icon_rich_sea_2.png
+535;icons\data\ui\2kimages\main\3dicons\mail\icon_letter_normal.png
+536;icons\data\ui\2kimages\main\3dicons\mail\icon_letter_delivered.png
+2524;icons\data\ui\2kimages\main\3dicons\mail\icon_letter_oversea.png
+4267;icons\data\ui\2kimages\main\3dicons\scenario\goods\icon_herbarium.png
+4268;icons\data\ui\2kimages\main\3dicons\narative_item\empireofskies\icon_valuable_sketches_b.png
+120020;icons\data\ui\2kimages\main\3dicons\icon_marketplace.png
+1010349;icons\data\ui\2kimages\main\3dicons\icon_pub.png
+1010350;icons\data\ui\2kimages\main\3dicons\icon_church.png
+1010351;icons\data\ui\2kimages\main\3dicons\icon_school.png
+1010352;icons\data\ui\2kimages\main\3dicons\icon_cabaret.png
+1010353;icons\data\ui\2kimages\main\3dicons\icon_university.png
+1010354;icons\data\ui\2kimages\main\3dicons\icon_electric_works_oil.png
+1010355;icons\data\ui\2kimages\main\3dicons\icon_club_house.png
+1010356;icons\data\ui\2kimages\main\3dicons\icon_bank.png
+120050;icons\data\ui\2kimages\main\3dicons\icon_church.png
+1010348;icons\data\ui\2kimages\main\3dicons\icon_box_arena.png
+112708;icons\data\ui\2kimages\main\3dicons\icon_heating_center.png
+112693;icons\data\ui\2kimages\main\3dicons\icon_post_office.png
+114890;icons\data\ui\2kimages\main\3dicons\icon_canteen.png
+269751;icons\data\ui\2kimages\main\icons\icon_gasoline_3d_outline.png
+270042;icons\data\ui\2kimages\main\3dicons\icon_gasoline.png
+133891;icons\data\ui\2kimages\main\3dicons\icon_visitor_harbour.png
+132751;icons\data\ui\2kimages\main\3dicons\icon_restaurant.png
+132754;icons\data\ui\2kimages\main\3dicons\icon_bar.png
+132755;icons\data\ui\2kimages\main\3dicons\icon_caffee.png
+133573;icons\data\ui\2kimages\main\3dicons\icon_cabaret.png
+601485;icons\data\ui\2kimages\main\3dicons\icon_zoo.png
+133535;icons\data\ui\2kimages\main\3dicons\icon_museum.png
+355;icons\data\ui\2kimages\main\3dicons\icon_botanic_garden.png
+134257;icons\data\ui\2kimages\main\3dicons\palace\icon_palace.png
+132761;icons\data\ui\2kimages\main\3dicons\icon_eiffel_tower.png
+133536;icons\data\ui\2kimages\main\3dicons\icon_world_fair_2.png
+134781;icons\data\ui\2kimages\main\3dicons\icon_docklands_main.png
+137757;icons\data\ui\2kimages\main\3dicons\icon_highlife_skyliner_monument.png
+135108;icons\data\ui\2kimages\main\3dicons\icon_mall.png
+135107;icons\data\ui\2kimages\main\3dicons\icon_furnitures.png
+135109;icons\data\ui\2kimages\main\3dicons\icon_drugstore.png
+2038;icons\data\ui\2kimages\main\3dicons\icon_settlement_rights_1.png
+5831;icons\data\ui\2kimages\main\3dicons\public_building\icon_samba_school.png
+5830;icons\data\ui\2kimages\main\3dicons\public_building\icon_cinema.png
+6261;icons\data\ui\2kimages\main\3dicons\city_institution\icon_police_advanced.png
+6262;icons\data\ui\2kimages\main\3dicons\city_institution\icon_fire_brigade_advanced.png
+6263;icons\data\ui\2kimages\main\3dicons\city_institution\icon_hospital_advanced.png
+6265;icons\data\ui\2kimages\main\3dicons\public_building\icon_beach.png
+1010192;icons\data\ui\2kimages\main\3dicons\icon_cereals_2.png
+1010193;icons\data\ui\2kimages\main\3dicons\icon_meat_raw.png
+1010194;icons\data\ui\2kimages\main\3dicons\icon_hops.png
+1010195;icons\data\ui\2kimages\main\3dicons\icon_potatoes.png
+120008;icons\data\ui\2kimages\main\3dicons\icon_wood_log.png
+1010197;icons\data\ui\2kimages\main\3dicons\icon_wool.png
+1010199;icons\data\ui\2kimages\main\3dicons\icon_pigs.png
+1010209;icons\data\ui\2kimages\main\3dicons\icon_fur.png
+120014;icons\data\ui\2kimages\main\3dicons\icon_grapes.png
+1010198;icons\data\ui\2kimages\main\3dicons\icon_pepper.png
+1010200;icons\data\ui\2kimages\main\3dicons\icon_fish.png
+1010232;icons\data\ui\2kimages\main\3dicons\icon_niter.png
+1010228;icons\data\ui\2kimages\main\3dicons\icon_quartz_sand.png
+1010202;icons\data\ui\2kimages\main\3dicons\icon_reinforced_concrete.png
+1010203;icons\data\ui\2kimages\main\3dicons\icon_soap_2.png
+1010196;icons\data\ui\2kimages\main\3dicons\icon_wooden_planks.png
+1010205;icons\data\ui\2kimages\main\3dicons\icon_bricks.png
+1010247;icons\data\ui\2kimages\main\3dicons\icon_fur_coats.png
+1010207;icons\data\ui\2kimages\main\3dicons\icon_glass_window_3.png
+1010208;icons\data\ui\2kimages\main\3dicons\icon_light_bulb.png
+1010210;icons\data\ui\2kimages\main\3dicons\icon_sail.png
+1010211;icons\data\ui\2kimages\main\3dicons\icon_chassis.png
+1010201;icons\data\ui\2kimages\main\3dicons\icon_clay.png
+1010206;icons\data\ui\2kimages\main\3dicons\icon_sewing_machine.png
+1010213;icons\data\ui\2kimages\main\3dicons\icon_bread.png
+1010214;icons\data\ui\2kimages\main\3dicons\icon_beer.png
+1010215;icons\data\ui\2kimages\main\3dicons\icon_goulash_01.png
+1010217;icons\data\ui\2kimages\main\3dicons\icon_canned_goulash.png
+1010216;icons\data\ui\2kimages\main\3dicons\icon_schnapps_4.png
+1010238;icons\data\ui\2kimages\main\3dicons\icon_meat_sausage.png
+120016;icons\data\ui\2kimages\main\3dicons\icon_champagne.png
+1010218;icons\data\ui\2kimages\main\3dicons\icon_beams.png
+1010219;icons\data\ui\2kimages\main\3dicons\icon_steel.png
+1010221;icons\data\ui\2kimages\main\3dicons\icon_weapons.png
+1010222;icons\data\ui\2kimages\main\3dicons\icon_dynamite.png
+1010223;icons\data\ui\2kimages\main\3dicons\icon_advanced_weaponry.png
+1010224;icons\data\ui\2kimages\main\3dicons\icon_steam_machine.png
+1010225;icons\data\ui\2kimages\main\3dicons\icon_steam_carriage.png
+1010204;icons\data\ui\2kimages\main\3dicons\icon_brass.png
+1010226;icons\data\ui\2kimages\main\3dicons\icon_coal.png
+1010227;icons\data\ui\2kimages\main\3dicons\icon_iron.png
+1010229;icons\data\ui\2kimages\main\3dicons\icon_tin_ore.png
+1010230;icons\data\ui\2kimages\main\3dicons\icon_copper.png
+1010231;icons\data\ui\2kimages\main\3dicons\icon_cement.png
+1010233;icons\data\ui\2kimages\main\3dicons\icon_gold_ore.png
+1010234;icons\data\ui\2kimages\main\3dicons\icon_tallow.png
+1010235;icons\data\ui\2kimages\main\3dicons\icon_flour.png
+1010236;icons\data\ui\2kimages\main\3dicons\icon_malt.png
+1010237;icons\data\ui\2kimages\main\3dicons\icon_working_cloth.png
+1010241;icons\data\ui\2kimages\main\3dicons\icon_glass.png
+1010242;icons\data\ui\2kimages\main\3dicons\icon_inlay.png
+1010243;icons\data\ui\2kimages\main\3dicons\icon_carbon_filament.png
+1010245;icons\data\ui\2kimages\main\3dicons\icon_high_wheeler.png
+1010246;icons\data\ui\2kimages\main\3dicons\icon_pocket_watch.png
+120030;icons\data\ui\2kimages\main\3dicons\icon_glasses.png
+1010248;icons\data\ui\2kimages\main\3dicons\icon_phonographs.png
+1010249;icons\data\ui\2kimages\main\3dicons\icon_gold.png
+1010250;icons\data\ui\2kimages\main\3dicons\icon_jewelry.png
+1010251;icons\data\ui\2kimages\main\3dicons\icon_cane_sugar_1.png
+1010252;icons\data\ui\2kimages\main\3dicons\icon_tobacco.png
+1010253;icons\data\ui\2kimages\main\3dicons\icon_cotton.png
+1010254;icons\data\ui\2kimages\main\3dicons\icon_cocoa.png
+1010255;icons\data\ui\2kimages\main\3dicons\icon_caoutchouc.png
+120031;icons\data\ui\2kimages\main\3dicons\icon_coffee_beans.png
+120034;icons\data\ui\2kimages\main\3dicons\icon_corn.png
+120036;icons\data\ui\2kimages\main\3dicons\icon_alpaca_wool.png
+120041;icons\data\ui\2kimages\main\3dicons\icon_banana.png
+1010256;icons\data\ui\2kimages\main\3dicons\icon_pearls.png
+120042;icons\data\ui\2kimages\main\3dicons\icon_fishoil.png
+120043;icons\data\ui\2kimages\main\3dicons\icon_poncho.png
+120044;icons\data\ui\2kimages\main\3dicons\icon_felt.png
+120037;icons\data\ui\2kimages\main\3dicons\icon_bowler_hat.png
+1010257;icons\data\ui\2kimages\main\3dicons\icon_rum_barrel.png
+1010258;icons\data\ui\2kimages\main\3dicons\icon_chocolate.png
+120032;icons\data\ui\2kimages\main\3dicons\icon_coffe_cup.png
+120033;icons\data\ui\2kimages\main\3dicons\icon_fried_bananas.png
+120035;icons\data\ui\2kimages\main\3dicons\icon_burrito.png
+1010239;icons\data\ui\2kimages\main\3dicons\icon_salt.png
+1010240;icons\data\ui\2kimages\main\3dicons\icon_cotton_fur.png
+1010259;icons\data\ui\2kimages\main\3dicons\icon_cigars.png
+112694;icons\data\ui\2kimages\main\3dicons\icon_reindeer_meat.png
+112697;icons\data\ui\2kimages\main\3dicons\icon_goose_feathers.png
+112695;icons\data\ui\2kimages\main\3dicons\icon_bear_fur.png
+112698;icons\data\ui\2kimages\main\3dicons\animals\icon_husky.png
+112699;icons\data\ui\2kimages\main\3dicons\icon_whale_oil_2.png
+112696;icons\data\ui\2kimages\main\3dicons\icon_seal_skin.png
+112705;icons\data\ui\2kimages\main\3dicons\icon_pemmican.png
+112702;icons\data\ui\2kimages\main\3dicons\icon_oil_lamps.png
+112701;icons\data\ui\2kimages\main\3dicons\icon_sleeping_bags.png
+112700;icons\data\ui\2kimages\main\3dicons\icon_fur_parka.png
+112704;icons\data\ui\2kimages\main\3dicons\icon_sled_frame.png
+112703;icons\data\ui\2kimages\main\3dicons\icon_sled.png
+112706;icons\data\ui\2kimages\main\3dicons\icon_gas_red.png
+115980;icons\data\ui\2kimages\main\3dicons\icon_passage_junk.png
+114355;icons\data\ui\2kimages\main\3dicons\icon_bazaar.png
+114361;icons\data\ui\2kimages\main\3dicons\icon_music_plaza.png
+114362;icons\data\ui\2kimages\main\3dicons\icon_monastery.png
+114425;icons\data\ui\2kimages\main\3dicons\icon_radio_station.png
+24821;icons\data\ui\2kimages\main\3dicons\machine_items\icon_fertilizer_1.png
+24824;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_bubble_gum.png
+24837;icons\data\ui\2kimages\main\3dicons\icon_gasoline.png
+24846;icons\data\ui\2kimages\main\3dicons\scenario\goods\icon_cyanide_leacher.png
+24850;icons\data\ui\2kimages\main\3dicons\scenario\goods\icon_silver_smelter.png
+24851;icons\data\ui\2kimages\main\3dicons\scenario\goods\icon_silver_coin_good.png
+24852;icons\data\ui\2kimages\main\3dicons\scenario\goods\icon_ammonia.png
+24863;icons\data\ui\2kimages\main\3dicons\icon_whale_oil_2.png
+25073;icons\data\ui\2kimages\main\3dicons\icon_rich_sea_2.png
+114356;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_wansa_wood.png
+114364;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_hibiscus_farm.png
+114365;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_linen_farm.png
+114367;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_teff_grass.png
+114368;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_indigo.png
+114369;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_spices.png
+114370;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_beeswax.png
+114357;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_watusi.png
+114371;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_goat_milk.png
+114358;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_salt.png
+117702;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_paper.png
+118728;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_seafood.png
+114391;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_linen_fabric.png
+114408;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_teff_flour.png
+117701;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_candles.png
+114359;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_dried_meat.png
+114401;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_traditional_clothing.png
+114390;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_hibiscus_tea.png
+114402;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_mud_bricks.png
+118724;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_ceramics.png
+114404;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_tapestries.png
+114410;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_wat_stew.png
+114414;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_tobacco_pipes.png
+117698;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_scriptures.png
+117699;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_lanterns.png
+114428;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_leather_shoes.png
+114430;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_suits.png
+114431;icons\data\ui\2kimages\main\3dicons\goods_africa\icon_telephones.png
+133183;icons\data\ui\2kimages\main\3dicons\icon_jam.png
+133181;icons\data\ui\2kimages\main\3dicons\icon_shampoo.png
+133185;icons\data\ui\2kimages\main\3dicons\icon_lemonade.png
+133532;icons\data\ui\2kimages\main\3dicons\icon_souvenir.png
+133093;icons\data\ui\2kimages\main\3dicons\icon_cinamon.png
+133095;icons\data\ui\2kimages\main\3dicons\icon_coconut.png
+133097;icons\data\ui\2kimages\main\3dicons\icon_citrus.png
+134616;icons\data\ui\2kimages\main\3dicons\icon_cellulose.png
+134623;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_elevator.png
+135229;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_cookie.png
+135230;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_typewriter.png
+135086;icons\data\ui\2kimages\main\3dicons\icon_wood_resin.png
+135087;icons\data\ui\2kimages\main\3dicons\icon_cherry_wood.png
+135129;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_lacquer.png
+135234;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_cognac.png
+135233;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_violin.png
+135232;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_billard.png
+135231;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_toys.png
+135186;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_bubble_gum.png
+135130;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_ethanol.png
+135150;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_celluloid.png
+135816;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_toaster.png
+135876;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_dishes.png
+135877;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_vacuumcleaner.png
+135878;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_refrigerator.png
+135879;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_suitcase.png
+135880;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_bankerlamp.png
+135881;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_paravent.png
+135882;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_secretary.png
+135883;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_canopy.png
+135884;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_chesterfield.png
+135885;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_toothpaste.png
+135886;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_detergent.png
+135887;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_lipstick.png
+135888;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_facecreme.png
+135889;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_pomade.png
+5383;icons\data\ui\2kimages\main\3dicons\production_goods\icon_herbs_with_flower.png
+5384;icons\data\ui\2kimages\main\3dicons\production_goods\icon_nandu_leather.png
+5401;icons\data\ui\2kimages\main\3dicons\production_goods\icon_nandu_feathers.png
+5385;icons\data\ui\2kimages\main\3dicons\icon_sheep_milk.png
+5386;icons\data\ui\2kimages\main\3dicons\production_goods\icon_orchid.png
+5380;icons\data\ui\2kimages\main\3dicons\production_goods\icon_squid.png
+5387;icons\data\ui\2kimages\main\3dicons\production_goods\icon_plusgood_bauxit.png
+5393;icons\data\ui\2kimages\main\3dicons\recipes\icon_extinguisher.png
+5394;icons\data\ui\2kimages\main\3dicons\recipes\icon_police_equipment.png
+5395;icons\data\ui\2kimages\main\3dicons\production_goods\icon_ventilator.png
+5397;icons\data\ui\2kimages\main\3dicons\production_goods\icon_medicine.png
+6280;icons\data\ui\2kimages\main\3dicons\scenario\goods\icon_electric_cable_3.png
+5381;icons\data\ui\2kimages\main\3dicons\production_goods\icon_jalea.png
+5382;icons\data\ui\2kimages\main\3dicons\production_goods\icon_icecream_cone.png
+6600;icons\data\ui\2kimages\main\3dicons\production_goods\icon_mezcal.png
+5803;icons\data\ui\2kimages\main\3dicons\production_goods\icon_ballsports.png
+5389;icons\data\ui\2kimages\main\3dicons\production_goods\icon_costumes.png
+5388;icons\data\ui\2kimages\main\3dicons\production_goods\icon_perfume.png
+5400;icons\data\ui\2kimages\main\3dicons\recipes\icon_pigments.png
+5390;icons\data\ui\2kimages\main\3dicons\production_goods\icon_motor.png
+5391;icons\data\ui\2kimages\main\3dicons\production_goods\icon_scooter.png
+5392;icons\data\ui\2kimages\main\3dicons\production_goods\icon_film_role.png
+5399;icons\data\ui\2kimages\main\3dicons\production_goods\icon_plusgood_ammonia.png
+5398;icons\data\ui\2kimages\main\3dicons\production_goods\icon_minerals.png
+6360;icons\data\ui\2kimages\main\3dicons\icon_iron_ore.png
+132747;icons\data\ui\2kimages\main\3dicons\recipes\icon_schnitzel.png
+132750;icons\data\ui\2kimages\main\3dicons\recipes\icon_goulash.png
+133339;icons\data\ui\2kimages\main\3dicons\recipes\icon_fish_and_chips.png
+133340;icons\data\ui\2kimages\main\3dicons\recipes\icon_venison_ragout.png
+133341;icons\data\ui\2kimages\main\3dicons\recipes\icon_lobster_fume.png
+6136;icons\data\ui\2kimages\main\3dicons\recipes\icon_empanadas.png
+132753;icons\data\ui\2kimages\main\3dicons\recipes\icon_berliner.png
+133347;icons\data\ui\2kimages\main\3dicons\recipes\icon_eclair.png
+133348;icons\data\ui\2kimages\main\3dicons\recipes\icon_palmier_biscuit.png
+133349;icons\data\ui\2kimages\main\3dicons\recipes\icon_venison_tartare.png
+133350;icons\data\ui\2kimages\main\3dicons\recipes\icon_banana_surprise.png
+6138;icons\data\ui\2kimages\main\3dicons\production_goods\icon_icecream_cup.png
+132752;icons\data\ui\2kimages\main\3dicons\recipes\icon_daiquiri_tropic.png
+133342;icons\data\ui\2kimages\main\3dicons\recipes\icon_black_muscovy.png
+133343;icons\data\ui\2kimages\main\3dicons\recipes\icon_montmatre.png
+133345;icons\data\ui\2kimages\main\3dicons\recipes\icon_glogg.png
+133346;icons\data\ui\2kimages\main\3dicons\recipes\icon_enbesa_sunrise.png
+6137;icons\data\ui\2kimages\main\3dicons\production_goods\icon_absinthe.png
+135103;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_toaster.png
+135188;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_vacuumcleaner.png
+135187;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_dishes.png
+135189;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_refrigerator.png
+135190;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_suitcase.png
+135105;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_bankerlamp.png
+135121;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_paravent.png
+135120;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_secretary.png
+135122;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_canopy.png
+135123;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_chesterfield.png
+134631;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_toothpaste.png
+135191;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_detergent.png
+135192;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_lipstick.png
+135193;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_facecreme.png
+135194;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_pomade.png
+133928;icons\data\ui\2kimages\main\3dicons\recipes\icon_brioche_royale.png
+133930;icons\data\ui\2kimages\main\3dicons\recipes\icon_trifle_tower.png
+133931;icons\data\ui\2kimages\main\3dicons\recipes\icon_marmelade_review.png
+133932;icons\data\ui\2kimages\main\3dicons\recipes\icon_age_of_exploration.png
+133933;icons\data\ui\2kimages\main\3dicons\recipes\icon_homarde_lit_de_terrorir.png
+6353;icons\data\ui\2kimages\main\3dicons\city_institution\icon_police_advanced.png
+6354;icons\data\ui\2kimages\main\3dicons\city_institution\icon_fire_brigade_advanced.png
+6355;icons\data\ui\2kimages\main\3dicons\city_institution\icon_hospital_advanced.png
+5840;icons\data\ui\2kimages\main\3dicons\public_building\icon_samba_school.png
+6018;icons\data\ui\2kimages\main\3dicons\public_building\icon_cinema.png
+6258;icons\data\ui\2kimages\main\3dicons\city_institution\icon_police_advanced.png
+6259;icons\data\ui\2kimages\main\3dicons\city_institution\icon_fire_brigade_advanced.png
+6260;icons\data\ui\2kimages\main\3dicons\city_institution\icon_hospital_advanced.png
+132780;icons\data\ui\2kimages\main\3dicons\icon_restaurant.png
+132782;icons\data\ui\2kimages\main\3dicons\icon_caffee.png
+132781;icons\data\ui\2kimages\main\3dicons\icon_bar.png
+135100;icons\data\ui\2kimages\main\3dicons\icon_mall.png
+135099;icons\data\ui\2kimages\main\3dicons\icon_furnitures.png
+134629;icons\data\ui\2kimages\main\3dicons\icon_drugstore.png
+132770;icons\data\ui\2kimages\main\3dicons\icon_eiffel_tower.png
+5000000;icons\data\ui\2kimages\main\icons\icon_session_moderate.png
+5000001;icons\data\ui\2kimages\main\icons\icon_session_southamerica.png
+160001;icons\data\ui\2kimages\main\icons\icon_session_passage.png
+114327;icons\data\ui\2kimages\main\icons\icon_session_landoflions.png
+601445;icons\data\ui\2kimages\main\3dicons\icon_hotel.png
+24792;icons\data\ui\2kimages\main\3dicons\hacienda\icon_hacienda_module_jornalero.png
+24793;icons\data\ui\2kimages\main\3dicons\hacienda\icon_hacienda_module_obrera.png
+1010343;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+1010344;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+1010345;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+1010346;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+1010347;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+101254;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+101255;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+112091;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+112652;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+406;icons\data\ui\2kimages\main\3dicons\icon_highlife_skyliner_monument.png
+114436;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+114437;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+114445;icons\data\ui\2kimages\main\3dicons\icon_residence_scholars.png
+601888;icons\data\ui\2kimages\main\3dicons\icon_dlc_high_life_128.png
+601889;icons\data\ui\2kimages\main\3dicons\icon_dlc_high_life_128.png
+601890;icons\data\ui\2kimages\main\3dicons\icon_dlc_high_life_128.png
+601882;icons\data\ui\2kimages\main\3dicons\icon_dlc_high_life_128.png
+601883;icons\data\ui\2kimages\main\3dicons\icon_dlc_high_life_128.png
+601884;icons\data\ui\2kimages\main\3dicons\icon_dlc_high_life_128.png
+601886;icons\data\ui\2kimages\main\3dicons\icon_dlc_high_life_128.png
+601891;icons\data\ui\2kimages\main\3dicons\icon_dlc_high_life_128.png
+5405;icons\data\ui\2kimages\main\3dicons\icon_resident.png
+6086;icons\data\ui\2kimages\main\3dicons\hacienda\icon_hacienda_module_artista.png
+7728;icons\data\ui\2kimages\main\3dicons\scenario\policies_hacienda\icon_dietary_education.png
+191912;icons\data\ui\2kimages\main\3dicons\consumables\icon_medicine_3.png
+192022;icons\data\ui\2kimages\main\3dicons\icon_sheep_cheese.png
+192025;icons\data\ui\2kimages\main\3dicons\icon_tools.png
+192027;icons\data\ui\2kimages\main\3dicons\icon_canned_food.png
+190658;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_fireman_105.png
+190672;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_201_b.png
+190673;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_206_b.png
+190674;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_201.png
+190677;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_404.png
+190717;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_priest_715.png
+190719;icons\data\ui\2kimages\main\3dicons\specialists\icon_priest_epic.png
+190193;icons\data\ui\2kimages\main\3dicons\specialists\icon_priest_legendary.png
+190724;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_109.png
+190728;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_entertainer_801.png
+191469;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_202.png
+191470;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_402.png
+191573;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_103.png
+191579;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_well_dressed_110.png
+192441;icons\data\ui\2kimages\main\3dicons\specialists\influencer\icon_influencer_br4mm3n.png
+191738;icons\data\ui\2kimages\main\3dicons\museum\icon_book_comon.png
+191739;icons\data\ui\2kimages\main\3dicons\museum\icon_book_uncommon.png
+191740;icons\data\ui\2kimages\main\3dicons\museum\icon_book_rare.png
+191777;icons\data\ui\2kimages\main\3dicons\museum\icon_book_comon.png
+191778;icons\data\ui\2kimages\main\3dicons\museum\icon_book_uncommon.png
+191779;icons\data\ui\2kimages\main\3dicons\museum\icon_book_rare.png
+191815;icons\data\ui\2kimages\main\3dicons\museum\icon_book_comon.png
+191816;icons\data\ui\2kimages\main\3dicons\museum\icon_book_uncommon.png
+191817;icons\data\ui\2kimages\main\3dicons\museum\icon_book_rare.png
+116161;icons\data\ui\2kimages\main\3dicons\machine_items\icon_grill.png
+116166;icons\data\ui\2kimages\main\3dicons\machine_items\icon_heated_jacket.png
+116169;icons\data\ui\2kimages\main\3dicons\machine_items\icon_kettle.png
+116182;icons\data\ui\2kimages\main\3dicons\machine_items\icon_craft_beer_takeaway.png
+116184;icons\data\ui\2kimages\main\3dicons\machine_items\icon_hot_drinks_machine.png
+116188;icons\data\ui\2kimages\main\3dicons\machine_items\icon_ice_cream_maker.png
+121004;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_adventurer_700.png
+137263;icons\data\ui\2kimages\main\3dicons\effects_highlife\icon_buff_dlc09_10.png
+137264;icons\data\ui\2kimages\main\3dicons\effects_highlife\icon_buff_dlc09_11.png
+25634;icons\data\ui\2kimages\main\3dicons\scenario\policies_hacienda\icon_dietary_education.png
+11656;icons\data\ui\2kimages\main\3dicons\machine_items\africa\item_insect_proof_net.png
+191133;icons\data\ui\2kimages\main\3dicons\animals\icon_moose.png
+111161;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_bartender_324.png
+111167;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_normal_dressed_203.png
+111176;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_anarchist_manager__202.png
+111178;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_anarchist_krapotkin.png
+111180;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_anarchist_proud.png
+113800;icons\data\ui\2kimages\main\3dicons\specialists\systemic\sunken_treasure_rewards\icon_habour_master_700.png
+116133;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_inuit_specialist_905.png
+116151;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_inuit_specialist_1007.png
+125114;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_herder_3a.png
+125119;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_innkeeper_3a.png
+125121;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_enbesan_cook_2.png
+125125;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_ewahedo_faith_3.png
+125127;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_plants_adept_2.png
+125130;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_politician.png
+125132;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_keeper_of_tradition_1.png
+125134;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_keeper_of_tradition_3.png
+129022;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_amazing_tailor.png
+125140;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_telecommunication_expert_2.png
+125143;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_dean_2.png
+125146;icons\data\ui\2kimages\main\3dicons\specialists\africa\icon_enbesa_expatriate_3.png
+125071;icons\data\ui\2kimages\main\3dicons\machine_items\africa\item_landline_repeater.png
+124208;icons\data\ui\2kimages\main\3dicons\animals\icon_gelada.png
+124914;icons\data\ui\2kimages\main\3dicons\museum\africa\icon_nuk_terracota_figure.png
+136668;icons\data\ui\2kimages\main\3dicons\specialists\highlife\icon_specialist_hotelier_4.png
+136697;icons\data\ui\2kimages\main\3dicons\specialists\highlife\icon_specialist_hotelier_5.png
+601908;icons\data\ui\2kimages\main\icons\panorama_effect_levels\panorama_buff_01.png
+601909;icons\data\ui\2kimages\main\icons\panorama_effect_levels\panorama_buff_02.png
+601910;icons\data\ui\2kimages\main\icons\panorama_effect_levels\panorama_buff_03.png
+601911;icons\data\ui\2kimages\main\icons\panorama_effect_levels\panorama_buff_04.png
+601912;icons\data\ui\2kimages\main\icons\panorama_effect_levels\panorama_buff_05.png
+601904;icons\data\ui\2kimages\main\icons\panorama_effect_levels\panorama_buff_01.png
+601903;icons\data\ui\2kimages\main\icons\panorama_effect_levels\panorama_buff_02.png
+601905;icons\data\ui\2kimages\main\icons\panorama_effect_levels\panorama_buff_03.png
+601906;icons\data\ui\2kimages\main\icons\panorama_effect_levels\panorama_buff_04.png
+601902;icons\data\ui\2kimages\main\icons\panorama_effect_levels\panorama_buff_05.png
+6148;icons\data\ui\2kimages\main\3dicons\recipes\icon_empanadas.png
+6154;icons\data\ui\2kimages\main\3dicons\production_goods\icon_absinthe.png
+6157;icons\data\ui\2kimages\main\3dicons\production_goods\icon_icecream_cup.png
+269407;icons\data\ui\2kimages\main\3dicons\palace\icon_sustainable_eating.png
+269453;icons\data\ui\2kimages\main\3dicons\palace\icon_common_spirits_act.png
+137798;icons\data\ui\2kimages\main\3dicons\specialists\highlife\icon_specialist_hotelier_6.png
+137797;icons\data\ui\2kimages\main\3dicons\specialists\systemic\icon_specialist_delivery_service.png
+133929;icons\data\ui\2kimages\main\3dicons\recipes\icon_brioche_royale.png
+133934;icons\data\ui\2kimages\main\3dicons\recipes\icon_trifle_tower.png
+133935;icons\data\ui\2kimages\main\3dicons\recipes\icon_marmelade_review.png
+133936;icons\data\ui\2kimages\main\3dicons\recipes\icon_age_of_exploration.png
+133937;icons\data\ui\2kimages\main\3dicons\recipes\icon_homarde_lit_de_terrorir.png
+132745;icons\data\ui\2kimages\main\3dicons\recipes\icon_schnitzel.png
+132749;icons\data\ui\2kimages\main\3dicons\recipes\icon_goulash.png
+133352;icons\data\ui\2kimages\main\3dicons\recipes\icon_fish_and_chips.png
+133353;icons\data\ui\2kimages\main\3dicons\recipes\icon_venison_ragout.png
+133354;icons\data\ui\2kimages\main\3dicons\recipes\icon_lobster_fume.png
+132758;icons\data\ui\2kimages\main\3dicons\recipes\icon_daiquiri_tropic.png
+133361;icons\data\ui\2kimages\main\3dicons\recipes\icon_black_muscovy.png
+133362;icons\data\ui\2kimages\main\3dicons\recipes\icon_montmatre.png
+133363;icons\data\ui\2kimages\main\3dicons\recipes\icon_glogg.png
+133364;icons\data\ui\2kimages\main\3dicons\recipes\icon_enbesa_sunrise.png
+132759;icons\data\ui\2kimages\main\3dicons\recipes\icon_berliner.png
+133357;icons\data\ui\2kimages\main\3dicons\recipes\icon_eclair.png
+133358;icons\data\ui\2kimages\main\3dicons\recipes\icon_palmier_biscuit.png
+133359;icons\data\ui\2kimages\main\3dicons\recipes\icon_venison_tartare.png
+133360;icons\data\ui\2kimages\main\3dicons\recipes\icon_banana_surprise.png
+135111;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_toaster.png
+135195;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_dishes.png
+135196;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_vacuumcleaner.png
+135197;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_refrigerator.png
+658;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_suitcase.png
+135112;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_bankerlamp.png
+135151;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_paravent.png
+135152;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_secretary.png
+135153;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_canopy.png
+661;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_chesterfield.png
+135113;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_toothpaste.png
+135199;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_detergent.png
+135200;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_lipstick.png
+135201;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_facecreme.png
+664;icons\data\ui\2kimages\main\3dicons\goods_highlife\icon_pomade.png
+180023;icons\data\ui\2kimages\main\icons\icon_session_moderate_white.png
+180025;icons\data\ui\2kimages\main\icons\icon_session_southamerica_white.png
+110934;icons\data\ui\2kimages\main\icons\icon_session_sunken_treasure_white.png
+180045;icons\data\ui\2kimages\main\icons\icon_session_passage_white.png
+112132;icons\data\ui\2kimages\main\icons\icon_session_landoflions_white.png
+191141;icons\data\ui\2kimages\main\3dicons\museum\icon_museum_celts_stonehenge.png
+124209;icons\data\ui\2kimages\main\3dicons\animals\icon_lion.png
+45;icons\data\ui\2kimages\main\profiles\3rd_party_02.png
+73;icons\data\ui\2kimages\main\profiles\3rd_party_03.png
+76;icons\data\ui\2kimages\main\profiles\3rd_party_04.png
+29;icons\data\ui\2kimages\main\profiles\3rd_party_05.png
+77;icons\data\ui\2kimages\main\profiles\3rd_party_06.png
+46;icons\data\ui\2kimages\main\profiles\3rd_party_07.png
+78;icons\data\ui\2kimages\main\profiles\3rd_party_08.png
+237;icons\data\ui\2kimages\main\profiles\inuit_trader.png
+119051;icons\data\ui\2kimages\main\profiles\3rd_party_13.png
+1010052;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_farmer.png
+1010115;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_worker.png
+1010116;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_artisan.png
+1010117;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_engineer.png
+1010128;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_investor.png
+1010366;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_jornalero.png
+1010367;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_obrero.png
+112653;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_explorer.png
+112654;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_technician.png
+132723;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_tourist.png
+5406;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_artista.png
+114340;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_shepherd.png
+114341;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_elder.png
+124478;icons\data\ui\2kimages\main\icons\workforce\icon_workforce_2.5d_scholar.png
