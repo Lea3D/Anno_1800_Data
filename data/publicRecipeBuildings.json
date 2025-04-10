@@ -5,7 +5,6 @@
     ],
     "goodConsumptionUpgrade": 132745,
     "guid": 132747,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_schnitzel.png",
     "inputs": [
       {
         "Amount": 1,
@@ -33,10 +32,11 @@
         "Product": 132723
       }
     ],
-    "name": "Restaurant: Archduke's Schnitzel",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Restaurant: Archduke's Schnitzel",
+    "id": "restaurant:_archduke's_schnitzel"
   },
   {
     "dlcs": [
@@ -44,7 +44,6 @@
     ],
     "goodConsumptionUpgrade": 132749,
     "guid": 132750,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_goulash.png",
     "inputs": [
       {
         "Amount": 1,
@@ -72,10 +71,11 @@
         "Product": 132723
       }
     ],
-    "name": "Restaurant: Stroggof Goulash",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Restaurant: Stroggof Goulash",
+    "id": "restaurant:_stroggof_goulash"
   },
   {
     "dlcs": [
@@ -83,7 +83,6 @@
     ],
     "goodConsumptionUpgrade": 133352,
     "guid": 133339,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_fish_and_chips.png",
     "inputs": [
       {
         "Amount": 1,
@@ -111,10 +110,11 @@
         "Product": 132723
       }
     ],
-    "name": "Restaurant: Fish and Frites",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Restaurant: Fish and Frites",
+    "id": "restaurant:_fish_and_frites"
   },
   {
     "dlcs": [
@@ -122,7 +122,6 @@
     ],
     "goodConsumptionUpgrade": 133353,
     "guid": 133340,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_venison_ragout.png",
     "inputs": [
       {
         "Amount": 1,
@@ -150,10 +149,11 @@
         "Product": 132723
       }
     ],
-    "name": "Restaurant: Venison en Croûte",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Restaurant: Venison en Croûte",
+    "id": "restaurant:_venison_en_croûte"
   },
   {
     "dlcs": [
@@ -161,7 +161,6 @@
     ],
     "goodConsumptionUpgrade": 133354,
     "guid": 133341,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_lobster_fume.png",
     "inputs": [
       {
         "Amount": 1,
@@ -189,10 +188,11 @@
         "Product": 132723
       }
     ],
-    "name": "Restaurant: Lobster Cheminée",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Restaurant: Lobster Cheminée",
+    "id": "restaurant:_lobster_cheminée"
   },
   {
     "dlcs": [
@@ -200,7 +200,6 @@
     ],
     "goodConsumptionUpgrade": 6148,
     "guid": 6136,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_empanadas.png",
     "inputs": [
       {
         "Amount": 1,
@@ -228,10 +227,11 @@
         "Product": 132723
       }
     ],
-    "name": "Restaurant: Empanadas",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Restaurant: Empanadas",
+    "id": "restaurant:_empanadas"
   },
   {
     "dlcs": [
@@ -239,7 +239,6 @@
     ],
     "goodConsumptionUpgrade": 132759,
     "guid": 132753,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_berliner.png",
     "inputs": [
       {
         "Amount": 1,
@@ -267,10 +266,11 @@
         "Product": 132723
       }
     ],
-    "name": "Cafe: Donut Fourré",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Cafe: Donut Fourré",
+    "id": "cafe:_donut_fourré"
   },
   {
     "dlcs": [
@@ -278,7 +278,6 @@
     ],
     "goodConsumptionUpgrade": 133357,
     "guid": 133347,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_eclair.png",
     "inputs": [
       {
         "Amount": 1,
@@ -306,10 +305,11 @@
         "Product": 132723
       }
     ],
-    "name": "Cafe: Eclair",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Cafe: Eclair",
+    "id": "cafe:_eclair"
   },
   {
     "dlcs": [
@@ -317,7 +317,6 @@
     ],
     "goodConsumptionUpgrade": 133358,
     "guid": 133348,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_palmier_biscuit.png",
     "inputs": [
       {
         "Amount": 1,
@@ -345,10 +344,11 @@
         "Product": 132723
       }
     ],
-    "name": "Cafe: Palmier Biscuit",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Cafe: Palmier Biscuit",
+    "id": "cafe:_palmier_biscuit"
   },
   {
     "dlcs": [
@@ -356,7 +356,6 @@
     ],
     "goodConsumptionUpgrade": 133359,
     "guid": 133349,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_venison_tartare.png",
     "inputs": [
       {
         "Amount": 1,
@@ -384,10 +383,11 @@
         "Product": 132723
       }
     ],
-    "name": "Cafe: Venison Tartare",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Cafe: Venison Tartare",
+    "id": "cafe:_venison_tartare"
   },
   {
     "dlcs": [
@@ -395,7 +395,6 @@
     ],
     "goodConsumptionUpgrade": 133360,
     "guid": 133350,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_banana_surprise.png",
     "inputs": [
       {
         "Amount": 1,
@@ -423,10 +422,11 @@
         "Product": 132723
       }
     ],
-    "name": "Cafe: Banana Surprise",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Cafe: Banana Surprise",
+    "id": "cafe:_banana_surprise"
   },
   {
     "dlcs": [
@@ -434,7 +434,6 @@
     ],
     "goodConsumptionUpgrade": 6157,
     "guid": 6138,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_icecream_cup.png",
     "inputs": [
       {
         "Amount": 1,
@@ -462,10 +461,11 @@
         "Product": 132723
       }
     ],
-    "name": "Cafe: Cone O'Copia ",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Cafe: Cone O'Copia ",
+    "id": "cafe:_cone_o'copia_"
   },
   {
     "dlcs": [
@@ -473,7 +473,6 @@
     ],
     "goodConsumptionUpgrade": 132758,
     "guid": 132752,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_daiquiri_tropic.png",
     "inputs": [
       {
         "Amount": 1,
@@ -501,10 +500,11 @@
         "Product": 132723
       }
     ],
-    "name": "Bar: Daiquiri Tropic",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Bar: Daiquiri Tropic",
+    "id": "bar:_daiquiri_tropic"
   },
   {
     "dlcs": [
@@ -512,7 +512,6 @@
     ],
     "goodConsumptionUpgrade": 133361,
     "guid": 133342,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_black_muscovy.png",
     "inputs": [
       {
         "Amount": 1,
@@ -540,10 +539,11 @@
         "Product": 132723
       }
     ],
-    "name": "Bar: Black Muscovy",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Bar: Black Muscovy",
+    "id": "bar:_black_muscovy"
   },
   {
     "dlcs": [
@@ -551,7 +551,6 @@
     ],
     "goodConsumptionUpgrade": 133362,
     "guid": 133343,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_montmatre.png",
     "inputs": [
       {
         "Amount": 1,
@@ -579,10 +578,11 @@
         "Product": 132723
       }
     ],
-    "name": "Bar: Montmartre '75'",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Bar: Montmartre '75'",
+    "id": "bar:_montmartre_'75'"
   },
   {
     "dlcs": [
@@ -590,7 +590,6 @@
     ],
     "goodConsumptionUpgrade": 133363,
     "guid": 133345,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_glogg.png",
     "inputs": [
       {
         "Amount": 1,
@@ -618,10 +617,11 @@
         "Product": 132723
       }
     ],
-    "name": "Bar: Arctic Glogg",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Bar: Arctic Glogg",
+    "id": "bar:_arctic_glogg"
   },
   {
     "dlcs": [
@@ -629,7 +629,6 @@
     ],
     "goodConsumptionUpgrade": 133364,
     "guid": 133346,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_enbesa_sunrise.png",
     "inputs": [
       {
         "Amount": 1,
@@ -657,10 +656,11 @@
         "Product": 132723
       }
     ],
-    "name": "Bar: Enbesa Sunrise",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Bar: Enbesa Sunrise",
+    "id": "bar:_enbesa_sunrise"
   },
   {
     "dlcs": [
@@ -668,7 +668,6 @@
     ],
     "goodConsumptionUpgrade": 6154,
     "guid": 6137,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_absinthe.png",
     "inputs": [
       {
         "Amount": 1,
@@ -696,10 +695,11 @@
         "Product": 132723
       }
     ],
-    "name": "Bar: Absynthe",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "Bar: Absynthe",
+    "id": "bar:_absynthe"
   },
   {
     "dlcs": [
@@ -707,7 +707,6 @@
     ],
     "goodConsumptionUpgrade": 135111,
     "guid": 135103,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toaster.png",
     "inputs": [
       {
         "Amount": 1,
@@ -736,10 +735,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Department Store: Toasters",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Department Store: Toasters",
+    "id": "department_store:_toasters"
   },
   {
     "dlcs": [
@@ -747,7 +747,6 @@
     ],
     "goodConsumptionUpgrade": 135196,
     "guid": 135188,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_vacuumcleaner.png",
     "inputs": [
       {
         "Amount": 1,
@@ -776,10 +775,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Department Store: Vacuum Cleaners",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Department Store: Vacuum Cleaners",
+    "id": "department_store:_vacuum_cleaners"
   },
   {
     "dlcs": [
@@ -787,7 +787,6 @@
     ],
     "goodConsumptionUpgrade": 135195,
     "guid": 135187,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_dishes.png",
     "inputs": [
       {
         "Amount": 1,
@@ -816,10 +815,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Department Store: Crockery",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Department Store: Crockery",
+    "id": "department_store:_crockery"
   },
   {
     "dlcs": [
@@ -827,7 +827,6 @@
     ],
     "goodConsumptionUpgrade": 135197,
     "guid": 135189,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_refrigerator.png",
     "inputs": [
       {
         "Amount": 1,
@@ -856,10 +855,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Department Store: Refrigerators",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Department Store: Refrigerators",
+    "id": "department_store:_refrigerators"
   },
   {
     "dlcs": [
@@ -867,7 +867,6 @@
     ],
     "goodConsumptionUpgrade": 658,
     "guid": 135190,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_suitcase.png",
     "inputs": [
       {
         "Amount": 1,
@@ -896,10 +895,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Department Store: Briefcases",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Department Store: Briefcases",
+    "id": "department_store:_briefcases"
   },
   {
     "dlcs": [
@@ -907,7 +907,6 @@
     ],
     "goodConsumptionUpgrade": 135112,
     "guid": 135105,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_bankerlamp.png",
     "inputs": [
       {
         "Amount": 1,
@@ -936,10 +935,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Furniture Store: Banker's Lamps",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Furniture Store: Banker's Lamps",
+    "id": "furniture_store:_banker's_lamps"
   },
   {
     "dlcs": [
@@ -947,7 +947,6 @@
     ],
     "goodConsumptionUpgrade": 135151,
     "guid": 135121,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_paravent.png",
     "inputs": [
       {
         "Amount": 1,
@@ -976,10 +975,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Furniture Store: Vanity Screens",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Furniture Store: Vanity Screens",
+    "id": "furniture_store:_vanity_screens"
   },
   {
     "dlcs": [
@@ -987,7 +987,6 @@
     ],
     "goodConsumptionUpgrade": 135152,
     "guid": 135120,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_secretary.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1016,10 +1015,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Furniture Store: Writing Desks",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Furniture Store: Writing Desks",
+    "id": "furniture_store:_writing_desks"
   },
   {
     "dlcs": [
@@ -1027,7 +1027,6 @@
     ],
     "goodConsumptionUpgrade": 135153,
     "guid": 135122,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_canopy.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1056,10 +1055,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Furniture Store: Four-Poster Beds",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Furniture Store: Four-Poster Beds",
+    "id": "furniture_store:_four-poster_beds"
   },
   {
     "dlcs": [
@@ -1067,7 +1067,6 @@
     ],
     "goodConsumptionUpgrade": 661,
     "guid": 135123,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_chesterfield.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1096,10 +1095,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Furniture Store: Lounge Seating",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Furniture Store: Lounge Seating",
+    "id": "furniture_store:_lounge_seating"
   },
   {
     "dlcs": [
@@ -1107,7 +1107,6 @@
     ],
     "goodConsumptionUpgrade": 135113,
     "guid": 134631,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toothpaste.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1136,10 +1135,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Drug Store: Toothpaste",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Drug Store: Toothpaste",
+    "id": "drug_store:_toothpaste"
   },
   {
     "dlcs": [
@@ -1147,7 +1147,6 @@
     ],
     "goodConsumptionUpgrade": 135199,
     "guid": 135191,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_detergent.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1176,10 +1175,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Drug Store: Detergent",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Drug Store: Detergent",
+    "id": "drug_store:_detergent"
   },
   {
     "dlcs": [
@@ -1187,7 +1187,6 @@
     ],
     "goodConsumptionUpgrade": 135200,
     "guid": 135192,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_lipstick.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1216,10 +1215,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Drug Store: Lipstick",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Drug Store: Lipstick",
+    "id": "drug_store:_lipstick"
   },
   {
     "dlcs": [
@@ -1227,7 +1227,6 @@
     ],
     "goodConsumptionUpgrade": 135201,
     "guid": 135193,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_facecreme.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1256,10 +1255,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Drug Store: Face Cream",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Drug Store: Face Cream",
+    "id": "drug_store:_face_cream"
   },
   {
     "dlcs": [
@@ -1267,7 +1267,6 @@
     ],
     "goodConsumptionUpgrade": 664,
     "guid": 135194,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_pomade.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1296,10 +1295,11 @@
         "Product": 1010116
       }
     ],
-    "name": "Drug Store: Pomade",
     "region": 5000000,
     "tpmin": 1,
-    "type": "mall"
+    "type": "mall",
+    "friendly_name": "Drug Store: Pomade",
+    "id": "drug_store:_pomade"
   },
   {
     "dlcs": [
@@ -1307,7 +1307,6 @@
     ],
     "goodConsumptionUpgrade": 133929,
     "guid": 133928,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_brioche_royale.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1341,10 +1340,11 @@
         "ShutdownThreshold": 1
       }
     ],
-    "name": "The Iron Tower: Brioche Royale ",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "The Iron Tower: Brioche Royale ",
+    "id": "the_iron_tower:_brioche_royale_"
   },
   {
     "dlcs": [
@@ -1352,7 +1352,6 @@
     ],
     "goodConsumptionUpgrade": 133934,
     "guid": 133930,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_trifle_tower.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1386,10 +1385,11 @@
         "ShutdownThreshold": 1
       }
     ],
-    "name": "The Iron Tower: Trifle Tower",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "The Iron Tower: Trifle Tower",
+    "id": "the_iron_tower:_trifle_tower"
   },
   {
     "dlcs": [
@@ -1397,7 +1397,6 @@
     ],
     "goodConsumptionUpgrade": 133935,
     "guid": 133931,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_marmelade_review.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1431,10 +1430,11 @@
         "ShutdownThreshold": 1
       }
     ],
-    "name": "The Iron Tower: Lady Marmelade",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "The Iron Tower: Lady Marmelade",
+    "id": "the_iron_tower:_lady_marmelade"
   },
   {
     "dlcs": [
@@ -1442,7 +1442,6 @@
     ],
     "goodConsumptionUpgrade": 133936,
     "guid": 133932,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_age_of_exploration.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1476,10 +1475,11 @@
         "ShutdownThreshold": 1
       }
     ],
-    "name": "The Iron Tower: Age of Exploration",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "The Iron Tower: Age of Exploration",
+    "id": "the_iron_tower:_age_of_exploration"
   },
   {
     "dlcs": [
@@ -1487,7 +1487,6 @@
     ],
     "goodConsumptionUpgrade": 133937,
     "guid": 133933,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_homarde_lit_de_terrorir.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1521,9 +1520,10 @@
         "ShutdownThreshold": 1
       }
     ],
-    "name": "The Iron Tower: Homard sur Lit de Terroir",
     "region": 5000000,
     "tpmin": 1,
-    "type": "eatery"
+    "type": "eatery",
+    "friendly_name": "The Iron Tower: Homard sur Lit de Terroir",
+    "id": "the_iron_tower:_homard_sur_lit_de_terroir"
   }
 ]

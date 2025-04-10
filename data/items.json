@@ -8,14 +8,14 @@
       }
     ],
     "factories": [
-      1010278,
-      101262,
-      118729,
-      7919
+      "fishery",
+      "fish_oil_factory",
+      "lobster_fishery",
+      "calamari_fishery"
     ],
     "guid": 190619,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_fisherman_102.png",
-    "name": "Veteran Whaler"
+    "friendly_name": "Veteran Whaler",
+    "id": "veteran_whaler"
   },
   {
     "additionalOutputs": [
@@ -26,11 +26,11 @@
       }
     ],
     "factories": [
-      1010339
+      "pearl_farm"
     ],
     "guid": 190620,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_pearl_diver_201.png",
-    "name": "Daring Scuba Diver"
+    "friendly_name": "Daring Scuba Diver",
+    "id": "daring_scuba_diver"
   },
   {
     "additionalOutputs": [
@@ -41,15 +41,15 @@
       }
     ],
     "factories": [
-      1010278,
-      101262,
-      118729,
-      7919,
-      1010339
+      "fishery",
+      "fish_oil_factory",
+      "lobster_fishery",
+      "calamari_fishery",
+      "pearl_farm"
     ],
     "guid": 190621,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_414.png",
-    "name": "Mother of Pearls"
+    "friendly_name": "Mother of Pearls",
+    "id": "mother_of_pearls"
   },
   {
     "additionalOutputs": [
@@ -65,43 +65,43 @@
       }
     ],
     "factories": [
-      1010278,
-      101262,
-      118729,
-      7919,
-      1010339
+      "fishery",
+      "fish_oil_factory",
+      "lobster_fishery",
+      "calamari_fishery",
+      "pearl_farm"
     ],
     "guid": 190622,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_navigator_102.png",
-    "name": "Captain Moby, Old Dog of the Sea"
+    "friendly_name": "Captain Moby, Old Dog of the Sea",
+    "id": "captain_moby,_old_dog_of_the_sea"
   },
   {
     "factories": [
-      1010328
+      "jewellers"
     ],
     "guid": 190625,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_206.png",
-    "name": "Illustrious Gemologist",
     "replaceInputs": [
       {
         "NewInput": 1010233,
         "OldInput": 1010249
       }
-    ]
+    ],
+    "friendly_name": "Illustrious Gemologist",
+    "id": "illustrious_gemologist"
   },
   {
     "factories": [
-      1010328
+      "jewellers"
     ],
     "guid": 190626,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_201_c.png",
-    "name": "Goldsmith Gilbert",
     "replaceInputs": [
       {
         "NewInput": 1010233,
         "OldInput": 1010249
       }
-    ]
+    ],
+    "friendly_name": "Goldsmith Gilbert",
+    "id": "goldsmith_gilbert"
   },
   {
     "additionalOutputs": [
@@ -112,31 +112,31 @@
       }
     ],
     "factories": [
-      1010328
+      "jewellers"
     ],
     "guid": 190627,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_106.png",
-    "name": "François Strindberg, Crown Jeweller",
     "replaceInputs": [
       {
         "NewInput": null,
         "OldInput": 1010256
       }
-    ]
+    ],
+    "friendly_name": "François Strindberg, Crown Jeweller",
+    "id": "françois_strindberg,_crown_jeweller"
   },
   {
     "factories": [
-      1010291
+      "bakery"
     ],
     "guid": 190628,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_101.png",
-    "name": "Baker",
     "replaceInputs": [
       {
         "NewInput": 1010192,
         "OldInput": 1010235
       }
-    ]
+    ],
+    "friendly_name": "Baker",
+    "id": "baker"
   },
   {
     "additionalOutputs": [
@@ -147,11 +147,11 @@
       }
     ],
     "factories": [
-      1010291
+      "bakery"
     ],
     "guid": 190630,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_401_b.png",
-    "name": "Fine Cake Decorator"
+    "friendly_name": "Fine Cake Decorator",
+    "id": "fine_cake_decorator"
   },
   {
     "additionalOutputs": [
@@ -167,34 +167,34 @@
       }
     ],
     "factories": [
-      1010291
+      "bakery"
     ],
     "guid": 190632,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_102.png",
-    "name": "Marie-Antoine, Pâtissier Royale"
+    "friendly_name": "Marie-Antoine, Pâtissier Royale",
+    "id": "marie-antoine,_pâtissier_royale"
   },
   {
     "factories": [
-      1010342
+      "cigar_factory"
     ],
     "guid": 190642,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_teacher_805.png",
-    "name": "Torcedor Lucia",
     "replaceInputs": [
       {
         "NewInput": 1010196,
         "OldInput": 1010242
       }
-    ]
+    ],
+    "friendly_name": "Torcedor Lucia",
+    "id": "torcedor_lucia"
   },
   {
     "factories": [
-      1010342
+      "cigar_factory"
     ],
     "guid": 190643,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_torcedor_512.png",
-    "name": "Victor Perfecto, Cigar Daddy",
-    "replacingWorkforce": 1010366
+    "replacingWorkforce": 1010366,
+    "friendly_name": "Victor Perfecto, Cigar Daddy",
+    "id": "victor_perfecto,_cigar_daddy"
   },
   {
     "additionalOutputs": [
@@ -205,15 +205,15 @@
       }
     ],
     "factories": [
-      1010329,
-      1010330,
-      101270,
-      24798,
-      25003
+      "sugar_cane_plantation",
+      "tobacco_plantation",
+      "corn_farm",
+      "hacienda_sugar_cane_farm",
+      "hacienda_corn_farm"
     ],
     "guid": 190689,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_201.png",
-    "name": "Pedologist"
+    "friendly_name": "Pedologist",
+    "id": "pedologist"
   },
   {
     "additionalOutputs": [
@@ -224,18 +224,18 @@
       }
     ],
     "factories": [
-      1010332,
-      1010333,
-      1010331,
-      101251,
-      101263,
-      25009,
-      25006,
-      25005
+      "cocoa_plantation",
+      "caoutchouc_plantation",
+      "cotton_plantation",
+      "coffee_plantation",
+      "plantain_plantation",
+      "hacienda_cocoa_farm",
+      "hacienda_caoutchouc_plantation",
+      "hacienda_coffee_farm"
     ],
     "guid": 190690,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_403.png",
-    "name": "Arborist"
+    "friendly_name": "Arborist",
+    "id": "arborist"
   },
   {
     "additionalOutputs": [
@@ -256,16 +256,16 @@
       }
     ],
     "factories": [
-      1010329,
-      1010330,
-      101270,
-      24798,
-      25003,
-      5814
+      "sugar_cane_plantation",
+      "tobacco_plantation",
+      "corn_farm",
+      "hacienda_sugar_cane_farm",
+      "hacienda_corn_farm",
+      "orchid_farm"
     ],
     "guid": 190691,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normaldress_308.png",
-    "name": "Mrs.Brown the Cultivator"
+    "friendly_name": "Mrs.Brown the Cultivator",
+    "id": "mrs.brown_the_cultivator"
   },
   {
     "additionalOutputs": [
@@ -286,19 +286,19 @@
       }
     ],
     "factories": [
-      1010332,
-      1010333,
-      1010331,
-      101251,
-      101263,
-      25005,
-      25006,
-      25009,
-      5463
+      "cocoa_plantation",
+      "caoutchouc_plantation",
+      "cotton_plantation",
+      "coffee_plantation",
+      "plantain_plantation",
+      "hacienda_coffee_farm",
+      "hacienda_caoutchouc_plantation",
+      "hacienda_cocoa_farm",
+      "herb_garden"
     ],
     "guid": 190692,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_105.png",
-    "name": "Horticulturalist Hermann"
+    "friendly_name": "Horticulturalist Hermann",
+    "id": "horticulturalist_hermann"
   },
   {
     "additionalOutputs": [
@@ -329,28 +329,28 @@
       }
     ],
     "factories": [
-      1010329,
-      1010330,
-      1010331,
-      1010332,
-      1010333,
-      101251,
-      101263,
-      101270,
-      24798,
-      25003,
-      25005,
-      25006,
-      25009,
-      25019,
-      25020,
-      25128,
-      5463,
-      5814
+      "sugar_cane_plantation",
+      "tobacco_plantation",
+      "cotton_plantation",
+      "cocoa_plantation",
+      "caoutchouc_plantation",
+      "coffee_plantation",
+      "plantain_plantation",
+      "corn_farm",
+      "hacienda_sugar_cane_farm",
+      "hacienda_corn_farm",
+      "hacienda_coffee_farm",
+      "hacienda_caoutchouc_plantation",
+      "hacienda_cocoa_farm",
+      "hacienda_potato_farm",
+      "hacienda_spice_farm",
+      "hacienda_grain_farm",
+      "herb_garden",
+      "orchid_farm"
     ],
     "guid": 190693,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_102_b.png",
-    "name": "Dr. Ali Al-Zahir, the Botanical Director"
+    "friendly_name": "Dr. Ali Al-Zahir, the Botanical Director",
+    "id": "dr._ali_al-zahir,_the_botanical_director"
   },
   {
     "additionalOutputs": [
@@ -361,13 +361,13 @@
       }
     ],
     "factories": [
-      1010298,
-      114705,
-      1345
+      "charcoal_kiln",
+      "charcoal_kiln",
+      "charcoal_kiln"
     ],
     "guid": 190742,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_explorer_716.png",
-    "name": "Park Ranger"
+    "friendly_name": "Park Ranger",
+    "id": "park_ranger"
   },
   {
     "additionalOutputs": [
@@ -378,11 +378,11 @@
       }
     ],
     "factories": [
-      1010558
+      "hunting_cabin"
     ],
     "guid": 190737,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_hunter_native.png",
-    "name": "Expert Hunter"
+    "friendly_name": "Expert Hunter",
+    "id": "expert_hunter"
   },
   {
     "additionalOutputs": [
@@ -393,16 +393,16 @@
       }
     ],
     "factories": [
-      1010266,
-      101260,
-      122963,
-      1010298,
-      114705,
-      1345
+      "lumberjack's_hut",
+      "agriculture_colony01_06_(timber_yard)",
+      "wanza_woodcutter",
+      "charcoal_kiln",
+      "charcoal_kiln",
+      "charcoal_kiln"
     ],
     "guid": 190738,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_forester_401.png",
-    "name": "Miss Rodriguez the Conservationist"
+    "friendly_name": "Miss Rodriguez the Conservationist",
+    "id": "miss_rodriguez_the_conservationist"
   },
   {
     "additionalOutputs": [
@@ -413,11 +413,11 @@
       }
     ],
     "factories": [
-      1010558
+      "hunting_cabin"
     ],
     "guid": 190743,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_hunter_common.png",
-    "name": "Wild Frontiersman Steen"
+    "friendly_name": "Wild Frontiersman Steen",
+    "id": "wild_frontiersman_steen"
   },
   {
     "additionalOutputs": [
@@ -428,13 +428,13 @@
       }
     ],
     "factories": [
-      1010265,
-      1010264,
-      25019
+      "potato_farm",
+      "hop_farm",
+      "hacienda_potato_farm"
     ],
     "guid": 190750,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_302.png",
-    "name": "Yvonne the Yeowoman"
+    "friendly_name": "Yvonne the Yeowoman",
+    "id": "yvonne_the_yeowoman"
   },
   {
     "additionalOutputs": [
@@ -445,14 +445,14 @@
       }
     ],
     "factories": [
-      1010262,
-      100654,
-      100655,
-      25128
+      "grain_farm",
+      "red_pepper_farm",
+      "vineyard",
+      "hacienda_grain_farm"
     ],
     "guid": 190751,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_105.png",
-    "name": "Medal-Winning Producer"
+    "friendly_name": "Medal-Winning Producer",
+    "id": "medal-winning_producer"
   },
   {
     "additionalOutputs": [
@@ -468,20 +468,20 @@
       }
     ],
     "factories": [
-      1010304,
-      1010305,
-      1010307,
-      1010308,
-      1010309,
-      101311,
-      1308,
-      1353,
-      1388,
-      1390
+      "coal_mine",
+      "iron_mine",
+      "zinc_mine",
+      "copper_mine",
+      "limestone_quarry",
+      "mining_colony01_01_(gold_ore_mine)",
+      "bauxite_mine",
+      "helium_extractor",
+      "mineral_mine",
+      "mineral_mine"
     ],
     "guid": 190761,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_104.png",
-    "name": "Jörg von Malching, Augur of the Auric"
+    "friendly_name": "Jörg von Malching, Augur of the Auric",
+    "id": "jörg_von_malching,_augur_of_the_auric"
   },
   {
     "additionalOutputs": [
@@ -492,11 +492,11 @@
       }
     ],
     "factories": [
-      101250
+      "spectacle_factory"
     ],
     "guid": 191309,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_travelagent_723.png",
-    "name": "Optometrist Otto"
+    "friendly_name": "Optometrist Otto",
+    "id": "optometrist_otto"
   },
   {
     "additionalOutputs": [
@@ -507,31 +507,31 @@
       }
     ],
     "factories": [
-      101250
+      "spectacle_factory"
     ],
     "guid": 191310,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_206.png",
-    "name": "Gerhard Fuchs, of the Patent Eyeglass.",
     "replaceInputs": [
       {
         "NewInput": 120008,
         "OldInput": 1010204
       }
-    ]
+    ],
+    "friendly_name": "Gerhard Fuchs, of the Patent Eyeglass.",
+    "id": "gerhard_fuchs,_of_the_patent_eyeglass."
   },
   {
     "factories": [
-      1010281
+      "soap_factory"
     ],
     "guid": 191318,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_418.png",
-    "name": "Perfumier Prunella",
     "replaceInputs": [
       {
         "NewInput": 120008,
         "OldInput": 1010234
       }
-    ]
+    ],
+    "friendly_name": "Perfumier Prunella",
+    "id": "perfumier_prunella"
   },
   {
     "additionalOutputs": [
@@ -542,25 +542,25 @@
       }
     ],
     "factories": [
-      1010281
+      "soap_factory"
     ],
     "guid": 191319,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_206.png",
-    "name": "Hervé Savonne, Suppressor of Grime"
+    "friendly_name": "Hervé Savonne, Suppressor of Grime",
+    "id": "hervé_savonne,_suppressor_of_grime"
   },
   {
     "factories": [
-      1010324
+      "clockmakers"
     ],
     "guid": 191323,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_407.png",
-    "name": "Chronometrist Chiara",
     "replaceInputs": [
       {
         "NewInput": 1010204,
         "OldInput": 1010249
       }
-    ]
+    ],
+    "friendly_name": "Chronometrist Chiara",
+    "id": "chronometrist_chiara"
   },
   {
     "additionalOutputs": [
@@ -571,12 +571,12 @@
       }
     ],
     "factories": [
-      1010324
+      "clockmakers"
     ],
     "guid": 191324,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_108.png",
-    "name": "Hans Klein, Old Grandfather Time",
-    "replacingWorkforce": 1010115
+    "replacingWorkforce": 1010115,
+    "friendly_name": "Hans Klein, Old Grandfather Time",
+    "id": "hans_klein,_old_grandfather_time"
   },
   {
     "additionalOutputs": [
@@ -587,26 +587,26 @@
       }
     ],
     "factories": [
-      1010315
+      "framework_knitters"
     ],
     "guid": 191327,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normaldress_304.png",
-    "name": "Fine Couturier"
+    "friendly_name": "Fine Couturier",
+    "id": "fine_couturier"
   },
   {
     "factories": [
-      1010325
+      "fur_dealer"
     ],
     "guid": 191348,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_409.png",
-    "name": "Costume Designer",
     "replaceInputs": [
       {
         "NewInput": 1010197,
         "OldInput": 1010240
       }
     ],
-    "replacingWorkforce": 1010115
+    "replacingWorkforce": 1010115,
+    "friendly_name": "Costume Designer",
+    "id": "costume_designer"
   },
   {
     "additionalOutputs": [
@@ -617,13 +617,13 @@
       }
     ],
     "factories": [
-      1010315,
-      1010325,
-      118734
+      "framework_knitters",
+      "fur_dealer",
+      "tailor's_shop"
     ],
     "guid": 191328,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_401.png",
-    "name": "Lily the Fashion Designer"
+    "friendly_name": "Lily the Fashion Designer",
+    "id": "lily_the_fashion_designer"
   },
   {
     "additionalOutputs": [
@@ -644,11 +644,9 @@
       }
     ],
     "factories": [
-      1010325
+      "fur_dealer"
     ],
     "guid": 192039,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_boris_franke.png",
-    "name": "Master Craftsman Franke",
     "replaceInputs": [
       {
         "NewInput": 1010227,
@@ -658,7 +656,9 @@
         "NewInput": 1010197,
         "OldInput": 1010240
       }
-    ]
+    ],
+    "friendly_name": "Master Craftsman Franke",
+    "id": "master_craftsman_franke"
   },
   {
     "additionalOutputs": [
@@ -674,13 +674,13 @@
       }
     ],
     "factories": [
-      1010315,
-      1010325,
-      5933
+      "framework_knitters",
+      "fur_dealer",
+      "costume_shop"
     ],
     "guid": 191329,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normaldress_810.png",
-    "name": "Lady Jane Smythe, Queen of Haute Couture"
+    "friendly_name": "Lady Jane Smythe, Queen of Haute Couture",
+    "id": "lady_jane_smythe,_queen_of_haute_couture"
   },
   {
     "additionalOutputs": [
@@ -691,26 +691,26 @@
       }
     ],
     "factories": [
-      101266
+      "poncho_darner"
     ],
     "guid": 191345,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_601.png",
-    "name": "Modiste"
+    "friendly_name": "Modiste",
+    "id": "modiste"
   },
   {
     "factories": [
-      101273
+      "bombín_weaver"
     ],
     "guid": 191349,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_entertainer_508.png",
-    "name": "Miliner",
     "replaceInputs": [
       {
         "NewInput": 120036,
         "OldInput": 120044
       }
     ],
-    "replacingWorkforce": 1010366
+    "replacingWorkforce": 1010366,
+    "friendly_name": "Miliner",
+    "id": "miliner"
   },
   {
     "additionalOutputs": [
@@ -721,14 +721,14 @@
       }
     ],
     "factories": [
-      101266,
-      101273,
-      118733,
-      5933
+      "poncho_darner",
+      "bombín_weaver",
+      "bootmakers",
+      "costume_shop"
     ],
     "guid": 191346,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_602.png",
-    "name": "Mariana the Master Stylist"
+    "friendly_name": "Mariana the Master Stylist",
+    "id": "mariana_the_master_stylist"
   },
   {
     "additionalOutputs": [
@@ -744,22 +744,22 @@
       }
     ],
     "factories": [
-      101266,
-      101273,
-      5933
+      "poncho_darner",
+      "bombín_weaver",
+      "costume_shop"
     ],
     "guid": 191347,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_teacher_515.png",
-    "name": "Cristobal Taffeta, The Trendsetter"
+    "friendly_name": "Cristobal Taffeta, The Trendsetter",
+    "id": "cristobal_taffeta,_the_trendsetter"
   },
   {
     "factories": [
-      1010341
+      "chocolate_factory"
     ],
     "guid": 191331,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_101.png",
-    "name": "Chocolatier",
-    "replacingWorkforce": 1010366
+    "replacingWorkforce": 1010366,
+    "friendly_name": "Chocolatier",
+    "id": "chocolatier"
   },
   {
     "additionalOutputs": [
@@ -770,17 +770,17 @@
       }
     ],
     "factories": [
-      1010341
+      "chocolate_factory"
     ],
     "guid": 191332,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_202_b.png",
-    "name": "Quality Chocolatier",
     "replaceInputs": [
       {
         "NewInput": 120031,
         "OldInput": 1010239
       }
-    ]
+    ],
+    "friendly_name": "Quality Chocolatier",
+    "id": "quality_chocolatier"
   },
   {
     "additionalOutputs": [
@@ -791,17 +791,17 @@
       }
     ],
     "factories": [
-      101264
+      "fried_plantain_kitchen"
     ],
     "guid": 191356,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_201.png",
-    "name": "Master Confectioner",
     "replaceInputs": [
       {
         "NewInput": 1010254,
         "OldInput": 120042
       }
-    ]
+    ],
+    "friendly_name": "Master Confectioner",
+    "id": "master_confectioner"
   },
   {
     "additionalOutputs": [
@@ -812,13 +812,13 @@
       }
     ],
     "factories": [
-      1010341,
-      101264,
-      5459
+      "chocolate_factory",
+      "fried_plantain_kitchen",
+      "ice_cream_factory"
     ],
     "guid": 191333,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_401.png",
-    "name": "Charlotte the Chocoholic"
+    "friendly_name": "Charlotte the Chocoholic",
+    "id": "charlotte_the_chocoholic"
   },
   {
     "additionalOutputs": [
@@ -834,13 +834,13 @@
       }
     ],
     "factories": [
-      1010341,
-      101264,
-      5459
+      "chocolate_factory",
+      "fried_plantain_kitchen",
+      "ice_cream_factory"
     ],
     "guid": 191334,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_102.png",
-    "name": "Gennaro Garibaldi, Chocolatier by Royal Appointment"
+    "friendly_name": "Gennaro Garibaldi, Chocolatier by Royal Appointment",
+    "id": "gennaro_garibaldi,_chocolatier_by_royal_appointment"
   },
   {
     "additionalOutputs": [
@@ -851,12 +851,12 @@
       }
     ],
     "factories": [
-      100780,
-      5164
+      "oil_power_plant",
+      "power_station"
     ],
     "guid": 191375,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_106.png",
-    "name": "Magnetist"
+    "friendly_name": "Magnetist",
+    "id": "magnetist"
   },
   {
     "additionalOutputs": [
@@ -867,13 +867,13 @@
       }
     ],
     "factories": [
-      1010286,
-      1010326
+      "light_bulb_factory",
+      "gramophone_factory"
     ],
     "guid": 191353,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_401.png",
-    "name": "Science Whizz",
-    "replacingWorkforce": 1010115
+    "replacingWorkforce": 1010115,
+    "friendly_name": "Science Whizz",
+    "id": "science_whizz"
   },
   {
     "additionalOutputs": [
@@ -884,26 +884,26 @@
       }
     ],
     "factories": [
-      100780,
-      5164
+      "oil_power_plant",
+      "power_station"
     ],
     "guid": 191376,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_109.png",
-    "name": "Leading Electrical Engineer"
+    "friendly_name": "Leading Electrical Engineer",
+    "id": "leading_electrical_engineer"
   },
   {
     "factories": [
-      1010326
+      "gramophone_factory"
     ],
     "guid": 191354,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_202.png",
-    "name": "Johan the Inventor",
     "replaceInputs": [
       {
         "NewInput": 1010196,
         "OldInput": 1010242
       }
-    ]
+    ],
+    "friendly_name": "Johan the Inventor",
+    "id": "johan_the_inventor"
   },
   {
     "additionalOutputs": [
@@ -934,23 +934,23 @@
       }
     ],
     "factories": [
-      1010286,
-      1010326,
-      5828,
-      5862
+      "light_bulb_factory",
+      "gramophone_factory",
+      "chemical_plant:_film_reels",
+      "fan_factory"
     ],
     "guid": 191355,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_102.png",
-    "name": "Prof. Ram Devi, The Bundle of Energy"
+    "friendly_name": "Prof. Ram Devi, The Bundle of Energy",
+    "id": "prof._ram_devi,_the_bundle_of_energy"
   },
   {
     "factories": [
-      101252
+      "coffee_roaster"
     ],
     "guid": 191369,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normaldress_815.png",
-    "name": "Coffee Sommelier",
-    "replacingWorkforce": 1010366
+    "replacingWorkforce": 1010366,
+    "friendly_name": "Coffee Sommelier",
+    "id": "coffee_sommelier"
   },
   {
     "additionalOutputs": [
@@ -961,12 +961,12 @@
       }
     ],
     "factories": [
-      101252,
-      124738
+      "coffee_roaster",
+      "advanced_coffee_roaster"
     ],
     "guid": 191370,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_welldress_812.png",
-    "name": "Cecilia the Coffeessieur"
+    "friendly_name": "Cecilia the Coffeessieur",
+    "id": "cecilia_the_coffeessieur"
   },
   {
     "additionalOutputs": [
@@ -977,12 +977,12 @@
       }
     ],
     "factories": [
-      101252,
-      124738
+      "coffee_roaster",
+      "advanced_coffee_roaster"
     ],
     "guid": 191371,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_curator_702.png",
-    "name": "Marco de la Mocha, Crusher of Beans"
+    "friendly_name": "Marco de la Mocha, Crusher of Beans",
+    "id": "marco_de_la_mocha,_crusher_of_beans"
   },
   {
     "additionalOutputs": [
@@ -993,38 +993,38 @@
       }
     ],
     "factories": [
-      1010294,
-      1010292,
-      25350,
-      25064
+      "schnapps_distillery",
+      "brewery",
+      "hacienda_schnapps_distillery",
+      "hacienda_beer_brewery"
     ],
     "guid": 191383,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_priest_uncommon.png",
-    "name": "Brother Hilarius, Purveyor of Monastic Mixtures"
+    "friendly_name": "Brother Hilarius, Purveyor of Monastic Mixtures",
+    "id": "brother_hilarius,_purveyor_of_monastic_mixtures"
   },
   {
     "factories": [
-      101271
+      "tortilla_maker"
     ],
     "guid": 191386,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_202_b.png",
-    "name": "Mole Master",
     "replaceInputs": [
       {
         "NewInput": 120042,
         "OldInput": 1010193
       }
-    ]
+    ],
+    "friendly_name": "Mole Master",
+    "id": "mole_master"
   },
   {
     "factories": [
-      101271,
-      5458
+      "tortilla_maker",
+      "jalea_kitchen"
     ],
     "guid": 191387,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_602.png",
-    "name": "Kantyi of the Quinoa",
-    "replacingWorkforce": 1010366
+    "replacingWorkforce": 1010366,
+    "friendly_name": "Kantyi of the Quinoa",
+    "id": "kantyi_of_the_quinoa"
   },
   {
     "additionalOutputs": [
@@ -1035,17 +1035,17 @@
       }
     ],
     "factories": [
-      101271
+      "tortilla_maker"
     ],
     "guid": 191402,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_entertainer_508.png",
-    "name": "Tlayolotl Savor, King of the Corn",
     "replaceInputs": [
       {
         "NewInput": 120041,
         "OldInput": 120034
       }
-    ]
+    ],
+    "friendly_name": "Tlayolotl Savor, King of the Corn",
+    "id": "tlayolotl_savor,_king_of_the_corn"
   },
   {
     "additionalOutputs": [
@@ -1056,11 +1056,11 @@
       }
     ],
     "factories": [
-      1010316
+      "butcher's"
     ],
     "guid": 191403,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_101.png",
-    "name": "Charcutier"
+    "friendly_name": "Charcutier",
+    "id": "charcutier"
   },
   {
     "additionalOutputs": [
@@ -1071,11 +1071,11 @@
       }
     ],
     "factories": [
-      1010316
+      "butcher's"
     ],
     "guid": 191401,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_402.png",
-    "name": "Chantelle the Charcutier"
+    "friendly_name": "Chantelle the Charcutier",
+    "id": "chantelle_the_charcutier"
   },
   {
     "additionalOutputs": [
@@ -1086,26 +1086,26 @@
       }
     ],
     "factories": [
-      1010316
+      "butcher's"
     ],
     "guid": 191388,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_102.png",
-    "name": "Maxime Graves, Delicatesseur Extraordinaire",
     "replaceInputs": [
       {
         "NewInput": 1010193,
         "OldInput": 1010199
       }
-    ]
+    ],
+    "friendly_name": "Maxime Graves, Delicatesseur Extraordinaire",
+    "id": "maxime_graves,_delicatesseur_extraordinaire"
   },
   {
     "factories": [
-      1010295
+      "cannery"
     ],
     "guid": 191404,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_401_c.png",
-    "name": "Pantry Chef",
-    "replacingWorkforce": 1010115
+    "replacingWorkforce": 1010115,
+    "friendly_name": "Pantry Chef",
+    "id": "pantry_chef"
   },
   {
     "additionalOutputs": [
@@ -1116,17 +1116,17 @@
       }
     ],
     "factories": [
-      1010295
+      "cannery"
     ],
     "guid": 191406,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_201.png",
-    "name": "Chef Michel",
     "replaceInputs": [
       {
         "NewInput": 1010199,
         "OldInput": 1010215
       }
-    ]
+    ],
+    "friendly_name": "Chef Michel",
+    "id": "chef_michel"
   },
   {
     "additionalOutputs": [
@@ -1137,40 +1137,40 @@
       }
     ],
     "factories": [
-      1010295
+      "cannery"
     ],
     "guid": 191407,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_401.png",
-    "name": "Mrs. Mayson, The Very Good Housekeeper",
     "replaceInputs": [
       {
         "NewInput": 1010235,
         "OldInput": 1010227
       }
-    ]
+    ],
+    "friendly_name": "Mrs. Mayson, The Very Good Housekeeper",
+    "id": "mrs._mayson,_the_very_good_housekeeper"
   },
   {
     "factories": [
-      1010293
+      "artisanal_kitchen"
     ],
     "guid": 191400,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_401.png",
-    "name": "Recipe Archivist",
     "replaceInputs": [
       {
         "NewInput": 1010199,
         "OldInput": 1010193
       }
-    ]
+    ],
+    "friendly_name": "Recipe Archivist",
+    "id": "recipe_archivist"
   },
   {
     "factories": [
-      1010293
+      "artisanal_kitchen"
     ],
     "guid": 191405,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_401.png",
-    "name": "Tatiana the Taste-tester",
-    "replacingWorkforce": 1010115
+    "replacingWorkforce": 1010115,
+    "friendly_name": "Tatiana the Taste-tester",
+    "id": "tatiana_the_taste-tester"
   },
   {
     "additionalOutputs": [
@@ -1181,17 +1181,17 @@
       }
     ],
     "factories": [
-      1010293
+      "artisanal_kitchen"
     ],
     "guid": 191408,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_201.png",
-    "name": "Marcel Forcas, Celebrity Chef",
     "replaceInputs": [
       {
         "NewInput": 1010199,
         "OldInput": 1010193
       }
-    ]
+    ],
+    "friendly_name": "Marcel Forcas, Celebrity Chef",
+    "id": "marcel_forcas,_celebrity_chef"
   },
   {
     "additionalOutputs": [
@@ -1202,21 +1202,21 @@
       }
     ],
     "factories": [
-      1010303
+      "cab_assembly_line"
     ],
     "guid": 191418,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_206.png",
-    "name": "Steam Engineer"
+    "friendly_name": "Steam Engineer",
+    "id": "steam_engineer"
   },
   {
     "factories": [
-      1010323,
-      1010284
+      "bicycle_factory",
+      "sewing_machine_factory"
     ],
     "guid": 191419,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_401.png",
-    "name": "Draughtswoman",
-    "replacingWorkforce": 1010115
+    "replacingWorkforce": 1010115,
+    "friendly_name": "Draughtswoman",
+    "id": "draughtswoman"
   },
   {
     "additionalOutputs": [
@@ -1227,17 +1227,17 @@
       }
     ],
     "factories": [
-      1010303
+      "cab_assembly_line"
     ],
     "guid": 191420,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_406.png",
-    "name": "Susannah the Steam Engineer",
     "replaceInputs": [
       {
         "NewInput": 1010243,
         "OldInput": 1010224
       }
-    ]
+    ],
+    "friendly_name": "Susannah the Steam Engineer",
+    "id": "susannah_the_steam_engineer"
   },
   {
     "additionalOutputs": [
@@ -1253,18 +1253,18 @@
       }
     ],
     "factories": [
-      1010323,
-      1010284
+      "bicycle_factory",
+      "sewing_machine_factory"
     ],
     "guid": 191424,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_202.png",
-    "name": "Dario the Mechanical Engineer ",
     "replaceInputs": [
       {
         "NewInput": 1010227,
         "OldInput": 1010219
       }
-    ]
+    ],
+    "friendly_name": "Dario the Mechanical Engineer ",
+    "id": "dario_the_mechanical_engineer_"
   },
   {
     "additionalOutputs": [
@@ -1280,17 +1280,17 @@
       }
     ],
     "factories": [
-      1010323,
-      1010284,
-      1010303,
-      5659,
-      5862,
-      5658,
-      6083
+      "bicycle_factory",
+      "sewing_machine_factory",
+      "cab_assembly_line",
+      "motor_assembly_plant",
+      "fan_factory",
+      "scooter_factory",
+      "sewing_machine_factory"
     ],
     "guid": 191422,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_205.png",
-    "name": "Bruno Ironbright, Engineering Giant"
+    "friendly_name": "Bruno Ironbright, Engineering Giant",
+    "id": "bruno_ironbright,_engineering_giant"
   },
   {
     "additionalOutputs": [
@@ -1301,31 +1301,31 @@
       }
     ],
     "factories": [
-      100451,
-      1010285,
-      1010289,
-      1010320,
-      1010326,
-      101261,
-      101296
+      "sawmill",
+      "window-makers",
+      "coachmakers",
+      "marquetry_workshop",
+      "gramophone_factory",
+      "factory_colony01_01_(timber_factory)",
+      "processing_colony01_03_(inlay_processing)"
     ],
     "guid": 191425,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_carpenter_721.png",
-    "name": "Carpenter"
+    "friendly_name": "Carpenter",
+    "id": "carpenter"
   },
   {
     "factories": [
-      1010285
+      "window-makers"
     ],
     "guid": 191428,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_204.png",
-    "name": "Glass Maker",
     "replaceInputs": [
       {
         "NewInput": 1010228,
         "OldInput": 1010241
       }
-    ]
+    ],
+    "friendly_name": "Glass Maker",
+    "id": "glass_maker"
   },
   {
     "additionalOutputs": [
@@ -1336,17 +1336,17 @@
       }
     ],
     "factories": [
-      100451,
-      1010285,
-      1010289,
-      1010320,
-      1010326,
-      101261,
-      101296
+      "sawmill",
+      "window-makers",
+      "coachmakers",
+      "marquetry_workshop",
+      "gramophone_factory",
+      "factory_colony01_01_(timber_factory)",
+      "processing_colony01_03_(inlay_processing)"
     ],
     "guid": 191430,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_202.png",
-    "name": "Master Craftsman Morris"
+    "friendly_name": "Master Craftsman Morris",
+    "id": "master_craftsman_morris"
   },
   {
     "additionalOutputs": [
@@ -1357,31 +1357,31 @@
       }
     ],
     "factories": [
-      100451,
-      1010285,
-      1010289,
-      1010320,
-      1010326,
-      101261,
-      101296
+      "sawmill",
+      "window-makers",
+      "coachmakers",
+      "marquetry_workshop",
+      "gramophone_factory",
+      "factory_colony01_01_(timber_factory)",
+      "processing_colony01_03_(inlay_processing)"
     ],
     "guid": 191431,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_107.png",
-    "name": "Seraphim Papadikas, The Window Dresser"
+    "friendly_name": "Seraphim Papadikas, The Window Dresser",
+    "id": "seraphim_papadikas,_the_window_dresser"
   },
   {
     "factories": [
-      1010280
+      "concrete_factory"
     ],
     "guid": 191462,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_205.png",
-    "name": "Cementer",
     "replaceInputs": [
       {
         "NewInput": 1010201,
         "OldInput": 1010231
       }
-    ]
+    ],
+    "friendly_name": "Cementer",
+    "id": "cementer"
   },
   {
     "additionalOutputs": [
@@ -1392,14 +1392,14 @@
       }
     ],
     "factories": [
-      1010283,
-      101268,
-      114467,
-      1010280
+      "brick_factory",
+      "factory_colony01_05_(brick_factory)",
+      "brick_dry-house",
+      "concrete_factory"
     ],
     "guid": 191463,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_109.png",
-    "name": "General Foreman"
+    "friendly_name": "General Foreman",
+    "id": "general_foreman"
   },
   {
     "additionalOutputs": [
@@ -1410,13 +1410,13 @@
       }
     ],
     "factories": [
-      1010283,
-      1010280
+      "brick_factory",
+      "concrete_factory"
     ],
     "guid": 191465,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_103.png",
-    "name": "François Thorne, The Industrial Reinforcer",
-    "replacingWorkforce": 1010052
+    "replacingWorkforce": 1010052,
+    "friendly_name": "François Thorne, The Industrial Reinforcer",
+    "id": "françois_thorne,_the_industrial_reinforcer"
   },
   {
     "additionalOutputs": [
@@ -1427,18 +1427,18 @@
       }
     ],
     "factories": [
-      1010263,
-      1010267,
-      1010269,
-      101269,
-      101272,
-      114456,
-      114439,
-      5457
+      "cattle_farm",
+      "sheep_farm",
+      "pig_farm",
+      "cattle_farm",
+      "alpaca_farm",
+      "goat_farm",
+      "sanga_farm",
+      "nandu_farm"
     ],
     "guid": 191583,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_shepherd_519.png",
-    "name": "Rodrigo the Ranchero"
+    "friendly_name": "Rodrigo the Ranchero",
+    "id": "rodrigo_the_ranchero"
   },
   {
     "additionalOutputs": [
@@ -1449,18 +1449,18 @@
       }
     ],
     "factories": [
-      1010263,
-      1010267,
-      1010269,
-      101269,
-      101272,
-      114456,
-      114439,
-      5457
+      "cattle_farm",
+      "sheep_farm",
+      "pig_farm",
+      "cattle_farm",
+      "alpaca_farm",
+      "goat_farm",
+      "sanga_farm",
+      "nandu_farm"
     ],
     "guid": 191584,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_207.png",
-    "name": "Mark van der Mark, Breeder of Shepherd Dogs"
+    "friendly_name": "Mark van der Mark, Breeder of Shepherd Dogs",
+    "id": "mark_van_der_mark,_breeder_of_shepherd_dogs"
   },
   {
     "additionalOutputs": [
@@ -1471,16 +1471,16 @@
       }
     ],
     "factories": [
-      100416,
-      101267,
-      1010310,
-      1010560,
-      1010309,
-      1308
+      "clay_pit",
+      "factory_colony01_04_(clay_pit)",
+      "saltpeter_works",
+      "sand_mine",
+      "limestone_quarry",
+      "bauxite_mine"
     ],
     "guid": 191590,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_106.png",
-    "name": "Grigor the Geologist"
+    "friendly_name": "Grigor the Geologist",
+    "id": "grigor_the_geologist"
   },
   {
     "additionalOutputs": [
@@ -1496,17 +1496,17 @@
       }
     ],
     "factories": [
-      100416,
-      101267,
-      1010310,
-      1010560,
-      1010309,
-      117743,
-      1308
+      "clay_pit",
+      "factory_colony01_04_(clay_pit)",
+      "saltpeter_works",
+      "sand_mine",
+      "limestone_quarry",
+      "clay_collector",
+      "bauxite_mine"
     ],
     "guid": 191591,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_204.png",
-    "name": "Steven MacLeod, Geological Surveyor"
+    "friendly_name": "Steven MacLeod, Geological Surveyor",
+    "id": "steven_macleod,_geological_surveyor"
   },
   {
     "additionalOutputs": [
@@ -1517,12 +1517,12 @@
       }
     ],
     "factories": [
-      1010294,
-      6594
+      "schnapps_distillery",
+      "mezcal_bar"
     ],
     "guid": 192443,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/influencer/icon_influencer_lewis_2.png",
-    "name": "Sir Lewis Brindley the Chemist"
+    "friendly_name": "Sir Lewis Brindley the Chemist",
+    "id": "sir_lewis_brindley_the_chemist"
   },
   {
     "additionalOutputs": [
@@ -1533,50 +1533,50 @@
       }
     ],
     "factories": [
-      1010262,
-      1010264,
-      1010265,
-      100655,
-      100654,
-      25019
+      "grain_farm",
+      "hop_farm",
+      "potato_farm",
+      "vineyard",
+      "red_pepper_farm",
+      "hacienda_potato_farm"
     ],
     "guid": 193187,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/influencer/icon_influencer_alex_hancock.png",
-    "name": "Alexander Hancock"
+    "friendly_name": "Alexander Hancock",
+    "id": "alexander_hancock"
   },
   {
     "dlcs": [
       "dlc3"
     ],
     "factories": [
-      112679
+      "oil_lamp_factory"
     ],
     "guid": 116162,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_lamp_maker.png",
-    "name": "Fat Chunk Candle Maker",
     "replaceInputs": [
       {
         "NewInput": 1010230,
         "OldInput": 1010204
       }
-    ]
+    ],
+    "friendly_name": "Fat Chunk Candle Maker",
+    "id": "fat_chunk_candle_maker"
   },
   {
     "dlcs": [
       "dlc3"
     ],
     "factories": [
-      114751
+      "heater"
     ],
     "guid": 116163,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_electric_battery.png",
-    "name": "Zappy Battery #2205",
     "replaceInputs": [
       {
         "NewInput": 120008,
         "OldInput": 1010226
       }
-    ]
+    ],
+    "friendly_name": "Zappy Battery #2205",
+    "id": "zappy_battery_#2205"
   },
   {
     "additionalOutputs": [
@@ -1590,12 +1590,12 @@
       "dlc3"
     ],
     "factories": [
-      114703,
-      114705
+      "lumberjack's_hut",
+      "charcoal_kiln"
     ],
     "guid": 116164,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_berries_press.png",
-    "name": "Gløgg Splurger"
+    "friendly_name": "Gløgg Splurger",
+    "id": "gløgg_splurger"
   },
   {
     "additionalOutputs": [
@@ -1609,11 +1609,11 @@
       "dlc3"
     ],
     "factories": [
-      112668
+      "pemmican_factory"
     ],
     "guid": 116165,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_canning_machine.png",
-    "name": "The Uncanny Pocket Cannery"
+    "friendly_name": "The Uncanny Pocket Cannery",
+    "id": "the_uncanny_pocket_cannery"
   },
   {
     "additionalOutputs": [
@@ -1632,11 +1632,11 @@
       "dlc3"
     ],
     "factories": [
-      112690
+      "arctic_gas_mine"
     ],
     "guid": 116167,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_gas_extractor.png",
-    "name": "Gritty Gas Extractor"
+    "friendly_name": "Gritty Gas Extractor",
+    "id": "gritty_gas_extractor"
   },
   {
     "additionalOutputs": [
@@ -1650,15 +1650,15 @@
       "dlc3"
     ],
     "factories": [
-      100659,
-      1010340,
-      124737,
-      24801,
-      6594
+      "champagne_cellar",
+      "rum_distillery",
+      "advanced_rum_distillery",
+      "hacienda_rum_distillery",
+      "mezcal_bar"
     ],
     "guid": 116185,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_cola_mola_machine.png",
-    "name": "Cola Mola Wola Machine"
+    "friendly_name": "Cola Mola Wola Machine",
+    "id": "cola_mola_wola_machine"
   },
   {
     "additionalOutputs": [
@@ -1672,39 +1672,39 @@
       "dlc3"
     ],
     "factories": [
-      1010262,
-      1010264,
-      1010265,
-      100655,
-      100654,
-      1010329,
-      1010330,
-      1010331,
-      1010332,
-      1010333,
-      101251,
-      101263,
-      101270,
-      114448,
-      114447,
-      114450,
-      114451,
-      114452,
-      114453,
-      24798,
-      25003,
-      25005,
-      25006,
-      25009,
-      25019,
-      25020,
-      25128,
-      5463,
-      5814
+      "grain_farm",
+      "hop_farm",
+      "potato_farm",
+      "vineyard",
+      "red_pepper_farm",
+      "sugar_cane_plantation",
+      "tobacco_plantation",
+      "cotton_plantation",
+      "cocoa_plantation",
+      "caoutchouc_plantation",
+      "coffee_plantation",
+      "plantain_plantation",
+      "corn_farm",
+      "linseed_farm",
+      "hibiscus_farm",
+      "teff_farm",
+      "indigo_farm",
+      "spice_farm",
+      "apiary",
+      "hacienda_sugar_cane_farm",
+      "hacienda_corn_farm",
+      "hacienda_coffee_farm",
+      "hacienda_caoutchouc_plantation",
+      "hacienda_cocoa_farm",
+      "hacienda_potato_farm",
+      "hacienda_spice_farm",
+      "hacienda_grain_farm",
+      "herb_garden",
+      "orchid_farm"
     ],
     "guid": 116187,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_cigars_roller.png",
-    "name": "The \"Country Bumpkin\" Cigar Roller"
+    "friendly_name": "The \"Country Bumpkin\" Cigar Roller",
+    "id": "the_\"country_bumpkin\"_cigar_roller"
   },
   {
     "additionalOutputs": [
@@ -1718,19 +1718,19 @@
       "dlc3"
     ],
     "factories": [
-      1010304,
-      1010305,
-      1010307,
-      1010308,
-      101311,
-      1353,
-      1308,
-      1390,
-      1388
+      "coal_mine",
+      "iron_mine",
+      "zinc_mine",
+      "copper_mine",
+      "mining_colony01_01_(gold_ore_mine)",
+      "helium_extractor",
+      "bauxite_mine",
+      "mineral_mine",
+      "mineral_mine"
     ],
     "guid": 116189,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_ballon_radar.png",
-    "name": "The Bizarro-Balloono-Magn8"
+    "friendly_name": "The Bizarro-Balloono-Magn8",
+    "id": "the_bizarro-balloono-magn8"
   },
   {
     "additionalOutputs": [
@@ -1744,39 +1744,39 @@
       "dlc3"
     ],
     "factories": [
-      1010262,
-      1010264,
-      1010265,
-      100655,
-      100654,
-      1010329,
-      1010330,
-      1010331,
-      1010332,
-      1010333,
-      101251,
-      101263,
-      101270,
-      114448,
-      114447,
-      114450,
-      114451,
-      114452,
-      114453,
-      24798,
-      25003,
-      25005,
-      25006,
-      25009,
-      25019,
-      25020,
-      25128,
-      5463,
-      5814
+      "grain_farm",
+      "hop_farm",
+      "potato_farm",
+      "vineyard",
+      "red_pepper_farm",
+      "sugar_cane_plantation",
+      "tobacco_plantation",
+      "cotton_plantation",
+      "cocoa_plantation",
+      "caoutchouc_plantation",
+      "coffee_plantation",
+      "plantain_plantation",
+      "corn_farm",
+      "linseed_farm",
+      "hibiscus_farm",
+      "teff_farm",
+      "indigo_farm",
+      "spice_farm",
+      "apiary",
+      "hacienda_sugar_cane_farm",
+      "hacienda_corn_farm",
+      "hacienda_coffee_farm",
+      "hacienda_caoutchouc_plantation",
+      "hacienda_cocoa_farm",
+      "hacienda_potato_farm",
+      "hacienda_spice_farm",
+      "hacienda_grain_farm",
+      "herb_garden",
+      "orchid_farm"
     ],
     "guid": 116190,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_electric_potato_harvester.png",
-    "name": "Golden Harvester From The Future"
+    "friendly_name": "Golden Harvester From The Future",
+    "id": "golden_harvester_from_the_future"
   },
   {
     "additionalOutputs": [
@@ -1790,13 +1790,13 @@
       "dlc10"
     ],
     "factories": [
-      101269,
-      101272,
-      5457
+      "cattle_farm",
+      "alpaca_farm",
+      "nandu_farm"
     ],
     "guid": 24806,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_dung.png",
-    "name": "Producing Dung"
+    "friendly_name": "Producing Dung",
+    "id": "producing_dung"
   },
   {
     "additionalOutputs": [
@@ -1810,19 +1810,19 @@
       "dlc3"
     ],
     "factories": [
-      112667,
-      112673,
-      116034
+      "caribou_hunter",
+      "bear_hunter",
+      "prime_hunting_cabin"
     ],
     "guid": 7225,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_1003_a.png",
-    "name": "Bait Specialist",
     "replaceInputs": [
       {
         "NewInput": 1010193,
         "OldInput": 1955
       }
-    ]
+    ],
+    "friendly_name": "Bait Specialist",
+    "id": "bait_specialist"
   },
   {
     "additionalOutputs": [
@@ -1836,12 +1836,12 @@
       "dlc12"
     ],
     "factories": [
-      5814,
-      5463
+      "orchid_farm",
+      "herb_garden"
     ],
     "guid": 8347,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_shepherd_509.png",
-    "name": "Dr. Íñigo Flores"
+    "friendly_name": "Dr. Íñigo Flores",
+    "id": "dr._íñigo_flores"
   },
   {
     "additionalOutputs": [
@@ -1860,13 +1860,13 @@
       "dlc12"
     ],
     "factories": [
-      1010263,
-      101269,
-      114439
+      "cattle_farm",
+      "cattle_farm",
+      "sanga_farm"
     ],
     "guid": 8348,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_328.png",
-    "name": "Valentina Álvarez"
+    "friendly_name": "Valentina Álvarez",
+    "id": "valentina_álvarez"
   },
   {
     "additionalOutputs": [
@@ -1885,17 +1885,17 @@
       "dlc12"
     ],
     "factories": [
-      1010303
+      "cab_assembly_line"
     ],
     "guid": 8351,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_forester_822.png",
-    "name": "Maria Maravilla",
     "replaceInputs": [
       {
         "NewInput": 5390,
         "OldInput": 1010224
       }
-    ]
+    ],
+    "friendly_name": "Maria Maravilla",
+    "id": "maria_maravilla"
   },
   {
     "additionalOutputs": [
@@ -1909,19 +1909,19 @@
       "dlc12"
     ],
     "factories": [
-      1010342,
-      1010341,
-      101252,
-      135185,
-      135224,
-      135134,
-      1418,
-      5828
+      "cigar_factory",
+      "chocolate_factory",
+      "coffee_roaster",
+      "chemical_plant:_chewing_gum",
+      "chemical_plant:_celluloid",
+      "chemical_plant:_ethanol",
+      "industrial_oil_press",
+      "chemical_plant:_film_reels"
     ],
     "guid": 8355,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_105.png",
-    "name": "Salvador, the Stalwart",
-    "replacingWorkforce": 5406
+    "replacingWorkforce": 5406,
+    "friendly_name": "Salvador, the Stalwart",
+    "id": "salvador,_the_stalwart"
   },
   {
     "additionalOutputs": [
@@ -1945,14 +1945,14 @@
       "dlc12"
     ],
     "factories": [
-      1010278,
-      101262,
-      118729,
-      7919
+      "fishery",
+      "fish_oil_factory",
+      "lobster_fishery",
+      "calamari_fishery"
     ],
     "guid": 8356,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_shepherd_510.png",
-    "name": "Pedro, Captain of the \"Panama\""
+    "friendly_name": "Pedro, Captain of the \"Panama\"",
+    "id": "pedro,_captain_of_the_\"panama\""
   },
   {
     "additionalOutputs": [
@@ -1966,11 +1966,11 @@
       "dlc1"
     ],
     "factories": [
-      1010560
+      "sand_mine"
     ],
     "guid": 112879,
-    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_gold_ore_finder_3.png",
-    "name": "Mechanical Panner"
+    "friendly_name": "Mechanical Panner",
+    "id": "mechanical_panner"
   },
   {
     "additionalOutputs": [
@@ -1984,11 +1984,11 @@
       "dlc1"
     ],
     "factories": [
-      1010560
+      "sand_mine"
     ],
     "guid": 112880,
-    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_gold_ore_finder_2.png",
-    "name": "Gyroscopic Gold Panner"
+    "friendly_name": "Gyroscopic Gold Panner",
+    "id": "gyroscopic_gold_panner"
   },
   {
     "additionalOutputs": [
@@ -2002,11 +2002,11 @@
       "dlc1"
     ],
     "factories": [
-      1010560
+      "sand_mine"
     ],
     "guid": 112881,
-    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_gold_ore_finder_1.png",
-    "name": "Prospector Of Auspiciousness"
+    "friendly_name": "Prospector Of Auspiciousness",
+    "id": "prospector_of_auspiciousness"
   },
   {
     "additionalOutputs": [
@@ -2025,19 +2025,19 @@
       "dlc1"
     ],
     "factories": [
-      1010304,
-      1010305,
-      1010307,
-      1010308,
-      101311,
-      1353,
-      1308,
-      1390,
-      1388
+      "coal_mine",
+      "iron_mine",
+      "zinc_mine",
+      "copper_mine",
+      "mining_colony01_01_(gold_ore_mine)",
+      "helium_extractor",
+      "bauxite_mine",
+      "mineral_mine",
+      "mineral_mine"
     ],
     "guid": 112882,
-    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_ore_finder_3.png",
-    "name": "Ore Extractor"
+    "friendly_name": "Ore Extractor",
+    "id": "ore_extractor"
   },
   {
     "additionalOutputs": [
@@ -2056,19 +2056,19 @@
       "dlc1"
     ],
     "factories": [
-      1010304,
-      1010305,
-      1010307,
-      1010308,
-      101311,
-      1353,
-      1308,
-      1390,
-      1388
+      "coal_mine",
+      "iron_mine",
+      "zinc_mine",
+      "copper_mine",
+      "mining_colony01_01_(gold_ore_mine)",
+      "helium_extractor",
+      "bauxite_mine",
+      "mineral_mine",
+      "mineral_mine"
     ],
     "guid": 112883,
-    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_ore_finder_2.png",
-    "name": "Extra Ore Extractor"
+    "friendly_name": "Extra Ore Extractor",
+    "id": "extra_ore_extractor"
   },
   {
     "additionalOutputs": [
@@ -2087,19 +2087,19 @@
       "dlc1"
     ],
     "factories": [
-      1010304,
-      1010305,
-      1010307,
-      1010308,
-      101311,
-      1353,
-      1308,
-      1390,
-      1388
+      "coal_mine",
+      "iron_mine",
+      "zinc_mine",
+      "copper_mine",
+      "mining_colony01_01_(gold_ore_mine)",
+      "helium_extractor",
+      "bauxite_mine",
+      "mineral_mine",
+      "mineral_mine"
     ],
     "guid": 112884,
-    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_ore_finder_1.png",
-    "name": "Extractor of Ore-someness"
+    "friendly_name": "Extractor of Ore-someness",
+    "id": "extractor_of_ore-someness"
   },
   {
     "additionalOutputs": [
@@ -2113,12 +2113,12 @@
       "dlc1"
     ],
     "factories": [
-      101331,
-      1010561
+      "oil_refinery",
+      "heavy_colony01_01_(oil_heavy_industry)"
     ],
     "guid": 112885,
-    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_oil_extractor_3.png",
-    "name": "Oily Sucker"
+    "friendly_name": "Oily Sucker",
+    "id": "oily_sucker"
   },
   {
     "additionalOutputs": [
@@ -2132,12 +2132,12 @@
       "dlc1"
     ],
     "factories": [
-      101331,
-      1010561
+      "oil_refinery",
+      "heavy_colony01_01_(oil_heavy_industry)"
     ],
     "guid": 112886,
-    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_oil_extractor_2.png",
-    "name": "Oily Super-Sucker"
+    "friendly_name": "Oily Super-Sucker",
+    "id": "oily_super-sucker"
   },
   {
     "additionalOutputs": [
@@ -2151,12 +2151,12 @@
       "dlc1"
     ],
     "factories": [
-      101331,
-      1010561
+      "oil_refinery",
+      "heavy_colony01_01_(oil_heavy_industry)"
     ],
     "guid": 112887,
-    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_oil_extractor_1.png",
-    "name": "Extra Virgin Oily Sucker"
+    "friendly_name": "Extra Virgin Oily Sucker",
+    "id": "extra_virgin_oily_sucker"
   },
   {
     "additionalOutputs": [
@@ -2170,12 +2170,12 @@
       "dlc1"
     ],
     "factories": [
-      1010324,
-      1010328
+      "clockmakers",
+      "jewellers"
     ],
     "guid": 113799,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/sunken_treasure_rewards/icon_coffee_specialist_800.png",
-    "name": "Susannah Brightwoman, A Glimmer In The Darkness"
+    "friendly_name": "Susannah Brightwoman, A Glimmer In The Darkness",
+    "id": "susannah_brightwoman,_a_glimmer_in_the_darkness"
   },
   {
     "additionalOutputs": [
@@ -2189,12 +2189,12 @@
       "dlc3"
     ],
     "factories": [
-      112672,
-      112675
+      "parka_factory",
+      "sleeping_bag_factory"
     ],
     "guid": 116132,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_1000.png",
-    "name": "Practised Inuit Seamster"
+    "friendly_name": "Practised Inuit Seamster",
+    "id": "practised_inuit_seamster"
   },
   {
     "additionalOutputs": [
@@ -2208,12 +2208,12 @@
       "dlc3"
     ],
     "factories": [
-      112676,
-      112682
+      "goose_farm",
+      "husky_farm"
     ],
     "guid": 116144,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_901b.png",
-    "name": "Taliriktug The Husky-Voiced"
+    "friendly_name": "Taliriktug The Husky-Voiced",
+    "id": "taliriktug_the_husky-voiced"
   },
   {
     "additionalOutputs": [
@@ -2227,14 +2227,14 @@
       "dlc3"
     ],
     "factories": [
-      112666,
-      112674,
-      112667,
-      112673
+      "whale_hunter",
+      "seal_hunter",
+      "caribou_hunter",
+      "bear_hunter"
     ],
     "guid": 116152,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_1005_b.png",
-    "name": "Toklo the Trapper"
+    "friendly_name": "Toklo the Trapper",
+    "id": "toklo_the_trapper"
   },
   {
     "additionalOutputs": [
@@ -2248,13 +2248,13 @@
       "dlc3"
     ],
     "factories": [
-      114703,
-      112681,
-      112680
+      "lumberjack's_hut",
+      "sled_frame_factory",
+      "husky_sled_factory"
     ],
     "guid": 116153,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_904.png",
-    "name": "Naaqtuuq the Sled-Builder"
+    "friendly_name": "Naaqtuuq the Sled-Builder",
+    "id": "naaqtuuq_the_sled-builder"
   },
   {
     "additionalOutputs": [
@@ -2268,11 +2268,11 @@
       "dlc3"
     ],
     "factories": [
-      112668
+      "pemmican_factory"
     ],
     "guid": 116154,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_1004.png",
-    "name": "Sandro The Nature Chef"
+    "friendly_name": "Sandro The Nature Chef",
+    "id": "sandro_the_nature_chef"
   },
   {
     "additionalOutputs": [
@@ -2286,29 +2286,29 @@
       "dlc6"
     ],
     "factories": [
-      114456,
-      114439
+      "goat_farm",
+      "sanga_farm"
     ],
     "guid": 125112,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_herder_1.png",
-    "name": "Expert Grazer"
+    "friendly_name": "Expert Grazer",
+    "id": "expert_grazer"
   },
   {
     "dlcs": [
       "dlc6"
     ],
     "factories": [
-      114468
+      "tea_spicer"
     ],
     "guid": 125118,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_innkeeper_2.png",
-    "name": "Tea Selector",
     "replaceInputs": [
       {
         "NewInput": 114365,
         "OldInput": 114364
       }
-    ]
+    ],
+    "friendly_name": "Tea Selector",
+    "id": "tea_selector"
   },
   {
     "additionalOutputs": [
@@ -2322,64 +2322,64 @@
       "dlc6"
     ],
     "factories": [
-      114471
+      "wat_kitchen"
     ],
     "guid": 125122,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_enbesan_cook_3b.png",
-    "name": "Aaden Issack, World-Famous Enbesan Chef",
     "replaceInputs": [
       {
         "NewInput": 114357,
         "OldInput": 118728
       }
-    ]
+    ],
+    "friendly_name": "Aaden Issack, World-Famous Enbesan Chef",
+    "id": "aaden_issack,_world-famous_enbesan_chef"
   },
   {
     "dlcs": [
       "dlc6"
     ],
     "factories": [
-      114464
+      "lanternsmith"
     ],
     "guid": 125124,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_ewahedo_faith_2.png",
-    "name": "Enbesan Bishop",
     "replaceInputs": [
       {
         "NewInput": 1010208,
         "OldInput": 117701
       }
-    ]
+    ],
+    "friendly_name": "Enbesan Bishop",
+    "id": "enbesan_bishop"
   },
   {
     "dlcs": [
       "dlc6"
     ],
     "factories": [
-      114469,
-      118725
+      "tapestry_looms",
+      "ceramics_workshop"
     ],
     "guid": 125128,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_traditional_handcraft_3b.png",
-    "name": "Magan the Master Craftsman",
-    "replacingWorkforce": 114340
+    "replacingWorkforce": 114340,
+    "friendly_name": "Magan the Master Craftsman",
+    "id": "magan_the_master_craftsman"
   },
   {
     "dlcs": [
       "dlc6"
     ],
     "factories": [
-      117744
+      "paper_mill"
     ],
     "guid": 125129,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_water_use_expert_1.png",
-    "name": "Wahenoor the Paper Mill Pro",
     "replaceInputs": [
       {
         "NewInput": 114356,
         "OldInput": 120008
       }
-    ]
+    ],
+    "friendly_name": "Wahenoor the Paper Mill Pro",
+    "id": "wahenoor_the_paper_mill_pro"
   },
   {
     "additionalOutputs": [
@@ -2398,11 +2398,11 @@
       "dlc6"
     ],
     "factories": [
-      114470
+      "luminer"
     ],
     "guid": 125133,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_keeper_of_tradition_2.png",
-    "name": "Giorgis the Eminent Hymnodist"
+    "friendly_name": "Giorgis the Eminent Hymnodist",
+    "id": "giorgis_the_eminent_hymnodist"
   },
   {
     "additionalOutputs": [
@@ -2416,11 +2416,11 @@
       "dlc6"
     ],
     "factories": [
-      118734
+      "tailor's_shop"
     ],
     "guid": 125138,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_tailor_2.png",
-    "name": "Paul Poiret, Shocking Fashion Designer"
+    "friendly_name": "Paul Poiret, Shocking Fashion Designer",
+    "id": "paul_poiret,_shocking_fashion_designer"
   },
   {
     "additionalOutputs": [
@@ -2434,17 +2434,17 @@
       "dlc6"
     ],
     "factories": [
-      118733
+      "bootmakers"
     ],
     "guid": 125139,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_tailor_3.png",
-    "name": "Bumm Brimmell, The Original Dandy",
     "replaceInputs": [
       {
         "NewInput": 1010199,
         "OldInput": 114357
       }
-    ]
+    ],
+    "friendly_name": "Bumm Brimmell, The Original Dandy",
+    "id": "bumm_brimmell,_the_original_dandy"
   },
   {
     "additionalOutputs": [
@@ -2458,17 +2458,17 @@
       "dlc9"
     ],
     "factories": [
-      133004,
-      133030,
-      133031,
-      133496,
-      134614,
-      135085,
-      135088
+      "orchard:_coconut_oil",
+      "orchard:_cinnamon",
+      "orchard:_citrus",
+      "orchard:_jam",
+      "orchard:_camphor_wax",
+      "orchard:_resin",
+      "orchard:_cherry_wood"
     ],
     "guid": 136739,
-    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_plantation_item_2.png",
-    "name": "Interspecies Grafting "
+    "friendly_name": "Interspecies Grafting ",
+    "id": "interspecies_grafting_"
   },
   {
     "additionalOutputs": [
@@ -2494,14 +2494,14 @@
       "dlc10"
     ],
     "factories": [
-      132786,
-      133533,
-      24805,
-      6631
+      "chemical_plant:_shampoo",
+      "chemical_plant:_souvenirs",
+      "hacienda",
+      "laboratory:_medicine"
     ],
     "guid": 136746,
-    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_chemical_plant_item_2.png",
-    "name": "Re-Rendering"
+    "friendly_name": "Re-Rendering",
+    "id": "re-rendering"
   },
   {
     "additionalOutputs": [
@@ -2515,31 +2515,31 @@
       "dlc8"
     ],
     "factories": [
-      132781,
-      132752,
-      133342,
-      133343,
-      133345,
-      133346,
-      132780,
-      132747,
-      132750,
-      133339,
-      133340,
-      133341,
-      132782,
-      132753,
-      133347,
-      133348,
-      133349,
-      133350,
-      6136,
-      6137,
-      6138
+      "bar",
+      "bar:_daiquiri_tropic",
+      "bar:_black_muscovy",
+      "bar:_montmartre_'75'",
+      "bar:_arctic_glogg",
+      "bar:_enbesa_sunrise",
+      "restaurant",
+      "restaurant:_archduke's_schnitzel",
+      "restaurant:_stroggof_goulash",
+      "restaurant:_fish_and_frites",
+      "restaurant:_venison_en_croûte",
+      "restaurant:_lobster_cheminée",
+      "cafe",
+      "cafe:_donut_fourré",
+      "cafe:_eclair",
+      "cafe:_palmier_biscuit",
+      "cafe:_venison_tartare",
+      "cafe:_banana_surprise",
+      "restaurant:_empanadas",
+      "bar:_absynthe",
+      "cafe:_cone_o'copia_"
     ],
     "guid": 136647,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_chef_1.png",
-    "name": "Marie-Louise Carême, Chef de Cuisine "
+    "friendly_name": "Marie-Louise Carême, Chef de Cuisine ",
+    "id": "marie-louise_carême,_chef_de_cuisine_"
   },
   {
     "additionalOutputs": [
@@ -2553,31 +2553,31 @@
       "dlc8"
     ],
     "factories": [
-      132781,
-      132752,
-      133342,
-      133343,
-      133345,
-      133346,
-      132780,
-      132747,
-      132750,
-      133339,
-      133340,
-      133341,
-      132782,
-      132753,
-      133347,
-      133348,
-      133349,
-      133350,
-      6136,
-      6137,
-      6138
+      "bar",
+      "bar:_daiquiri_tropic",
+      "bar:_black_muscovy",
+      "bar:_montmartre_'75'",
+      "bar:_arctic_glogg",
+      "bar:_enbesa_sunrise",
+      "restaurant",
+      "restaurant:_archduke's_schnitzel",
+      "restaurant:_stroggof_goulash",
+      "restaurant:_fish_and_frites",
+      "restaurant:_venison_en_croûte",
+      "restaurant:_lobster_cheminée",
+      "cafe",
+      "cafe:_donut_fourré",
+      "cafe:_eclair",
+      "cafe:_palmier_biscuit",
+      "cafe:_venison_tartare",
+      "cafe:_banana_surprise",
+      "restaurant:_empanadas",
+      "bar:_absynthe",
+      "cafe:_cone_o'copia_"
     ],
     "guid": 136649,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_chef_3.png",
-    "name": "Entremetier"
+    "friendly_name": "Entremetier",
+    "id": "entremetier"
   },
   {
     "additionalOutputs": [
@@ -2591,19 +2591,19 @@
       "dlc3"
     ],
     "factories": [
-      1010297,
-      835,
-      6080
+      "furnace",
+      "aluminium_smelter",
+      "furnace"
     ],
     "guid": 958,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_combustion_chemist.png",
-    "name": "Combustion Chemist",
     "replaceInputs": [
       {
         "NewInput": 112706,
         "OldInput": 1010226
       }
-    ]
+    ],
+    "friendly_name": "Combustion Chemist",
+    "id": "combustion_chemist"
   },
   {
     "additionalOutputs": [
@@ -2617,17 +2617,17 @@
       "dlc11"
     ],
     "factories": [
-      116029
+      "deep_gold_mine"
     ],
     "guid": 1772,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_cold_fracking_expert_a.png",
-    "name": "Arctic Gas Expert",
     "replaceInputs": [
       {
         "NewInput": 1414,
         "OldInput": 1591
       }
-    ]
+    ],
+    "friendly_name": "Arctic Gas Expert",
+    "id": "arctic_gas_expert"
   },
   {
     "additionalOutputs": [
@@ -2641,13 +2641,13 @@
       "dlc10"
     ],
     "factories": [
-      1010263,
-      1010267,
-      1010269
+      "cattle_farm",
+      "sheep_farm",
+      "pig_farm"
     ],
     "guid": 1964,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_nw_dung_collector.png",
-    "name": "Animal Nutritionist"
+    "friendly_name": "Animal Nutritionist",
+    "id": "animal_nutritionist"
   },
   {
     "additionalOutputs": [
@@ -2661,18 +2661,18 @@
       "dlc10"
     ],
     "factories": [
-      24805
+      "hacienda"
     ],
     "guid": 1897,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_synthesis_expert.png",
-    "name": "Synthetic Chemist",
     "replaceInputs": [
       {
         "NewInput": 112706,
         "OldInput": 24807
       }
     ],
-    "replacingWorkforce": 1010367
+    "replacingWorkforce": 1010367,
+    "friendly_name": "Synthetic Chemist",
+    "id": "synthetic_chemist"
   },
   {
     "additionalOutputs": [
@@ -2686,12 +2686,12 @@
       "dlc10"
     ],
     "factories": [
-      114439,
-      114456
+      "sanga_farm",
+      "goat_farm"
     ],
     "guid": 1966,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_enbesa_dung_collector.png",
-    "name": " Enbesan Animal Nutritionist "
+    "friendly_name": " Enbesan Animal Nutritionist ",
+    "id": "_enbesan_animal_nutritionist_"
   },
   {
     "additionalOutputs": [
@@ -2705,20 +2705,20 @@
       "dlc10"
     ],
     "factories": [
-      133004,
-      133030,
-      133031,
-      134614
+      "orchard:_coconut_oil",
+      "orchard:_cinnamon",
+      "orchard:_citrus",
+      "orchard:_camphor_wax"
     ],
     "guid": 1961,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_top_soil_scientist_sa.png",
-    "name": "Tropical Pedologist",
     "replaceInputs": [
       {
         "NewInput": 24807,
         "OldInput": 1955
       }
-    ]
+    ],
+    "friendly_name": "Tropical Pedologist",
+    "id": "tropical_pedologist"
   },
   {
     "additionalOutputs": [
@@ -2732,19 +2732,19 @@
       "dlc10"
     ],
     "factories": [
-      133496,
-      135085,
-      135088
+      "orchard:_jam",
+      "orchard:_resin",
+      "orchard:_cherry_wood"
     ],
     "guid": 1956,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_top_soil_scientist_eu.png",
-    "name": "Temperate Pedologist",
     "replaceInputs": [
       {
         "NewInput": 24807,
         "OldInput": 1955
       }
-    ]
+    ],
+    "friendly_name": "Temperate Pedologist",
+    "id": "temperate_pedologist"
   },
   {
     "additionalOutputs": [
@@ -2755,21 +2755,21 @@
       }
     ],
     "factories": [
-      1010304,
-      1010305,
-      1010307,
-      1010308,
-      1010309
+      "coal_mine",
+      "iron_mine",
+      "zinc_mine",
+      "copper_mine",
+      "limestone_quarry"
     ],
     "guid": 1948,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_explosive_expert.png",
-    "name": "Mad Mary, Dynamite Enthusiast",
     "replaceInputs": [
       {
         "NewInput": 1010222,
         "OldInput": 1591
       }
-    ]
+    ],
+    "friendly_name": "Mad Mary, Dynamite Enthusiast",
+    "id": "mad_mary,_dynamite_enthusiast"
   },
   {
     "additionalOutputs": [
@@ -2783,17 +2783,17 @@
       "dlc11"
     ],
     "factories": [
-      101311
+      "mining_colony01_01_(gold_ore_mine)"
     ],
     "guid": 2223,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_warm_fracking_expert.png",
-    "name": "Helium Expert",
     "replaceInputs": [
       {
         "NewInput": 1414,
         "OldInput": 1591
       }
-    ]
+    ],
+    "friendly_name": "Helium Expert",
+    "id": "helium_expert"
   },
   {
     "additionalOutputs": [
@@ -2807,12 +2807,12 @@
       "dlc11"
     ],
     "factories": [
-      100416,
-      101267
+      "clay_pit",
+      "factory_colony01_04_(clay_pit)"
     ],
     "guid": 2224,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_scientist_mineralogist.png",
-    "name": "Mineralogist"
+    "friendly_name": "Mineralogist",
+    "id": "mineralogist"
   },
   {
     "additionalOutputs": [
@@ -2826,17 +2826,17 @@
       "dlc11"
     ],
     "factories": [
-      1010299
+      "weapon_factory"
     ],
     "guid": 1895,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_emergency_military.png",
-    "name": "Military Logistician",
     "replaceInputs": [
       {
         "NewInput": 836,
         "OldInput": 1010219
       }
-    ]
+    ],
+    "friendly_name": "Military Logistician",
+    "id": "military_logistician"
   },
   {
     "additionalOutputs": [
@@ -2850,17 +2850,15 @@
       "dlc12"
     ],
     "factories": [
-      6594,
-      5458,
-      5657,
-      114453,
-      114451,
-      114447,
-      5462
+      "mezcal_bar",
+      "jalea_kitchen",
+      "perfume_mixer",
+      "apiary",
+      "indigo_farm",
+      "hibiscus_farm",
+      "laboratory:_pigments"
     ],
     "guid": 8908,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_doctor_518.png",
-    "name": "Enbesan Envoy",
     "replaceInputs": [
       {
         "NewInput": 114364,
@@ -2874,7 +2872,9 @@
         "NewInput": 114370,
         "OldInput": 133095
       }
-    ]
+    ],
+    "friendly_name": "Enbesan Envoy",
+    "id": "enbesan_envoy"
   },
   {
     "additionalOutputs": [
@@ -2889,14 +2889,14 @@
       "dlc9"
     ],
     "factories": [
-      133496,
-      133031,
-      135088,
-      100655
+      "orchard:_jam",
+      "orchard:_citrus",
+      "orchard:_cherry_wood",
+      "vineyard"
     ],
     "guid": 136823,
-    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_plantation_item_2_sa.png",
-    "name": "Get Rich Quick Vol II: What Shape is a Banana Anyway?"
+    "friendly_name": "Get Rich Quick Vol II: What Shape is a Banana Anyway?",
+    "id": "get_rich_quick_vol_ii:_what_shape_is_a_banana_anyway?"
   },
   {
     "additionalOutputs": [
@@ -2921,15 +2921,15 @@
       "dlc9"
     ],
     "factories": [
-      133004,
-      133030,
-      133031,
-      134614,
-      1418
+      "orchard:_coconut_oil",
+      "orchard:_cinnamon",
+      "orchard:_citrus",
+      "orchard:_camphor_wax",
+      "industrial_oil_press"
     ],
     "guid": 136819,
-    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_plantation_item_3_sa.png",
-    "name": "Get Rich Quick Vol III: Pretty Polyculture"
+    "friendly_name": "Get Rich Quick Vol III: Pretty Polyculture",
+    "id": "get_rich_quick_vol_iii:_pretty_polyculture"
   },
   {
     "additionalOutputs": [
@@ -2943,75 +2943,73 @@
       "dlc9"
     ],
     "factories": [
-      132777,
-      135185,
-      135418,
-      1010292,
-      1010294,
-      100659,
-      1010314,
-      101252,
-      1010340,
-      124737,
-      124738,
-      114456,
-      114468,
-      24801,
-      25064,
-      25126,
-      25350,
-      25508,
-      6594,
-      24805,
-      1418,
-      5459,
-      6631
+      "chemical_plant:_lemonade",
+      "chemical_plant:_chewing_gum",
+      "artisan's_workshop:_cognac",
+      "brewery",
+      "schnapps_distillery",
+      "champagne_cellar",
+      "malthouse",
+      "coffee_roaster",
+      "rum_distillery",
+      "advanced_rum_distillery",
+      "advanced_coffee_roaster",
+      "goat_farm",
+      "tea_spicer",
+      "hacienda_rum_distillery",
+      "hacienda_beer_brewery",
+      "hacienda_atole_maker",
+      "hacienda_schnapps_distillery",
+      "hacienda_hot_sauce_brewery",
+      "mezcal_bar",
+      "hacienda",
+      "industrial_oil_press",
+      "ice_cream_factory",
+      "laboratory:_medicine"
     ],
     "guid": 136827,
-    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_chemical_plant_item_1.png",
-    "name": "Get Rich Quick Vol IV: The Wasteland"
+    "friendly_name": "Get Rich Quick Vol IV: The Wasteland",
+    "id": "get_rich_quick_vol_iv:_the_wasteland"
   },
   {
     "dlcs": [
       "dlc9"
     ],
     "factories": [
-      134622,
-      135148,
-      135361
+      "assembly_line:_elevators",
+      "assembly_line:_typewriters",
+      "assembly_line:_biscuits"
     ],
     "guid": 137631,
-    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_assembly_line_item_new_2.png",
-    "name": "Get Rich Quick Vol VII: Automation Nation",
-    "replacingWorkforce": 1010117
+    "replacingWorkforce": 1010117,
+    "friendly_name": "Get Rich Quick Vol VII: Automation Nation",
+    "id": "get_rich_quick_vol_vii:_automation_nation"
   },
   {
     "dlcs": [
       "dlc9"
     ],
     "factories": [
-      135100,
-      135190,
-      135187,
-      135188,
-      135103,
-      135189,
-      135099,
-      135105,
-      135121,
-      135120,
-      135122,
-      135123,
-      134629,
-      135191,
-      134631,
-      135192,
-      135193,
-      135194
+      "department_store",
+      "department_store:_briefcases",
+      "department_store:_crockery",
+      "department_store:_vacuum_cleaners",
+      "department_store:_toasters",
+      "department_store:_refrigerators",
+      "furniture_store",
+      "furniture_store:_banker's_lamps",
+      "furniture_store:_vanity_screens",
+      "furniture_store:_writing_desks",
+      "furniture_store:_four-poster_beds",
+      "furniture_store:_lounge_seating",
+      "drug_store",
+      "drug_store:_detergent",
+      "drug_store:_toothpaste",
+      "drug_store:_lipstick",
+      "drug_store:_face_cream",
+      "drug_store:_pomade"
     ],
     "guid": 136885,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_mall_01.png",
-    "name": "Belinda San Pedro, Head of Arcade Acquisitions",
     "replaceInputs": [
       {
         "NewInput": 120008,
@@ -3033,6 +3031,8 @@
         "NewInput": 1010227,
         "OldInput": 1010204
       }
-    ]
+    ],
+    "friendly_name": "Belinda San Pedro, Head of Arcade Acquisitions",
+    "id": "belinda_san_pedro,_head_of_arcade_acquisitions"
   }
 ]

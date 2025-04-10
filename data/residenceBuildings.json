@@ -4,8 +4,6 @@
       "dlc8"
     ],
     "guid": 601445,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_hotel.png",
-    "name": "Hotel",
     "populationLevel": 601379,
     "region": 5000000,
     "residentMax": 500,
@@ -36,15 +34,15 @@
       "5388": 26,
       "601485": 0,
       "6600": 20
-    }
+    },
+    "friendly_name": "Hotel",
+    "id": "hotel"
   },
   {
     "dlcs": [
       "dlc10"
     ],
     "guid": 24792,
-    "iconPath": "data/ui/2kimages/main/3dicons/hacienda/icon_hacienda_module_jornalero.png",
-    "name": "Hacienda Jornalero Quarters",
     "populationLevel": 15000005,
     "region": 5000001,
     "residentMax": 20,
@@ -65,15 +63,15 @@
       "5803": 2,
       "5830": 2,
       "6265": 2
-    }
+    },
+    "friendly_name": "Hacienda Jornalero Quarters",
+    "id": "hacienda_jornalero_quarters"
   },
   {
     "dlcs": [
       "dlc10"
     ],
     "guid": 24793,
-    "iconPath": "data/ui/2kimages/main/3dicons/hacienda/icon_hacienda_module_obrera.png",
-    "name": "Hacienda Obrera Quarters",
     "populationLevel": 15000006,
     "region": 5000001,
     "residentMax": 40,
@@ -108,12 +106,12 @@
       "5391": 6,
       "5831": 2,
       "6265": 2
-    }
+    },
+    "friendly_name": "Hacienda Obrera Quarters",
+    "id": "hacienda_obrera_quarters"
   },
   {
     "guid": 1010343,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Farmer Residence",
     "populationLevel": 15000000,
     "region": 5000000,
     "residentMax": 10,
@@ -133,12 +131,12 @@
       "536": 1,
       "5383": 2
     },
-    "upgradedBuilding": 1010344
+    "upgradedBuilding": 1010344,
+    "friendly_name": "Farmer Residence",
+    "id": "farmer_residence"
   },
   {
     "guid": 1010344,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Worker Residence",
     "populationLevel": 15000001,
     "region": 5000000,
     "residentMax": 20,
@@ -164,12 +162,12 @@
       "536": 3,
       "5803": 3
     },
-    "upgradedBuilding": 1010345
+    "upgradedBuilding": 1010345,
+    "friendly_name": "Worker Residence",
+    "id": "worker_residence"
   },
   {
     "guid": 1010345,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Artisan Residence",
     "populationLevel": 15000002,
     "region": 5000000,
     "residentMax": 30,
@@ -196,12 +194,12 @@
       "5391": 7,
       "5803": 2
     },
-    "upgradedBuilding": 1010346
+    "upgradedBuilding": 1010346,
+    "friendly_name": "Artisan Residence",
+    "id": "artisan_residence"
   },
   {
     "guid": 1010346,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Engineer Residence",
     "populationLevel": 15000003,
     "region": 5000000,
     "residentMax": 40,
@@ -229,12 +227,12 @@
       "5397": 7,
       "6600": 3
     },
-    "upgradedBuilding": 1010347
+    "upgradedBuilding": 1010347,
+    "friendly_name": "Engineer Residence",
+    "id": "engineer_residence"
   },
   {
     "guid": 1010347,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Investor Residence",
     "populationLevel": 15000004,
     "region": 5000000,
     "residentMax": 50,
@@ -262,12 +260,12 @@
       "5388": 7,
       "5392": 5,
       "5395": 10
-    }
+    },
+    "friendly_name": "Investor Residence",
+    "id": "investor_residence"
   },
   {
     "guid": 101254,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Jornalero Residence",
     "populationLevel": 15000005,
     "region": 5000001,
     "residentMax": 10,
@@ -287,12 +285,12 @@
       "5830": 2,
       "6265": 2
     },
-    "upgradedBuilding": 101255
+    "upgradedBuilding": 101255,
+    "friendly_name": "Jornalero Residence",
+    "id": "jornalero_residence"
   },
   {
     "guid": 101255,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Obrero Residence",
     "populationLevel": 15000006,
     "region": 5000001,
     "residentMax": 20,
@@ -319,15 +317,15 @@
       "5831": 2,
       "6265": 2
     },
-    "upgradedBuilding": 5405
+    "upgradedBuilding": 5405,
+    "friendly_name": "Obrero Residence",
+    "id": "obrero_residence"
   },
   {
     "dlcs": [
       "dlc3"
     ],
     "guid": 112091,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Explorer Shelter",
     "populationLevel": 112642,
     "region": 160001,
     "residentMax": 10,
@@ -345,15 +343,15 @@
       "535": 1,
       "536": 2
     },
-    "upgradedBuilding": 112652
+    "upgradedBuilding": 112652,
+    "friendly_name": "Explorer Shelter",
+    "id": "explorer_shelter"
   },
   {
     "dlcs": [
       "dlc3"
     ],
     "guid": 112652,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Technician Shelter",
     "populationLevel": 112643,
     "region": 160001,
     "residentMax": 20,
@@ -376,15 +374,15 @@
       "536": 6,
       "5390": 5,
       "6600": 2
-    }
+    },
+    "friendly_name": "Technician Shelter",
+    "id": "technician_shelter"
   },
   {
     "dlcs": [
       "dlc9"
     ],
     "guid": 406,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_highlife_skyliner_monument.png",
-    "name": "Skyline Tower",
     "populationLevel": 15000004,
     "region": 5000000,
     "residentMax": 2500,
@@ -419,15 +417,15 @@
       "135888": 100,
       "135889": 100
     },
-    "unique": true
+    "unique": true,
+    "friendly_name": "Skyline Tower",
+    "id": "skyline_tower"
   },
   {
     "dlcs": [
       "dlc6"
     ],
     "guid": 114436,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Shepherd Residence",
     "populationLevel": 114329,
     "region": 114327,
     "residentMax": 10,
@@ -445,15 +443,15 @@
       "133183": 1,
       "25506": 2
     },
-    "upgradedBuilding": 114437
+    "upgradedBuilding": 114437,
+    "friendly_name": "Shepherd Residence",
+    "id": "shepherd_residence"
   },
   {
     "dlcs": [
       "dlc6"
     ],
     "guid": 114437,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Elder Residence",
     "populationLevel": 114330,
     "region": 114327,
     "residentMax": 20,
@@ -478,15 +476,15 @@
       "120030": 0,
       "5383": 3,
       "5386": 3
-    }
+    },
+    "friendly_name": "Elder Residence",
+    "id": "elder_residence"
   },
   {
     "dlcs": [
       "dlc6"
     ],
     "guid": 114445,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_residence_scholars.png",
-    "name": "Scholar Residence",
     "populationLevel": 118745,
     "region": 5000000,
     "residentMax": 120,
@@ -514,7 +512,9 @@
       "5391": 7,
       "5392": 4,
       "5395": 5
-    }
+    },
+    "friendly_name": "Scholar Residence",
+    "id": "scholar_residence"
   },
   {
     "dlcs": [
@@ -522,8 +522,6 @@
     ],
     "floorCount": 1,
     "guid": 601888,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png",
-    "name": "Engineer Skyscraper: Level 1",
     "populationLevel": 15000003,
     "residentMax": 60,
     "residentsPerNeed": {
@@ -550,7 +548,9 @@
       "5382": 9,
       "5397": 10,
       "6600": 5
-    }
+    },
+    "friendly_name": "Engineer Skyscraper: Level 1",
+    "id": "engineer_skyscraper:_level_1"
   },
   {
     "dlcs": [
@@ -558,8 +558,6 @@
     ],
     "floorCount": 2,
     "guid": 601889,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png",
-    "name": "Engineer Skyscraper: Level 2",
     "populationLevel": 15000003,
     "residentMax": 80,
     "residentsPerNeed": {
@@ -588,7 +586,9 @@
       "5382": 11,
       "5397": 11,
       "6600": 5
-    }
+    },
+    "friendly_name": "Engineer Skyscraper: Level 2",
+    "id": "engineer_skyscraper:_level_2"
   },
   {
     "dlcs": [
@@ -596,8 +596,6 @@
     ],
     "floorCount": 3,
     "guid": 601890,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png",
-    "name": "Engineer Skyscraper: Level 3",
     "populationLevel": 15000003,
     "residentMax": 100,
     "residentsPerNeed": {
@@ -629,7 +627,9 @@
       "5382": 12,
       "5397": 11,
       "6600": 6
-    }
+    },
+    "friendly_name": "Engineer Skyscraper: Level 3",
+    "id": "engineer_skyscraper:_level_3"
   },
   {
     "dlcs": [
@@ -637,8 +637,6 @@
     ],
     "floorCount": 1,
     "guid": 601882,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png",
-    "name": "Investor Skyscraper: Level 1",
     "populationLevel": 15000004,
     "residentMax": 75,
     "residentsPerNeed": {
@@ -666,7 +664,9 @@
       "5388": 11,
       "5392": 8,
       "5395": 16
-    }
+    },
+    "friendly_name": "Investor Skyscraper: Level 1",
+    "id": "investor_skyscraper:_level_1"
   },
   {
     "dlcs": [
@@ -674,8 +674,6 @@
     ],
     "floorCount": 2,
     "guid": 601883,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png",
-    "name": "Investor Skyscraper: Level 2",
     "populationLevel": 15000004,
     "residentMax": 100,
     "residentsPerNeed": {
@@ -705,7 +703,9 @@
       "5388": 12,
       "5392": 10,
       "5395": 17
-    }
+    },
+    "friendly_name": "Investor Skyscraper: Level 2",
+    "id": "investor_skyscraper:_level_2"
   },
   {
     "dlcs": [
@@ -713,8 +713,6 @@
     ],
     "floorCount": 3,
     "guid": 601884,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png",
-    "name": "Investor Skyscraper: Level 3",
     "populationLevel": 15000004,
     "residentMax": 125,
     "residentsPerNeed": {
@@ -746,7 +744,9 @@
       "5388": 13,
       "5392": 11,
       "5395": 18
-    }
+    },
+    "friendly_name": "Investor Skyscraper: Level 3",
+    "id": "investor_skyscraper:_level_3"
   },
   {
     "dlcs": [
@@ -754,8 +754,6 @@
     ],
     "floorCount": 4,
     "guid": 601886,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png",
-    "name": "Investor Skyscraper: Level 4",
     "populationLevel": 15000004,
     "residentMax": 150,
     "residentsPerNeed": {
@@ -789,7 +787,9 @@
       "5388": 15,
       "5392": 12,
       "5395": 19
-    }
+    },
+    "friendly_name": "Investor Skyscraper: Level 4",
+    "id": "investor_skyscraper:_level_4"
   },
   {
     "dlcs": [
@@ -797,8 +797,6 @@
     ],
     "floorCount": 5,
     "guid": 601891,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png",
-    "name": "Investor Skyscraper: Level 5",
     "populationLevel": 15000004,
     "residentMax": 175,
     "residentsPerNeed": {
@@ -835,15 +833,15 @@
       "5388": 16,
       "5392": 13,
       "5395": 21
-    }
+    },
+    "friendly_name": "Investor Skyscraper: Level 5",
+    "id": "investor_skyscraper:_level_5"
   },
   {
     "dlcs": [
       "dlc12"
     ],
     "guid": 5405,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png",
-    "name": "Artista Residence",
     "populationLevel": 5403,
     "region": 5000001,
     "residentMax": 40,
@@ -874,15 +872,15 @@
       "5831": 0,
       "6265": 2,
       "6600": 2
-    }
+    },
+    "friendly_name": "Artista Residence",
+    "id": "artista_residence"
   },
   {
     "dlcs": [
       "dlc12"
     ],
     "guid": 6086,
-    "iconPath": "data/ui/2kimages/main/3dicons/hacienda/icon_hacienda_module_artista.png",
-    "name": "Hacienda Artista Quarters",
     "populationLevel": 5403,
     "region": 5000001,
     "residentMax": 90,
@@ -920,6 +918,8 @@
       "5831": 0,
       "6265": 2,
       "6600": 2
-    }
+    },
+    "friendly_name": "Hacienda Artista Quarters",
+    "id": "hacienda_artista_quarters"
   }
 ]

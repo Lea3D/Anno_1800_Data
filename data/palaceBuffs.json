@@ -1,0 +1,542 @@
+[
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010296,
+    "guid": 25638,
+    "product": 1010218,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010297,
+    "guid": 25639,
+    "product": 1010219,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010298,
+    "guid": 25640,
+    "product": 1010226,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010299,
+    "guid": 25641,
+    "product": 1010221,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010301,
+    "guid": 25642,
+    "product": 1010223,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010302,
+    "guid": 25643,
+    "product": 1010224,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010303,
+    "guid": 25644,
+    "product": 1010225,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010282,
+    "guid": 25645,
+    "product": 1010204,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 101331,
+    "guid": 25646,
+    "product": 1010566,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010296,
+    "guid": 25651,
+    "product": 1010218,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 134622,
+    "guid": 25652,
+    "product": 134623,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135361,
+    "guid": 25653,
+    "product": 135229,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135148,
+    "guid": 25654,
+    "product": 135230,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 132786,
+    "guid": 25655,
+    "product": 133181,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 132777,
+    "guid": 25656,
+    "product": 133185,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 133533,
+    "guid": 25657,
+    "product": 133532,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135133,
+    "guid": 25658,
+    "product": 135129,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 1,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 101331,
+    "guid": 112919,
+    "product": 1010566,
+    "friendly_name": "Oily Sucker",
+    "id": "oily_sucker"
+  },
+  {
+    "additionalOutputCycle": 1,
+    "amount": 2,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 101331,
+    "guid": 112920,
+    "product": 1010566,
+    "friendly_name": "Oily Super-Sucker",
+    "id": "oily_super-sucker"
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010262,
+    "guid": 269191,
+    "product": 1010192,
+    "friendly_name": "Land Reform Act",
+    "id": "land_reform_act"
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010264,
+    "guid": 269254,
+    "product": 1010194,
+    "friendly_name": "Land Reform Act",
+    "id": "land_reform_act"
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010265,
+    "guid": 269255,
+    "product": 1010195,
+    "friendly_name": "Land Reform Act",
+    "id": "land_reform_act"
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 100654,
+    "guid": 269256,
+    "product": 1010198,
+    "friendly_name": "Land Reform Act",
+    "id": "land_reform_act"
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 100655,
+    "guid": 269257,
+    "product": 120014,
+    "friendly_name": "Land Reform Act",
+    "id": "land_reform_act"
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010267,
+    "guid": 269564,
+    "product": 1010197,
+    "friendly_name": "Land Reform Act",
+    "id": "land_reform_act"
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010269,
+    "guid": 269565,
+    "product": 1010199,
+    "friendly_name": "Land Reform Act",
+    "id": "land_reform_act"
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010263,
+    "guid": 269566,
+    "product": 1010193,
+    "friendly_name": "Land Reform Act",
+    "id": "land_reform_act"
+  },
+  {
+    "additionalOutputCycle": 2,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010262,
+    "guid": 269366,
+    "product": 1010192,
+    "friendly_name": "Land Reform Act",
+    "id": "land_reform_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010296,
+    "guid": 269200,
+    "product": 1010218,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010297,
+    "guid": 269275,
+    "product": 1010219,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010298,
+    "guid": 269276,
+    "product": 1010226,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010299,
+    "guid": 269277,
+    "product": 1010221,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010301,
+    "guid": 269278,
+    "product": 1010223,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010302,
+    "guid": 269279,
+    "product": 1010224,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010303,
+    "guid": 269280,
+    "product": 1010225,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010282,
+    "guid": 269281,
+    "product": 1010204,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 101331,
+    "guid": 269282,
+    "product": 1010566,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 1010296,
+    "guid": 269399,
+    "product": 1010218,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 134622,
+    "guid": 280087,
+    "product": 134623,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135361,
+    "guid": 280088,
+    "product": 135229,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135148,
+    "guid": 280089,
+    "product": 135230,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 132786,
+    "guid": 280090,
+    "product": 133181,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 132777,
+    "guid": 280091,
+    "product": 133185,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 133533,
+    "guid": 280092,
+    "product": 133532,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  },
+  {
+    "additionalOutputCycle": 3,
+    "amount": 1,
+    "dlcs": [
+      "dlc4"
+    ],
+    "factory": 135133,
+    "guid": 280093,
+    "product": 135129,
+    "friendly_name": "Skilled Labour Act",
+    "id": "skilled_labour_act"
+  }
+]

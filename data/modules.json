@@ -4,7 +4,6 @@
       "dlc5"
     ],
     "guid": 270041,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_om_tractor.png",
     "inputs": [
       {
         "Amount": 1,
@@ -13,13 +12,14 @@
       }
     ],
     "maintenances": [],
-    "name": "Tractor Barn (Gasoline Good)",
     "productivityUpgrade": 200,
     "region": 5000000,
     "tpmin": 2,
     "workforceAmountUpgrade": {
       "Value": -50
-    }
+    },
+    "friendly_name": "Tractor Barn (Gasoline Good)",
+    "id": "tractor_barn_(gasoline_good)"
   },
   {
     "additionalOutputCycle": 3,
@@ -27,7 +27,6 @@
       "dlc10"
     ],
     "guid": 25240,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png",
     "inputs": [
       {
         "Amount": 1,
@@ -36,10 +35,11 @@
       }
     ],
     "maintenances": [],
-    "name": "Fertiliser Silo",
     "productivityUpgrade": 100,
     "region": 5000000,
-    "tpmin": 0.2
+    "tpmin": 0.2,
+    "friendly_name": "Fertiliser Silo",
+    "id": "fertiliser_silo"
   },
   {
     "additionalOutputCycle": 3,
@@ -47,7 +47,6 @@
       "dlc10"
     ],
     "guid": 25241,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png",
     "inputs": [
       {
         "Amount": 1,
@@ -56,10 +55,11 @@
       }
     ],
     "maintenances": [],
-    "name": "Fertiliser Silo",
     "productivityUpgrade": 100,
     "region": 5000001,
-    "tpmin": 0.2
+    "tpmin": 0.2,
+    "friendly_name": "Fertiliser Silo",
+    "id": "fertiliser_silo"
   },
   {
     "additionalOutputCycle": 3,
@@ -67,7 +67,6 @@
       "dlc10"
     ],
     "guid": 25242,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png",
     "inputs": [
       {
         "Amount": 1,
@@ -76,10 +75,11 @@
       }
     ],
     "maintenances": [],
-    "name": "Fertiliser Silo",
     "productivityUpgrade": 100,
     "region": 114327,
-    "tpmin": 0.2
+    "tpmin": 0.2,
+    "friendly_name": "Fertiliser Silo",
+    "id": "fertiliser_silo"
   },
   {
     "additionalOutputCycle": 3,
@@ -87,7 +87,6 @@
       "dlc5"
     ],
     "guid": 269837,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png",
     "inputs": [
       {
         "Amount": 1,
@@ -96,14 +95,15 @@
       }
     ],
     "maintenances": [],
-    "name": "Tractor Barn",
     "productivityUpgrade": 200,
     "region": 5000000,
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
       "Value": -50
-    }
+    },
+    "friendly_name": "Tractor Barn",
+    "id": "tractor_barn"
   },
   {
     "additionalOutputCycle": 3,
@@ -111,7 +111,6 @@
       "dlc5"
     ],
     "guid": 269839,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png",
     "inputs": [
       {
         "Amount": 1,
@@ -120,14 +119,15 @@
       }
     ],
     "maintenances": [],
-    "name": "Tractor Barn",
     "productivityUpgrade": 200,
     "region": 5000000,
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
       "Value": -50
-    }
+    },
+    "friendly_name": "Tractor Barn",
+    "id": "tractor_barn"
   },
   {
     "additionalOutputCycle": 3,
@@ -135,7 +135,6 @@
       "dlc5"
     ],
     "guid": 269957,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png",
     "inputs": [
       {
         "Amount": 1,
@@ -144,10 +143,11 @@
       }
     ],
     "maintenances": [],
-    "name": "Silo",
     "productivityUpgrade": 100,
     "region": 5000000,
-    "tpmin": 0.2
+    "tpmin": 0.2,
+    "friendly_name": "Silo",
+    "id": "silo"
   },
   {
     "additionalOutputCycle": 3,
@@ -155,7 +155,6 @@
       "dlc5"
     ],
     "guid": 269848,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png",
     "inputs": [
       {
         "Amount": 1,
@@ -164,14 +163,15 @@
       }
     ],
     "maintenances": [],
-    "name": "Tractor Barn",
     "productivityUpgrade": 200,
     "region": 5000001,
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
       "Value": -50
-    }
+    },
+    "friendly_name": "Tractor Barn",
+    "id": "tractor_barn"
   },
   {
     "additionalOutputCycle": 3,
@@ -179,7 +179,6 @@
       "dlc5"
     ],
     "guid": 269849,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png",
     "inputs": [
       {
         "Amount": 1,
@@ -188,14 +187,15 @@
       }
     ],
     "maintenances": [],
-    "name": "Tractor Barn",
     "productivityUpgrade": 200,
     "region": 5000001,
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
       "Value": -50
-    }
+    },
+    "friendly_name": "Tractor Barn",
+    "id": "tractor_barn"
   },
   {
     "additionalOutputCycle": 3,
@@ -203,7 +203,6 @@
       "dlc5"
     ],
     "guid": 269958,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png",
     "inputs": [
       {
         "Amount": 1,
@@ -212,10 +211,11 @@
       }
     ],
     "maintenances": [],
-    "name": "Silo",
     "productivityUpgrade": 100,
     "region": 5000001,
-    "tpmin": 0.2
+    "tpmin": 0.2,
+    "friendly_name": "Silo",
+    "id": "silo"
   },
   {
     "additionalOutputCycle": 3,
@@ -223,7 +223,6 @@
       "dlc5"
     ],
     "guid": 119026,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png",
     "inputs": [
       {
         "Amount": 1,
@@ -232,14 +231,15 @@
       }
     ],
     "maintenances": [],
-    "name": "Tractor Barn",
     "productivityUpgrade": 200,
     "region": 114327,
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
       "Value": -50
-    }
+    },
+    "friendly_name": "Tractor Barn",
+    "id": "tractor_barn"
   },
   {
     "additionalOutputCycle": 3,
@@ -247,7 +247,6 @@
       "dlc5"
     ],
     "guid": 119027,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png",
     "inputs": [
       {
         "Amount": 1,
@@ -256,14 +255,15 @@
       }
     ],
     "maintenances": [],
-    "name": "Tractor Barn",
     "productivityUpgrade": 200,
     "region": 114327,
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
       "Value": -50
-    }
+    },
+    "friendly_name": "Tractor Barn",
+    "id": "tractor_barn"
   },
   {
     "additionalOutputCycle": 3,
@@ -271,7 +271,6 @@
       "dlc5"
     ],
     "guid": 119025,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png",
     "inputs": [
       {
         "Amount": 1,
@@ -280,9 +279,10 @@
       }
     ],
     "maintenances": [],
-    "name": "Silo",
     "productivityUpgrade": 100,
     "region": 114327,
-    "tpmin": 0.2
+    "tpmin": 0.2,
+    "friendly_name": "Silo",
+    "id": "silo"
   }
 ]

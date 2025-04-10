@@ -4,7 +4,6 @@
       "dlc3"
     ],
     "guid": 114751,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_heating_center.png",
     "inputs": [
       {
         "Amount": 1,
@@ -18,16 +17,16 @@
         "Product": 1010017
       }
     ],
-    "name": "Heater",
     "region": 160001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Heater",
+    "id": "heater"
   },
   {
     "dlcs": [
       "dlc3"
     ],
     "guid": 117547,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_electric_works_gas.png",
     "inputs": [
       {
         "Amount": 1,
@@ -47,13 +46,13 @@
         "ShutdownThreshold": 0.5
       }
     ],
-    "name": "Gas-Fired Power Plant",
     "region": 5000000,
-    "tpmin": 1.3333333333333335
+    "tpmin": 1.3333333333333335,
+    "friendly_name": "Gas-Fired Power Plant",
+    "id": "gas-fired_power_plant"
   },
   {
     "guid": 100780,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_electric_works_oil.png",
     "inputs": [
       {
         "Amount": 1,
@@ -73,13 +72,13 @@
         "ShutdownThreshold": 0.5
       }
     ],
-    "name": "Oil Power Plant",
     "region": 5000000,
-    "tpmin": 12
+    "tpmin": 12,
+    "friendly_name": "Oil Power Plant",
+    "id": "oil_power_plant"
   },
   {
     "guid": 5164,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_electric_works_coal.png",
     "inputs": [
       {
         "Amount": 1,
@@ -99,8 +98,9 @@
         "ShutdownThreshold": 0.5
       }
     ],
-    "name": "Power Station",
     "region": 5000001,
-    "tpmin": 12
+    "tpmin": 12,
+    "friendly_name": "Power Station",
+    "id": "power_station"
   }
 ]

@@ -1,7 +1,6 @@
 [
   {
     "guid": 15000082,
-    "name": "Population: Old World",
     "populationLevels": [
       15000000,
       15000001,
@@ -9,63 +8,69 @@
       15000003,
       15000004
     ],
-    "region": 5000000
+    "region": 5000000,
+    "friendly_name": "Population: Old World",
+    "id": "population:_old_world"
   },
   {
     "guid": 15000083,
-    "name": "Population: New World",
     "populationLevels": [
       15000005,
       15000006,
       5403
     ],
-    "region": 5000001
+    "region": 5000001,
+    "friendly_name": "Population: New World",
+    "id": "population:_new_world"
   },
   {
     "dlcs": [
       "dlc8"
     ],
     "guid": 601380,
-    "name": "Population: Tourists",
     "populationLevels": [
       601379
     ],
-    "region": 5000000
+    "region": 5000000,
+    "friendly_name": "Population: Tourists",
+    "id": "population:_tourists"
   },
   {
     "dlcs": [
       "dlc3"
     ],
     "guid": 112641,
-    "iconPath": "data/ui/2kimages/main/icons/icon_session_passage.png",
-    "name": "Population: The Arctic",
     "populationLevels": [
       112642,
       112643
     ],
-    "region": 160001
+    "region": 160001,
+    "friendly_name": "Population: The Arctic",
+    "id": "population:_the_arctic"
   },
   {
     "dlcs": [
       "dlc6"
     ],
     "guid": 114328,
-    "name": "Population: Enbesa",
     "populationLevels": [
       114329,
       114330
     ],
-    "region": 114327
+    "region": 114327,
+    "friendly_name": "Population: Enbesa",
+    "id": "population:_enbesa"
   },
   {
     "dlcs": [
       "dlc6"
     ],
     "guid": 122785,
-    "name": "Population: Scholars",
     "populationLevels": [
       118745
     ],
-    "region": 5000000
+    "region": 5000000,
+    "friendly_name": "Population: Scholars",
+    "id": "population:_scholars"
   }
 ]

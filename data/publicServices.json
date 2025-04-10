@@ -5,7 +5,6 @@
     ],
     "forceRegionExtendedName": true,
     "guid": 6353,
-    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_police_advanced.png",
     "inputs": [
       {
         "Amount": 1,
@@ -20,9 +19,10 @@
         "Product": 1010017
       }
     ],
-    "name": "Police Headquarters",
     "region": 5000000,
-    "tpmin": 0.16666666666666669
+    "tpmin": 0.16666666666666669,
+    "friendly_name": "Police Headquarters",
+    "id": "police_headquarters"
   },
   {
     "dlcs": [
@@ -30,7 +30,6 @@
     ],
     "forceRegionExtendedName": true,
     "guid": 6354,
-    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_fire_brigade_advanced.png",
     "inputs": [
       {
         "Amount": 1,
@@ -45,9 +44,10 @@
         "Product": 1010017
       }
     ],
-    "name": "Fire Department",
     "region": 5000000,
-    "tpmin": 0.16666666666666669
+    "tpmin": 0.16666666666666669,
+    "friendly_name": "Fire Department",
+    "id": "fire_department"
   },
   {
     "dlcs": [
@@ -55,7 +55,6 @@
     ],
     "forceRegionExtendedName": true,
     "guid": 6355,
-    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_hospital_advanced.png",
     "inputs": [
       {
         "Amount": 1,
@@ -70,9 +69,10 @@
         "Product": 1010017
       }
     ],
-    "name": "City Hospital",
     "region": 5000000,
-    "tpmin": 0.16666666666666669
+    "tpmin": 0.16666666666666669,
+    "friendly_name": "City Hospital",
+    "id": "city_hospital"
   },
   {
     "dlcs": [
@@ -80,7 +80,6 @@
     ],
     "forceRegionExtendedName": true,
     "guid": 5840,
-    "iconPath": "data/ui/2kimages/main/3dicons/public_building/icon_samba_school.png",
     "inputs": [
       {
         "Amount": 1,
@@ -98,9 +97,10 @@
         "Product": 5406
       }
     ],
-    "name": "Samba School",
     "region": 5000001,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Samba School",
+    "id": "samba_school"
   },
   {
     "dlcs": [
@@ -108,7 +108,6 @@
     ],
     "forceRegionExtendedName": true,
     "guid": 6018,
-    "iconPath": "data/ui/2kimages/main/3dicons/public_building/icon_cinema.png",
     "inputs": [
       {
         "Amount": 1,
@@ -126,9 +125,10 @@
         "Product": 5406
       }
     ],
-    "name": "Cinema",
     "region": 5000001,
-    "tpmin": 0.33333333333333337
+    "tpmin": 0.33333333333333337,
+    "friendly_name": "Cinema",
+    "id": "cinema"
   },
   {
     "dlcs": [
@@ -136,7 +136,6 @@
     ],
     "forceRegionExtendedName": true,
     "guid": 6258,
-    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_police_advanced.png",
     "inputs": [
       {
         "Amount": 1,
@@ -151,9 +150,10 @@
         "Product": 1010017
       }
     ],
-    "name": "Police Headquarters",
     "region": 5000001,
-    "tpmin": 0.16666666666666669
+    "tpmin": 0.16666666666666669,
+    "friendly_name": "Police Headquarters",
+    "id": "police_headquarters"
   },
   {
     "dlcs": [
@@ -161,7 +161,6 @@
     ],
     "forceRegionExtendedName": true,
     "guid": 6259,
-    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_fire_brigade_advanced.png",
     "inputs": [
       {
         "Amount": 1,
@@ -176,9 +175,10 @@
         "Product": 1010017
       }
     ],
-    "name": "Fire Department",
     "region": 5000001,
-    "tpmin": 0.16666666666666669
+    "tpmin": 0.16666666666666669,
+    "friendly_name": "Fire Department",
+    "id": "fire_department"
   },
   {
     "dlcs": [
@@ -186,7 +186,6 @@
     ],
     "forceRegionExtendedName": true,
     "guid": 6260,
-    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_hospital_advanced.png",
     "inputs": [
       {
         "Amount": 1,
@@ -201,8 +200,9 @@
         "Product": 1010017
       }
     ],
-    "name": "City Hospital",
     "region": 5000001,
-    "tpmin": 0.16666666666666669
+    "tpmin": 0.16666666666666669,
+    "friendly_name": "City Hospital",
+    "id": "city_hospital"
   }
 ]

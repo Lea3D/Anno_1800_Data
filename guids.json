@@ -1,0 +1,11810 @@
+[
+  {
+    "guid": 4100010,
+    "id": "the_anarchist"
+  },
+  {
+    "guid": 410040,
+    "id": "sunken_treasures"
+  },
+  {
+    "guid": 410041,
+    "id": "botanica"
+  },
+  {
+    "guid": 410042,
+    "id": "the_passage"
+  },
+  {
+    "guid": 410059,
+    "id": "seat_of_power"
+  },
+  {
+    "guid": 410070,
+    "id": "bright_harvest"
+  },
+  {
+    "guid": 410071,
+    "id": "land_of_lions"
+  },
+  {
+    "guid": 410083,
+    "id": "docklands"
+  },
+  {
+    "guid": 410084,
+    "id": "tourist_season"
+  },
+  {
+    "guid": 410085,
+    "id": "the_high_life"
+  },
+  {
+    "guid": 24961,
+    "id": "seeds_of_change"
+  },
+  {
+    "guid": 24962,
+    "id": "empire_of_the_skies"
+  },
+  {
+    "guid": 24963,
+    "id": "new_world_rising"
+  },
+  {
+    "guid": 24798,
+    "id": "hacienda_sugar_cane_farm"
+  },
+  {
+    "guid": 25003,
+    "id": "hacienda_corn_farm"
+  },
+  {
+    "guid": 25005,
+    "id": "hacienda_coffee_farm"
+  },
+  {
+    "guid": 25006,
+    "id": "hacienda_caoutchouc_plantation"
+  },
+  {
+    "guid": 25009,
+    "id": "hacienda_cocoa_farm"
+  },
+  {
+    "guid": 25019,
+    "id": "hacienda_potato_farm"
+  },
+  {
+    "guid": 25020,
+    "id": "hacienda_spice_farm"
+  },
+  {
+    "guid": 25128,
+    "id": "hacienda_grain_farm"
+  },
+  {
+    "guid": 24801,
+    "id": "hacienda_rum_distillery"
+  },
+  {
+    "guid": 25064,
+    "id": "hacienda_beer_brewery"
+  },
+  {
+    "guid": 25126,
+    "id": "hacienda_atole_maker"
+  },
+  {
+    "guid": 25350,
+    "id": "hacienda_schnapps_distillery"
+  },
+  {
+    "guid": 25508,
+    "id": "hacienda_hot_sauce_brewery"
+  },
+  {
+    "guid": 24805,
+    "id": "hacienda"
+  },
+  {
+    "guid": 1010262,
+    "id": "grain_farm"
+  },
+  {
+    "guid": 1010263,
+    "id": "cattle_farm"
+  },
+  {
+    "guid": 1010264,
+    "id": "hop_farm"
+  },
+  {
+    "guid": 1010265,
+    "id": "potato_farm"
+  },
+  {
+    "guid": 1010266,
+    "id": "lumberjack's_hut"
+  },
+  {
+    "guid": 1010267,
+    "id": "sheep_farm"
+  },
+  {
+    "guid": 1010269,
+    "id": "pig_farm"
+  },
+  {
+    "guid": 1010558,
+    "id": "hunting_cabin"
+  },
+  {
+    "guid": 100654,
+    "id": "red_pepper_farm"
+  },
+  {
+    "guid": 100655,
+    "id": "vineyard"
+  },
+  {
+    "guid": 1010278,
+    "id": "fishery"
+  },
+  {
+    "guid": 1010310,
+    "id": "saltpeter_works"
+  },
+  {
+    "guid": 1010560,
+    "id": "sand_mine"
+  },
+  {
+    "guid": 1010280,
+    "id": "concrete_factory"
+  },
+  {
+    "guid": 1010281,
+    "id": "soap_factory"
+  },
+  {
+    "guid": 1010283,
+    "id": "brick_factory"
+  },
+  {
+    "guid": 100451,
+    "id": "sawmill"
+  },
+  {
+    "guid": 1010325,
+    "id": "fur_dealer"
+  },
+  {
+    "guid": 1010286,
+    "id": "light_bulb_factory"
+  },
+  {
+    "guid": 1010285,
+    "id": "window-makers"
+  },
+  {
+    "guid": 1010288,
+    "id": "sailmakers"
+  },
+  {
+    "guid": 100416,
+    "id": "clay_pit"
+  },
+  {
+    "guid": 1010289,
+    "id": "coachmakers"
+  },
+  {
+    "guid": 1010291,
+    "id": "bakery"
+  },
+  {
+    "guid": 1010292,
+    "id": "brewery"
+  },
+  {
+    "guid": 1010293,
+    "id": "artisanal_kitchen"
+  },
+  {
+    "guid": 1010295,
+    "id": "cannery"
+  },
+  {
+    "guid": 1010294,
+    "id": "schnapps_distillery"
+  },
+  {
+    "guid": 1010316,
+    "id": "butcher's"
+  },
+  {
+    "guid": 100659,
+    "id": "champagne_cellar"
+  },
+  {
+    "guid": 1010296,
+    "id": "steelworks"
+  },
+  {
+    "guid": 1010297,
+    "id": "furnace"
+  },
+  {
+    "guid": 1010298,
+    "id": "charcoal_kiln"
+  },
+  {
+    "guid": 1010299,
+    "id": "weapon_factory"
+  },
+  {
+    "guid": 1010301,
+    "id": "heavy_weapons_factory"
+  },
+  {
+    "guid": 1010302,
+    "id": "motor_assembly_line"
+  },
+  {
+    "guid": 1010303,
+    "id": "cab_assembly_line"
+  },
+  {
+    "guid": 1010282,
+    "id": "brass_smeltery"
+  },
+  {
+    "guid": 101331,
+    "id": "oil_refinery"
+  },
+  {
+    "guid": 1010304,
+    "id": "coal_mine"
+  },
+  {
+    "guid": 1010305,
+    "id": "iron_mine"
+  },
+  {
+    "guid": 1010307,
+    "id": "zinc_mine"
+  },
+  {
+    "guid": 1010308,
+    "id": "copper_mine"
+  },
+  {
+    "guid": 1010309,
+    "id": "limestone_quarry"
+  },
+  {
+    "guid": 1010312,
+    "id": "rendering_works"
+  },
+  {
+    "guid": 1010313,
+    "id": "flour_mill"
+  },
+  {
+    "guid": 1010314,
+    "id": "malthouse"
+  },
+  {
+    "guid": 1010315,
+    "id": "framework_knitters"
+  },
+  {
+    "guid": 1010300,
+    "id": "dynamite_factory"
+  },
+  {
+    "guid": 1010319,
+    "id": "glassmakers"
+  },
+  {
+    "guid": 1010320,
+    "id": "marquetry_workshop"
+  },
+  {
+    "guid": 1010321,
+    "id": "filament_factory"
+  },
+  {
+    "guid": 1010323,
+    "id": "bicycle_factory"
+  },
+  {
+    "guid": 1010324,
+    "id": "clockmakers"
+  },
+  {
+    "guid": 1010284,
+    "id": "sewing_machine_factory"
+  },
+  {
+    "guid": 1010326,
+    "id": "gramophone_factory"
+  },
+  {
+    "guid": 1010327,
+    "id": "goldsmiths"
+  },
+  {
+    "guid": 1010328,
+    "id": "jewellers"
+  },
+  {
+    "guid": 101250,
+    "id": "spectacle_factory"
+  },
+  {
+    "guid": 1010329,
+    "id": "sugar_cane_plantation"
+  },
+  {
+    "guid": 1010330,
+    "id": "tobacco_plantation"
+  },
+  {
+    "guid": 1010331,
+    "id": "cotton_plantation"
+  },
+  {
+    "guid": 1010332,
+    "id": "cocoa_plantation"
+  },
+  {
+    "guid": 1010333,
+    "id": "caoutchouc_plantation"
+  },
+  {
+    "guid": 101260,
+    "id": "agriculture_colony01_06_(timber_yard)"
+  },
+  {
+    "guid": 101251,
+    "id": "coffee_plantation"
+  },
+  {
+    "guid": 101263,
+    "id": "plantain_plantation"
+  },
+  {
+    "guid": 101269,
+    "id": "cattle_farm"
+  },
+  {
+    "guid": 101270,
+    "id": "corn_farm"
+  },
+  {
+    "guid": 101272,
+    "id": "alpaca_farm"
+  },
+  {
+    "guid": 1010339,
+    "id": "pearl_farm"
+  },
+  {
+    "guid": 101262,
+    "id": "fish_oil_factory"
+  },
+  {
+    "guid": 101261,
+    "id": "factory_colony01_01_(timber_factory)"
+  },
+  {
+    "guid": 101265,
+    "id": "factory_colony01_02_(sailcloth_factory)"
+  },
+  {
+    "guid": 1010318,
+    "id": "cotton_mill"
+  },
+  {
+    "guid": 101267,
+    "id": "factory_colony01_04_(clay_pit)"
+  },
+  {
+    "guid": 101268,
+    "id": "factory_colony01_05_(brick_factory)"
+  },
+  {
+    "guid": 101415,
+    "id": "felt_producer"
+  },
+  {
+    "guid": 101273,
+    "id": "bombín_weaver"
+  },
+  {
+    "guid": 1010340,
+    "id": "rum_distillery"
+  },
+  {
+    "guid": 1010341,
+    "id": "chocolate_factory"
+  },
+  {
+    "guid": 101252,
+    "id": "coffee_roaster"
+  },
+  {
+    "guid": 101264,
+    "id": "fried_plantain_kitchen"
+  },
+  {
+    "guid": 101271,
+    "id": "tortilla_maker"
+  },
+  {
+    "guid": 1010561,
+    "id": "heavy_colony01_01_(oil_heavy_industry)"
+  },
+  {
+    "guid": 101311,
+    "id": "mining_colony01_01_(gold_ore_mine)"
+  },
+  {
+    "guid": 1010317,
+    "id": "sugar_refinery"
+  },
+  {
+    "guid": 101266,
+    "id": "poncho_darner"
+  },
+  {
+    "guid": 101296,
+    "id": "processing_colony01_03_(inlay_processing)"
+  },
+  {
+    "guid": 1010342,
+    "id": "cigar_factory"
+  },
+  {
+    "guid": 114703,
+    "id": "lumberjack's_hut"
+  },
+  {
+    "guid": 112667,
+    "id": "caribou_hunter"
+  },
+  {
+    "guid": 112676,
+    "id": "goose_farm"
+  },
+  {
+    "guid": 112673,
+    "id": "bear_hunter"
+  },
+  {
+    "guid": 112682,
+    "id": "husky_farm"
+  },
+  {
+    "guid": 116034,
+    "id": "prime_hunting_cabin"
+  },
+  {
+    "guid": 114705,
+    "id": "charcoal_kiln"
+  },
+  {
+    "guid": 112666,
+    "id": "whale_hunter"
+  },
+  {
+    "guid": 112674,
+    "id": "seal_hunter"
+  },
+  {
+    "guid": 114704,
+    "id": "sawmill"
+  },
+  {
+    "guid": 112675,
+    "id": "sleeping_bag_factory"
+  },
+  {
+    "guid": 112679,
+    "id": "oil_lamp_factory"
+  },
+  {
+    "guid": 112672,
+    "id": "parka_factory"
+  },
+  {
+    "guid": 112681,
+    "id": "sled_frame_factory"
+  },
+  {
+    "guid": 112680,
+    "id": "husky_sled_factory"
+  },
+  {
+    "guid": 112668,
+    "id": "pemmican_factory"
+  },
+  {
+    "guid": 112690,
+    "id": "arctic_gas_mine"
+  },
+  {
+    "guid": 116029,
+    "id": "deep_gold_mine"
+  },
+  {
+    "guid": 118571,
+    "id": "fuel_station"
+  },
+  {
+    "guid": 269840,
+    "id": "fuel_station"
+  },
+  {
+    "guid": 119028,
+    "id": "fuel_station"
+  },
+  {
+    "guid": 133004,
+    "id": "orchard:_coconut_oil"
+  },
+  {
+    "guid": 133030,
+    "id": "orchard:_cinnamon"
+  },
+  {
+    "guid": 133031,
+    "id": "orchard:_citrus"
+  },
+  {
+    "guid": 134614,
+    "id": "orchard:_camphor_wax"
+  },
+  {
+    "guid": 924,
+    "id": "bomb_factory"
+  },
+  {
+    "guid": 934,
+    "id": "sea_mine_factory"
+  },
+  {
+    "guid": 935,
+    "id": "pamphlet_printer"
+  },
+  {
+    "guid": 936,
+    "id": "care_package_factory"
+  },
+  {
+    "guid": 1345,
+    "id": "charcoal_kiln"
+  },
+  {
+    "guid": 1418,
+    "id": "industrial_oil_press"
+  },
+  {
+    "guid": 835,
+    "id": "aluminium_smelter"
+  },
+  {
+    "guid": 906,
+    "id": "bomb_factory"
+  },
+  {
+    "guid": 907,
+    "id": "sea_mine_factory"
+  },
+  {
+    "guid": 908,
+    "id": "pamphlet_printer"
+  },
+  {
+    "guid": 916,
+    "id": "care_package_factory"
+  },
+  {
+    "guid": 915,
+    "id": "water_drop_factory"
+  },
+  {
+    "guid": 1308,
+    "id": "bauxite_mine"
+  },
+  {
+    "guid": 1353,
+    "id": "helium_extractor"
+  },
+  {
+    "guid": 122963,
+    "id": "wanza_woodcutter"
+  },
+  {
+    "guid": 114448,
+    "id": "linseed_farm"
+  },
+  {
+    "guid": 114447,
+    "id": "hibiscus_farm"
+  },
+  {
+    "guid": 114450,
+    "id": "teff_farm"
+  },
+  {
+    "guid": 114451,
+    "id": "indigo_farm"
+  },
+  {
+    "guid": 114452,
+    "id": "spice_farm"
+  },
+  {
+    "guid": 114453,
+    "id": "apiary"
+  },
+  {
+    "guid": 114439,
+    "id": "sanga_farm"
+  },
+  {
+    "guid": 114456,
+    "id": "goat_farm"
+  },
+  {
+    "guid": 114440,
+    "id": "salt_works"
+  },
+  {
+    "guid": 118729,
+    "id": "lobster_fishery"
+  },
+  {
+    "guid": 117743,
+    "id": "clay_collector"
+  },
+  {
+    "guid": 117744,
+    "id": "paper_mill"
+  },
+  {
+    "guid": 114441,
+    "id": "linen_mill"
+  },
+  {
+    "guid": 114459,
+    "id": "teff_mill"
+  },
+  {
+    "guid": 114461,
+    "id": "chandler"
+  },
+  {
+    "guid": 114444,
+    "id": "dry-house"
+  },
+  {
+    "guid": 114466,
+    "id": "embroiderer"
+  },
+  {
+    "guid": 114468,
+    "id": "tea_spicer"
+  },
+  {
+    "guid": 118725,
+    "id": "ceramics_workshop"
+  },
+  {
+    "guid": 114469,
+    "id": "tapestry_looms"
+  },
+  {
+    "guid": 114467,
+    "id": "brick_dry-house"
+  },
+  {
+    "guid": 114471,
+    "id": "wat_kitchen"
+  },
+  {
+    "guid": 114472,
+    "id": "pipe_maker"
+  },
+  {
+    "guid": 114470,
+    "id": "luminer"
+  },
+  {
+    "guid": 114464,
+    "id": "lanternsmith"
+  },
+  {
+    "guid": 118733,
+    "id": "bootmakers"
+  },
+  {
+    "guid": 118734,
+    "id": "tailor's_shop"
+  },
+  {
+    "guid": 118735,
+    "id": "telephone_manufacturer"
+  },
+  {
+    "guid": 124738,
+    "id": "advanced_coffee_roaster"
+  },
+  {
+    "guid": 124737,
+    "id": "advanced_rum_distillery"
+  },
+  {
+    "guid": 124739,
+    "id": "advanced_cotton_mill"
+  },
+  {
+    "guid": 132777,
+    "id": "chemical_plant:_lemonade"
+  },
+  {
+    "guid": 132786,
+    "id": "chemical_plant:_shampoo"
+  },
+  {
+    "guid": 133533,
+    "id": "chemical_plant:_souvenirs"
+  },
+  {
+    "guid": 133496,
+    "id": "orchard:_jam"
+  },
+  {
+    "guid": 135088,
+    "id": "orchard:_cherry_wood"
+  },
+  {
+    "guid": 135085,
+    "id": "orchard:_resin"
+  },
+  {
+    "guid": 134622,
+    "id": "assembly_line:_elevators"
+  },
+  {
+    "guid": 135361,
+    "id": "assembly_line:_biscuits"
+  },
+  {
+    "guid": 135148,
+    "id": "assembly_line:_typewriters"
+  },
+  {
+    "guid": 135133,
+    "id": "chemical_plant:_lacquer"
+  },
+  {
+    "guid": 135418,
+    "id": "artisan's_workshop:_cognac"
+  },
+  {
+    "guid": 135397,
+    "id": "artisan's_workshop:_violins"
+  },
+  {
+    "guid": 135407,
+    "id": "artisan's_workshop:_billiard_tables"
+  },
+  {
+    "guid": 135669,
+    "id": "artisan's_workshop:_toys"
+  },
+  {
+    "guid": 135185,
+    "id": "chemical_plant:_chewing_gum"
+  },
+  {
+    "guid": 135134,
+    "id": "chemical_plant:_ethanol"
+  },
+  {
+    "guid": 135224,
+    "id": "chemical_plant:_celluloid"
+  },
+  {
+    "guid": 5457,
+    "id": "nandu_farm"
+  },
+  {
+    "guid": 5463,
+    "id": "herb_garden"
+  },
+  {
+    "guid": 5814,
+    "id": "orchid_farm"
+  },
+  {
+    "guid": 7919,
+    "id": "calamari_fishery"
+  },
+  {
+    "guid": 6080,
+    "id": "furnace"
+  },
+  {
+    "guid": 6083,
+    "id": "sewing_machine_factory"
+  },
+  {
+    "guid": 6279,
+    "id": "cable_factory"
+  },
+  {
+    "guid": 5458,
+    "id": "jalea_kitchen"
+  },
+  {
+    "guid": 5459,
+    "id": "ice_cream_factory"
+  },
+  {
+    "guid": 6594,
+    "id": "mezcal_bar"
+  },
+  {
+    "guid": 5658,
+    "id": "scooter_factory"
+  },
+  {
+    "guid": 5659,
+    "id": "motor_assembly_plant"
+  },
+  {
+    "guid": 5862,
+    "id": "fan_factory"
+  },
+  {
+    "guid": 1388,
+    "id": "mineral_mine"
+  },
+  {
+    "guid": 1390,
+    "id": "mineral_mine"
+  },
+  {
+    "guid": 5657,
+    "id": "perfume_mixer"
+  },
+  {
+    "guid": 5879,
+    "id": "ball_manufactory"
+  },
+  {
+    "guid": 5933,
+    "id": "costume_shop"
+  },
+  {
+    "guid": 5828,
+    "id": "chemical_plant:_film_reels"
+  },
+  {
+    "guid": 6630,
+    "id": "arsenal:_police_equipment"
+  },
+  {
+    "guid": 6629,
+    "id": "laboratory:_fire_extinguisher"
+  },
+  {
+    "guid": 6631,
+    "id": "laboratory:_medicine"
+  },
+  {
+    "guid": 5462,
+    "id": "laboratory:_pigments"
+  },
+  {
+    "guid": 8027,
+    "id": "powered_pasture"
+  },
+  {
+    "guid": 8002,
+    "id": "powered_pasture"
+  },
+  {
+    "guid": 8026,
+    "id": "powered_pasture"
+  },
+  {
+    "guid": 190619,
+    "id": "veteran_whaler"
+  },
+  {
+    "guid": 190620,
+    "id": "daring_scuba_diver"
+  },
+  {
+    "guid": 190621,
+    "id": "mother_of_pearls"
+  },
+  {
+    "guid": 190622,
+    "id": "captain_moby,_old_dog_of_the_sea"
+  },
+  {
+    "guid": 190625,
+    "id": "illustrious_gemologist"
+  },
+  {
+    "guid": 190626,
+    "id": "goldsmith_gilbert"
+  },
+  {
+    "guid": 190627,
+    "id": "françois_strindberg,_crown_jeweller"
+  },
+  {
+    "guid": 190628,
+    "id": "baker"
+  },
+  {
+    "guid": 190630,
+    "id": "fine_cake_decorator"
+  },
+  {
+    "guid": 190632,
+    "id": "marie-antoine,_pâtissier_royale"
+  },
+  {
+    "guid": 190642,
+    "id": "torcedor_lucia"
+  },
+  {
+    "guid": 190643,
+    "id": "victor_perfecto,_cigar_daddy"
+  },
+  {
+    "guid": 190689,
+    "id": "pedologist"
+  },
+  {
+    "guid": 190690,
+    "id": "arborist"
+  },
+  {
+    "guid": 190691,
+    "id": "mrs.brown_the_cultivator"
+  },
+  {
+    "guid": 190692,
+    "id": "horticulturalist_hermann"
+  },
+  {
+    "guid": 190693,
+    "id": "dr._ali_al-zahir,_the_botanical_director"
+  },
+  {
+    "guid": 190742,
+    "id": "park_ranger"
+  },
+  {
+    "guid": 190737,
+    "id": "expert_hunter"
+  },
+  {
+    "guid": 190738,
+    "id": "miss_rodriguez_the_conservationist"
+  },
+  {
+    "guid": 190743,
+    "id": "wild_frontiersman_steen"
+  },
+  {
+    "guid": 190750,
+    "id": "yvonne_the_yeowoman"
+  },
+  {
+    "guid": 190751,
+    "id": "medal-winning_producer"
+  },
+  {
+    "guid": 190761,
+    "id": "jörg_von_malching,_augur_of_the_auric"
+  },
+  {
+    "guid": 191309,
+    "id": "optometrist_otto"
+  },
+  {
+    "guid": 191310,
+    "id": "gerhard_fuchs,_of_the_patent_eyeglass."
+  },
+  {
+    "guid": 191318,
+    "id": "perfumier_prunella"
+  },
+  {
+    "guid": 191319,
+    "id": "hervé_savonne,_suppressor_of_grime"
+  },
+  {
+    "guid": 191323,
+    "id": "chronometrist_chiara"
+  },
+  {
+    "guid": 191324,
+    "id": "hans_klein,_old_grandfather_time"
+  },
+  {
+    "guid": 191327,
+    "id": "fine_couturier"
+  },
+  {
+    "guid": 191348,
+    "id": "costume_designer"
+  },
+  {
+    "guid": 191328,
+    "id": "lily_the_fashion_designer"
+  },
+  {
+    "guid": 192039,
+    "id": "master_craftsman_franke"
+  },
+  {
+    "guid": 191329,
+    "id": "lady_jane_smythe,_queen_of_haute_couture"
+  },
+  {
+    "guid": 191345,
+    "id": "modiste"
+  },
+  {
+    "guid": 191349,
+    "id": "miliner"
+  },
+  {
+    "guid": 191346,
+    "id": "mariana_the_master_stylist"
+  },
+  {
+    "guid": 191347,
+    "id": "cristobal_taffeta,_the_trendsetter"
+  },
+  {
+    "guid": 191331,
+    "id": "chocolatier"
+  },
+  {
+    "guid": 191332,
+    "id": "quality_chocolatier"
+  },
+  {
+    "guid": 191356,
+    "id": "master_confectioner"
+  },
+  {
+    "guid": 191333,
+    "id": "charlotte_the_chocoholic"
+  },
+  {
+    "guid": 191334,
+    "id": "gennaro_garibaldi,_chocolatier_by_royal_appointment"
+  },
+  {
+    "guid": 191375,
+    "id": "magnetist"
+  },
+  {
+    "guid": 191353,
+    "id": "science_whizz"
+  },
+  {
+    "guid": 191376,
+    "id": "leading_electrical_engineer"
+  },
+  {
+    "guid": 191354,
+    "id": "johan_the_inventor"
+  },
+  {
+    "guid": 191355,
+    "id": "prof._ram_devi,_the_bundle_of_energy"
+  },
+  {
+    "guid": 191369,
+    "id": "coffee_sommelier"
+  },
+  {
+    "guid": 191370,
+    "id": "cecilia_the_coffeessieur"
+  },
+  {
+    "guid": 191371,
+    "id": "marco_de_la_mocha,_crusher_of_beans"
+  },
+  {
+    "guid": 191383,
+    "id": "brother_hilarius,_purveyor_of_monastic_mixtures"
+  },
+  {
+    "guid": 191386,
+    "id": "mole_master"
+  },
+  {
+    "guid": 191387,
+    "id": "kantyi_of_the_quinoa"
+  },
+  {
+    "guid": 191402,
+    "id": "tlayolotl_savor,_king_of_the_corn"
+  },
+  {
+    "guid": 191403,
+    "id": "charcutier"
+  },
+  {
+    "guid": 191401,
+    "id": "chantelle_the_charcutier"
+  },
+  {
+    "guid": 191388,
+    "id": "maxime_graves,_delicatesseur_extraordinaire"
+  },
+  {
+    "guid": 191404,
+    "id": "pantry_chef"
+  },
+  {
+    "guid": 191406,
+    "id": "chef_michel"
+  },
+  {
+    "guid": 191407,
+    "id": "mrs._mayson,_the_very_good_housekeeper"
+  },
+  {
+    "guid": 191400,
+    "id": "recipe_archivist"
+  },
+  {
+    "guid": 191405,
+    "id": "tatiana_the_taste-tester"
+  },
+  {
+    "guid": 191408,
+    "id": "marcel_forcas,_celebrity_chef"
+  },
+  {
+    "guid": 191418,
+    "id": "steam_engineer"
+  },
+  {
+    "guid": 191419,
+    "id": "draughtswoman"
+  },
+  {
+    "guid": 191420,
+    "id": "susannah_the_steam_engineer"
+  },
+  {
+    "guid": 191424,
+    "id": "dario_the_mechanical_engineer_"
+  },
+  {
+    "guid": 191422,
+    "id": "bruno_ironbright,_engineering_giant"
+  },
+  {
+    "guid": 191425,
+    "id": "carpenter"
+  },
+  {
+    "guid": 191428,
+    "id": "glass_maker"
+  },
+  {
+    "guid": 191430,
+    "id": "master_craftsman_morris"
+  },
+  {
+    "guid": 191431,
+    "id": "seraphim_papadikas,_the_window_dresser"
+  },
+  {
+    "guid": 191462,
+    "id": "cementer"
+  },
+  {
+    "guid": 191463,
+    "id": "general_foreman"
+  },
+  {
+    "guid": 191465,
+    "id": "françois_thorne,_the_industrial_reinforcer"
+  },
+  {
+    "guid": 191583,
+    "id": "rodrigo_the_ranchero"
+  },
+  {
+    "guid": 191584,
+    "id": "mark_van_der_mark,_breeder_of_shepherd_dogs"
+  },
+  {
+    "guid": 191590,
+    "id": "grigor_the_geologist"
+  },
+  {
+    "guid": 191591,
+    "id": "steven_macleod,_geological_surveyor"
+  },
+  {
+    "guid": 192443,
+    "id": "sir_lewis_brindley_the_chemist"
+  },
+  {
+    "guid": 193187,
+    "id": "alexander_hancock"
+  },
+  {
+    "guid": 116162,
+    "id": "fat_chunk_candle_maker"
+  },
+  {
+    "guid": 116163,
+    "id": "zappy_battery_#2205"
+  },
+  {
+    "guid": 116164,
+    "id": "gløgg_splurger"
+  },
+  {
+    "guid": 116165,
+    "id": "the_uncanny_pocket_cannery"
+  },
+  {
+    "guid": 116167,
+    "id": "gritty_gas_extractor"
+  },
+  {
+    "guid": 116185,
+    "id": "cola_mola_wola_machine"
+  },
+  {
+    "guid": 116187,
+    "id": "the_\"country_bumpkin\"_cigar_roller"
+  },
+  {
+    "guid": 116189,
+    "id": "the_bizarro-balloono-magn8"
+  },
+  {
+    "guid": 116190,
+    "id": "golden_harvester_from_the_future"
+  },
+  {
+    "guid": 24806,
+    "id": "producing_dung"
+  },
+  {
+    "guid": 7225,
+    "id": "bait_specialist"
+  },
+  {
+    "guid": 8347,
+    "id": "dr._íñigo_flores"
+  },
+  {
+    "guid": 8348,
+    "id": "valentina_álvarez"
+  },
+  {
+    "guid": 8351,
+    "id": "maria_maravilla"
+  },
+  {
+    "guid": 8355,
+    "id": "salvador,_the_stalwart"
+  },
+  {
+    "guid": 8356,
+    "id": "pedro,_captain_of_the_\"panama\""
+  },
+  {
+    "guid": 112879,
+    "id": "mechanical_panner"
+  },
+  {
+    "guid": 112880,
+    "id": "gyroscopic_gold_panner"
+  },
+  {
+    "guid": 112881,
+    "id": "prospector_of_auspiciousness"
+  },
+  {
+    "guid": 112882,
+    "id": "ore_extractor"
+  },
+  {
+    "guid": 112883,
+    "id": "extra_ore_extractor"
+  },
+  {
+    "guid": 112884,
+    "id": "extractor_of_ore-someness"
+  },
+  {
+    "guid": 112885,
+    "id": "oily_sucker"
+  },
+  {
+    "guid": 112886,
+    "id": "oily_super-sucker"
+  },
+  {
+    "guid": 112887,
+    "id": "extra_virgin_oily_sucker"
+  },
+  {
+    "guid": 113799,
+    "id": "susannah_brightwoman,_a_glimmer_in_the_darkness"
+  },
+  {
+    "guid": 116132,
+    "id": "practised_inuit_seamster"
+  },
+  {
+    "guid": 116144,
+    "id": "taliriktug_the_husky-voiced"
+  },
+  {
+    "guid": 116152,
+    "id": "toklo_the_trapper"
+  },
+  {
+    "guid": 116153,
+    "id": "naaqtuuq_the_sled-builder"
+  },
+  {
+    "guid": 116154,
+    "id": "sandro_the_nature_chef"
+  },
+  {
+    "guid": 125112,
+    "id": "expert_grazer"
+  },
+  {
+    "guid": 125118,
+    "id": "tea_selector"
+  },
+  {
+    "guid": 125122,
+    "id": "aaden_issack,_world-famous_enbesan_chef"
+  },
+  {
+    "guid": 125124,
+    "id": "enbesan_bishop"
+  },
+  {
+    "guid": 125128,
+    "id": "magan_the_master_craftsman"
+  },
+  {
+    "guid": 125129,
+    "id": "wahenoor_the_paper_mill_pro"
+  },
+  {
+    "guid": 125133,
+    "id": "giorgis_the_eminent_hymnodist"
+  },
+  {
+    "guid": 125138,
+    "id": "paul_poiret,_shocking_fashion_designer"
+  },
+  {
+    "guid": 125139,
+    "id": "bumm_brimmell,_the_original_dandy"
+  },
+  {
+    "guid": 136739,
+    "id": "interspecies_grafting_"
+  },
+  {
+    "guid": 136746,
+    "id": "re-rendering"
+  },
+  {
+    "guid": 136647,
+    "id": "marie-louise_carême,_chef_de_cuisine_"
+  },
+  {
+    "guid": 136649,
+    "id": "entremetier"
+  },
+  {
+    "guid": 958,
+    "id": "combustion_chemist"
+  },
+  {
+    "guid": 1772,
+    "id": "arctic_gas_expert"
+  },
+  {
+    "guid": 1964,
+    "id": "animal_nutritionist"
+  },
+  {
+    "guid": 1897,
+    "id": "synthetic_chemist"
+  },
+  {
+    "guid": 1966,
+    "id": "_enbesan_animal_nutritionist_"
+  },
+  {
+    "guid": 1961,
+    "id": "tropical_pedologist"
+  },
+  {
+    "guid": 1956,
+    "id": "temperate_pedologist"
+  },
+  {
+    "guid": 1948,
+    "id": "mad_mary,_dynamite_enthusiast"
+  },
+  {
+    "guid": 2223,
+    "id": "helium_expert"
+  },
+  {
+    "guid": 2224,
+    "id": "mineralogist"
+  },
+  {
+    "guid": 1895,
+    "id": "military_logistician"
+  },
+  {
+    "guid": 8908,
+    "id": "enbesan_envoy"
+  },
+  {
+    "guid": 136823,
+    "id": "get_rich_quick_vol_ii:_what_shape_is_a_banana_anyway?"
+  },
+  {
+    "guid": 136819,
+    "id": "get_rich_quick_vol_iii:_pretty_polyculture"
+  },
+  {
+    "guid": 136827,
+    "id": "get_rich_quick_vol_iv:_the_wasteland"
+  },
+  {
+    "guid": 137631,
+    "id": "get_rich_quick_vol_vii:_automation_nation"
+  },
+  {
+    "guid": 136885,
+    "id": "belinda_san_pedro,_head_of_arcade_acquisitions"
+  },
+  {
+    "guid": 4100010,
+    "id": "the_anarchist"
+  },
+  {
+    "guid": 410040,
+    "id": "sunken_treasures"
+  },
+  {
+    "guid": 410041,
+    "id": "botanica"
+  },
+  {
+    "guid": 410042,
+    "id": "the_passage"
+  },
+  {
+    "guid": 410059,
+    "id": "seat_of_power"
+  },
+  {
+    "guid": 410070,
+    "id": "bright_harvest"
+  },
+  {
+    "guid": 410071,
+    "id": "land_of_lions"
+  },
+  {
+    "guid": 410083,
+    "id": "docklands"
+  },
+  {
+    "guid": 410084,
+    "id": "tourist_season"
+  },
+  {
+    "guid": 410085,
+    "id": "the_high_life"
+  },
+  {
+    "guid": 24961,
+    "id": "seeds_of_change"
+  },
+  {
+    "guid": 24962,
+    "id": "empire_of_the_skies"
+  },
+  {
+    "guid": 24963,
+    "id": "new_world_rising"
+  },
+  {
+    "guid": 24798,
+    "id": "hacienda_sugar_cane_farm"
+  },
+  {
+    "guid": 25003,
+    "id": "hacienda_corn_farm"
+  },
+  {
+    "guid": 25005,
+    "id": "hacienda_coffee_farm"
+  },
+  {
+    "guid": 25006,
+    "id": "hacienda_caoutchouc_plantation"
+  },
+  {
+    "guid": 25009,
+    "id": "hacienda_cocoa_farm"
+  },
+  {
+    "guid": 25019,
+    "id": "hacienda_potato_farm"
+  },
+  {
+    "guid": 25020,
+    "id": "hacienda_spice_farm"
+  },
+  {
+    "guid": 25128,
+    "id": "hacienda_grain_farm"
+  },
+  {
+    "guid": 24801,
+    "id": "hacienda_rum_distillery"
+  },
+  {
+    "guid": 25064,
+    "id": "hacienda_beer_brewery"
+  },
+  {
+    "guid": 25126,
+    "id": "hacienda_atole_maker"
+  },
+  {
+    "guid": 25350,
+    "id": "hacienda_schnapps_distillery"
+  },
+  {
+    "guid": 25508,
+    "id": "hacienda_hot_sauce_brewery"
+  },
+  {
+    "guid": 24805,
+    "id": "hacienda"
+  },
+  {
+    "guid": 1010262,
+    "id": "grain_farm"
+  },
+  {
+    "guid": 1010263,
+    "id": "cattle_farm"
+  },
+  {
+    "guid": 1010264,
+    "id": "hop_farm"
+  },
+  {
+    "guid": 1010265,
+    "id": "potato_farm"
+  },
+  {
+    "guid": 1010266,
+    "id": "lumberjack's_hut"
+  },
+  {
+    "guid": 1010267,
+    "id": "sheep_farm"
+  },
+  {
+    "guid": 1010269,
+    "id": "pig_farm"
+  },
+  {
+    "guid": 1010558,
+    "id": "hunting_cabin"
+  },
+  {
+    "guid": 100654,
+    "id": "red_pepper_farm"
+  },
+  {
+    "guid": 100655,
+    "id": "vineyard"
+  },
+  {
+    "guid": 1010278,
+    "id": "fishery"
+  },
+  {
+    "guid": 1010310,
+    "id": "saltpeter_works"
+  },
+  {
+    "guid": 1010560,
+    "id": "sand_mine"
+  },
+  {
+    "guid": 1010280,
+    "id": "concrete_factory"
+  },
+  {
+    "guid": 1010281,
+    "id": "soap_factory"
+  },
+  {
+    "guid": 1010283,
+    "id": "brick_factory"
+  },
+  {
+    "guid": 100451,
+    "id": "sawmill"
+  },
+  {
+    "guid": 1010325,
+    "id": "fur_dealer"
+  },
+  {
+    "guid": 1010286,
+    "id": "light_bulb_factory"
+  },
+  {
+    "guid": 1010285,
+    "id": "window-makers"
+  },
+  {
+    "guid": 1010288,
+    "id": "sailmakers"
+  },
+  {
+    "guid": 100416,
+    "id": "clay_pit"
+  },
+  {
+    "guid": 1010289,
+    "id": "coachmakers"
+  },
+  {
+    "guid": 1010291,
+    "id": "bakery"
+  },
+  {
+    "guid": 1010292,
+    "id": "brewery"
+  },
+  {
+    "guid": 1010293,
+    "id": "artisanal_kitchen"
+  },
+  {
+    "guid": 1010295,
+    "id": "cannery"
+  },
+  {
+    "guid": 1010294,
+    "id": "schnapps_distillery"
+  },
+  {
+    "guid": 1010316,
+    "id": "butcher's"
+  },
+  {
+    "guid": 100659,
+    "id": "champagne_cellar"
+  },
+  {
+    "guid": 1010296,
+    "id": "steelworks"
+  },
+  {
+    "guid": 1010297,
+    "id": "furnace"
+  },
+  {
+    "guid": 1010298,
+    "id": "charcoal_kiln"
+  },
+  {
+    "guid": 1010299,
+    "id": "weapon_factory"
+  },
+  {
+    "guid": 1010301,
+    "id": "heavy_weapons_factory"
+  },
+  {
+    "guid": 1010302,
+    "id": "motor_assembly_line"
+  },
+  {
+    "guid": 1010303,
+    "id": "cab_assembly_line"
+  },
+  {
+    "guid": 1010282,
+    "id": "brass_smeltery"
+  },
+  {
+    "guid": 101331,
+    "id": "oil_refinery"
+  },
+  {
+    "guid": 1010304,
+    "id": "coal_mine"
+  },
+  {
+    "guid": 1010305,
+    "id": "iron_mine"
+  },
+  {
+    "guid": 1010307,
+    "id": "zinc_mine"
+  },
+  {
+    "guid": 1010308,
+    "id": "copper_mine"
+  },
+  {
+    "guid": 1010309,
+    "id": "limestone_quarry"
+  },
+  {
+    "guid": 1010312,
+    "id": "rendering_works"
+  },
+  {
+    "guid": 1010313,
+    "id": "flour_mill"
+  },
+  {
+    "guid": 1010314,
+    "id": "malthouse"
+  },
+  {
+    "guid": 1010315,
+    "id": "framework_knitters"
+  },
+  {
+    "guid": 1010300,
+    "id": "dynamite_factory"
+  },
+  {
+    "guid": 1010319,
+    "id": "glassmakers"
+  },
+  {
+    "guid": 1010320,
+    "id": "marquetry_workshop"
+  },
+  {
+    "guid": 1010321,
+    "id": "filament_factory"
+  },
+  {
+    "guid": 1010323,
+    "id": "bicycle_factory"
+  },
+  {
+    "guid": 1010324,
+    "id": "clockmakers"
+  },
+  {
+    "guid": 1010284,
+    "id": "sewing_machine_factory"
+  },
+  {
+    "guid": 1010326,
+    "id": "gramophone_factory"
+  },
+  {
+    "guid": 1010327,
+    "id": "goldsmiths"
+  },
+  {
+    "guid": 1010328,
+    "id": "jewellers"
+  },
+  {
+    "guid": 101250,
+    "id": "spectacle_factory"
+  },
+  {
+    "guid": 1010329,
+    "id": "sugar_cane_plantation"
+  },
+  {
+    "guid": 1010330,
+    "id": "tobacco_plantation"
+  },
+  {
+    "guid": 1010331,
+    "id": "cotton_plantation"
+  },
+  {
+    "guid": 1010332,
+    "id": "cocoa_plantation"
+  },
+  {
+    "guid": 1010333,
+    "id": "caoutchouc_plantation"
+  },
+  {
+    "guid": 101260,
+    "id": "agriculture_colony01_06_(timber_yard)"
+  },
+  {
+    "guid": 101251,
+    "id": "coffee_plantation"
+  },
+  {
+    "guid": 101263,
+    "id": "plantain_plantation"
+  },
+  {
+    "guid": 101269,
+    "id": "cattle_farm"
+  },
+  {
+    "guid": 101270,
+    "id": "corn_farm"
+  },
+  {
+    "guid": 101272,
+    "id": "alpaca_farm"
+  },
+  {
+    "guid": 1010339,
+    "id": "pearl_farm"
+  },
+  {
+    "guid": 101262,
+    "id": "fish_oil_factory"
+  },
+  {
+    "guid": 101261,
+    "id": "factory_colony01_01_(timber_factory)"
+  },
+  {
+    "guid": 101265,
+    "id": "factory_colony01_02_(sailcloth_factory)"
+  },
+  {
+    "guid": 1010318,
+    "id": "cotton_mill"
+  },
+  {
+    "guid": 101267,
+    "id": "factory_colony01_04_(clay_pit)"
+  },
+  {
+    "guid": 101268,
+    "id": "factory_colony01_05_(brick_factory)"
+  },
+  {
+    "guid": 101415,
+    "id": "felt_producer"
+  },
+  {
+    "guid": 101273,
+    "id": "bombín_weaver"
+  },
+  {
+    "guid": 1010340,
+    "id": "rum_distillery"
+  },
+  {
+    "guid": 1010341,
+    "id": "chocolate_factory"
+  },
+  {
+    "guid": 101252,
+    "id": "coffee_roaster"
+  },
+  {
+    "guid": 101264,
+    "id": "fried_plantain_kitchen"
+  },
+  {
+    "guid": 101271,
+    "id": "tortilla_maker"
+  },
+  {
+    "guid": 1010561,
+    "id": "heavy_colony01_01_(oil_heavy_industry)"
+  },
+  {
+    "guid": 101311,
+    "id": "mining_colony01_01_(gold_ore_mine)"
+  },
+  {
+    "guid": 1010317,
+    "id": "sugar_refinery"
+  },
+  {
+    "guid": 101266,
+    "id": "poncho_darner"
+  },
+  {
+    "guid": 101296,
+    "id": "processing_colony01_03_(inlay_processing)"
+  },
+  {
+    "guid": 1010342,
+    "id": "cigar_factory"
+  },
+  {
+    "guid": 114703,
+    "id": "lumberjack's_hut"
+  },
+  {
+    "guid": 112667,
+    "id": "caribou_hunter"
+  },
+  {
+    "guid": 112676,
+    "id": "goose_farm"
+  },
+  {
+    "guid": 112673,
+    "id": "bear_hunter"
+  },
+  {
+    "guid": 112682,
+    "id": "husky_farm"
+  },
+  {
+    "guid": 116034,
+    "id": "prime_hunting_cabin"
+  },
+  {
+    "guid": 114705,
+    "id": "charcoal_kiln"
+  },
+  {
+    "guid": 112666,
+    "id": "whale_hunter"
+  },
+  {
+    "guid": 112674,
+    "id": "seal_hunter"
+  },
+  {
+    "guid": 114704,
+    "id": "sawmill"
+  },
+  {
+    "guid": 112675,
+    "id": "sleeping_bag_factory"
+  },
+  {
+    "guid": 112679,
+    "id": "oil_lamp_factory"
+  },
+  {
+    "guid": 112672,
+    "id": "parka_factory"
+  },
+  {
+    "guid": 112681,
+    "id": "sled_frame_factory"
+  },
+  {
+    "guid": 112680,
+    "id": "husky_sled_factory"
+  },
+  {
+    "guid": 112668,
+    "id": "pemmican_factory"
+  },
+  {
+    "guid": 112690,
+    "id": "arctic_gas_mine"
+  },
+  {
+    "guid": 116029,
+    "id": "deep_gold_mine"
+  },
+  {
+    "guid": 118571,
+    "id": "fuel_station"
+  },
+  {
+    "guid": 269840,
+    "id": "fuel_station"
+  },
+  {
+    "guid": 119028,
+    "id": "fuel_station"
+  },
+  {
+    "guid": 133004,
+    "id": "orchard:_coconut_oil"
+  },
+  {
+    "guid": 133030,
+    "id": "orchard:_cinnamon"
+  },
+  {
+    "guid": 133031,
+    "id": "orchard:_citrus"
+  },
+  {
+    "guid": 134614,
+    "id": "orchard:_camphor_wax"
+  },
+  {
+    "guid": 924,
+    "id": "bomb_factory"
+  },
+  {
+    "guid": 934,
+    "id": "sea_mine_factory"
+  },
+  {
+    "guid": 935,
+    "id": "pamphlet_printer"
+  },
+  {
+    "guid": 936,
+    "id": "care_package_factory"
+  },
+  {
+    "guid": 1345,
+    "id": "charcoal_kiln"
+  },
+  {
+    "guid": 1418,
+    "id": "industrial_oil_press"
+  },
+  {
+    "guid": 835,
+    "id": "aluminium_smelter"
+  },
+  {
+    "guid": 906,
+    "id": "bomb_factory"
+  },
+  {
+    "guid": 907,
+    "id": "sea_mine_factory"
+  },
+  {
+    "guid": 908,
+    "id": "pamphlet_printer"
+  },
+  {
+    "guid": 916,
+    "id": "care_package_factory"
+  },
+  {
+    "guid": 915,
+    "id": "water_drop_factory"
+  },
+  {
+    "guid": 1308,
+    "id": "bauxite_mine"
+  },
+  {
+    "guid": 1353,
+    "id": "helium_extractor"
+  },
+  {
+    "guid": 122963,
+    "id": "wanza_woodcutter"
+  },
+  {
+    "guid": 114448,
+    "id": "linseed_farm"
+  },
+  {
+    "guid": 114447,
+    "id": "hibiscus_farm"
+  },
+  {
+    "guid": 114450,
+    "id": "teff_farm"
+  },
+  {
+    "guid": 114451,
+    "id": "indigo_farm"
+  },
+  {
+    "guid": 114452,
+    "id": "spice_farm"
+  },
+  {
+    "guid": 114453,
+    "id": "apiary"
+  },
+  {
+    "guid": 114439,
+    "id": "sanga_farm"
+  },
+  {
+    "guid": 114456,
+    "id": "goat_farm"
+  },
+  {
+    "guid": 114440,
+    "id": "salt_works"
+  },
+  {
+    "guid": 118729,
+    "id": "lobster_fishery"
+  },
+  {
+    "guid": 112518,
+    "id": "scrap"
+  },
+  {
+    "guid": 112520,
+    "id": "nice_scrap"
+  },
+  {
+    "guid": 112523,
+    "id": "special_scrap"
+  },
+  {
+    "guid": 117743,
+    "id": "clay_collector"
+  },
+  {
+    "guid": 117744,
+    "id": "paper_mill"
+  },
+  {
+    "guid": 114441,
+    "id": "linen_mill"
+  },
+  {
+    "guid": 114459,
+    "id": "teff_mill"
+  },
+  {
+    "guid": 114461,
+    "id": "chandler"
+  },
+  {
+    "guid": 114444,
+    "id": "dry-house"
+  },
+  {
+    "guid": 114466,
+    "id": "embroiderer"
+  },
+  {
+    "guid": 114468,
+    "id": "tea_spicer"
+  },
+  {
+    "guid": 118725,
+    "id": "ceramics_workshop"
+  },
+  {
+    "guid": 114469,
+    "id": "tapestry_looms"
+  },
+  {
+    "guid": 114467,
+    "id": "brick_dry-house"
+  },
+  {
+    "guid": 114471,
+    "id": "wat_kitchen"
+  },
+  {
+    "guid": 114472,
+    "id": "pipe_maker"
+  },
+  {
+    "guid": 114470,
+    "id": "luminer"
+  },
+  {
+    "guid": 114464,
+    "id": "lanternsmith"
+  },
+  {
+    "guid": 118733,
+    "id": "bootmakers"
+  },
+  {
+    "guid": 118734,
+    "id": "tailor's_shop"
+  },
+  {
+    "guid": 118735,
+    "id": "telephone_manufacturer"
+  },
+  {
+    "guid": 124738,
+    "id": "advanced_coffee_roaster"
+  },
+  {
+    "guid": 124737,
+    "id": "advanced_rum_distillery"
+  },
+  {
+    "guid": 124739,
+    "id": "advanced_cotton_mill"
+  },
+  {
+    "guid": 132777,
+    "id": "chemical_plant:_lemonade"
+  },
+  {
+    "guid": 132786,
+    "id": "chemical_plant:_shampoo"
+  },
+  {
+    "guid": 133533,
+    "id": "chemical_plant:_souvenirs"
+  },
+  {
+    "guid": 133496,
+    "id": "orchard:_jam"
+  },
+  {
+    "guid": 135088,
+    "id": "orchard:_cherry_wood"
+  },
+  {
+    "guid": 135085,
+    "id": "orchard:_resin"
+  },
+  {
+    "guid": 134622,
+    "id": "assembly_line:_elevators"
+  },
+  {
+    "guid": 135361,
+    "id": "assembly_line:_biscuits"
+  },
+  {
+    "guid": 135148,
+    "id": "assembly_line:_typewriters"
+  },
+  {
+    "guid": 135133,
+    "id": "chemical_plant:_lacquer"
+  },
+  {
+    "guid": 135418,
+    "id": "artisan's_workshop:_cognac"
+  },
+  {
+    "guid": 135397,
+    "id": "artisan's_workshop:_violins"
+  },
+  {
+    "guid": 135407,
+    "id": "artisan's_workshop:_billiard_tables"
+  },
+  {
+    "guid": 135669,
+    "id": "artisan's_workshop:_toys"
+  },
+  {
+    "guid": 135185,
+    "id": "chemical_plant:_chewing_gum"
+  },
+  {
+    "guid": 135134,
+    "id": "chemical_plant:_ethanol"
+  },
+  {
+    "guid": 135224,
+    "id": "chemical_plant:_celluloid"
+  },
+  {
+    "guid": 5457,
+    "id": "nandu_farm"
+  },
+  {
+    "guid": 5463,
+    "id": "herb_garden"
+  },
+  {
+    "guid": 5814,
+    "id": "orchid_farm"
+  },
+  {
+    "guid": 7919,
+    "id": "calamari_fishery"
+  },
+  {
+    "guid": 6080,
+    "id": "furnace"
+  },
+  {
+    "guid": 6083,
+    "id": "sewing_machine_factory"
+  },
+  {
+    "guid": 6279,
+    "id": "cable_factory"
+  },
+  {
+    "guid": 5458,
+    "id": "jalea_kitchen"
+  },
+  {
+    "guid": 5459,
+    "id": "ice_cream_factory"
+  },
+  {
+    "guid": 6594,
+    "id": "mezcal_bar"
+  },
+  {
+    "guid": 5658,
+    "id": "scooter_factory"
+  },
+  {
+    "guid": 5659,
+    "id": "motor_assembly_plant"
+  },
+  {
+    "guid": 5862,
+    "id": "fan_factory"
+  },
+  {
+    "guid": 1388,
+    "id": "mineral_mine"
+  },
+  {
+    "guid": 1390,
+    "id": "mineral_mine"
+  },
+  {
+    "guid": 5657,
+    "id": "perfume_mixer"
+  },
+  {
+    "guid": 5879,
+    "id": "ball_manufactory"
+  },
+  {
+    "guid": 5933,
+    "id": "costume_shop"
+  },
+  {
+    "guid": 5828,
+    "id": "chemical_plant:_film_reels"
+  },
+  {
+    "guid": 6630,
+    "id": "arsenal:_police_equipment"
+  },
+  {
+    "guid": 6629,
+    "id": "laboratory:_fire_extinguisher"
+  },
+  {
+    "guid": 6631,
+    "id": "laboratory:_medicine"
+  },
+  {
+    "guid": 5462,
+    "id": "laboratory:_pigments"
+  },
+  {
+    "guid": 8027,
+    "id": "powered_pasture"
+  },
+  {
+    "guid": 8002,
+    "id": "powered_pasture"
+  },
+  {
+    "guid": 8026,
+    "id": "powered_pasture"
+  },
+  {
+    "guid": 190872
+  },
+  {
+    "guid": 190619,
+    "id": "veteran_whaler"
+  },
+  {
+    "guid": 190620,
+    "id": "daring_scuba_diver"
+  },
+  {
+    "guid": 190621,
+    "id": "mother_of_pearls"
+  },
+  {
+    "guid": 190622,
+    "id": "captain_moby,_old_dog_of_the_sea"
+  },
+  {
+    "guid": 190625,
+    "id": "illustrious_gemologist"
+  },
+  {
+    "guid": 190626,
+    "id": "goldsmith_gilbert"
+  },
+  {
+    "guid": 190627,
+    "id": "françois_strindberg,_crown_jeweller"
+  },
+  {
+    "guid": 190628,
+    "id": "baker"
+  },
+  {
+    "guid": 190630,
+    "id": "fine_cake_decorator"
+  },
+  {
+    "guid": 190632,
+    "id": "marie-antoine,_pâtissier_royale"
+  },
+  {
+    "guid": 190642,
+    "id": "torcedor_lucia"
+  },
+  {
+    "guid": 190643,
+    "id": "victor_perfecto,_cigar_daddy"
+  },
+  {
+    "guid": 190689,
+    "id": "pedologist"
+  },
+  {
+    "guid": 190690,
+    "id": "arborist"
+  },
+  {
+    "guid": 190691,
+    "id": "mrs.brown_the_cultivator"
+  },
+  {
+    "guid": 190692,
+    "id": "horticulturalist_hermann"
+  },
+  {
+    "guid": 190693,
+    "id": "dr._ali_al-zahir,_the_botanical_director"
+  },
+  {
+    "guid": 190742,
+    "id": "park_ranger"
+  },
+  {
+    "guid": 190737,
+    "id": "expert_hunter"
+  },
+  {
+    "guid": 190738,
+    "id": "miss_rodriguez_the_conservationist"
+  },
+  {
+    "guid": 190743,
+    "id": "wild_frontiersman_steen"
+  },
+  {
+    "guid": 190750,
+    "id": "yvonne_the_yeowoman"
+  },
+  {
+    "guid": 190751,
+    "id": "medal-winning_producer"
+  },
+  {
+    "guid": 190761,
+    "id": "jörg_von_malching,_augur_of_the_auric"
+  },
+  {
+    "guid": 191309,
+    "id": "optometrist_otto"
+  },
+  {
+    "guid": 191310,
+    "id": "gerhard_fuchs,_of_the_patent_eyeglass."
+  },
+  {
+    "guid": 191318,
+    "id": "perfumier_prunella"
+  },
+  {
+    "guid": 191319,
+    "id": "hervé_savonne,_suppressor_of_grime"
+  },
+  {
+    "guid": 191323,
+    "id": "chronometrist_chiara"
+  },
+  {
+    "guid": 191324,
+    "id": "hans_klein,_old_grandfather_time"
+  },
+  {
+    "guid": 191327,
+    "id": "fine_couturier"
+  },
+  {
+    "guid": 191348,
+    "id": "costume_designer"
+  },
+  {
+    "guid": 191328,
+    "id": "lily_the_fashion_designer"
+  },
+  {
+    "guid": 192039,
+    "id": "master_craftsman_franke"
+  },
+  {
+    "guid": 191329,
+    "id": "lady_jane_smythe,_queen_of_haute_couture"
+  },
+  {
+    "guid": 191345,
+    "id": "modiste"
+  },
+  {
+    "guid": 191349,
+    "id": "miliner"
+  },
+  {
+    "guid": 191346,
+    "id": "mariana_the_master_stylist"
+  },
+  {
+    "guid": 191347,
+    "id": "cristobal_taffeta,_the_trendsetter"
+  },
+  {
+    "guid": 191331,
+    "id": "chocolatier"
+  },
+  {
+    "guid": 191332,
+    "id": "quality_chocolatier"
+  },
+  {
+    "guid": 191356,
+    "id": "master_confectioner"
+  },
+  {
+    "guid": 191333,
+    "id": "charlotte_the_chocoholic"
+  },
+  {
+    "guid": 191334,
+    "id": "gennaro_garibaldi,_chocolatier_by_royal_appointment"
+  },
+  {
+    "guid": 191375,
+    "id": "magnetist"
+  },
+  {
+    "guid": 191353,
+    "id": "science_whizz"
+  },
+  {
+    "guid": 191376,
+    "id": "leading_electrical_engineer"
+  },
+  {
+    "guid": 191354,
+    "id": "johan_the_inventor"
+  },
+  {
+    "guid": 191355,
+    "id": "prof._ram_devi,_the_bundle_of_energy"
+  },
+  {
+    "guid": 191369,
+    "id": "coffee_sommelier"
+  },
+  {
+    "guid": 191370,
+    "id": "cecilia_the_coffeessieur"
+  },
+  {
+    "guid": 191371,
+    "id": "marco_de_la_mocha,_crusher_of_beans"
+  },
+  {
+    "guid": 191383,
+    "id": "brother_hilarius,_purveyor_of_monastic_mixtures"
+  },
+  {
+    "guid": 191386,
+    "id": "mole_master"
+  },
+  {
+    "guid": 191387,
+    "id": "kantyi_of_the_quinoa"
+  },
+  {
+    "guid": 191402,
+    "id": "tlayolotl_savor,_king_of_the_corn"
+  },
+  {
+    "guid": 191403,
+    "id": "charcutier"
+  },
+  {
+    "guid": 191401,
+    "id": "chantelle_the_charcutier"
+  },
+  {
+    "guid": 191388,
+    "id": "maxime_graves,_delicatesseur_extraordinaire"
+  },
+  {
+    "guid": 191404,
+    "id": "pantry_chef"
+  },
+  {
+    "guid": 191406,
+    "id": "chef_michel"
+  },
+  {
+    "guid": 191407,
+    "id": "mrs._mayson,_the_very_good_housekeeper"
+  },
+  {
+    "guid": 191400,
+    "id": "recipe_archivist"
+  },
+  {
+    "guid": 191405,
+    "id": "tatiana_the_taste-tester"
+  },
+  {
+    "guid": 191408,
+    "id": "marcel_forcas,_celebrity_chef"
+  },
+  {
+    "guid": 191418,
+    "id": "steam_engineer"
+  },
+  {
+    "guid": 191419,
+    "id": "draughtswoman"
+  },
+  {
+    "guid": 191420,
+    "id": "susannah_the_steam_engineer"
+  },
+  {
+    "guid": 191424,
+    "id": "dario_the_mechanical_engineer_"
+  },
+  {
+    "guid": 191422,
+    "id": "bruno_ironbright,_engineering_giant"
+  },
+  {
+    "guid": 191425,
+    "id": "carpenter"
+  },
+  {
+    "guid": 191428,
+    "id": "glass_maker"
+  },
+  {
+    "guid": 191430,
+    "id": "master_craftsman_morris"
+  },
+  {
+    "guid": 191431,
+    "id": "seraphim_papadikas,_the_window_dresser"
+  },
+  {
+    "guid": 191462,
+    "id": "cementer"
+  },
+  {
+    "guid": 191463,
+    "id": "general_foreman"
+  },
+  {
+    "guid": 191465,
+    "id": "françois_thorne,_the_industrial_reinforcer"
+  },
+  {
+    "guid": 191583,
+    "id": "rodrigo_the_ranchero"
+  },
+  {
+    "guid": 191584,
+    "id": "mark_van_der_mark,_breeder_of_shepherd_dogs"
+  },
+  {
+    "guid": 191590,
+    "id": "grigor_the_geologist"
+  },
+  {
+    "guid": 191591,
+    "id": "steven_macleod,_geological_surveyor"
+  },
+  {
+    "guid": 192443,
+    "id": "sir_lewis_brindley_the_chemist"
+  },
+  {
+    "guid": 193187,
+    "id": "alexander_hancock"
+  },
+  {
+    "guid": 116162,
+    "id": "fat_chunk_candle_maker"
+  },
+  {
+    "guid": 116163,
+    "id": "zappy_battery_#2205"
+  },
+  {
+    "guid": 116164,
+    "id": "gløgg_splurger"
+  },
+  {
+    "guid": 116165,
+    "id": "the_uncanny_pocket_cannery"
+  },
+  {
+    "guid": 116167,
+    "id": "gritty_gas_extractor"
+  },
+  {
+    "guid": 116185,
+    "id": "cola_mola_wola_machine"
+  },
+  {
+    "guid": 116187,
+    "id": "the_\"country_bumpkin\"_cigar_roller"
+  },
+  {
+    "guid": 116189,
+    "id": "the_bizarro-balloono-magn8"
+  },
+  {
+    "guid": 116190,
+    "id": "golden_harvester_from_the_future"
+  },
+  {
+    "guid": 24806,
+    "id": "producing_dung"
+  },
+  {
+    "guid": 7225,
+    "id": "bait_specialist"
+  },
+  {
+    "guid": 8347,
+    "id": "dr._íñigo_flores"
+  },
+  {
+    "guid": 8348,
+    "id": "valentina_álvarez"
+  },
+  {
+    "guid": 8351,
+    "id": "maria_maravilla"
+  },
+  {
+    "guid": 8355,
+    "id": "salvador,_the_stalwart"
+  },
+  {
+    "guid": 8356,
+    "id": "pedro,_captain_of_the_\"panama\""
+  },
+  {
+    "guid": 112879,
+    "id": "mechanical_panner"
+  },
+  {
+    "guid": 112880,
+    "id": "gyroscopic_gold_panner"
+  },
+  {
+    "guid": 112881,
+    "id": "prospector_of_auspiciousness"
+  },
+  {
+    "guid": 112882,
+    "id": "ore_extractor"
+  },
+  {
+    "guid": 112883,
+    "id": "extra_ore_extractor"
+  },
+  {
+    "guid": 112884,
+    "id": "extractor_of_ore-someness"
+  },
+  {
+    "guid": 112885,
+    "id": "oily_sucker"
+  },
+  {
+    "guid": 112886,
+    "id": "oily_super-sucker"
+  },
+  {
+    "guid": 112887,
+    "id": "extra_virgin_oily_sucker"
+  },
+  {
+    "guid": 113799,
+    "id": "susannah_brightwoman,_a_glimmer_in_the_darkness"
+  },
+  {
+    "guid": 116132,
+    "id": "practised_inuit_seamster"
+  },
+  {
+    "guid": 116144,
+    "id": "taliriktug_the_husky-voiced"
+  },
+  {
+    "guid": 116152,
+    "id": "toklo_the_trapper"
+  },
+  {
+    "guid": 116153,
+    "id": "naaqtuuq_the_sled-builder"
+  },
+  {
+    "guid": 116154,
+    "id": "sandro_the_nature_chef"
+  },
+  {
+    "guid": 125112,
+    "id": "expert_grazer"
+  },
+  {
+    "guid": 125118,
+    "id": "tea_selector"
+  },
+  {
+    "guid": 125122,
+    "id": "aaden_issack,_world-famous_enbesan_chef"
+  },
+  {
+    "guid": 125124,
+    "id": "enbesan_bishop"
+  },
+  {
+    "guid": 125128,
+    "id": "magan_the_master_craftsman"
+  },
+  {
+    "guid": 125129,
+    "id": "wahenoor_the_paper_mill_pro"
+  },
+  {
+    "guid": 125133,
+    "id": "giorgis_the_eminent_hymnodist"
+  },
+  {
+    "guid": 125138,
+    "id": "paul_poiret,_shocking_fashion_designer"
+  },
+  {
+    "guid": 125139,
+    "id": "bumm_brimmell,_the_original_dandy"
+  },
+  {
+    "guid": 136739,
+    "id": "interspecies_grafting_"
+  },
+  {
+    "guid": 136746,
+    "id": "re-rendering"
+  },
+  {
+    "guid": 136647,
+    "id": "marie-louise_carême,_chef_de_cuisine_"
+  },
+  {
+    "guid": 136649,
+    "id": "entremetier"
+  },
+  {
+    "guid": 958,
+    "id": "combustion_chemist"
+  },
+  {
+    "guid": 1772,
+    "id": "arctic_gas_expert"
+  },
+  {
+    "guid": 1964,
+    "id": "animal_nutritionist"
+  },
+  {
+    "guid": 1897,
+    "id": "synthetic_chemist"
+  },
+  {
+    "guid": 1966,
+    "id": "_enbesan_animal_nutritionist_"
+  },
+  {
+    "guid": 1961,
+    "id": "tropical_pedologist"
+  },
+  {
+    "guid": 1956,
+    "id": "temperate_pedologist"
+  },
+  {
+    "guid": 1948,
+    "id": "mad_mary,_dynamite_enthusiast"
+  },
+  {
+    "guid": 2223,
+    "id": "helium_expert"
+  },
+  {
+    "guid": 2224,
+    "id": "mineralogist"
+  },
+  {
+    "guid": 1895,
+    "id": "military_logistician"
+  },
+  {
+    "guid": 8908,
+    "id": "enbesan_envoy"
+  },
+  {
+    "guid": 136823,
+    "id": "get_rich_quick_vol_ii:_what_shape_is_a_banana_anyway?"
+  },
+  {
+    "guid": 136819,
+    "id": "get_rich_quick_vol_iii:_pretty_polyculture"
+  },
+  {
+    "guid": 136827,
+    "id": "get_rich_quick_vol_iv:_the_wasteland"
+  },
+  {
+    "guid": 137631,
+    "id": "get_rich_quick_vol_vii:_automation_nation"
+  },
+  {
+    "guid": 136885,
+    "id": "belinda_san_pedro,_head_of_arcade_acquisitions"
+  },
+  {
+    "guid": 4100010,
+    "id": "the_anarchist"
+  },
+  {
+    "guid": 410040,
+    "id": "sunken_treasures"
+  },
+  {
+    "guid": 410041,
+    "id": "botanica"
+  },
+  {
+    "guid": 410042,
+    "id": "the_passage"
+  },
+  {
+    "guid": 410059,
+    "id": "seat_of_power"
+  },
+  {
+    "guid": 410070,
+    "id": "bright_harvest"
+  },
+  {
+    "guid": 410071,
+    "id": "land_of_lions"
+  },
+  {
+    "guid": 410083,
+    "id": "docklands"
+  },
+  {
+    "guid": 410084,
+    "id": "tourist_season"
+  },
+  {
+    "guid": 410085,
+    "id": "the_high_life"
+  },
+  {
+    "guid": 24961,
+    "id": "seeds_of_change"
+  },
+  {
+    "guid": 24962,
+    "id": "empire_of_the_skies"
+  },
+  {
+    "guid": 24963,
+    "id": "new_world_rising"
+  },
+  {
+    "guid": 24798,
+    "id": "hacienda_sugar_cane_farm"
+  },
+  {
+    "guid": 25003,
+    "id": "hacienda_corn_farm"
+  },
+  {
+    "guid": 25005,
+    "id": "hacienda_coffee_farm"
+  },
+  {
+    "guid": 25006,
+    "id": "hacienda_caoutchouc_plantation"
+  },
+  {
+    "guid": 25009,
+    "id": "hacienda_cocoa_farm"
+  },
+  {
+    "guid": 25019,
+    "id": "hacienda_potato_farm"
+  },
+  {
+    "guid": 25020,
+    "id": "hacienda_spice_farm"
+  },
+  {
+    "guid": 25128,
+    "id": "hacienda_grain_farm"
+  },
+  {
+    "guid": 24801,
+    "id": "hacienda_rum_distillery"
+  },
+  {
+    "guid": 25064,
+    "id": "hacienda_beer_brewery"
+  },
+  {
+    "guid": 25126,
+    "id": "hacienda_atole_maker"
+  },
+  {
+    "guid": 25350,
+    "id": "hacienda_schnapps_distillery"
+  },
+  {
+    "guid": 25508,
+    "id": "hacienda_hot_sauce_brewery"
+  },
+  {
+    "guid": 24805,
+    "id": "hacienda"
+  },
+  {
+    "guid": 1010262,
+    "id": "grain_farm"
+  },
+  {
+    "guid": 1010263,
+    "id": "cattle_farm"
+  },
+  {
+    "guid": 1010264,
+    "id": "hop_farm"
+  },
+  {
+    "guid": 1010265,
+    "id": "potato_farm"
+  },
+  {
+    "guid": 1010266,
+    "id": "lumberjack's_hut"
+  },
+  {
+    "guid": 1010267,
+    "id": "sheep_farm"
+  },
+  {
+    "guid": 1010269,
+    "id": "pig_farm"
+  },
+  {
+    "guid": 1010558,
+    "id": "hunting_cabin"
+  },
+  {
+    "guid": 100654,
+    "id": "red_pepper_farm"
+  },
+  {
+    "guid": 100655,
+    "id": "vineyard"
+  },
+  {
+    "guid": 1010278,
+    "id": "fishery"
+  },
+  {
+    "guid": 1010310,
+    "id": "saltpeter_works"
+  },
+  {
+    "guid": 1010560,
+    "id": "sand_mine"
+  },
+  {
+    "guid": 1010280,
+    "id": "concrete_factory"
+  },
+  {
+    "guid": 1010281,
+    "id": "soap_factory"
+  },
+  {
+    "guid": 1010283,
+    "id": "brick_factory"
+  },
+  {
+    "guid": 100451,
+    "id": "sawmill"
+  },
+  {
+    "guid": 1010325,
+    "id": "fur_dealer"
+  },
+  {
+    "guid": 1010286,
+    "id": "light_bulb_factory"
+  },
+  {
+    "guid": 1010285,
+    "id": "window-makers"
+  },
+  {
+    "guid": 1010288,
+    "id": "sailmakers"
+  },
+  {
+    "guid": 100416,
+    "id": "clay_pit"
+  },
+  {
+    "guid": 1010289,
+    "id": "coachmakers"
+  },
+  {
+    "guid": 1010291,
+    "id": "bakery"
+  },
+  {
+    "guid": 1010292,
+    "id": "brewery"
+  },
+  {
+    "guid": 1010293,
+    "id": "artisanal_kitchen"
+  },
+  {
+    "guid": 1010295,
+    "id": "cannery"
+  },
+  {
+    "guid": 1010294,
+    "id": "schnapps_distillery"
+  },
+  {
+    "guid": 1010316,
+    "id": "butcher's"
+  },
+  {
+    "guid": 100659,
+    "id": "champagne_cellar"
+  },
+  {
+    "guid": 1010296,
+    "id": "steelworks"
+  },
+  {
+    "guid": 1010297,
+    "id": "furnace"
+  },
+  {
+    "guid": 1010298,
+    "id": "charcoal_kiln"
+  },
+  {
+    "guid": 1010299,
+    "id": "weapon_factory"
+  },
+  {
+    "guid": 1010301,
+    "id": "heavy_weapons_factory"
+  },
+  {
+    "guid": 1010302,
+    "id": "motor_assembly_line"
+  },
+  {
+    "guid": 1010303,
+    "id": "cab_assembly_line"
+  },
+  {
+    "guid": 1010282,
+    "id": "brass_smeltery"
+  },
+  {
+    "guid": 101331,
+    "id": "oil_refinery"
+  },
+  {
+    "guid": 1010304,
+    "id": "coal_mine"
+  },
+  {
+    "guid": 1010305,
+    "id": "iron_mine"
+  },
+  {
+    "guid": 1010307,
+    "id": "zinc_mine"
+  },
+  {
+    "guid": 1010308,
+    "id": "copper_mine"
+  },
+  {
+    "guid": 1010309,
+    "id": "limestone_quarry"
+  },
+  {
+    "guid": 1010312,
+    "id": "rendering_works"
+  },
+  {
+    "guid": 1010313,
+    "id": "flour_mill"
+  },
+  {
+    "guid": 1010314,
+    "id": "malthouse"
+  },
+  {
+    "guid": 1010315,
+    "id": "framework_knitters"
+  },
+  {
+    "guid": 1010300,
+    "id": "dynamite_factory"
+  },
+  {
+    "guid": 1010319,
+    "id": "glassmakers"
+  },
+  {
+    "guid": 1010320,
+    "id": "marquetry_workshop"
+  },
+  {
+    "guid": 1010321,
+    "id": "filament_factory"
+  },
+  {
+    "guid": 1010323,
+    "id": "bicycle_factory"
+  },
+  {
+    "guid": 1010324,
+    "id": "clockmakers"
+  },
+  {
+    "guid": 1010284,
+    "id": "sewing_machine_factory"
+  },
+  {
+    "guid": 1010326,
+    "id": "gramophone_factory"
+  },
+  {
+    "guid": 1010327,
+    "id": "goldsmiths"
+  },
+  {
+    "guid": 1010328,
+    "id": "jewellers"
+  },
+  {
+    "guid": 101250,
+    "id": "spectacle_factory"
+  },
+  {
+    "guid": 1010329,
+    "id": "sugar_cane_plantation"
+  },
+  {
+    "guid": 1010330,
+    "id": "tobacco_plantation"
+  },
+  {
+    "guid": 1010331,
+    "id": "cotton_plantation"
+  },
+  {
+    "guid": 1010332,
+    "id": "cocoa_plantation"
+  },
+  {
+    "guid": 1010333,
+    "id": "caoutchouc_plantation"
+  },
+  {
+    "guid": 101260,
+    "id": "agriculture_colony01_06_(timber_yard)"
+  },
+  {
+    "guid": 101251,
+    "id": "coffee_plantation"
+  },
+  {
+    "guid": 101263,
+    "id": "plantain_plantation"
+  },
+  {
+    "guid": 101269,
+    "id": "cattle_farm"
+  },
+  {
+    "guid": 101270,
+    "id": "corn_farm"
+  },
+  {
+    "guid": 101272,
+    "id": "alpaca_farm"
+  },
+  {
+    "guid": 1010339,
+    "id": "pearl_farm"
+  },
+  {
+    "guid": 101262,
+    "id": "fish_oil_factory"
+  },
+  {
+    "guid": 101261,
+    "id": "factory_colony01_01_(timber_factory)"
+  },
+  {
+    "guid": 101265,
+    "id": "factory_colony01_02_(sailcloth_factory)"
+  },
+  {
+    "guid": 1010318,
+    "id": "cotton_mill"
+  },
+  {
+    "guid": 101267,
+    "id": "factory_colony01_04_(clay_pit)"
+  },
+  {
+    "guid": 101268,
+    "id": "factory_colony01_05_(brick_factory)"
+  },
+  {
+    "guid": 101415,
+    "id": "felt_producer"
+  },
+  {
+    "guid": 101273,
+    "id": "bombín_weaver"
+  },
+  {
+    "guid": 1010340,
+    "id": "rum_distillery"
+  },
+  {
+    "guid": 1010341,
+    "id": "chocolate_factory"
+  },
+  {
+    "guid": 101252,
+    "id": "coffee_roaster"
+  },
+  {
+    "guid": 101264,
+    "id": "fried_plantain_kitchen"
+  },
+  {
+    "guid": 101271,
+    "id": "tortilla_maker"
+  },
+  {
+    "guid": 1010561,
+    "id": "heavy_colony01_01_(oil_heavy_industry)"
+  },
+  {
+    "guid": 101311,
+    "id": "mining_colony01_01_(gold_ore_mine)"
+  },
+  {
+    "guid": 1010317,
+    "id": "sugar_refinery"
+  },
+  {
+    "guid": 101266,
+    "id": "poncho_darner"
+  },
+  {
+    "guid": 101296,
+    "id": "processing_colony01_03_(inlay_processing)"
+  },
+  {
+    "guid": 1010342,
+    "id": "cigar_factory"
+  },
+  {
+    "guid": 114703,
+    "id": "lumberjack's_hut"
+  },
+  {
+    "guid": 112667,
+    "id": "caribou_hunter"
+  },
+  {
+    "guid": 112676,
+    "id": "goose_farm"
+  },
+  {
+    "guid": 112673,
+    "id": "bear_hunter"
+  },
+  {
+    "guid": 112682,
+    "id": "husky_farm"
+  },
+  {
+    "guid": 116034,
+    "id": "prime_hunting_cabin"
+  },
+  {
+    "guid": 114705,
+    "id": "charcoal_kiln"
+  },
+  {
+    "guid": 112666,
+    "id": "whale_hunter"
+  },
+  {
+    "guid": 112674,
+    "id": "seal_hunter"
+  },
+  {
+    "guid": 114704,
+    "id": "sawmill"
+  },
+  {
+    "guid": 112675,
+    "id": "sleeping_bag_factory"
+  },
+  {
+    "guid": 112679,
+    "id": "oil_lamp_factory"
+  },
+  {
+    "guid": 112672,
+    "id": "parka_factory"
+  },
+  {
+    "guid": 112681,
+    "id": "sled_frame_factory"
+  },
+  {
+    "guid": 112680,
+    "id": "husky_sled_factory"
+  },
+  {
+    "guid": 112668,
+    "id": "pemmican_factory"
+  },
+  {
+    "guid": 112690,
+    "id": "arctic_gas_mine"
+  },
+  {
+    "guid": 116029,
+    "id": "deep_gold_mine"
+  },
+  {
+    "guid": 118571,
+    "id": "fuel_station"
+  },
+  {
+    "guid": 269840,
+    "id": "fuel_station"
+  },
+  {
+    "guid": 119028,
+    "id": "fuel_station"
+  },
+  {
+    "guid": 133004,
+    "id": "orchard:_coconut_oil"
+  },
+  {
+    "guid": 133030,
+    "id": "orchard:_cinnamon"
+  },
+  {
+    "guid": 133031,
+    "id": "orchard:_citrus"
+  },
+  {
+    "guid": 134614,
+    "id": "orchard:_camphor_wax"
+  },
+  {
+    "guid": 924,
+    "id": "bomb_factory"
+  },
+  {
+    "guid": 934,
+    "id": "sea_mine_factory"
+  },
+  {
+    "guid": 935,
+    "id": "pamphlet_printer"
+  },
+  {
+    "guid": 936,
+    "id": "care_package_factory"
+  },
+  {
+    "guid": 1345,
+    "id": "charcoal_kiln"
+  },
+  {
+    "guid": 1418,
+    "id": "industrial_oil_press"
+  },
+  {
+    "guid": 835,
+    "id": "aluminium_smelter"
+  },
+  {
+    "guid": 906,
+    "id": "bomb_factory"
+  },
+  {
+    "guid": 907,
+    "id": "sea_mine_factory"
+  },
+  {
+    "guid": 908,
+    "id": "pamphlet_printer"
+  },
+  {
+    "guid": 916,
+    "id": "care_package_factory"
+  },
+  {
+    "guid": 915,
+    "id": "water_drop_factory"
+  },
+  {
+    "guid": 1308,
+    "id": "bauxite_mine"
+  },
+  {
+    "guid": 1353,
+    "id": "helium_extractor"
+  },
+  {
+    "guid": 122963,
+    "id": "wanza_woodcutter"
+  },
+  {
+    "guid": 114448,
+    "id": "linseed_farm"
+  },
+  {
+    "guid": 114447,
+    "id": "hibiscus_farm"
+  },
+  {
+    "guid": 114450,
+    "id": "teff_farm"
+  },
+  {
+    "guid": 114451,
+    "id": "indigo_farm"
+  },
+  {
+    "guid": 114452,
+    "id": "spice_farm"
+  },
+  {
+    "guid": 114453,
+    "id": "apiary"
+  },
+  {
+    "guid": 114439,
+    "id": "sanga_farm"
+  },
+  {
+    "guid": 114456,
+    "id": "goat_farm"
+  },
+  {
+    "guid": 114440,
+    "id": "salt_works"
+  },
+  {
+    "guid": 118729,
+    "id": "lobster_fishery"
+  },
+  {
+    "guid": 117743,
+    "id": "clay_collector"
+  },
+  {
+    "guid": 117744,
+    "id": "paper_mill"
+  },
+  {
+    "guid": 114441,
+    "id": "linen_mill"
+  },
+  {
+    "guid": 114459,
+    "id": "teff_mill"
+  },
+  {
+    "guid": 114461,
+    "id": "chandler"
+  },
+  {
+    "guid": 114444,
+    "id": "dry-house"
+  },
+  {
+    "guid": 114466,
+    "id": "embroiderer"
+  },
+  {
+    "guid": 114468,
+    "id": "tea_spicer"
+  },
+  {
+    "guid": 118725,
+    "id": "ceramics_workshop"
+  },
+  {
+    "guid": 114469,
+    "id": "tapestry_looms"
+  },
+  {
+    "guid": 114467,
+    "id": "brick_dry-house"
+  },
+  {
+    "guid": 114471,
+    "id": "wat_kitchen"
+  },
+  {
+    "guid": 114472,
+    "id": "pipe_maker"
+  },
+  {
+    "guid": 114470,
+    "id": "luminer"
+  },
+  {
+    "guid": 114464,
+    "id": "lanternsmith"
+  },
+  {
+    "guid": 118733,
+    "id": "bootmakers"
+  },
+  {
+    "guid": 118734,
+    "id": "tailor's_shop"
+  },
+  {
+    "guid": 118735,
+    "id": "telephone_manufacturer"
+  },
+  {
+    "guid": 124738,
+    "id": "advanced_coffee_roaster"
+  },
+  {
+    "guid": 124737,
+    "id": "advanced_rum_distillery"
+  },
+  {
+    "guid": 124739,
+    "id": "advanced_cotton_mill"
+  },
+  {
+    "guid": 132777,
+    "id": "chemical_plant:_lemonade"
+  },
+  {
+    "guid": 132786,
+    "id": "chemical_plant:_shampoo"
+  },
+  {
+    "guid": 133533,
+    "id": "chemical_plant:_souvenirs"
+  },
+  {
+    "guid": 133496,
+    "id": "orchard:_jam"
+  },
+  {
+    "guid": 135088,
+    "id": "orchard:_cherry_wood"
+  },
+  {
+    "guid": 135085,
+    "id": "orchard:_resin"
+  },
+  {
+    "guid": 134622,
+    "id": "assembly_line:_elevators"
+  },
+  {
+    "guid": 135361,
+    "id": "assembly_line:_biscuits"
+  },
+  {
+    "guid": 135148,
+    "id": "assembly_line:_typewriters"
+  },
+  {
+    "guid": 135133,
+    "id": "chemical_plant:_lacquer"
+  },
+  {
+    "guid": 135418,
+    "id": "artisan's_workshop:_cognac"
+  },
+  {
+    "guid": 135397,
+    "id": "artisan's_workshop:_violins"
+  },
+  {
+    "guid": 135407,
+    "id": "artisan's_workshop:_billiard_tables"
+  },
+  {
+    "guid": 135669,
+    "id": "artisan's_workshop:_toys"
+  },
+  {
+    "guid": 135185,
+    "id": "chemical_plant:_chewing_gum"
+  },
+  {
+    "guid": 135134,
+    "id": "chemical_plant:_ethanol"
+  },
+  {
+    "guid": 135224,
+    "id": "chemical_plant:_celluloid"
+  },
+  {
+    "guid": 5457,
+    "id": "nandu_farm"
+  },
+  {
+    "guid": 5463,
+    "id": "herb_garden"
+  },
+  {
+    "guid": 5814,
+    "id": "orchid_farm"
+  },
+  {
+    "guid": 7919,
+    "id": "calamari_fishery"
+  },
+  {
+    "guid": 6080,
+    "id": "furnace"
+  },
+  {
+    "guid": 6083,
+    "id": "sewing_machine_factory"
+  },
+  {
+    "guid": 6279,
+    "id": "cable_factory"
+  },
+  {
+    "guid": 5458,
+    "id": "jalea_kitchen"
+  },
+  {
+    "guid": 5459,
+    "id": "ice_cream_factory"
+  },
+  {
+    "guid": 6594,
+    "id": "mezcal_bar"
+  },
+  {
+    "guid": 5658,
+    "id": "scooter_factory"
+  },
+  {
+    "guid": 5659,
+    "id": "motor_assembly_plant"
+  },
+  {
+    "guid": 5862,
+    "id": "fan_factory"
+  },
+  {
+    "guid": 1388,
+    "id": "mineral_mine"
+  },
+  {
+    "guid": 1390,
+    "id": "mineral_mine"
+  },
+  {
+    "guid": 5657,
+    "id": "perfume_mixer"
+  },
+  {
+    "guid": 5879,
+    "id": "ball_manufactory"
+  },
+  {
+    "guid": 5933,
+    "id": "costume_shop"
+  },
+  {
+    "guid": 5828,
+    "id": "chemical_plant:_film_reels"
+  },
+  {
+    "guid": 6630,
+    "id": "arsenal:_police_equipment"
+  },
+  {
+    "guid": 6629,
+    "id": "laboratory:_fire_extinguisher"
+  },
+  {
+    "guid": 6631,
+    "id": "laboratory:_medicine"
+  },
+  {
+    "guid": 5462,
+    "id": "laboratory:_pigments"
+  },
+  {
+    "guid": 8027,
+    "id": "powered_pasture"
+  },
+  {
+    "guid": 8002,
+    "id": "powered_pasture"
+  },
+  {
+    "guid": 8026,
+    "id": "powered_pasture"
+  },
+  {
+    "guid": 190872
+  },
+  {
+    "guid": 190619,
+    "id": "veteran_whaler"
+  },
+  {
+    "guid": 190620,
+    "id": "daring_scuba_diver"
+  },
+  {
+    "guid": 190621,
+    "id": "mother_of_pearls"
+  },
+  {
+    "guid": 190622,
+    "id": "captain_moby,_old_dog_of_the_sea"
+  },
+  {
+    "guid": 190625,
+    "id": "illustrious_gemologist"
+  },
+  {
+    "guid": 190626,
+    "id": "goldsmith_gilbert"
+  },
+  {
+    "guid": 190627,
+    "id": "françois_strindberg,_crown_jeweller"
+  },
+  {
+    "guid": 190628,
+    "id": "baker"
+  },
+  {
+    "guid": 190630,
+    "id": "fine_cake_decorator"
+  },
+  {
+    "guid": 190632,
+    "id": "marie-antoine,_pâtissier_royale"
+  },
+  {
+    "guid": 190642,
+    "id": "torcedor_lucia"
+  },
+  {
+    "guid": 190643,
+    "id": "victor_perfecto,_cigar_daddy"
+  },
+  {
+    "guid": 190689,
+    "id": "pedologist"
+  },
+  {
+    "guid": 190690,
+    "id": "arborist"
+  },
+  {
+    "guid": 190691,
+    "id": "mrs.brown_the_cultivator"
+  },
+  {
+    "guid": 190692,
+    "id": "horticulturalist_hermann"
+  },
+  {
+    "guid": 190693,
+    "id": "dr._ali_al-zahir,_the_botanical_director"
+  },
+  {
+    "guid": 190742,
+    "id": "park_ranger"
+  },
+  {
+    "guid": 190737,
+    "id": "expert_hunter"
+  },
+  {
+    "guid": 190738,
+    "id": "miss_rodriguez_the_conservationist"
+  },
+  {
+    "guid": 190743,
+    "id": "wild_frontiersman_steen"
+  },
+  {
+    "guid": 190750,
+    "id": "yvonne_the_yeowoman"
+  },
+  {
+    "guid": 190751,
+    "id": "medal-winning_producer"
+  },
+  {
+    "guid": 190761,
+    "id": "jörg_von_malching,_augur_of_the_auric"
+  },
+  {
+    "guid": 191309,
+    "id": "optometrist_otto"
+  },
+  {
+    "guid": 191310,
+    "id": "gerhard_fuchs,_of_the_patent_eyeglass."
+  },
+  {
+    "guid": 191318,
+    "id": "perfumier_prunella"
+  },
+  {
+    "guid": 191319,
+    "id": "hervé_savonne,_suppressor_of_grime"
+  },
+  {
+    "guid": 191323,
+    "id": "chronometrist_chiara"
+  },
+  {
+    "guid": 191324,
+    "id": "hans_klein,_old_grandfather_time"
+  },
+  {
+    "guid": 191327,
+    "id": "fine_couturier"
+  },
+  {
+    "guid": 191348,
+    "id": "costume_designer"
+  },
+  {
+    "guid": 191328,
+    "id": "lily_the_fashion_designer"
+  },
+  {
+    "guid": 192039,
+    "id": "master_craftsman_franke"
+  },
+  {
+    "guid": 191329,
+    "id": "lady_jane_smythe,_queen_of_haute_couture"
+  },
+  {
+    "guid": 191345,
+    "id": "modiste"
+  },
+  {
+    "guid": 191349,
+    "id": "miliner"
+  },
+  {
+    "guid": 191346,
+    "id": "mariana_the_master_stylist"
+  },
+  {
+    "guid": 191347,
+    "id": "cristobal_taffeta,_the_trendsetter"
+  },
+  {
+    "guid": 191331,
+    "id": "chocolatier"
+  },
+  {
+    "guid": 191332,
+    "id": "quality_chocolatier"
+  },
+  {
+    "guid": 191356,
+    "id": "master_confectioner"
+  },
+  {
+    "guid": 191333,
+    "id": "charlotte_the_chocoholic"
+  },
+  {
+    "guid": 191334,
+    "id": "gennaro_garibaldi,_chocolatier_by_royal_appointment"
+  },
+  {
+    "guid": 191375,
+    "id": "magnetist"
+  },
+  {
+    "guid": 191353,
+    "id": "science_whizz"
+  },
+  {
+    "guid": 191376,
+    "id": "leading_electrical_engineer"
+  },
+  {
+    "guid": 191354,
+    "id": "johan_the_inventor"
+  },
+  {
+    "guid": 191355,
+    "id": "prof._ram_devi,_the_bundle_of_energy"
+  },
+  {
+    "guid": 191369,
+    "id": "coffee_sommelier"
+  },
+  {
+    "guid": 191370,
+    "id": "cecilia_the_coffeessieur"
+  },
+  {
+    "guid": 191371,
+    "id": "marco_de_la_mocha,_crusher_of_beans"
+  },
+  {
+    "guid": 191383,
+    "id": "brother_hilarius,_purveyor_of_monastic_mixtures"
+  },
+  {
+    "guid": 191386,
+    "id": "mole_master"
+  },
+  {
+    "guid": 191387,
+    "id": "kantyi_of_the_quinoa"
+  },
+  {
+    "guid": 191402,
+    "id": "tlayolotl_savor,_king_of_the_corn"
+  },
+  {
+    "guid": 191403,
+    "id": "charcutier"
+  },
+  {
+    "guid": 191401,
+    "id": "chantelle_the_charcutier"
+  },
+  {
+    "guid": 191388,
+    "id": "maxime_graves,_delicatesseur_extraordinaire"
+  },
+  {
+    "guid": 191404,
+    "id": "pantry_chef"
+  },
+  {
+    "guid": 191406,
+    "id": "chef_michel"
+  },
+  {
+    "guid": 191407,
+    "id": "mrs._mayson,_the_very_good_housekeeper"
+  },
+  {
+    "guid": 191400,
+    "id": "recipe_archivist"
+  },
+  {
+    "guid": 191405,
+    "id": "tatiana_the_taste-tester"
+  },
+  {
+    "guid": 191408,
+    "id": "marcel_forcas,_celebrity_chef"
+  },
+  {
+    "guid": 191418,
+    "id": "steam_engineer"
+  },
+  {
+    "guid": 191419,
+    "id": "draughtswoman"
+  },
+  {
+    "guid": 191420,
+    "id": "susannah_the_steam_engineer"
+  },
+  {
+    "guid": 191424,
+    "id": "dario_the_mechanical_engineer_"
+  },
+  {
+    "guid": 191422,
+    "id": "bruno_ironbright,_engineering_giant"
+  },
+  {
+    "guid": 191425,
+    "id": "carpenter"
+  },
+  {
+    "guid": 191428,
+    "id": "glass_maker"
+  },
+  {
+    "guid": 191430,
+    "id": "master_craftsman_morris"
+  },
+  {
+    "guid": 191431,
+    "id": "seraphim_papadikas,_the_window_dresser"
+  },
+  {
+    "guid": 191462,
+    "id": "cementer"
+  },
+  {
+    "guid": 191463,
+    "id": "general_foreman"
+  },
+  {
+    "guid": 191465,
+    "id": "françois_thorne,_the_industrial_reinforcer"
+  },
+  {
+    "guid": 191583,
+    "id": "rodrigo_the_ranchero"
+  },
+  {
+    "guid": 191584,
+    "id": "mark_van_der_mark,_breeder_of_shepherd_dogs"
+  },
+  {
+    "guid": 191590,
+    "id": "grigor_the_geologist"
+  },
+  {
+    "guid": 191591,
+    "id": "steven_macleod,_geological_surveyor"
+  },
+  {
+    "guid": 192443,
+    "id": "sir_lewis_brindley_the_chemist"
+  },
+  {
+    "guid": 193187,
+    "id": "alexander_hancock"
+  },
+  {
+    "guid": 116162,
+    "id": "fat_chunk_candle_maker"
+  },
+  {
+    "guid": 116163,
+    "id": "zappy_battery_#2205"
+  },
+  {
+    "guid": 116164,
+    "id": "gløgg_splurger"
+  },
+  {
+    "guid": 116165,
+    "id": "the_uncanny_pocket_cannery"
+  },
+  {
+    "guid": 116167,
+    "id": "gritty_gas_extractor"
+  },
+  {
+    "guid": 116185,
+    "id": "cola_mola_wola_machine"
+  },
+  {
+    "guid": 116187,
+    "id": "the_\"country_bumpkin\"_cigar_roller"
+  },
+  {
+    "guid": 116189,
+    "id": "the_bizarro-balloono-magn8"
+  },
+  {
+    "guid": 116190,
+    "id": "golden_harvester_from_the_future"
+  },
+  {
+    "guid": 24806,
+    "id": "producing_dung"
+  },
+  {
+    "guid": 7225,
+    "id": "bait_specialist"
+  },
+  {
+    "guid": 8347,
+    "id": "dr._íñigo_flores"
+  },
+  {
+    "guid": 8348,
+    "id": "valentina_álvarez"
+  },
+  {
+    "guid": 8351,
+    "id": "maria_maravilla"
+  },
+  {
+    "guid": 8355,
+    "id": "salvador,_the_stalwart"
+  },
+  {
+    "guid": 8356,
+    "id": "pedro,_captain_of_the_\"panama\""
+  },
+  {
+    "guid": 112879,
+    "id": "mechanical_panner"
+  },
+  {
+    "guid": 112880,
+    "id": "gyroscopic_gold_panner"
+  },
+  {
+    "guid": 112881,
+    "id": "prospector_of_auspiciousness"
+  },
+  {
+    "guid": 112882,
+    "id": "ore_extractor"
+  },
+  {
+    "guid": 112883,
+    "id": "extra_ore_extractor"
+  },
+  {
+    "guid": 112884,
+    "id": "extractor_of_ore-someness"
+  },
+  {
+    "guid": 112885,
+    "id": "oily_sucker"
+  },
+  {
+    "guid": 112886,
+    "id": "oily_super-sucker"
+  },
+  {
+    "guid": 112887,
+    "id": "extra_virgin_oily_sucker"
+  },
+  {
+    "guid": 113799,
+    "id": "susannah_brightwoman,_a_glimmer_in_the_darkness"
+  },
+  {
+    "guid": 116132,
+    "id": "practised_inuit_seamster"
+  },
+  {
+    "guid": 116144,
+    "id": "taliriktug_the_husky-voiced"
+  },
+  {
+    "guid": 116152,
+    "id": "toklo_the_trapper"
+  },
+  {
+    "guid": 116153,
+    "id": "naaqtuuq_the_sled-builder"
+  },
+  {
+    "guid": 116154,
+    "id": "sandro_the_nature_chef"
+  },
+  {
+    "guid": 125112,
+    "id": "expert_grazer"
+  },
+  {
+    "guid": 125118,
+    "id": "tea_selector"
+  },
+  {
+    "guid": 125122,
+    "id": "aaden_issack,_world-famous_enbesan_chef"
+  },
+  {
+    "guid": 125124,
+    "id": "enbesan_bishop"
+  },
+  {
+    "guid": 125128,
+    "id": "magan_the_master_craftsman"
+  },
+  {
+    "guid": 125129,
+    "id": "wahenoor_the_paper_mill_pro"
+  },
+  {
+    "guid": 125133,
+    "id": "giorgis_the_eminent_hymnodist"
+  },
+  {
+    "guid": 125138,
+    "id": "paul_poiret,_shocking_fashion_designer"
+  },
+  {
+    "guid": 125139,
+    "id": "bumm_brimmell,_the_original_dandy"
+  },
+  {
+    "guid": 136739,
+    "id": "interspecies_grafting_"
+  },
+  {
+    "guid": 136746,
+    "id": "re-rendering"
+  },
+  {
+    "guid": 136647,
+    "id": "marie-louise_carême,_chef_de_cuisine_"
+  },
+  {
+    "guid": 136649,
+    "id": "entremetier"
+  },
+  {
+    "guid": 958,
+    "id": "combustion_chemist"
+  },
+  {
+    "guid": 1772,
+    "id": "arctic_gas_expert"
+  },
+  {
+    "guid": 1964,
+    "id": "animal_nutritionist"
+  },
+  {
+    "guid": 1897,
+    "id": "synthetic_chemist"
+  },
+  {
+    "guid": 1966,
+    "id": "_enbesan_animal_nutritionist_"
+  },
+  {
+    "guid": 1961,
+    "id": "tropical_pedologist"
+  },
+  {
+    "guid": 1956,
+    "id": "temperate_pedologist"
+  },
+  {
+    "guid": 1948,
+    "id": "mad_mary,_dynamite_enthusiast"
+  },
+  {
+    "guid": 2223,
+    "id": "helium_expert"
+  },
+  {
+    "guid": 2224,
+    "id": "mineralogist"
+  },
+  {
+    "guid": 1895,
+    "id": "military_logistician"
+  },
+  {
+    "guid": 8908,
+    "id": "enbesan_envoy"
+  },
+  {
+    "guid": 136823,
+    "id": "get_rich_quick_vol_ii:_what_shape_is_a_banana_anyway?"
+  },
+  {
+    "guid": 136819,
+    "id": "get_rich_quick_vol_iii:_pretty_polyculture"
+  },
+  {
+    "guid": 136827,
+    "id": "get_rich_quick_vol_iv:_the_wasteland"
+  },
+  {
+    "guid": 137631,
+    "id": "get_rich_quick_vol_vii:_automation_nation"
+  },
+  {
+    "guid": 136885,
+    "id": "belinda_san_pedro,_head_of_arcade_acquisitions"
+  },
+  {
+    "guid": 270041,
+    "id": "tractor_barn_(gasoline_good)"
+  },
+  {
+    "guid": 25240,
+    "id": "fertiliser_silo"
+  },
+  {
+    "guid": 25241,
+    "id": "fertiliser_silo"
+  },
+  {
+    "guid": 25242,
+    "id": "fertiliser_silo"
+  },
+  {
+    "guid": 269837,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269839,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269957,
+    "id": "silo"
+  },
+  {
+    "guid": 269848,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269849,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269958,
+    "id": "silo"
+  },
+  {
+    "guid": 119026,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 119027,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 119025,
+    "id": "silo"
+  },
+  {
+    "guid": 141060,
+    "id": "propaganda_consumption_weak"
+  },
+  {
+    "guid": 141061,
+    "id": "propaganda_consumption_medium"
+  },
+  {
+    "guid": 141062,
+    "id": "propaganda_consumption_strong"
+  },
+  {
+    "guid": 111251,
+    "id": "propaganda_anarchy_workforce_+_consumption"
+  },
+  {
+    "guid": 25638,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25639,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25640,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25641,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25642,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25643,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25644,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25645,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25646,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25651,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25652,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25653,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25654,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25655,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25656,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25657,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25658,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 112919,
+    "id": "oily_sucker"
+  },
+  {
+    "guid": 112920,
+    "id": "oily_super-sucker"
+  },
+  {
+    "guid": 269191,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269254,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269255,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269256,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269257,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269564,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269565,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269566,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269366,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269200,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269275,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269276,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269277,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269278,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269279,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269280,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269281,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269282,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269399,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280087,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280088,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280089,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280090,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280091,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280092,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280093,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 15000082,
+    "id": "population:_old_world"
+  },
+  {
+    "guid": 15000083,
+    "id": "population:_new_world"
+  },
+  {
+    "guid": 601380,
+    "id": "population:_tourists"
+  },
+  {
+    "guid": 112641,
+    "id": "population:_the_arctic"
+  },
+  {
+    "guid": 114328,
+    "id": "population:_enbesa"
+  },
+  {
+    "guid": 122785,
+    "id": "population:_scholars"
+  },
+  {
+    "guid": 15000000,
+    "id": "farmers"
+  },
+  {
+    "guid": 15000001,
+    "id": "workers"
+  },
+  {
+    "guid": 15000002,
+    "id": "artisans"
+  },
+  {
+    "guid": 15000003,
+    "id": "engineers"
+  },
+  {
+    "guid": 15000004,
+    "id": "investors"
+  },
+  {
+    "guid": 15000005,
+    "id": "jornaleros"
+  },
+  {
+    "guid": 15000006,
+    "id": "obreros"
+  },
+  {
+    "guid": 5403,
+    "id": "artista"
+  },
+  {
+    "guid": 601379,
+    "id": "tourists"
+  },
+  {
+    "guid": 112642,
+    "id": "explorers"
+  },
+  {
+    "guid": 112643,
+    "id": "technicians"
+  },
+  {
+    "guid": 114329,
+    "id": "shepherds"
+  },
+  {
+    "guid": 114330,
+    "id": "elders"
+  },
+  {
+    "guid": 118745,
+    "id": "scholars"
+  },
+  {
+    "guid": 114751,
+    "id": "heater"
+  },
+  {
+    "guid": 117547,
+    "id": "gas-fired_power_plant"
+  },
+  {
+    "guid": 100780,
+    "id": "oil_power_plant"
+  },
+  {
+    "guid": 5164,
+    "id": "power_station"
+  },
+  {
+    "guid": 502031,
+    "id": "consumer_goods"
+  },
+  {
+    "guid": 501957,
+    "id": "construction_material"
+  },
+  {
+    "guid": 502052,
+    "id": "raw_materials"
+  },
+  {
+    "guid": 502040,
+    "id": "agricultural_products"
+  },
+  {
+    "guid": 502046,
+    "id": "intermediate_products"
+  },
+  {
+    "guid": 1010017,
+    "id": "coins"
+  },
+  {
+    "guid": 1010190,
+    "id": "influence"
+  },
+  {
+    "guid": 25131,
+    "id": "atole"
+  },
+  {
+    "guid": 24807,
+    "id": "dung"
+  },
+  {
+    "guid": 24808,
+    "id": "fertiliser"
+  },
+  {
+    "guid": 25506,
+    "id": "hot_sauce"
+  },
+  {
+    "guid": 25546,
+    "id": "hacienda"
+  },
+  {
+    "guid": 103866,
+    "id": "bundle_of_letters"
+  },
+  {
+    "guid": 120021,
+    "id": "coal"
+  },
+  {
+    "guid": 1010566,
+    "id": "oil"
+  },
+  {
+    "guid": 120022,
+    "id": "electricity"
+  },
+  {
+    "guid": 119392,
+    "id": "research_points"
+  },
+  {
+    "guid": 1591,
+    "id": "mineral_resource"
+  },
+  {
+    "guid": 1955,
+    "id": "cultivation_area"
+  },
+  {
+    "guid": 836,
+    "id": "bauxite_"
+  },
+  {
+    "guid": 838,
+    "id": "aluminium_profiles"
+  },
+  {
+    "guid": 840,
+    "id": "helium"
+  },
+  {
+    "guid": 1414,
+    "id": "industrial_lubricant"
+  },
+  {
+    "guid": 846,
+    "id": "bombs"
+  },
+  {
+    "guid": 847,
+    "id": "sea_mines"
+  },
+  {
+    "guid": 848,
+    "id": "pamphlets"
+  },
+  {
+    "guid": 849,
+    "id": "care_packages"
+  },
+  {
+    "guid": 850,
+    "id": "water_drop"
+  },
+  {
+    "guid": 917,
+    "id": "water"
+  },
+  {
+    "guid": 535,
+    "id": "local_mail"
+  },
+  {
+    "guid": 536,
+    "id": "regional_mail"
+  },
+  {
+    "guid": 2524,
+    "id": "overseas_mail"
+  },
+  {
+    "guid": 4267,
+    "id": "new_world_reports"
+  },
+  {
+    "guid": 4268,
+    "id": "arctic_reports"
+  },
+  {
+    "guid": 120020,
+    "id": "market"
+  },
+  {
+    "guid": 1010349,
+    "id": "pub"
+  },
+  {
+    "guid": 1010350,
+    "id": "church"
+  },
+  {
+    "guid": 1010351,
+    "id": "school"
+  },
+  {
+    "guid": 1010352,
+    "id": "variety_theatre"
+  },
+  {
+    "guid": 1010353,
+    "id": "university"
+  },
+  {
+    "guid": 1010354,
+    "id": "electricity"
+  },
+  {
+    "guid": 1010355,
+    "id": "members_club"
+  },
+  {
+    "guid": 1010356,
+    "id": "bank"
+  },
+  {
+    "guid": 120050,
+    "id": "chapel"
+  },
+  {
+    "guid": 1010348,
+    "id": "boxing_arena"
+  },
+  {
+    "guid": 112708,
+    "id": "heat"
+  },
+  {
+    "guid": 112693,
+    "id": "post_office"
+  },
+  {
+    "guid": 114890,
+    "id": "canteen"
+  },
+  {
+    "guid": 269751,
+    "id": "fuel"
+  },
+  {
+    "guid": 270042,
+    "id": "fuel"
+  },
+  {
+    "guid": 133891,
+    "id": "tourist_mooring"
+  },
+  {
+    "guid": 132751,
+    "id": "restaurant"
+  },
+  {
+    "guid": 132754,
+    "id": "bar"
+  },
+  {
+    "guid": 132755,
+    "id": "café"
+  },
+  {
+    "guid": 133573,
+    "id": "variety_theatre"
+  },
+  {
+    "guid": 601485,
+    "id": "zoo"
+  },
+  {
+    "guid": 133535,
+    "id": "museum"
+  },
+  {
+    "guid": 355,
+    "id": "botanical_garden"
+  },
+  {
+    "guid": 134257,
+    "id": "palace"
+  },
+  {
+    "guid": 132761,
+    "id": "the_iron_tower"
+  },
+  {
+    "guid": 133536,
+    "id": "world's_fair"
+  },
+  {
+    "guid": 134781,
+    "id": "docklands"
+  },
+  {
+    "guid": 137757,
+    "id": "skyline_tower"
+  },
+  {
+    "guid": 135108,
+    "id": "department_store"
+  },
+  {
+    "guid": 135107,
+    "id": "furniture_store"
+  },
+  {
+    "guid": 135109,
+    "id": "drug_store"
+  },
+  {
+    "guid": 2038,
+    "id": "island_charter"
+  },
+  {
+    "guid": 5831,
+    "id": "samba_school"
+  },
+  {
+    "guid": 5830,
+    "id": "cinema"
+  },
+  {
+    "guid": 6261,
+    "id": "automated_riot_control"
+  },
+  {
+    "guid": 6262,
+    "id": "automated_fire_protection"
+  },
+  {
+    "guid": 6263,
+    "id": "automated_healthcare"
+  },
+  {
+    "guid": 6265,
+    "id": "beach"
+  },
+  {
+    "guid": 1010192,
+    "id": "grain"
+  },
+  {
+    "guid": 1010193,
+    "id": "beef"
+  },
+  {
+    "guid": 1010194,
+    "id": "hops"
+  },
+  {
+    "guid": 1010195,
+    "id": "potatoes"
+  },
+  {
+    "guid": 120008,
+    "id": "wood"
+  },
+  {
+    "guid": 1010197,
+    "id": "wool"
+  },
+  {
+    "guid": 1010199,
+    "id": "pigs"
+  },
+  {
+    "guid": 1010209,
+    "id": "furs"
+  },
+  {
+    "guid": 120014,
+    "id": "grapes"
+  },
+  {
+    "guid": 1010198,
+    "id": "red_peppers"
+  },
+  {
+    "guid": 1010200,
+    "id": "fish"
+  },
+  {
+    "guid": 1010232,
+    "id": "saltpeter"
+  },
+  {
+    "guid": 1010228,
+    "id": "quartz_sand"
+  },
+  {
+    "guid": 1010202,
+    "id": "reinforced_concrete"
+  },
+  {
+    "guid": 1010203,
+    "id": "soap"
+  },
+  {
+    "guid": 1010196,
+    "id": "timber"
+  },
+  {
+    "guid": 1010205,
+    "id": "bricks"
+  },
+  {
+    "guid": 1010247,
+    "id": "fur_coats"
+  },
+  {
+    "guid": 1010207,
+    "id": "windows"
+  },
+  {
+    "guid": 1010208,
+    "id": "light_bulbs"
+  },
+  {
+    "guid": 1010210,
+    "id": "sails"
+  },
+  {
+    "guid": 1010211,
+    "id": "chassis"
+  },
+  {
+    "guid": 1010201,
+    "id": "clay"
+  },
+  {
+    "guid": 1010206,
+    "id": "sewing_machines"
+  },
+  {
+    "guid": 1010213,
+    "id": "bread"
+  },
+  {
+    "guid": 1010214,
+    "id": "beer"
+  },
+  {
+    "guid": 1010215,
+    "id": "goulash"
+  },
+  {
+    "guid": 1010217,
+    "id": "canned_food"
+  },
+  {
+    "guid": 1010216,
+    "id": "schnapps"
+  },
+  {
+    "guid": 1010238,
+    "id": "sausages"
+  },
+  {
+    "guid": 120016,
+    "id": "champagne"
+  },
+  {
+    "guid": 1010218,
+    "id": "steel_beams"
+  },
+  {
+    "guid": 1010219,
+    "id": "steel"
+  },
+  {
+    "guid": 1010221,
+    "id": "weapons"
+  },
+  {
+    "guid": 1010222,
+    "id": "dynamite"
+  },
+  {
+    "guid": 1010223,
+    "id": "advanced_weapons"
+  },
+  {
+    "guid": 1010224,
+    "id": "steam_motors"
+  },
+  {
+    "guid": 1010225,
+    "id": "steam_carriages"
+  },
+  {
+    "guid": 1010204,
+    "id": "brass"
+  },
+  {
+    "guid": 1010226,
+    "id": "coal"
+  },
+  {
+    "guid": 1010227,
+    "id": "iron"
+  },
+  {
+    "guid": 1010229,
+    "id": "zinc"
+  },
+  {
+    "guid": 1010230,
+    "id": "copper"
+  },
+  {
+    "guid": 1010231,
+    "id": "cement"
+  },
+  {
+    "guid": 1010233,
+    "id": "gold_ore"
+  },
+  {
+    "guid": 1010234,
+    "id": "tallow"
+  },
+  {
+    "guid": 1010235,
+    "id": "flour"
+  },
+  {
+    "guid": 1010236,
+    "id": "malt"
+  },
+  {
+    "guid": 1010237,
+    "id": "work_clothes"
+  },
+  {
+    "guid": 1010241,
+    "id": "glass"
+  },
+  {
+    "guid": 1010242,
+    "id": "wood_veneers"
+  },
+  {
+    "guid": 1010243,
+    "id": "filaments"
+  },
+  {
+    "guid": 1010245,
+    "id": "penny_farthings"
+  },
+  {
+    "guid": 1010246,
+    "id": "pocket_watches"
+  },
+  {
+    "guid": 120030,
+    "id": "spectacles"
+  },
+  {
+    "guid": 1010248,
+    "id": "gramophones"
+  },
+  {
+    "guid": 1010249,
+    "id": "gold"
+  },
+  {
+    "guid": 1010250,
+    "id": "jewelry"
+  },
+  {
+    "guid": 1010251,
+    "id": "sugar_cane"
+  },
+  {
+    "guid": 1010252,
+    "id": "tobacco"
+  },
+  {
+    "guid": 1010253,
+    "id": "cotton"
+  },
+  {
+    "guid": 1010254,
+    "id": "cocoa"
+  },
+  {
+    "guid": 1010255,
+    "id": "caoutchouc"
+  },
+  {
+    "guid": 120031,
+    "id": "coffee_beans"
+  },
+  {
+    "guid": 120034,
+    "id": "corn"
+  },
+  {
+    "guid": 120036,
+    "id": "alpaca_wool"
+  },
+  {
+    "guid": 120041,
+    "id": "plantains"
+  },
+  {
+    "guid": 1010256,
+    "id": "pearls"
+  },
+  {
+    "guid": 120042,
+    "id": "fish_oil"
+  },
+  {
+    "guid": 120043,
+    "id": "ponchos"
+  },
+  {
+    "guid": 120044,
+    "id": "felt"
+  },
+  {
+    "guid": 120037,
+    "id": "bombins"
+  },
+  {
+    "guid": 1010257,
+    "id": "rum"
+  },
+  {
+    "guid": 1010258,
+    "id": "chocolate"
+  },
+  {
+    "guid": 120032,
+    "id": "coffee"
+  },
+  {
+    "guid": 120033,
+    "id": "fried_plantains"
+  },
+  {
+    "guid": 120035,
+    "id": "tortillas"
+  },
+  {
+    "guid": 1010239,
+    "id": "sugar"
+  },
+  {
+    "guid": 1010240,
+    "id": "cotton_fabric"
+  },
+  {
+    "guid": 1010259,
+    "id": "cigars"
+  },
+  {
+    "guid": 112694,
+    "id": "caribou_meat"
+  },
+  {
+    "guid": 112697,
+    "id": "goose_feathers"
+  },
+  {
+    "guid": 112695,
+    "id": "bear_fur"
+  },
+  {
+    "guid": 112698,
+    "id": "huskies"
+  },
+  {
+    "guid": 112699,
+    "id": "whale_oil"
+  },
+  {
+    "guid": 112696,
+    "id": "seal_skin"
+  },
+  {
+    "guid": 112705,
+    "id": "pemmican"
+  },
+  {
+    "guid": 112702,
+    "id": "oil_lamps"
+  },
+  {
+    "guid": 112701,
+    "id": "sleeping_bags"
+  },
+  {
+    "guid": 112700,
+    "id": "parkas"
+  },
+  {
+    "guid": 112704,
+    "id": "sleds"
+  },
+  {
+    "guid": 112703,
+    "id": "husky_sleds"
+  },
+  {
+    "guid": 112706,
+    "id": "arctic_gas"
+  },
+  {
+    "guid": 115980,
+    "id": "lost_expedition_scrap"
+  },
+  {
+    "guid": 114355,
+    "id": "marketplace"
+  },
+  {
+    "guid": 114361,
+    "id": "musicians'_court"
+  },
+  {
+    "guid": 114362,
+    "id": "monastery"
+  },
+  {
+    "guid": 114425,
+    "id": "radio_tower"
+  },
+  {
+    "guid": 24821,
+    "id": "coke"
+  },
+  {
+    "guid": 24824,
+    "id": "chewing_gum"
+  },
+  {
+    "guid": 24837,
+    "id": "fuel"
+  },
+  {
+    "guid": 24846,
+    "id": "silver_amalgam"
+  },
+  {
+    "guid": 24850,
+    "id": "silver_bars"
+  },
+  {
+    "guid": 24851,
+    "id": "silver_coins"
+  },
+  {
+    "guid": 24852,
+    "id": "cyanide"
+  },
+  {
+    "guid": 24863,
+    "id": "industrial_lubricant_"
+  },
+  {
+    "guid": 25073,
+    "id": "waste_water"
+  },
+  {
+    "guid": 114356,
+    "id": "wanza_timber"
+  },
+  {
+    "guid": 114364,
+    "id": "hibiscus_petals"
+  },
+  {
+    "guid": 114365,
+    "id": "linseed"
+  },
+  {
+    "guid": 114367,
+    "id": "teff"
+  },
+  {
+    "guid": 114368,
+    "id": "indigo_dye"
+  },
+  {
+    "guid": 114369,
+    "id": "spices"
+  },
+  {
+    "guid": 114370,
+    "id": "beeswax"
+  },
+  {
+    "guid": 114357,
+    "id": "sanga_cow"
+  },
+  {
+    "guid": 114371,
+    "id": "goat_milk"
+  },
+  {
+    "guid": 114358,
+    "id": "salt"
+  },
+  {
+    "guid": 117702,
+    "id": "paper"
+  },
+  {
+    "guid": 118728,
+    "id": "lobster"
+  },
+  {
+    "guid": 114391,
+    "id": "linen"
+  },
+  {
+    "guid": 114408,
+    "id": "spiced_flour"
+  },
+  {
+    "guid": 117701,
+    "id": "ornate_candles"
+  },
+  {
+    "guid": 114429,
+    "id": "ammunition"
+  },
+  {
+    "guid": 114433,
+    "id": "essential_oil"
+  },
+  {
+    "guid": 114427,
+    "id": "decorative_cloth"
+  },
+  {
+    "guid": 114359,
+    "id": "dried_meat"
+  },
+  {
+    "guid": 114401,
+    "id": "finery"
+  },
+  {
+    "guid": 114390,
+    "id": "hibiscus_tea"
+  },
+  {
+    "guid": 114402,
+    "id": "mud_bricks"
+  },
+  {
+    "guid": 118724,
+    "id": "ceramics"
+  },
+  {
+    "guid": 114404,
+    "id": "tapestries"
+  },
+  {
+    "guid": 114410,
+    "id": "seafood_stew"
+  },
+  {
+    "guid": 114414,
+    "id": "clay_pipe"
+  },
+  {
+    "guid": 117698,
+    "id": "illuminated_script"
+  },
+  {
+    "guid": 117699,
+    "id": "lanterns"
+  },
+  {
+    "guid": 114428,
+    "id": "leather_boots"
+  },
+  {
+    "guid": 114430,
+    "id": "tailored_suits"
+  },
+  {
+    "guid": 114431,
+    "id": "telephones"
+  },
+  {
+    "guid": 133183,
+    "id": "jam"
+  },
+  {
+    "guid": 133181,
+    "id": "shampoo"
+  },
+  {
+    "guid": 133185,
+    "id": "lemonade"
+  },
+  {
+    "guid": 133532,
+    "id": "souvenirs"
+  },
+  {
+    "guid": 133093,
+    "id": "cinnamon"
+  },
+  {
+    "guid": 133095,
+    "id": "coconut_oil"
+  },
+  {
+    "guid": 133097,
+    "id": "citrus"
+  },
+  {
+    "guid": 134616,
+    "id": "camphor_wax"
+  },
+  {
+    "guid": 134623,
+    "id": "elevators"
+  },
+  {
+    "guid": 135229,
+    "id": "biscuits"
+  },
+  {
+    "guid": 135230,
+    "id": "typewriters"
+  },
+  {
+    "guid": 135086,
+    "id": "resin"
+  },
+  {
+    "guid": 135087,
+    "id": "cherry_wood"
+  },
+  {
+    "guid": 135129,
+    "id": "lacquer"
+  },
+  {
+    "guid": 135234,
+    "id": "cognac"
+  },
+  {
+    "guid": 135233,
+    "id": "violins"
+  },
+  {
+    "guid": 135232,
+    "id": "billiard_tables"
+  },
+  {
+    "guid": 135231,
+    "id": "toys"
+  },
+  {
+    "guid": 135186,
+    "id": "chewing_gum"
+  },
+  {
+    "guid": 135130,
+    "id": "ethanol"
+  },
+  {
+    "guid": 135150,
+    "id": "celluloid"
+  },
+  {
+    "guid": 135816,
+    "id": "toaster_supply"
+  },
+  {
+    "guid": 135876,
+    "id": "crockery_supply"
+  },
+  {
+    "guid": 135877,
+    "id": "vaccum_cleaner_supply"
+  },
+  {
+    "guid": 135878,
+    "id": "refrigerator_supply"
+  },
+  {
+    "guid": 135879,
+    "id": "briefcase_supply"
+  },
+  {
+    "guid": 135880,
+    "id": "banker's_lamp_supply"
+  },
+  {
+    "guid": 135881,
+    "id": "vanity_screen_supply"
+  },
+  {
+    "guid": 135882,
+    "id": "writing_desk_supply"
+  },
+  {
+    "guid": 135883,
+    "id": "four-poster_bed_supply"
+  },
+  {
+    "guid": 135884,
+    "id": "lounge_seating_supply"
+  },
+  {
+    "guid": 135885,
+    "id": "toothpaste_supply"
+  },
+  {
+    "guid": 135886,
+    "id": "detergent_supply"
+  },
+  {
+    "guid": 135887,
+    "id": "lipstick_supply"
+  },
+  {
+    "guid": 135888,
+    "id": "face_cream_supply"
+  },
+  {
+    "guid": 135889,
+    "id": "pomade_supply"
+  },
+  {
+    "guid": 5383,
+    "id": "herbs"
+  },
+  {
+    "guid": 5384,
+    "id": "nandu_leather"
+  },
+  {
+    "guid": 5401,
+    "id": "nandu_feathers"
+  },
+  {
+    "guid": 5385,
+    "id": "milk"
+  },
+  {
+    "guid": 5386,
+    "id": "orchid"
+  },
+  {
+    "guid": 5380,
+    "id": "calamari"
+  },
+  {
+    "guid": 5387,
+    "id": "ice_cube"
+  },
+  {
+    "guid": 5393,
+    "id": "fire_extinguishers"
+  },
+  {
+    "guid": 5394,
+    "id": "police_equipment"
+  },
+  {
+    "guid": 5395,
+    "id": "fans"
+  },
+  {
+    "guid": 5397,
+    "id": "medicine"
+  },
+  {
+    "guid": 6280,
+    "id": "electric_cables"
+  },
+  {
+    "guid": 5381,
+    "id": "jalea"
+  },
+  {
+    "guid": 5382,
+    "id": "ice_cream"
+  },
+  {
+    "guid": 6600,
+    "id": "mezcal"
+  },
+  {
+    "guid": 5803,
+    "id": "soccer_balls"
+  },
+  {
+    "guid": 5389,
+    "id": "costumes"
+  },
+  {
+    "guid": 5388,
+    "id": "perfumes"
+  },
+  {
+    "guid": 5400,
+    "id": "pigments"
+  },
+  {
+    "guid": 5390,
+    "id": "motor"
+  },
+  {
+    "guid": 5391,
+    "id": "scooter"
+  },
+  {
+    "guid": 5392,
+    "id": "film_reel"
+  },
+  {
+    "guid": 5399,
+    "id": "ammonia"
+  },
+  {
+    "guid": 5398,
+    "id": "minerals"
+  },
+  {
+    "guid": 6360,
+    "id": "silver_ore"
+  },
+  {
+    "guid": 132747,
+    "id": "restaurant:_archduke's_schnitzel"
+  },
+  {
+    "guid": 132750,
+    "id": "restaurant:_stroggof_goulash"
+  },
+  {
+    "guid": 133339,
+    "id": "restaurant:_fish_and_frites"
+  },
+  {
+    "guid": 133340,
+    "id": "restaurant:_venison_en_croûte"
+  },
+  {
+    "guid": 133341,
+    "id": "restaurant:_lobster_cheminée"
+  },
+  {
+    "guid": 6136,
+    "id": "restaurant:_empanadas"
+  },
+  {
+    "guid": 132753,
+    "id": "cafe:_donut_fourré"
+  },
+  {
+    "guid": 133347,
+    "id": "cafe:_eclair"
+  },
+  {
+    "guid": 133348,
+    "id": "cafe:_palmier_biscuit"
+  },
+  {
+    "guid": 133349,
+    "id": "cafe:_venison_tartare"
+  },
+  {
+    "guid": 133350,
+    "id": "cafe:_banana_surprise"
+  },
+  {
+    "guid": 6138,
+    "id": "cafe:_cone_o'copia_"
+  },
+  {
+    "guid": 132752,
+    "id": "bar:_daiquiri_tropic"
+  },
+  {
+    "guid": 133342,
+    "id": "bar:_black_muscovy"
+  },
+  {
+    "guid": 133343,
+    "id": "bar:_montmartre_'75'"
+  },
+  {
+    "guid": 133345,
+    "id": "bar:_arctic_glogg"
+  },
+  {
+    "guid": 133346,
+    "id": "bar:_enbesa_sunrise"
+  },
+  {
+    "guid": 6137,
+    "id": "bar:_absynthe"
+  },
+  {
+    "guid": 135103,
+    "id": "department_store:_toasters"
+  },
+  {
+    "guid": 135188,
+    "id": "department_store:_vacuum_cleaners"
+  },
+  {
+    "guid": 135187,
+    "id": "department_store:_crockery"
+  },
+  {
+    "guid": 135189,
+    "id": "department_store:_refrigerators"
+  },
+  {
+    "guid": 135190,
+    "id": "department_store:_briefcases"
+  },
+  {
+    "guid": 135105,
+    "id": "furniture_store:_banker's_lamps"
+  },
+  {
+    "guid": 135121,
+    "id": "furniture_store:_vanity_screens"
+  },
+  {
+    "guid": 135120,
+    "id": "furniture_store:_writing_desks"
+  },
+  {
+    "guid": 135122,
+    "id": "furniture_store:_four-poster_beds"
+  },
+  {
+    "guid": 135123,
+    "id": "furniture_store:_lounge_seating"
+  },
+  {
+    "guid": 134631,
+    "id": "drug_store:_toothpaste"
+  },
+  {
+    "guid": 135191,
+    "id": "drug_store:_detergent"
+  },
+  {
+    "guid": 135192,
+    "id": "drug_store:_lipstick"
+  },
+  {
+    "guid": 135193,
+    "id": "drug_store:_face_cream"
+  },
+  {
+    "guid": 135194,
+    "id": "drug_store:_pomade"
+  },
+  {
+    "guid": 133928,
+    "id": "the_iron_tower:_brioche_royale_"
+  },
+  {
+    "guid": 133930,
+    "id": "the_iron_tower:_trifle_tower"
+  },
+  {
+    "guid": 133931,
+    "id": "the_iron_tower:_lady_marmelade"
+  },
+  {
+    "guid": 133932,
+    "id": "the_iron_tower:_age_of_exploration"
+  },
+  {
+    "guid": 133933,
+    "id": "the_iron_tower:_homard_sur_lit_de_terroir"
+  },
+  {
+    "guid": 6353,
+    "id": "police_headquarters"
+  },
+  {
+    "guid": 6354,
+    "id": "fire_department"
+  },
+  {
+    "guid": 6355,
+    "id": "city_hospital"
+  },
+  {
+    "guid": 5840,
+    "id": "samba_school"
+  },
+  {
+    "guid": 6018,
+    "id": "cinema"
+  },
+  {
+    "guid": 6258,
+    "id": "police_headquarters"
+  },
+  {
+    "guid": 6259,
+    "id": "fire_department"
+  },
+  {
+    "guid": 6260,
+    "id": "city_hospital"
+  },
+  {
+    "guid": 132780,
+    "id": "restaurant"
+  },
+  {
+    "guid": 132782,
+    "id": "cafe"
+  },
+  {
+    "guid": 132781,
+    "id": "bar"
+  },
+  {
+    "guid": 135100,
+    "id": "department_store"
+  },
+  {
+    "guid": 135099,
+    "id": "furniture_store"
+  },
+  {
+    "guid": 134629,
+    "id": "drug_store"
+  },
+  {
+    "guid": 132770,
+    "id": "the_iron_tower"
+  },
+  {
+    "guid": 5000000,
+    "id": "moderate"
+  },
+  {
+    "guid": 5000001,
+    "id": "colony01"
+  },
+  {
+    "guid": 160001,
+    "id": "arctic"
+  },
+  {
+    "guid": 114327,
+    "id": "africa"
+  },
+  {
+    "guid": 601445,
+    "id": "hotel"
+  },
+  {
+    "guid": 24792,
+    "id": "hacienda_jornalero_quarters"
+  },
+  {
+    "guid": 24793,
+    "id": "hacienda_obrera_quarters"
+  },
+  {
+    "guid": 1010343,
+    "id": "farmer_residence"
+  },
+  {
+    "guid": 1010344,
+    "id": "worker_residence"
+  },
+  {
+    "guid": 1010345,
+    "id": "artisan_residence"
+  },
+  {
+    "guid": 1010346,
+    "id": "engineer_residence"
+  },
+  {
+    "guid": 1010347,
+    "id": "investor_residence"
+  },
+  {
+    "guid": 101254,
+    "id": "jornalero_residence"
+  },
+  {
+    "guid": 101255,
+    "id": "obrero_residence"
+  },
+  {
+    "guid": 112091,
+    "id": "explorer_shelter"
+  },
+  {
+    "guid": 112652,
+    "id": "technician_shelter"
+  },
+  {
+    "guid": 406,
+    "id": "skyline_tower"
+  },
+  {
+    "guid": 114436,
+    "id": "shepherd_residence"
+  },
+  {
+    "guid": 114437,
+    "id": "elder_residence"
+  },
+  {
+    "guid": 114445,
+    "id": "scholar_residence"
+  },
+  {
+    "guid": 601888,
+    "id": "engineer_skyscraper:_level_1"
+  },
+  {
+    "guid": 601889,
+    "id": "engineer_skyscraper:_level_2"
+  },
+  {
+    "guid": 601890,
+    "id": "engineer_skyscraper:_level_3"
+  },
+  {
+    "guid": 601882,
+    "id": "investor_skyscraper:_level_1"
+  },
+  {
+    "guid": 601883,
+    "id": "investor_skyscraper:_level_2"
+  },
+  {
+    "guid": 601884,
+    "id": "investor_skyscraper:_level_3"
+  },
+  {
+    "guid": 601886,
+    "id": "investor_skyscraper:_level_4"
+  },
+  {
+    "guid": 601891,
+    "id": "investor_skyscraper:_level_5"
+  },
+  {
+    "guid": 5405,
+    "id": "artista_residence"
+  },
+  {
+    "guid": 6086,
+    "id": "hacienda_artista_quarters"
+  },
+  {
+    "guid": 7728,
+    "id": "dietary_education_initiative"
+  },
+  {
+    "guid": 191912,
+    "id": "rabies_vaccine"
+  },
+  {
+    "guid": 192022,
+    "id": "generous_cheese_board"
+  },
+  {
+    "guid": 192025,
+    "id": "bicycle_repair_kit"
+  },
+  {
+    "guid": 192027,
+    "id": "tinned_fish"
+  },
+  {
+    "guid": 190658,
+    "id": "chief_george_doughty,_smouldering_hero"
+  },
+  {
+    "guid": 190672,
+    "id": "generous_innkeeper"
+  },
+  {
+    "guid": 190673,
+    "id": "brasserie_patron_mertens"
+  },
+  {
+    "guid": 190674,
+    "id": "franck_von_lewenstein,_warmest_of_hosts"
+  },
+  {
+    "guid": 190677,
+    "id": "very_senior_lecturer"
+  },
+  {
+    "guid": 190717,
+    "id": "arch-archbishop_archibald"
+  },
+  {
+    "guid": 190719,
+    "id": "pope_lucius_i,_\"the_rejuvenator\""
+  },
+  {
+    "guid": 190193,
+    "id": "saint_d'artois,_vision_of_the_valley"
+  },
+  {
+    "guid": 190724,
+    "id": "louis_p._hecate,_arm-puncturing_pioneer"
+  },
+  {
+    "guid": 190728,
+    "id": "actor"
+  },
+  {
+    "guid": 191469,
+    "id": "gordon_the_master_grocer"
+  },
+  {
+    "guid": 191470,
+    "id": "aristelia_bataille,_of_the_\"novelty_store\""
+  },
+  {
+    "guid": 191573,
+    "id": "joseph_beaumont,_historic_society_founder"
+  },
+  {
+    "guid": 191579,
+    "id": "jakob_sokow,_the_charitable_banker"
+  },
+  {
+    "guid": 192441,
+    "id": "dennis_brammen_the_food_critic_"
+  },
+  {
+    "guid": 191738,
+    "id": "sunday_best_law"
+  },
+  {
+    "guid": 191739,
+    "id": "mandatory_mass_law"
+  },
+  {
+    "guid": 191740,
+    "id": "patriarch_grigor's_calendar_of_holy_days"
+  },
+  {
+    "guid": 191777,
+    "id": "teetotalers_manifesto"
+  },
+  {
+    "guid": 191778,
+    "id": "moderation_act"
+  },
+  {
+    "guid": 191779,
+    "id": "ms._amelia's_essential_prohibition_measures"
+  },
+  {
+    "guid": 191815,
+    "id": "the_withdrawal_amendment"
+  },
+  {
+    "guid": 191816,
+    "id": "contraception_regulation"
+  },
+  {
+    "guid": 191817,
+    "id": "papal_paper_of_prenatal_preservation"
+  },
+  {
+    "guid": 116161,
+    "id": "outdoorsy_grill"
+  },
+  {
+    "guid": 116166,
+    "id": "heated_jacket_of_pouchiness"
+  },
+  {
+    "guid": 116169,
+    "id": "nate's_darling_kettle"
+  },
+  {
+    "guid": 116182,
+    "id": "craft_beer_to_takeaway"
+  },
+  {
+    "guid": 116184,
+    "id": "the_\"don't_leave_it_'til_l8r!\"_espresson8r_"
+  },
+  {
+    "guid": 116188,
+    "id": "the_\"magnificone\"_ice_cream_maker"
+  },
+  {
+    "guid": 121004,
+    "id": "amadi_ilga,_ketema's_chief_civil_engineer_"
+  },
+  {
+    "guid": 137263,
+    "id": "dedication_to_anti-consumerist_causes"
+  },
+  {
+    "guid": 137264,
+    "id": "dedication_to_theodora's_egalitarian_futures"
+  },
+  {
+    "guid": 25634,
+    "id": "dietary_education_initiative"
+  },
+  {
+    "guid": 11656,
+    "id": "communal_garden"
+  },
+  {
+    "guid": 191133,
+    "id": "taiga_forest_park"
+  },
+  {
+    "guid": 111161,
+    "id": "intoxicator"
+  },
+  {
+    "guid": 111167,
+    "id": "mr._garrick,_founder_of_the_entrepreneur_gentlemen's_club"
+  },
+  {
+    "guid": 111176,
+    "id": "anti-clerical_lecturer"
+  },
+  {
+    "guid": 111178,
+    "id": "krapotkin,_evolutionist_of_kindness"
+  },
+  {
+    "guid": 111180,
+    "id": "pietro_jonah_proud,_the_philosopher_of_the_public_good"
+  },
+  {
+    "guid": 113800,
+    "id": "fernando_de_faro,_coffee-lover_and_all-round_cad"
+  },
+  {
+    "guid": 116133,
+    "id": "arnarunn_the_seamless"
+  },
+  {
+    "guid": 116151,
+    "id": "rugged_outdoor_cook"
+  },
+  {
+    "guid": 125114,
+    "id": "kaldi,_infuser_of_teas"
+  },
+  {
+    "guid": 125119,
+    "id": "shayi_shaah,_tea_house_empress_"
+  },
+  {
+    "guid": 125121,
+    "id": "banquet_chef"
+  },
+  {
+    "guid": 125125,
+    "id": "patriarch_matteos_x"
+  },
+  {
+    "guid": 125127,
+    "id": "industrious_embroidress"
+  },
+  {
+    "guid": 125130,
+    "id": "elder_selassy'e"
+  },
+  {
+    "guid": 125132,
+    "id": "aesop,_the_fabled_storyteller"
+  },
+  {
+    "guid": 125134,
+    "id": "mulatu_the_musical_maestro"
+  },
+  {
+    "guid": 129022,
+    "id": "amazing_fashion_designer"
+  },
+  {
+    "guid": 125140,
+    "id": "lineman"
+  },
+  {
+    "guid": 125143,
+    "id": "dean_the_dean_of_deansville_university"
+  },
+  {
+    "guid": 125146,
+    "id": "eshe_the_eager_enbesan_entrepreneur"
+  },
+  {
+    "guid": 125071,
+    "id": "telephone_repeater"
+  },
+  {
+    "guid": 124208,
+    "id": "enbesan_highlands_park"
+  },
+  {
+    "guid": 124914,
+    "id": "lost_tribes_exhibition"
+  },
+  {
+    "guid": 136668,
+    "id": "mr._bertram,_hotel_manager"
+  },
+  {
+    "guid": 136697,
+    "id": "madame_blanc,_maître_d'hôtel"
+  },
+  {
+    "guid": 601908,
+    "id": "weak_panorama"
+  },
+  {
+    "guid": 601909,
+    "id": "moderate_panorama"
+  },
+  {
+    "guid": 601910,
+    "id": "decent_panorama"
+  },
+  {
+    "guid": 601911,
+    "id": "strong_panorama"
+  },
+  {
+    "guid": 601912,
+    "id": "intense_panorama"
+  },
+  {
+    "guid": 601904,
+    "id": "weak_panorama"
+  },
+  {
+    "guid": 601903,
+    "id": "moderate_panorama"
+  },
+  {
+    "guid": 601905,
+    "id": "decent_panorama"
+  },
+  {
+    "guid": 601906,
+    "id": "strong_panorama"
+  },
+  {
+    "guid": 601902,
+    "id": "intense_panorama"
+  },
+  {
+    "guid": 6148,
+    "id": "empanadas"
+  },
+  {
+    "guid": 6154,
+    "id": "absinth"
+  },
+  {
+    "guid": 6157,
+    "id": "cone_o'copia"
+  },
+  {
+    "guid": 269407,
+    "id": "creative_cuisine_act"
+  },
+  {
+    "guid": 269453,
+    "id": "late_licence_act"
+  },
+  {
+    "guid": 137798,
+    "id": "blue_skies_maid_"
+  },
+  {
+    "guid": 137797,
+    "id": "blue_skies_delivery_service"
+  },
+  {
+    "guid": 133929,
+    "id": "brioche_royale"
+  },
+  {
+    "guid": 133934,
+    "id": "trifle_tower"
+  },
+  {
+    "guid": 133935,
+    "id": "lady_marmelade"
+  },
+  {
+    "guid": 133936,
+    "id": "age_of_exploration"
+  },
+  {
+    "guid": 133937,
+    "id": "homard_sur_lit_de_terroir"
+  },
+  {
+    "guid": 132745,
+    "id": "archduke's_schnitzel"
+  },
+  {
+    "guid": 132749,
+    "id": "stroggof_goulash"
+  },
+  {
+    "guid": 133352,
+    "id": "fish_and_frites"
+  },
+  {
+    "guid": 133353,
+    "id": "venison_en_croûte"
+  },
+  {
+    "guid": 133354,
+    "id": "lobster_cheminée"
+  },
+  {
+    "guid": 132758,
+    "id": "daiquiri_tropic"
+  },
+  {
+    "guid": 133361,
+    "id": "black_muscovy"
+  },
+  {
+    "guid": 133362,
+    "id": "montmartre_'75'"
+  },
+  {
+    "guid": 133363,
+    "id": "glogg"
+  },
+  {
+    "guid": 133364,
+    "id": "enbesa_sunrise"
+  },
+  {
+    "guid": 132759,
+    "id": "donut_fourré"
+  },
+  {
+    "guid": 133357,
+    "id": "eclair"
+  },
+  {
+    "guid": 133358,
+    "id": "palmier_biscuit"
+  },
+  {
+    "guid": 133359,
+    "id": "venison_tartare"
+  },
+  {
+    "guid": 133360,
+    "id": "banana_surprise"
+  },
+  {
+    "guid": 135111,
+    "id": "estimated_toaster_sales"
+  },
+  {
+    "guid": 135195,
+    "id": "estimated_crockery_sales"
+  },
+  {
+    "guid": 135196,
+    "id": "estimated_vacuum_cleaner_sales"
+  },
+  {
+    "guid": 135197,
+    "id": "estimated_refrigerator_sales"
+  },
+  {
+    "guid": 658,
+    "id": "estimated_briefcase_sales"
+  },
+  {
+    "guid": 135112,
+    "id": "estimated_banker's_lamp_sales"
+  },
+  {
+    "guid": 135151,
+    "id": "estimated_vanity_screen_sales"
+  },
+  {
+    "guid": 135152,
+    "id": "estimated_writing_desk_sales"
+  },
+  {
+    "guid": 135153,
+    "id": "estimated_four-poster_bed_sales"
+  },
+  {
+    "guid": 661,
+    "id": "estimated_lounge_seating_sales"
+  },
+  {
+    "guid": 135113,
+    "id": "estimated_toothpaste_sales"
+  },
+  {
+    "guid": 135199,
+    "id": "estimated_detergent_sales"
+  },
+  {
+    "guid": 135200,
+    "id": "estimated_lipstick_sales"
+  },
+  {
+    "guid": 135201,
+    "id": "estimated_face_cream_sales"
+  },
+  {
+    "guid": 664,
+    "id": "estimated_pomade_sales"
+  },
+  {
+    "guid": 180023
+  },
+  {
+    "guid": 180025
+  },
+  {
+    "guid": 110934
+  },
+  {
+    "guid": 180045
+  },
+  {
+    "guid": 112132
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 45,
+    "id": "sir_archibald_blake"
+  },
+  {
+    "guid": 73,
+    "id": "anne_harlow"
+  },
+  {
+    "guid": 76,
+    "id": "jean_la_fortune"
+  },
+  {
+    "guid": 29,
+    "id": "isabel_sarmento"
+  },
+  {
+    "guid": 77,
+    "id": "old_nate"
+  },
+  {
+    "guid": 46,
+    "id": "eli_bleakworth"
+  },
+  {
+    "guid": 78,
+    "id": "madame_kahina"
+  },
+  {
+    "guid": 237,
+    "id": "qumaq"
+  },
+  {
+    "guid": 119051,
+    "id": "emperor_ketema"
+  },
+  {
+    "guid": 1010052,
+    "id": "farmer_workforce"
+  },
+  {
+    "guid": 1010115,
+    "id": "worker_workforce"
+  },
+  {
+    "guid": 1010116,
+    "id": "artisan_workforce"
+  },
+  {
+    "guid": 1010117,
+    "id": "engineer_workforce"
+  },
+  {
+    "guid": 1010128,
+    "id": "investor_workforce"
+  },
+  {
+    "guid": 1010366,
+    "id": "jornalero_workforce"
+  },
+  {
+    "guid": 1010367,
+    "id": "obrero_workforce"
+  },
+  {
+    "guid": 112653,
+    "id": "explorer_workforce"
+  },
+  {
+    "guid": 112654,
+    "id": "technicians_workforce"
+  },
+  {
+    "guid": 132723,
+    "id": "tourist_customers"
+  },
+  {
+    "guid": 5406,
+    "id": "artista_workforce"
+  },
+  {
+    "guid": 114340,
+    "id": "shepherd_workforce"
+  },
+  {
+    "guid": 114341,
+    "id": "elder_workforce"
+  },
+  {
+    "guid": 124478,
+    "id": "scholar_workforce"
+  },
+  {
+    "guid": 270041,
+    "id": "tractor_barn_(gasoline_good)"
+  },
+  {
+    "guid": 25240,
+    "id": "fertiliser_silo"
+  },
+  {
+    "guid": 25241,
+    "id": "fertiliser_silo"
+  },
+  {
+    "guid": 25242,
+    "id": "fertiliser_silo"
+  },
+  {
+    "guid": 269837,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269839,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269957,
+    "id": "silo"
+  },
+  {
+    "guid": 269848,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269849,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269958,
+    "id": "silo"
+  },
+  {
+    "guid": 119026,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 119027,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 119025,
+    "id": "silo"
+  },
+  {
+    "guid": 141060,
+    "id": "propaganda_consumption_weak"
+  },
+  {
+    "guid": 141061,
+    "id": "propaganda_consumption_medium"
+  },
+  {
+    "guid": 141062,
+    "id": "propaganda_consumption_strong"
+  },
+  {
+    "guid": 111251,
+    "id": "propaganda_anarchy_workforce_+_consumption"
+  },
+  {
+    "guid": 25638,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25639,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25640,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25641,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25642,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25643,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25644,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25645,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25646,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25651,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25652,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25653,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25654,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25655,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25656,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25657,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25658,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 112919,
+    "id": "oily_sucker"
+  },
+  {
+    "guid": 112920,
+    "id": "oily_super-sucker"
+  },
+  {
+    "guid": 269191,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269254,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269255,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269256,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269257,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269564,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269565,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269566,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269366,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269200,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269275,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269276,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269277,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269278,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269279,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269280,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269281,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269282,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269399,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280087,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280088,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280089,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280090,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280091,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280092,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280093,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 15000082,
+    "id": "population:_old_world"
+  },
+  {
+    "guid": 15000083,
+    "id": "population:_new_world"
+  },
+  {
+    "guid": 601380,
+    "id": "population:_tourists"
+  },
+  {
+    "guid": 112641,
+    "id": "population:_the_arctic"
+  },
+  {
+    "guid": 114328,
+    "id": "population:_enbesa"
+  },
+  {
+    "guid": 122785,
+    "id": "population:_scholars"
+  },
+  {
+    "guid": 15000000,
+    "id": "farmers"
+  },
+  {
+    "guid": 15000001,
+    "id": "workers"
+  },
+  {
+    "guid": 15000002,
+    "id": "artisans"
+  },
+  {
+    "guid": 15000003,
+    "id": "engineers"
+  },
+  {
+    "guid": 15000004,
+    "id": "investors"
+  },
+  {
+    "guid": 15000005,
+    "id": "jornaleros"
+  },
+  {
+    "guid": 15000006,
+    "id": "obreros"
+  },
+  {
+    "guid": 5403,
+    "id": "artista"
+  },
+  {
+    "guid": 601379,
+    "id": "tourists"
+  },
+  {
+    "guid": 112642,
+    "id": "explorers"
+  },
+  {
+    "guid": 112643,
+    "id": "technicians"
+  },
+  {
+    "guid": 114329,
+    "id": "shepherds"
+  },
+  {
+    "guid": 114330,
+    "id": "elders"
+  },
+  {
+    "guid": 118745,
+    "id": "scholars"
+  },
+  {
+    "guid": 114751,
+    "id": "heater"
+  },
+  {
+    "guid": 117547,
+    "id": "gas-fired_power_plant"
+  },
+  {
+    "guid": 100780,
+    "id": "oil_power_plant"
+  },
+  {
+    "guid": 5164,
+    "id": "power_station"
+  },
+  {
+    "guid": 502031,
+    "id": "consumer_goods"
+  },
+  {
+    "guid": 501957,
+    "id": "construction_material"
+  },
+  {
+    "guid": 502052,
+    "id": "raw_materials"
+  },
+  {
+    "guid": 502040,
+    "id": "agricultural_products"
+  },
+  {
+    "guid": 502046,
+    "id": "intermediate_products"
+  },
+  {
+    "guid": 1010017,
+    "id": "coins"
+  },
+  {
+    "guid": 1010190,
+    "id": "influence"
+  },
+  {
+    "guid": 25131,
+    "id": "atole"
+  },
+  {
+    "guid": 24807,
+    "id": "dung"
+  },
+  {
+    "guid": 24808,
+    "id": "fertiliser"
+  },
+  {
+    "guid": 25506,
+    "id": "hot_sauce"
+  },
+  {
+    "guid": 25546,
+    "id": "hacienda"
+  },
+  {
+    "guid": 103866,
+    "id": "bundle_of_letters"
+  },
+  {
+    "guid": 120021,
+    "id": "coal"
+  },
+  {
+    "guid": 1010566,
+    "id": "oil"
+  },
+  {
+    "guid": 120022,
+    "id": "electricity"
+  },
+  {
+    "guid": 119392,
+    "id": "research_points"
+  },
+  {
+    "guid": 1591,
+    "id": "mineral_resource"
+  },
+  {
+    "guid": 1955,
+    "id": "cultivation_area"
+  },
+  {
+    "guid": 836,
+    "id": "bauxite_"
+  },
+  {
+    "guid": 838,
+    "id": "aluminium_profiles"
+  },
+  {
+    "guid": 840,
+    "id": "helium"
+  },
+  {
+    "guid": 1414,
+    "id": "industrial_lubricant"
+  },
+  {
+    "guid": 846,
+    "id": "bombs"
+  },
+  {
+    "guid": 847,
+    "id": "sea_mines"
+  },
+  {
+    "guid": 848,
+    "id": "pamphlets"
+  },
+  {
+    "guid": 849,
+    "id": "care_packages"
+  },
+  {
+    "guid": 850,
+    "id": "water_drop"
+  },
+  {
+    "guid": 917,
+    "id": "water"
+  },
+  {
+    "guid": 535,
+    "id": "local_mail"
+  },
+  {
+    "guid": 536,
+    "id": "regional_mail"
+  },
+  {
+    "guid": 2524,
+    "id": "overseas_mail"
+  },
+  {
+    "guid": 4267,
+    "id": "new_world_reports"
+  },
+  {
+    "guid": 4268,
+    "id": "arctic_reports"
+  },
+  {
+    "guid": 120020,
+    "id": "market"
+  },
+  {
+    "guid": 1010349,
+    "id": "pub"
+  },
+  {
+    "guid": 1010350,
+    "id": "church"
+  },
+  {
+    "guid": 1010351,
+    "id": "school"
+  },
+  {
+    "guid": 1010352,
+    "id": "variety_theatre"
+  },
+  {
+    "guid": 1010353,
+    "id": "university"
+  },
+  {
+    "guid": 1010354,
+    "id": "electricity"
+  },
+  {
+    "guid": 1010355,
+    "id": "members_club"
+  },
+  {
+    "guid": 1010356,
+    "id": "bank"
+  },
+  {
+    "guid": 120050,
+    "id": "chapel"
+  },
+  {
+    "guid": 1010348,
+    "id": "boxing_arena"
+  },
+  {
+    "guid": 112708,
+    "id": "heat"
+  },
+  {
+    "guid": 112693,
+    "id": "post_office"
+  },
+  {
+    "guid": 114890,
+    "id": "canteen"
+  },
+  {
+    "guid": 269751,
+    "id": "fuel"
+  },
+  {
+    "guid": 270042,
+    "id": "fuel"
+  },
+  {
+    "guid": 133891,
+    "id": "tourist_mooring"
+  },
+  {
+    "guid": 132751,
+    "id": "restaurant"
+  },
+  {
+    "guid": 132754,
+    "id": "bar"
+  },
+  {
+    "guid": 132755,
+    "id": "café"
+  },
+  {
+    "guid": 133573,
+    "id": "variety_theatre"
+  },
+  {
+    "guid": 601485,
+    "id": "zoo"
+  },
+  {
+    "guid": 133535,
+    "id": "museum"
+  },
+  {
+    "guid": 355,
+    "id": "botanical_garden"
+  },
+  {
+    "guid": 134257,
+    "id": "palace"
+  },
+  {
+    "guid": 132761,
+    "id": "the_iron_tower"
+  },
+  {
+    "guid": 133536,
+    "id": "world's_fair"
+  },
+  {
+    "guid": 134781,
+    "id": "docklands"
+  },
+  {
+    "guid": 137757,
+    "id": "skyline_tower"
+  },
+  {
+    "guid": 135108,
+    "id": "department_store"
+  },
+  {
+    "guid": 135107,
+    "id": "furniture_store"
+  },
+  {
+    "guid": 135109,
+    "id": "drug_store"
+  },
+  {
+    "guid": 2038,
+    "id": "island_charter"
+  },
+  {
+    "guid": 5831,
+    "id": "samba_school"
+  },
+  {
+    "guid": 5830,
+    "id": "cinema"
+  },
+  {
+    "guid": 6261,
+    "id": "automated_riot_control"
+  },
+  {
+    "guid": 6262,
+    "id": "automated_fire_protection"
+  },
+  {
+    "guid": 6263,
+    "id": "automated_healthcare"
+  },
+  {
+    "guid": 6265,
+    "id": "beach"
+  },
+  {
+    "guid": 1010192,
+    "id": "grain"
+  },
+  {
+    "guid": 1010193,
+    "id": "beef"
+  },
+  {
+    "guid": 1010194,
+    "id": "hops"
+  },
+  {
+    "guid": 1010195,
+    "id": "potatoes"
+  },
+  {
+    "guid": 120008,
+    "id": "wood"
+  },
+  {
+    "guid": 1010197,
+    "id": "wool"
+  },
+  {
+    "guid": 1010199,
+    "id": "pigs"
+  },
+  {
+    "guid": 1010209,
+    "id": "furs"
+  },
+  {
+    "guid": 120014,
+    "id": "grapes"
+  },
+  {
+    "guid": 1010198,
+    "id": "red_peppers"
+  },
+  {
+    "guid": 1010200,
+    "id": "fish"
+  },
+  {
+    "guid": 1010232,
+    "id": "saltpeter"
+  },
+  {
+    "guid": 1010228,
+    "id": "quartz_sand"
+  },
+  {
+    "guid": 1010202,
+    "id": "reinforced_concrete"
+  },
+  {
+    "guid": 1010203,
+    "id": "soap"
+  },
+  {
+    "guid": 1010196,
+    "id": "timber"
+  },
+  {
+    "guid": 1010205,
+    "id": "bricks"
+  },
+  {
+    "guid": 1010247,
+    "id": "fur_coats"
+  },
+  {
+    "guid": 1010207,
+    "id": "windows"
+  },
+  {
+    "guid": 1010208,
+    "id": "light_bulbs"
+  },
+  {
+    "guid": 1010210,
+    "id": "sails"
+  },
+  {
+    "guid": 1010211,
+    "id": "chassis"
+  },
+  {
+    "guid": 1010201,
+    "id": "clay"
+  },
+  {
+    "guid": 1010206,
+    "id": "sewing_machines"
+  },
+  {
+    "guid": 1010213,
+    "id": "bread"
+  },
+  {
+    "guid": 1010214,
+    "id": "beer"
+  },
+  {
+    "guid": 1010215,
+    "id": "goulash"
+  },
+  {
+    "guid": 1010217,
+    "id": "canned_food"
+  },
+  {
+    "guid": 1010216,
+    "id": "schnapps"
+  },
+  {
+    "guid": 1010238,
+    "id": "sausages"
+  },
+  {
+    "guid": 120016,
+    "id": "champagne"
+  },
+  {
+    "guid": 1010218,
+    "id": "steel_beams"
+  },
+  {
+    "guid": 1010219,
+    "id": "steel"
+  },
+  {
+    "guid": 1010221,
+    "id": "weapons"
+  },
+  {
+    "guid": 1010222,
+    "id": "dynamite"
+  },
+  {
+    "guid": 1010223,
+    "id": "advanced_weapons"
+  },
+  {
+    "guid": 1010224,
+    "id": "steam_motors"
+  },
+  {
+    "guid": 1010225,
+    "id": "steam_carriages"
+  },
+  {
+    "guid": 1010204,
+    "id": "brass"
+  },
+  {
+    "guid": 1010226,
+    "id": "coal"
+  },
+  {
+    "guid": 1010227,
+    "id": "iron"
+  },
+  {
+    "guid": 1010229,
+    "id": "zinc"
+  },
+  {
+    "guid": 1010230,
+    "id": "copper"
+  },
+  {
+    "guid": 1010231,
+    "id": "cement"
+  },
+  {
+    "guid": 1010233,
+    "id": "gold_ore"
+  },
+  {
+    "guid": 1010234,
+    "id": "tallow"
+  },
+  {
+    "guid": 1010235,
+    "id": "flour"
+  },
+  {
+    "guid": 1010236,
+    "id": "malt"
+  },
+  {
+    "guid": 1010237,
+    "id": "work_clothes"
+  },
+  {
+    "guid": 1010241,
+    "id": "glass"
+  },
+  {
+    "guid": 1010242,
+    "id": "wood_veneers"
+  },
+  {
+    "guid": 1010243,
+    "id": "filaments"
+  },
+  {
+    "guid": 1010245,
+    "id": "penny_farthings"
+  },
+  {
+    "guid": 1010246,
+    "id": "pocket_watches"
+  },
+  {
+    "guid": 120030,
+    "id": "spectacles"
+  },
+  {
+    "guid": 1010248,
+    "id": "gramophones"
+  },
+  {
+    "guid": 1010249,
+    "id": "gold"
+  },
+  {
+    "guid": 1010250,
+    "id": "jewelry"
+  },
+  {
+    "guid": 1010251,
+    "id": "sugar_cane"
+  },
+  {
+    "guid": 1010252,
+    "id": "tobacco"
+  },
+  {
+    "guid": 1010253,
+    "id": "cotton"
+  },
+  {
+    "guid": 1010254,
+    "id": "cocoa"
+  },
+  {
+    "guid": 1010255,
+    "id": "caoutchouc"
+  },
+  {
+    "guid": 120031,
+    "id": "coffee_beans"
+  },
+  {
+    "guid": 120034,
+    "id": "corn"
+  },
+  {
+    "guid": 120036,
+    "id": "alpaca_wool"
+  },
+  {
+    "guid": 120041,
+    "id": "plantains"
+  },
+  {
+    "guid": 1010256,
+    "id": "pearls"
+  },
+  {
+    "guid": 120042,
+    "id": "fish_oil"
+  },
+  {
+    "guid": 120043,
+    "id": "ponchos"
+  },
+  {
+    "guid": 120044,
+    "id": "felt"
+  },
+  {
+    "guid": 120037,
+    "id": "bombins"
+  },
+  {
+    "guid": 1010257,
+    "id": "rum"
+  },
+  {
+    "guid": 1010258,
+    "id": "chocolate"
+  },
+  {
+    "guid": 120032,
+    "id": "coffee"
+  },
+  {
+    "guid": 120033,
+    "id": "fried_plantains"
+  },
+  {
+    "guid": 120035,
+    "id": "tortillas"
+  },
+  {
+    "guid": 1010239,
+    "id": "sugar"
+  },
+  {
+    "guid": 1010240,
+    "id": "cotton_fabric"
+  },
+  {
+    "guid": 1010259,
+    "id": "cigars"
+  },
+  {
+    "guid": 112694,
+    "id": "caribou_meat"
+  },
+  {
+    "guid": 112697,
+    "id": "goose_feathers"
+  },
+  {
+    "guid": 112695,
+    "id": "bear_fur"
+  },
+  {
+    "guid": 112698,
+    "id": "huskies"
+  },
+  {
+    "guid": 112699,
+    "id": "whale_oil"
+  },
+  {
+    "guid": 112696,
+    "id": "seal_skin"
+  },
+  {
+    "guid": 112705,
+    "id": "pemmican"
+  },
+  {
+    "guid": 112702,
+    "id": "oil_lamps"
+  },
+  {
+    "guid": 112701,
+    "id": "sleeping_bags"
+  },
+  {
+    "guid": 112700,
+    "id": "parkas"
+  },
+  {
+    "guid": 112704,
+    "id": "sleds"
+  },
+  {
+    "guid": 112703,
+    "id": "husky_sleds"
+  },
+  {
+    "guid": 112706,
+    "id": "arctic_gas"
+  },
+  {
+    "guid": 115980,
+    "id": "lost_expedition_scrap"
+  },
+  {
+    "guid": 114355,
+    "id": "marketplace"
+  },
+  {
+    "guid": 114361,
+    "id": "musicians'_court"
+  },
+  {
+    "guid": 114362,
+    "id": "monastery"
+  },
+  {
+    "guid": 114425,
+    "id": "radio_tower"
+  },
+  {
+    "guid": 24821,
+    "id": "coke"
+  },
+  {
+    "guid": 24824,
+    "id": "chewing_gum"
+  },
+  {
+    "guid": 24837,
+    "id": "fuel"
+  },
+  {
+    "guid": 24846,
+    "id": "silver_amalgam"
+  },
+  {
+    "guid": 24850,
+    "id": "silver_bars"
+  },
+  {
+    "guid": 24851,
+    "id": "silver_coins"
+  },
+  {
+    "guid": 24852,
+    "id": "cyanide"
+  },
+  {
+    "guid": 24863,
+    "id": "industrial_lubricant_"
+  },
+  {
+    "guid": 25073,
+    "id": "waste_water"
+  },
+  {
+    "guid": 114356,
+    "id": "wanza_timber"
+  },
+  {
+    "guid": 114364,
+    "id": "hibiscus_petals"
+  },
+  {
+    "guid": 114365,
+    "id": "linseed"
+  },
+  {
+    "guid": 114367,
+    "id": "teff"
+  },
+  {
+    "guid": 114368,
+    "id": "indigo_dye"
+  },
+  {
+    "guid": 114369,
+    "id": "spices"
+  },
+  {
+    "guid": 114370,
+    "id": "beeswax"
+  },
+  {
+    "guid": 114357,
+    "id": "sanga_cow"
+  },
+  {
+    "guid": 114371,
+    "id": "goat_milk"
+  },
+  {
+    "guid": 114358,
+    "id": "salt"
+  },
+  {
+    "guid": 117702,
+    "id": "paper"
+  },
+  {
+    "guid": 118728,
+    "id": "lobster"
+  },
+  {
+    "guid": 114391,
+    "id": "linen"
+  },
+  {
+    "guid": 114408,
+    "id": "spiced_flour"
+  },
+  {
+    "guid": 117701,
+    "id": "ornate_candles"
+  },
+  {
+    "guid": 114429,
+    "id": "ammunition"
+  },
+  {
+    "guid": 114433,
+    "id": "essential_oil"
+  },
+  {
+    "guid": 114427,
+    "id": "decorative_cloth"
+  },
+  {
+    "guid": 114359,
+    "id": "dried_meat"
+  },
+  {
+    "guid": 114401,
+    "id": "finery"
+  },
+  {
+    "guid": 114390,
+    "id": "hibiscus_tea"
+  },
+  {
+    "guid": 114402,
+    "id": "mud_bricks"
+  },
+  {
+    "guid": 118724,
+    "id": "ceramics"
+  },
+  {
+    "guid": 114404,
+    "id": "tapestries"
+  },
+  {
+    "guid": 114410,
+    "id": "seafood_stew"
+  },
+  {
+    "guid": 114414,
+    "id": "clay_pipe"
+  },
+  {
+    "guid": 117698,
+    "id": "illuminated_script"
+  },
+  {
+    "guid": 117699,
+    "id": "lanterns"
+  },
+  {
+    "guid": 114428,
+    "id": "leather_boots"
+  },
+  {
+    "guid": 114430,
+    "id": "tailored_suits"
+  },
+  {
+    "guid": 114431,
+    "id": "telephones"
+  },
+  {
+    "guid": 133183,
+    "id": "jam"
+  },
+  {
+    "guid": 133181,
+    "id": "shampoo"
+  },
+  {
+    "guid": 133185,
+    "id": "lemonade"
+  },
+  {
+    "guid": 133532,
+    "id": "souvenirs"
+  },
+  {
+    "guid": 133093,
+    "id": "cinnamon"
+  },
+  {
+    "guid": 133095,
+    "id": "coconut_oil"
+  },
+  {
+    "guid": 133097,
+    "id": "citrus"
+  },
+  {
+    "guid": 134616,
+    "id": "camphor_wax"
+  },
+  {
+    "guid": 134623,
+    "id": "elevators"
+  },
+  {
+    "guid": 135229,
+    "id": "biscuits"
+  },
+  {
+    "guid": 135230,
+    "id": "typewriters"
+  },
+  {
+    "guid": 135086,
+    "id": "resin"
+  },
+  {
+    "guid": 135087,
+    "id": "cherry_wood"
+  },
+  {
+    "guid": 135129,
+    "id": "lacquer"
+  },
+  {
+    "guid": 135234,
+    "id": "cognac"
+  },
+  {
+    "guid": 135233,
+    "id": "violins"
+  },
+  {
+    "guid": 135232,
+    "id": "billiard_tables"
+  },
+  {
+    "guid": 135231,
+    "id": "toys"
+  },
+  {
+    "guid": 135186,
+    "id": "chewing_gum"
+  },
+  {
+    "guid": 135130,
+    "id": "ethanol"
+  },
+  {
+    "guid": 135150,
+    "id": "celluloid"
+  },
+  {
+    "guid": 135816,
+    "id": "toaster_supply"
+  },
+  {
+    "guid": 135876,
+    "id": "crockery_supply"
+  },
+  {
+    "guid": 135877,
+    "id": "vaccum_cleaner_supply"
+  },
+  {
+    "guid": 135878,
+    "id": "refrigerator_supply"
+  },
+  {
+    "guid": 135879,
+    "id": "briefcase_supply"
+  },
+  {
+    "guid": 135880,
+    "id": "banker's_lamp_supply"
+  },
+  {
+    "guid": 135881,
+    "id": "vanity_screen_supply"
+  },
+  {
+    "guid": 135882,
+    "id": "writing_desk_supply"
+  },
+  {
+    "guid": 135883,
+    "id": "four-poster_bed_supply"
+  },
+  {
+    "guid": 135884,
+    "id": "lounge_seating_supply"
+  },
+  {
+    "guid": 135885,
+    "id": "toothpaste_supply"
+  },
+  {
+    "guid": 135886,
+    "id": "detergent_supply"
+  },
+  {
+    "guid": 135887,
+    "id": "lipstick_supply"
+  },
+  {
+    "guid": 135888,
+    "id": "face_cream_supply"
+  },
+  {
+    "guid": 135889,
+    "id": "pomade_supply"
+  },
+  {
+    "guid": 5383,
+    "id": "herbs"
+  },
+  {
+    "guid": 5384,
+    "id": "nandu_leather"
+  },
+  {
+    "guid": 5401,
+    "id": "nandu_feathers"
+  },
+  {
+    "guid": 5385,
+    "id": "milk"
+  },
+  {
+    "guid": 5386,
+    "id": "orchid"
+  },
+  {
+    "guid": 5380,
+    "id": "calamari"
+  },
+  {
+    "guid": 5387,
+    "id": "ice_cube"
+  },
+  {
+    "guid": 5393,
+    "id": "fire_extinguishers"
+  },
+  {
+    "guid": 5394,
+    "id": "police_equipment"
+  },
+  {
+    "guid": 5395,
+    "id": "fans"
+  },
+  {
+    "guid": 5397,
+    "id": "medicine"
+  },
+  {
+    "guid": 6280,
+    "id": "electric_cables"
+  },
+  {
+    "guid": 5381,
+    "id": "jalea"
+  },
+  {
+    "guid": 5382,
+    "id": "ice_cream"
+  },
+  {
+    "guid": 6600,
+    "id": "mezcal"
+  },
+  {
+    "guid": 5803,
+    "id": "soccer_balls"
+  },
+  {
+    "guid": 5389,
+    "id": "costumes"
+  },
+  {
+    "guid": 5388,
+    "id": "perfumes"
+  },
+  {
+    "guid": 5400,
+    "id": "pigments"
+  },
+  {
+    "guid": 5390,
+    "id": "motor"
+  },
+  {
+    "guid": 5391,
+    "id": "scooter"
+  },
+  {
+    "guid": 5392,
+    "id": "film_reel"
+  },
+  {
+    "guid": 5399,
+    "id": "ammonia"
+  },
+  {
+    "guid": 5398,
+    "id": "minerals"
+  },
+  {
+    "guid": 6360,
+    "id": "silver_ore"
+  },
+  {
+    "guid": 132747,
+    "id": "restaurant:_archduke's_schnitzel"
+  },
+  {
+    "guid": 132750,
+    "id": "restaurant:_stroggof_goulash"
+  },
+  {
+    "guid": 133339,
+    "id": "restaurant:_fish_and_frites"
+  },
+  {
+    "guid": 133340,
+    "id": "restaurant:_venison_en_croûte"
+  },
+  {
+    "guid": 133341,
+    "id": "restaurant:_lobster_cheminée"
+  },
+  {
+    "guid": 6136,
+    "id": "restaurant:_empanadas"
+  },
+  {
+    "guid": 132753,
+    "id": "cafe:_donut_fourré"
+  },
+  {
+    "guid": 133347,
+    "id": "cafe:_eclair"
+  },
+  {
+    "guid": 133348,
+    "id": "cafe:_palmier_biscuit"
+  },
+  {
+    "guid": 133349,
+    "id": "cafe:_venison_tartare"
+  },
+  {
+    "guid": 133350,
+    "id": "cafe:_banana_surprise"
+  },
+  {
+    "guid": 6138,
+    "id": "cafe:_cone_o'copia_"
+  },
+  {
+    "guid": 132752,
+    "id": "bar:_daiquiri_tropic"
+  },
+  {
+    "guid": 133342,
+    "id": "bar:_black_muscovy"
+  },
+  {
+    "guid": 133343,
+    "id": "bar:_montmartre_'75'"
+  },
+  {
+    "guid": 133345,
+    "id": "bar:_arctic_glogg"
+  },
+  {
+    "guid": 133346,
+    "id": "bar:_enbesa_sunrise"
+  },
+  {
+    "guid": 6137,
+    "id": "bar:_absynthe"
+  },
+  {
+    "guid": 135103,
+    "id": "department_store:_toasters"
+  },
+  {
+    "guid": 135188,
+    "id": "department_store:_vacuum_cleaners"
+  },
+  {
+    "guid": 135187,
+    "id": "department_store:_crockery"
+  },
+  {
+    "guid": 135189,
+    "id": "department_store:_refrigerators"
+  },
+  {
+    "guid": 135190,
+    "id": "department_store:_briefcases"
+  },
+  {
+    "guid": 135105,
+    "id": "furniture_store:_banker's_lamps"
+  },
+  {
+    "guid": 135121,
+    "id": "furniture_store:_vanity_screens"
+  },
+  {
+    "guid": 135120,
+    "id": "furniture_store:_writing_desks"
+  },
+  {
+    "guid": 135122,
+    "id": "furniture_store:_four-poster_beds"
+  },
+  {
+    "guid": 135123,
+    "id": "furniture_store:_lounge_seating"
+  },
+  {
+    "guid": 134631,
+    "id": "drug_store:_toothpaste"
+  },
+  {
+    "guid": 135191,
+    "id": "drug_store:_detergent"
+  },
+  {
+    "guid": 135192,
+    "id": "drug_store:_lipstick"
+  },
+  {
+    "guid": 135193,
+    "id": "drug_store:_face_cream"
+  },
+  {
+    "guid": 135194,
+    "id": "drug_store:_pomade"
+  },
+  {
+    "guid": 133928,
+    "id": "the_iron_tower:_brioche_royale_"
+  },
+  {
+    "guid": 133930,
+    "id": "the_iron_tower:_trifle_tower"
+  },
+  {
+    "guid": 133931,
+    "id": "the_iron_tower:_lady_marmelade"
+  },
+  {
+    "guid": 133932,
+    "id": "the_iron_tower:_age_of_exploration"
+  },
+  {
+    "guid": 133933,
+    "id": "the_iron_tower:_homard_sur_lit_de_terroir"
+  },
+  {
+    "guid": 6353,
+    "id": "police_headquarters"
+  },
+  {
+    "guid": 6354,
+    "id": "fire_department"
+  },
+  {
+    "guid": 6355,
+    "id": "city_hospital"
+  },
+  {
+    "guid": 5840,
+    "id": "samba_school"
+  },
+  {
+    "guid": 6018,
+    "id": "cinema"
+  },
+  {
+    "guid": 6258,
+    "id": "police_headquarters"
+  },
+  {
+    "guid": 6259,
+    "id": "fire_department"
+  },
+  {
+    "guid": 6260,
+    "id": "city_hospital"
+  },
+  {
+    "guid": 132780,
+    "id": "restaurant"
+  },
+  {
+    "guid": 132782,
+    "id": "cafe"
+  },
+  {
+    "guid": 132781,
+    "id": "bar"
+  },
+  {
+    "guid": 135100,
+    "id": "department_store"
+  },
+  {
+    "guid": 135099,
+    "id": "furniture_store"
+  },
+  {
+    "guid": 134629,
+    "id": "drug_store"
+  },
+  {
+    "guid": 132770,
+    "id": "the_iron_tower"
+  },
+  {
+    "guid": 5000000,
+    "id": "moderate"
+  },
+  {
+    "guid": 5000001,
+    "id": "colony01"
+  },
+  {
+    "guid": 160001,
+    "id": "arctic"
+  },
+  {
+    "guid": 114327,
+    "id": "africa"
+  },
+  {
+    "guid": 601445,
+    "id": "hotel"
+  },
+  {
+    "guid": 24792,
+    "id": "hacienda_jornalero_quarters"
+  },
+  {
+    "guid": 24793,
+    "id": "hacienda_obrera_quarters"
+  },
+  {
+    "guid": 1010343,
+    "id": "farmer_residence"
+  },
+  {
+    "guid": 1010344,
+    "id": "worker_residence"
+  },
+  {
+    "guid": 1010345,
+    "id": "artisan_residence"
+  },
+  {
+    "guid": 1010346,
+    "id": "engineer_residence"
+  },
+  {
+    "guid": 1010347,
+    "id": "investor_residence"
+  },
+  {
+    "guid": 101254,
+    "id": "jornalero_residence"
+  },
+  {
+    "guid": 101255,
+    "id": "obrero_residence"
+  },
+  {
+    "guid": 112091,
+    "id": "explorer_shelter"
+  },
+  {
+    "guid": 112652,
+    "id": "technician_shelter"
+  },
+  {
+    "guid": 406,
+    "id": "skyline_tower"
+  },
+  {
+    "guid": 114436,
+    "id": "shepherd_residence"
+  },
+  {
+    "guid": 114437,
+    "id": "elder_residence"
+  },
+  {
+    "guid": 114445,
+    "id": "scholar_residence"
+  },
+  {
+    "guid": 601888,
+    "id": "engineer_skyscraper:_level_1"
+  },
+  {
+    "guid": 601889,
+    "id": "engineer_skyscraper:_level_2"
+  },
+  {
+    "guid": 601890,
+    "id": "engineer_skyscraper:_level_3"
+  },
+  {
+    "guid": 601882,
+    "id": "investor_skyscraper:_level_1"
+  },
+  {
+    "guid": 601883,
+    "id": "investor_skyscraper:_level_2"
+  },
+  {
+    "guid": 601884,
+    "id": "investor_skyscraper:_level_3"
+  },
+  {
+    "guid": 601886,
+    "id": "investor_skyscraper:_level_4"
+  },
+  {
+    "guid": 601891,
+    "id": "investor_skyscraper:_level_5"
+  },
+  {
+    "guid": 5405,
+    "id": "artista_residence"
+  },
+  {
+    "guid": 6086,
+    "id": "hacienda_artista_quarters"
+  },
+  {
+    "guid": 7728,
+    "id": "dietary_education_initiative"
+  },
+  {
+    "guid": 191912,
+    "id": "rabies_vaccine"
+  },
+  {
+    "guid": 192022,
+    "id": "generous_cheese_board"
+  },
+  {
+    "guid": 192025,
+    "id": "bicycle_repair_kit"
+  },
+  {
+    "guid": 192027,
+    "id": "tinned_fish"
+  },
+  {
+    "guid": 190658,
+    "id": "chief_george_doughty,_smouldering_hero"
+  },
+  {
+    "guid": 190672,
+    "id": "generous_innkeeper"
+  },
+  {
+    "guid": 190673,
+    "id": "brasserie_patron_mertens"
+  },
+  {
+    "guid": 190674,
+    "id": "franck_von_lewenstein,_warmest_of_hosts"
+  },
+  {
+    "guid": 190677,
+    "id": "very_senior_lecturer"
+  },
+  {
+    "guid": 190717,
+    "id": "arch-archbishop_archibald"
+  },
+  {
+    "guid": 190719,
+    "id": "pope_lucius_i,_\"the_rejuvenator\""
+  },
+  {
+    "guid": 190193,
+    "id": "saint_d'artois,_vision_of_the_valley"
+  },
+  {
+    "guid": 190724,
+    "id": "louis_p._hecate,_arm-puncturing_pioneer"
+  },
+  {
+    "guid": 190728,
+    "id": "actor"
+  },
+  {
+    "guid": 191469,
+    "id": "gordon_the_master_grocer"
+  },
+  {
+    "guid": 191470,
+    "id": "aristelia_bataille,_of_the_\"novelty_store\""
+  },
+  {
+    "guid": 191573,
+    "id": "joseph_beaumont,_historic_society_founder"
+  },
+  {
+    "guid": 191579,
+    "id": "jakob_sokow,_the_charitable_banker"
+  },
+  {
+    "guid": 192441,
+    "id": "dennis_brammen_the_food_critic_"
+  },
+  {
+    "guid": 191738,
+    "id": "sunday_best_law"
+  },
+  {
+    "guid": 191739,
+    "id": "mandatory_mass_law"
+  },
+  {
+    "guid": 191740,
+    "id": "patriarch_grigor's_calendar_of_holy_days"
+  },
+  {
+    "guid": 191777,
+    "id": "teetotalers_manifesto"
+  },
+  {
+    "guid": 191778,
+    "id": "moderation_act"
+  },
+  {
+    "guid": 191779,
+    "id": "ms._amelia's_essential_prohibition_measures"
+  },
+  {
+    "guid": 191815,
+    "id": "the_withdrawal_amendment"
+  },
+  {
+    "guid": 191816,
+    "id": "contraception_regulation"
+  },
+  {
+    "guid": 191817,
+    "id": "papal_paper_of_prenatal_preservation"
+  },
+  {
+    "guid": 116161,
+    "id": "outdoorsy_grill"
+  },
+  {
+    "guid": 116166,
+    "id": "heated_jacket_of_pouchiness"
+  },
+  {
+    "guid": 116169,
+    "id": "nate's_darling_kettle"
+  },
+  {
+    "guid": 116182,
+    "id": "craft_beer_to_takeaway"
+  },
+  {
+    "guid": 116184,
+    "id": "the_\"don't_leave_it_'til_l8r!\"_espresson8r_"
+  },
+  {
+    "guid": 116188,
+    "id": "the_\"magnificone\"_ice_cream_maker"
+  },
+  {
+    "guid": 121004,
+    "id": "amadi_ilga,_ketema's_chief_civil_engineer_"
+  },
+  {
+    "guid": 137263,
+    "id": "dedication_to_anti-consumerist_causes"
+  },
+  {
+    "guid": 137264,
+    "id": "dedication_to_theodora's_egalitarian_futures"
+  },
+  {
+    "guid": 25634,
+    "id": "dietary_education_initiative"
+  },
+  {
+    "guid": 11656,
+    "id": "communal_garden"
+  },
+  {
+    "guid": 191133,
+    "id": "taiga_forest_park"
+  },
+  {
+    "guid": 111161,
+    "id": "intoxicator"
+  },
+  {
+    "guid": 111167,
+    "id": "mr._garrick,_founder_of_the_entrepreneur_gentlemen's_club"
+  },
+  {
+    "guid": 111176,
+    "id": "anti-clerical_lecturer"
+  },
+  {
+    "guid": 111178,
+    "id": "krapotkin,_evolutionist_of_kindness"
+  },
+  {
+    "guid": 111180,
+    "id": "pietro_jonah_proud,_the_philosopher_of_the_public_good"
+  },
+  {
+    "guid": 113800,
+    "id": "fernando_de_faro,_coffee-lover_and_all-round_cad"
+  },
+  {
+    "guid": 116133,
+    "id": "arnarunn_the_seamless"
+  },
+  {
+    "guid": 116151,
+    "id": "rugged_outdoor_cook"
+  },
+  {
+    "guid": 125114,
+    "id": "kaldi,_infuser_of_teas"
+  },
+  {
+    "guid": 125119,
+    "id": "shayi_shaah,_tea_house_empress_"
+  },
+  {
+    "guid": 125121,
+    "id": "banquet_chef"
+  },
+  {
+    "guid": 125125,
+    "id": "patriarch_matteos_x"
+  },
+  {
+    "guid": 125127,
+    "id": "industrious_embroidress"
+  },
+  {
+    "guid": 125130,
+    "id": "elder_selassy'e"
+  },
+  {
+    "guid": 125132,
+    "id": "aesop,_the_fabled_storyteller"
+  },
+  {
+    "guid": 125134,
+    "id": "mulatu_the_musical_maestro"
+  },
+  {
+    "guid": 129022,
+    "id": "amazing_fashion_designer"
+  },
+  {
+    "guid": 125140,
+    "id": "lineman"
+  },
+  {
+    "guid": 125143,
+    "id": "dean_the_dean_of_deansville_university"
+  },
+  {
+    "guid": 125146,
+    "id": "eshe_the_eager_enbesan_entrepreneur"
+  },
+  {
+    "guid": 125071,
+    "id": "telephone_repeater"
+  },
+  {
+    "guid": 124208,
+    "id": "enbesan_highlands_park"
+  },
+  {
+    "guid": 124914,
+    "id": "lost_tribes_exhibition"
+  },
+  {
+    "guid": 136668,
+    "id": "mr._bertram,_hotel_manager"
+  },
+  {
+    "guid": 136697,
+    "id": "madame_blanc,_maître_d'hôtel"
+  },
+  {
+    "guid": 601908,
+    "id": "weak_panorama"
+  },
+  {
+    "guid": 601909,
+    "id": "moderate_panorama"
+  },
+  {
+    "guid": 601910,
+    "id": "decent_panorama"
+  },
+  {
+    "guid": 601911,
+    "id": "strong_panorama"
+  },
+  {
+    "guid": 601912,
+    "id": "intense_panorama"
+  },
+  {
+    "guid": 601904,
+    "id": "weak_panorama"
+  },
+  {
+    "guid": 601903,
+    "id": "moderate_panorama"
+  },
+  {
+    "guid": 601905,
+    "id": "decent_panorama"
+  },
+  {
+    "guid": 601906,
+    "id": "strong_panorama"
+  },
+  {
+    "guid": 601902,
+    "id": "intense_panorama"
+  },
+  {
+    "guid": 6148,
+    "id": "empanadas"
+  },
+  {
+    "guid": 6154,
+    "id": "absinth"
+  },
+  {
+    "guid": 6157,
+    "id": "cone_o'copia"
+  },
+  {
+    "guid": 269407,
+    "id": "creative_cuisine_act"
+  },
+  {
+    "guid": 269453,
+    "id": "late_licence_act"
+  },
+  {
+    "guid": 137798,
+    "id": "blue_skies_maid_"
+  },
+  {
+    "guid": 137797,
+    "id": "blue_skies_delivery_service"
+  },
+  {
+    "guid": 133929,
+    "id": "brioche_royale"
+  },
+  {
+    "guid": 133934,
+    "id": "trifle_tower"
+  },
+  {
+    "guid": 133935,
+    "id": "lady_marmelade"
+  },
+  {
+    "guid": 133936,
+    "id": "age_of_exploration"
+  },
+  {
+    "guid": 133937,
+    "id": "homard_sur_lit_de_terroir"
+  },
+  {
+    "guid": 132745,
+    "id": "archduke's_schnitzel"
+  },
+  {
+    "guid": 132749,
+    "id": "stroggof_goulash"
+  },
+  {
+    "guid": 133352,
+    "id": "fish_and_frites"
+  },
+  {
+    "guid": 133353,
+    "id": "venison_en_croûte"
+  },
+  {
+    "guid": 133354,
+    "id": "lobster_cheminée"
+  },
+  {
+    "guid": 132758,
+    "id": "daiquiri_tropic"
+  },
+  {
+    "guid": 133361,
+    "id": "black_muscovy"
+  },
+  {
+    "guid": 133362,
+    "id": "montmartre_'75'"
+  },
+  {
+    "guid": 133363,
+    "id": "glogg"
+  },
+  {
+    "guid": 133364,
+    "id": "enbesa_sunrise"
+  },
+  {
+    "guid": 132759,
+    "id": "donut_fourré"
+  },
+  {
+    "guid": 133357,
+    "id": "eclair"
+  },
+  {
+    "guid": 133358,
+    "id": "palmier_biscuit"
+  },
+  {
+    "guid": 133359,
+    "id": "venison_tartare"
+  },
+  {
+    "guid": 133360,
+    "id": "banana_surprise"
+  },
+  {
+    "guid": 135111,
+    "id": "estimated_toaster_sales"
+  },
+  {
+    "guid": 135195,
+    "id": "estimated_crockery_sales"
+  },
+  {
+    "guid": 135196,
+    "id": "estimated_vacuum_cleaner_sales"
+  },
+  {
+    "guid": 135197,
+    "id": "estimated_refrigerator_sales"
+  },
+  {
+    "guid": 658,
+    "id": "estimated_briefcase_sales"
+  },
+  {
+    "guid": 135112,
+    "id": "estimated_banker's_lamp_sales"
+  },
+  {
+    "guid": 135151,
+    "id": "estimated_vanity_screen_sales"
+  },
+  {
+    "guid": 135152,
+    "id": "estimated_writing_desk_sales"
+  },
+  {
+    "guid": 135153,
+    "id": "estimated_four-poster_bed_sales"
+  },
+  {
+    "guid": 661,
+    "id": "estimated_lounge_seating_sales"
+  },
+  {
+    "guid": 135113,
+    "id": "estimated_toothpaste_sales"
+  },
+  {
+    "guid": 135199,
+    "id": "estimated_detergent_sales"
+  },
+  {
+    "guid": 135200,
+    "id": "estimated_lipstick_sales"
+  },
+  {
+    "guid": 135201,
+    "id": "estimated_face_cream_sales"
+  },
+  {
+    "guid": 664,
+    "id": "estimated_pomade_sales"
+  },
+  {
+    "guid": 180023
+  },
+  {
+    "guid": 180025
+  },
+  {
+    "guid": 110934
+  },
+  {
+    "guid": 180045
+  },
+  {
+    "guid": 112132
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 45,
+    "id": "sir_archibald_blake"
+  },
+  {
+    "guid": 73,
+    "id": "anne_harlow"
+  },
+  {
+    "guid": 76,
+    "id": "jean_la_fortune"
+  },
+  {
+    "guid": 29,
+    "id": "isabel_sarmento"
+  },
+  {
+    "guid": 77,
+    "id": "old_nate"
+  },
+  {
+    "guid": 46,
+    "id": "eli_bleakworth"
+  },
+  {
+    "guid": 78,
+    "id": "madame_kahina"
+  },
+  {
+    "guid": 237,
+    "id": "qumaq"
+  },
+  {
+    "guid": 119051,
+    "id": "emperor_ketema"
+  },
+  {
+    "guid": 1010052,
+    "id": "farmer_workforce"
+  },
+  {
+    "guid": 1010115,
+    "id": "worker_workforce"
+  },
+  {
+    "guid": 1010116,
+    "id": "artisan_workforce"
+  },
+  {
+    "guid": 1010117,
+    "id": "engineer_workforce"
+  },
+  {
+    "guid": 1010128,
+    "id": "investor_workforce"
+  },
+  {
+    "guid": 1010366,
+    "id": "jornalero_workforce"
+  },
+  {
+    "guid": 1010367,
+    "id": "obrero_workforce"
+  },
+  {
+    "guid": 112653,
+    "id": "explorer_workforce"
+  },
+  {
+    "guid": 112654,
+    "id": "technicians_workforce"
+  },
+  {
+    "guid": 132723,
+    "id": "tourist_customers"
+  },
+  {
+    "guid": 5406,
+    "id": "artista_workforce"
+  },
+  {
+    "guid": 114340,
+    "id": "shepherd_workforce"
+  },
+  {
+    "guid": 114341,
+    "id": "elder_workforce"
+  },
+  {
+    "guid": 124478,
+    "id": "scholar_workforce"
+  },
+  {
+    "guid": 270041,
+    "id": "tractor_barn_(gasoline_good)"
+  },
+  {
+    "guid": 25240,
+    "id": "fertiliser_silo"
+  },
+  {
+    "guid": 25241,
+    "id": "fertiliser_silo"
+  },
+  {
+    "guid": 25242,
+    "id": "fertiliser_silo"
+  },
+  {
+    "guid": 269837,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269839,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269957,
+    "id": "silo"
+  },
+  {
+    "guid": 269848,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269849,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 269958,
+    "id": "silo"
+  },
+  {
+    "guid": 119026,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 119027,
+    "id": "tractor_barn"
+  },
+  {
+    "guid": 119025,
+    "id": "silo"
+  },
+  {
+    "guid": 141060,
+    "id": "propaganda_consumption_weak"
+  },
+  {
+    "guid": 141061,
+    "id": "propaganda_consumption_medium"
+  },
+  {
+    "guid": 141062,
+    "id": "propaganda_consumption_strong"
+  },
+  {
+    "guid": 111251,
+    "id": "propaganda_anarchy_workforce_+_consumption"
+  },
+  {
+    "guid": 25638,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25639,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25640,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25641,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25642,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25643,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25644,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25645,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25646,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25651,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25652,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25653,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25654,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25655,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25656,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25657,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 25658,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 112919,
+    "id": "oily_sucker"
+  },
+  {
+    "guid": 112920,
+    "id": "oily_super-sucker"
+  },
+  {
+    "guid": 269191,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269254,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269255,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269256,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269257,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269564,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269565,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269566,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269366,
+    "id": "land_reform_act"
+  },
+  {
+    "guid": 269200,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269275,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269276,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269277,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269278,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269279,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269280,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269281,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269282,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 269399,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280087,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280088,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280089,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280090,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280091,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280092,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 280093,
+    "id": "skilled_labour_act"
+  },
+  {
+    "guid": 15000082,
+    "id": "population:_old_world"
+  },
+  {
+    "guid": 15000083,
+    "id": "population:_new_world"
+  },
+  {
+    "guid": 601380,
+    "id": "population:_tourists"
+  },
+  {
+    "guid": 112641,
+    "id": "population:_the_arctic"
+  },
+  {
+    "guid": 114328,
+    "id": "population:_enbesa"
+  },
+  {
+    "guid": 122785,
+    "id": "population:_scholars"
+  },
+  {
+    "guid": 15000000,
+    "id": "farmers"
+  },
+  {
+    "guid": 15000001,
+    "id": "workers"
+  },
+  {
+    "guid": 15000002,
+    "id": "artisans"
+  },
+  {
+    "guid": 15000003,
+    "id": "engineers"
+  },
+  {
+    "guid": 15000004,
+    "id": "investors"
+  },
+  {
+    "guid": 15000005,
+    "id": "jornaleros"
+  },
+  {
+    "guid": 15000006,
+    "id": "obreros"
+  },
+  {
+    "guid": 5403,
+    "id": "artista"
+  },
+  {
+    "guid": 601379,
+    "id": "tourists"
+  },
+  {
+    "guid": 112642,
+    "id": "explorers"
+  },
+  {
+    "guid": 112643,
+    "id": "technicians"
+  },
+  {
+    "guid": 114329,
+    "id": "shepherds"
+  },
+  {
+    "guid": 114330,
+    "id": "elders"
+  },
+  {
+    "guid": 118745,
+    "id": "scholars"
+  },
+  {
+    "guid": 114751,
+    "id": "heater"
+  },
+  {
+    "guid": 117547,
+    "id": "gas-fired_power_plant"
+  },
+  {
+    "guid": 100780,
+    "id": "oil_power_plant"
+  },
+  {
+    "guid": 5164,
+    "id": "power_station"
+  },
+  {
+    "guid": 502031,
+    "id": "consumer_goods"
+  },
+  {
+    "guid": 501957,
+    "id": "construction_material"
+  },
+  {
+    "guid": 502052,
+    "id": "raw_materials"
+  },
+  {
+    "guid": 502040,
+    "id": "agricultural_products"
+  },
+  {
+    "guid": 502046,
+    "id": "intermediate_products"
+  },
+  {
+    "guid": 1010017,
+    "id": "coins"
+  },
+  {
+    "guid": 1010190,
+    "id": "influence"
+  },
+  {
+    "guid": 25131,
+    "id": "atole"
+  },
+  {
+    "guid": 24807,
+    "id": "dung"
+  },
+  {
+    "guid": 24808,
+    "id": "fertiliser"
+  },
+  {
+    "guid": 25506,
+    "id": "hot_sauce"
+  },
+  {
+    "guid": 25546,
+    "id": "hacienda"
+  },
+  {
+    "guid": 103866,
+    "id": "bundle_of_letters"
+  },
+  {
+    "guid": 120021,
+    "id": "coal"
+  },
+  {
+    "guid": 1010566,
+    "id": "oil"
+  },
+  {
+    "guid": 120022,
+    "id": "electricity"
+  },
+  {
+    "guid": 119392,
+    "id": "research_points"
+  },
+  {
+    "guid": 1591,
+    "id": "mineral_resource"
+  },
+  {
+    "guid": 1955,
+    "id": "cultivation_area"
+  },
+  {
+    "guid": 836,
+    "id": "bauxite_"
+  },
+  {
+    "guid": 838,
+    "id": "aluminium_profiles"
+  },
+  {
+    "guid": 840,
+    "id": "helium"
+  },
+  {
+    "guid": 1414,
+    "id": "industrial_lubricant"
+  },
+  {
+    "guid": 846,
+    "id": "bombs"
+  },
+  {
+    "guid": 847,
+    "id": "sea_mines"
+  },
+  {
+    "guid": 848,
+    "id": "pamphlets"
+  },
+  {
+    "guid": 849,
+    "id": "care_packages"
+  },
+  {
+    "guid": 850,
+    "id": "water_drop"
+  },
+  {
+    "guid": 917,
+    "id": "water"
+  },
+  {
+    "guid": 535,
+    "id": "local_mail"
+  },
+  {
+    "guid": 536,
+    "id": "regional_mail"
+  },
+  {
+    "guid": 2524,
+    "id": "overseas_mail"
+  },
+  {
+    "guid": 4267,
+    "id": "new_world_reports"
+  },
+  {
+    "guid": 4268,
+    "id": "arctic_reports"
+  },
+  {
+    "guid": 120020,
+    "id": "market"
+  },
+  {
+    "guid": 1010349,
+    "id": "pub"
+  },
+  {
+    "guid": 1010350,
+    "id": "church"
+  },
+  {
+    "guid": 1010351,
+    "id": "school"
+  },
+  {
+    "guid": 1010352,
+    "id": "variety_theatre"
+  },
+  {
+    "guid": 1010353,
+    "id": "university"
+  },
+  {
+    "guid": 1010354,
+    "id": "electricity"
+  },
+  {
+    "guid": 1010355,
+    "id": "members_club"
+  },
+  {
+    "guid": 1010356,
+    "id": "bank"
+  },
+  {
+    "guid": 120050,
+    "id": "chapel"
+  },
+  {
+    "guid": 1010348,
+    "id": "boxing_arena"
+  },
+  {
+    "guid": 112708,
+    "id": "heat"
+  },
+  {
+    "guid": 112693,
+    "id": "post_office"
+  },
+  {
+    "guid": 114890,
+    "id": "canteen"
+  },
+  {
+    "guid": 269751,
+    "id": "fuel"
+  },
+  {
+    "guid": 270042,
+    "id": "fuel"
+  },
+  {
+    "guid": 133891,
+    "id": "tourist_mooring"
+  },
+  {
+    "guid": 132751,
+    "id": "restaurant"
+  },
+  {
+    "guid": 132754,
+    "id": "bar"
+  },
+  {
+    "guid": 132755,
+    "id": "café"
+  },
+  {
+    "guid": 133573,
+    "id": "variety_theatre"
+  },
+  {
+    "guid": 601485,
+    "id": "zoo"
+  },
+  {
+    "guid": 133535,
+    "id": "museum"
+  },
+  {
+    "guid": 355,
+    "id": "botanical_garden"
+  },
+  {
+    "guid": 134257,
+    "id": "palace"
+  },
+  {
+    "guid": 132761,
+    "id": "the_iron_tower"
+  },
+  {
+    "guid": 133536,
+    "id": "world's_fair"
+  },
+  {
+    "guid": 134781,
+    "id": "docklands"
+  },
+  {
+    "guid": 137757,
+    "id": "skyline_tower"
+  },
+  {
+    "guid": 135108,
+    "id": "department_store"
+  },
+  {
+    "guid": 135107,
+    "id": "furniture_store"
+  },
+  {
+    "guid": 135109,
+    "id": "drug_store"
+  },
+  {
+    "guid": 2038,
+    "id": "island_charter"
+  },
+  {
+    "guid": 5831,
+    "id": "samba_school"
+  },
+  {
+    "guid": 5830,
+    "id": "cinema"
+  },
+  {
+    "guid": 6261,
+    "id": "automated_riot_control"
+  },
+  {
+    "guid": 6262,
+    "id": "automated_fire_protection"
+  },
+  {
+    "guid": 6263,
+    "id": "automated_healthcare"
+  },
+  {
+    "guid": 6265,
+    "id": "beach"
+  },
+  {
+    "guid": 1010192,
+    "id": "grain"
+  },
+  {
+    "guid": 1010193,
+    "id": "beef"
+  },
+  {
+    "guid": 1010194,
+    "id": "hops"
+  },
+  {
+    "guid": 1010195,
+    "id": "potatoes"
+  },
+  {
+    "guid": 120008,
+    "id": "wood"
+  },
+  {
+    "guid": 1010197,
+    "id": "wool"
+  },
+  {
+    "guid": 1010199,
+    "id": "pigs"
+  },
+  {
+    "guid": 1010209,
+    "id": "furs"
+  },
+  {
+    "guid": 120014,
+    "id": "grapes"
+  },
+  {
+    "guid": 1010198,
+    "id": "red_peppers"
+  },
+  {
+    "guid": 1010200,
+    "id": "fish"
+  },
+  {
+    "guid": 1010232,
+    "id": "saltpeter"
+  },
+  {
+    "guid": 1010228,
+    "id": "quartz_sand"
+  },
+  {
+    "guid": 1010202,
+    "id": "reinforced_concrete"
+  },
+  {
+    "guid": 1010203,
+    "id": "soap"
+  },
+  {
+    "guid": 1010196,
+    "id": "timber"
+  },
+  {
+    "guid": 1010205,
+    "id": "bricks"
+  },
+  {
+    "guid": 1010247,
+    "id": "fur_coats"
+  },
+  {
+    "guid": 1010207,
+    "id": "windows"
+  },
+  {
+    "guid": 1010208,
+    "id": "light_bulbs"
+  },
+  {
+    "guid": 1010210,
+    "id": "sails"
+  },
+  {
+    "guid": 1010211,
+    "id": "chassis"
+  },
+  {
+    "guid": 1010201,
+    "id": "clay"
+  },
+  {
+    "guid": 1010206,
+    "id": "sewing_machines"
+  },
+  {
+    "guid": 1010213,
+    "id": "bread"
+  },
+  {
+    "guid": 1010214,
+    "id": "beer"
+  },
+  {
+    "guid": 1010215,
+    "id": "goulash"
+  },
+  {
+    "guid": 1010217,
+    "id": "canned_food"
+  },
+  {
+    "guid": 1010216,
+    "id": "schnapps"
+  },
+  {
+    "guid": 1010238,
+    "id": "sausages"
+  },
+  {
+    "guid": 120016,
+    "id": "champagne"
+  },
+  {
+    "guid": 1010218,
+    "id": "steel_beams"
+  },
+  {
+    "guid": 1010219,
+    "id": "steel"
+  },
+  {
+    "guid": 1010221,
+    "id": "weapons"
+  },
+  {
+    "guid": 1010222,
+    "id": "dynamite"
+  },
+  {
+    "guid": 1010223,
+    "id": "advanced_weapons"
+  },
+  {
+    "guid": 1010224,
+    "id": "steam_motors"
+  },
+  {
+    "guid": 1010225,
+    "id": "steam_carriages"
+  },
+  {
+    "guid": 1010204,
+    "id": "brass"
+  },
+  {
+    "guid": 1010226,
+    "id": "coal"
+  },
+  {
+    "guid": 1010227,
+    "id": "iron"
+  },
+  {
+    "guid": 1010229,
+    "id": "zinc"
+  },
+  {
+    "guid": 1010230,
+    "id": "copper"
+  },
+  {
+    "guid": 1010231,
+    "id": "cement"
+  },
+  {
+    "guid": 1010233,
+    "id": "gold_ore"
+  },
+  {
+    "guid": 1010234,
+    "id": "tallow"
+  },
+  {
+    "guid": 1010235,
+    "id": "flour"
+  },
+  {
+    "guid": 1010236,
+    "id": "malt"
+  },
+  {
+    "guid": 1010237,
+    "id": "work_clothes"
+  },
+  {
+    "guid": 1010241,
+    "id": "glass"
+  },
+  {
+    "guid": 1010242,
+    "id": "wood_veneers"
+  },
+  {
+    "guid": 1010243,
+    "id": "filaments"
+  },
+  {
+    "guid": 1010245,
+    "id": "penny_farthings"
+  },
+  {
+    "guid": 1010246,
+    "id": "pocket_watches"
+  },
+  {
+    "guid": 120030,
+    "id": "spectacles"
+  },
+  {
+    "guid": 1010248,
+    "id": "gramophones"
+  },
+  {
+    "guid": 1010249,
+    "id": "gold"
+  },
+  {
+    "guid": 1010250,
+    "id": "jewelry"
+  },
+  {
+    "guid": 1010251,
+    "id": "sugar_cane"
+  },
+  {
+    "guid": 1010252,
+    "id": "tobacco"
+  },
+  {
+    "guid": 1010253,
+    "id": "cotton"
+  },
+  {
+    "guid": 1010254,
+    "id": "cocoa"
+  },
+  {
+    "guid": 1010255,
+    "id": "caoutchouc"
+  },
+  {
+    "guid": 120031,
+    "id": "coffee_beans"
+  },
+  {
+    "guid": 120034,
+    "id": "corn"
+  },
+  {
+    "guid": 120036,
+    "id": "alpaca_wool"
+  },
+  {
+    "guid": 120041,
+    "id": "plantains"
+  },
+  {
+    "guid": 1010256,
+    "id": "pearls"
+  },
+  {
+    "guid": 120042,
+    "id": "fish_oil"
+  },
+  {
+    "guid": 120043,
+    "id": "ponchos"
+  },
+  {
+    "guid": 120044,
+    "id": "felt"
+  },
+  {
+    "guid": 120037,
+    "id": "bombins"
+  },
+  {
+    "guid": 1010257,
+    "id": "rum"
+  },
+  {
+    "guid": 1010258,
+    "id": "chocolate"
+  },
+  {
+    "guid": 120032,
+    "id": "coffee"
+  },
+  {
+    "guid": 120033,
+    "id": "fried_plantains"
+  },
+  {
+    "guid": 120035,
+    "id": "tortillas"
+  },
+  {
+    "guid": 1010239,
+    "id": "sugar"
+  },
+  {
+    "guid": 1010240,
+    "id": "cotton_fabric"
+  },
+  {
+    "guid": 1010259,
+    "id": "cigars"
+  },
+  {
+    "guid": 112694,
+    "id": "caribou_meat"
+  },
+  {
+    "guid": 112697,
+    "id": "goose_feathers"
+  },
+  {
+    "guid": 112695,
+    "id": "bear_fur"
+  },
+  {
+    "guid": 112698,
+    "id": "huskies"
+  },
+  {
+    "guid": 112699,
+    "id": "whale_oil"
+  },
+  {
+    "guid": 112696,
+    "id": "seal_skin"
+  },
+  {
+    "guid": 112705,
+    "id": "pemmican"
+  },
+  {
+    "guid": 112702,
+    "id": "oil_lamps"
+  },
+  {
+    "guid": 112701,
+    "id": "sleeping_bags"
+  },
+  {
+    "guid": 112700,
+    "id": "parkas"
+  },
+  {
+    "guid": 112704,
+    "id": "sleds"
+  },
+  {
+    "guid": 112703,
+    "id": "husky_sleds"
+  },
+  {
+    "guid": 112706,
+    "id": "arctic_gas"
+  },
+  {
+    "guid": 115980,
+    "id": "lost_expedition_scrap"
+  },
+  {
+    "guid": 114355,
+    "id": "marketplace"
+  },
+  {
+    "guid": 114361,
+    "id": "musicians'_court"
+  },
+  {
+    "guid": 114362,
+    "id": "monastery"
+  },
+  {
+    "guid": 114425,
+    "id": "radio_tower"
+  },
+  {
+    "guid": 24821,
+    "id": "coke"
+  },
+  {
+    "guid": 24824,
+    "id": "chewing_gum"
+  },
+  {
+    "guid": 24837,
+    "id": "fuel"
+  },
+  {
+    "guid": 24846,
+    "id": "silver_amalgam"
+  },
+  {
+    "guid": 24850,
+    "id": "silver_bars"
+  },
+  {
+    "guid": 24851,
+    "id": "silver_coins"
+  },
+  {
+    "guid": 24852,
+    "id": "cyanide"
+  },
+  {
+    "guid": 24863,
+    "id": "industrial_lubricant_"
+  },
+  {
+    "guid": 25073,
+    "id": "waste_water"
+  },
+  {
+    "guid": 114356,
+    "id": "wanza_timber"
+  },
+  {
+    "guid": 114364,
+    "id": "hibiscus_petals"
+  },
+  {
+    "guid": 114365,
+    "id": "linseed"
+  },
+  {
+    "guid": 114367,
+    "id": "teff"
+  },
+  {
+    "guid": 114368,
+    "id": "indigo_dye"
+  },
+  {
+    "guid": 114369,
+    "id": "spices"
+  },
+  {
+    "guid": 114370,
+    "id": "beeswax"
+  },
+  {
+    "guid": 114357,
+    "id": "sanga_cow"
+  },
+  {
+    "guid": 114371,
+    "id": "goat_milk"
+  },
+  {
+    "guid": 114358,
+    "id": "salt"
+  },
+  {
+    "guid": 117702,
+    "id": "paper"
+  },
+  {
+    "guid": 118728,
+    "id": "lobster"
+  },
+  {
+    "guid": 114391,
+    "id": "linen"
+  },
+  {
+    "guid": 114408,
+    "id": "spiced_flour"
+  },
+  {
+    "guid": 117701,
+    "id": "ornate_candles"
+  },
+  {
+    "guid": 114429,
+    "id": "ammunition"
+  },
+  {
+    "guid": 114433,
+    "id": "essential_oil"
+  },
+  {
+    "guid": 114427,
+    "id": "decorative_cloth"
+  },
+  {
+    "guid": 114359,
+    "id": "dried_meat"
+  },
+  {
+    "guid": 114401,
+    "id": "finery"
+  },
+  {
+    "guid": 114390,
+    "id": "hibiscus_tea"
+  },
+  {
+    "guid": 114402,
+    "id": "mud_bricks"
+  },
+  {
+    "guid": 118724,
+    "id": "ceramics"
+  },
+  {
+    "guid": 114404,
+    "id": "tapestries"
+  },
+  {
+    "guid": 114410,
+    "id": "seafood_stew"
+  },
+  {
+    "guid": 114414,
+    "id": "clay_pipe"
+  },
+  {
+    "guid": 117698,
+    "id": "illuminated_script"
+  },
+  {
+    "guid": 117699,
+    "id": "lanterns"
+  },
+  {
+    "guid": 114428,
+    "id": "leather_boots"
+  },
+  {
+    "guid": 114430,
+    "id": "tailored_suits"
+  },
+  {
+    "guid": 114431,
+    "id": "telephones"
+  },
+  {
+    "guid": 133183,
+    "id": "jam"
+  },
+  {
+    "guid": 133181,
+    "id": "shampoo"
+  },
+  {
+    "guid": 133185,
+    "id": "lemonade"
+  },
+  {
+    "guid": 133532,
+    "id": "souvenirs"
+  },
+  {
+    "guid": 133093,
+    "id": "cinnamon"
+  },
+  {
+    "guid": 133095,
+    "id": "coconut_oil"
+  },
+  {
+    "guid": 133097,
+    "id": "citrus"
+  },
+  {
+    "guid": 134616,
+    "id": "camphor_wax"
+  },
+  {
+    "guid": 134623,
+    "id": "elevators"
+  },
+  {
+    "guid": 135229,
+    "id": "biscuits"
+  },
+  {
+    "guid": 135230,
+    "id": "typewriters"
+  },
+  {
+    "guid": 135086,
+    "id": "resin"
+  },
+  {
+    "guid": 135087,
+    "id": "cherry_wood"
+  },
+  {
+    "guid": 135129,
+    "id": "lacquer"
+  },
+  {
+    "guid": 135234,
+    "id": "cognac"
+  },
+  {
+    "guid": 135233,
+    "id": "violins"
+  },
+  {
+    "guid": 135232,
+    "id": "billiard_tables"
+  },
+  {
+    "guid": 135231,
+    "id": "toys"
+  },
+  {
+    "guid": 135186,
+    "id": "chewing_gum"
+  },
+  {
+    "guid": 135130,
+    "id": "ethanol"
+  },
+  {
+    "guid": 135150,
+    "id": "celluloid"
+  },
+  {
+    "guid": 135816,
+    "id": "toaster_supply"
+  },
+  {
+    "guid": 135876,
+    "id": "crockery_supply"
+  },
+  {
+    "guid": 135877,
+    "id": "vaccum_cleaner_supply"
+  },
+  {
+    "guid": 135878,
+    "id": "refrigerator_supply"
+  },
+  {
+    "guid": 135879,
+    "id": "briefcase_supply"
+  },
+  {
+    "guid": 135880,
+    "id": "banker's_lamp_supply"
+  },
+  {
+    "guid": 135881,
+    "id": "vanity_screen_supply"
+  },
+  {
+    "guid": 135882,
+    "id": "writing_desk_supply"
+  },
+  {
+    "guid": 135883,
+    "id": "four-poster_bed_supply"
+  },
+  {
+    "guid": 135884,
+    "id": "lounge_seating_supply"
+  },
+  {
+    "guid": 135885,
+    "id": "toothpaste_supply"
+  },
+  {
+    "guid": 135886,
+    "id": "detergent_supply"
+  },
+  {
+    "guid": 135887,
+    "id": "lipstick_supply"
+  },
+  {
+    "guid": 135888,
+    "id": "face_cream_supply"
+  },
+  {
+    "guid": 135889,
+    "id": "pomade_supply"
+  },
+  {
+    "guid": 5383,
+    "id": "herbs"
+  },
+  {
+    "guid": 5384,
+    "id": "nandu_leather"
+  },
+  {
+    "guid": 5401,
+    "id": "nandu_feathers"
+  },
+  {
+    "guid": 5385,
+    "id": "milk"
+  },
+  {
+    "guid": 5386,
+    "id": "orchid"
+  },
+  {
+    "guid": 5380,
+    "id": "calamari"
+  },
+  {
+    "guid": 5387,
+    "id": "ice_cube"
+  },
+  {
+    "guid": 5393,
+    "id": "fire_extinguishers"
+  },
+  {
+    "guid": 5394,
+    "id": "police_equipment"
+  },
+  {
+    "guid": 5395,
+    "id": "fans"
+  },
+  {
+    "guid": 5397,
+    "id": "medicine"
+  },
+  {
+    "guid": 6280,
+    "id": "electric_cables"
+  },
+  {
+    "guid": 5381,
+    "id": "jalea"
+  },
+  {
+    "guid": 5382,
+    "id": "ice_cream"
+  },
+  {
+    "guid": 6600,
+    "id": "mezcal"
+  },
+  {
+    "guid": 5803,
+    "id": "soccer_balls"
+  },
+  {
+    "guid": 5389,
+    "id": "costumes"
+  },
+  {
+    "guid": 5388,
+    "id": "perfumes"
+  },
+  {
+    "guid": 5400,
+    "id": "pigments"
+  },
+  {
+    "guid": 5390,
+    "id": "motor"
+  },
+  {
+    "guid": 5391,
+    "id": "scooter"
+  },
+  {
+    "guid": 5392,
+    "id": "film_reel"
+  },
+  {
+    "guid": 5399,
+    "id": "ammonia"
+  },
+  {
+    "guid": 5398,
+    "id": "minerals"
+  },
+  {
+    "guid": 6360,
+    "id": "silver_ore"
+  },
+  {
+    "guid": 132747,
+    "id": "restaurant:_archduke's_schnitzel"
+  },
+  {
+    "guid": 132750,
+    "id": "restaurant:_stroggof_goulash"
+  },
+  {
+    "guid": 133339,
+    "id": "restaurant:_fish_and_frites"
+  },
+  {
+    "guid": 133340,
+    "id": "restaurant:_venison_en_croûte"
+  },
+  {
+    "guid": 133341,
+    "id": "restaurant:_lobster_cheminée"
+  },
+  {
+    "guid": 6136,
+    "id": "restaurant:_empanadas"
+  },
+  {
+    "guid": 132753,
+    "id": "cafe:_donut_fourré"
+  },
+  {
+    "guid": 133347,
+    "id": "cafe:_eclair"
+  },
+  {
+    "guid": 133348,
+    "id": "cafe:_palmier_biscuit"
+  },
+  {
+    "guid": 133349,
+    "id": "cafe:_venison_tartare"
+  },
+  {
+    "guid": 133350,
+    "id": "cafe:_banana_surprise"
+  },
+  {
+    "guid": 6138,
+    "id": "cafe:_cone_o'copia_"
+  },
+  {
+    "guid": 132752,
+    "id": "bar:_daiquiri_tropic"
+  },
+  {
+    "guid": 133342,
+    "id": "bar:_black_muscovy"
+  },
+  {
+    "guid": 133343,
+    "id": "bar:_montmartre_'75'"
+  },
+  {
+    "guid": 133345,
+    "id": "bar:_arctic_glogg"
+  },
+  {
+    "guid": 133346,
+    "id": "bar:_enbesa_sunrise"
+  },
+  {
+    "guid": 6137,
+    "id": "bar:_absynthe"
+  },
+  {
+    "guid": 135103,
+    "id": "department_store:_toasters"
+  },
+  {
+    "guid": 135188,
+    "id": "department_store:_vacuum_cleaners"
+  },
+  {
+    "guid": 135187,
+    "id": "department_store:_crockery"
+  },
+  {
+    "guid": 135189,
+    "id": "department_store:_refrigerators"
+  },
+  {
+    "guid": 135190,
+    "id": "department_store:_briefcases"
+  },
+  {
+    "guid": 135105,
+    "id": "furniture_store:_banker's_lamps"
+  },
+  {
+    "guid": 135121,
+    "id": "furniture_store:_vanity_screens"
+  },
+  {
+    "guid": 135120,
+    "id": "furniture_store:_writing_desks"
+  },
+  {
+    "guid": 135122,
+    "id": "furniture_store:_four-poster_beds"
+  },
+  {
+    "guid": 135123,
+    "id": "furniture_store:_lounge_seating"
+  },
+  {
+    "guid": 134631,
+    "id": "drug_store:_toothpaste"
+  },
+  {
+    "guid": 135191,
+    "id": "drug_store:_detergent"
+  },
+  {
+    "guid": 135192,
+    "id": "drug_store:_lipstick"
+  },
+  {
+    "guid": 135193,
+    "id": "drug_store:_face_cream"
+  },
+  {
+    "guid": 135194,
+    "id": "drug_store:_pomade"
+  },
+  {
+    "guid": 133928,
+    "id": "the_iron_tower:_brioche_royale_"
+  },
+  {
+    "guid": 133930,
+    "id": "the_iron_tower:_trifle_tower"
+  },
+  {
+    "guid": 133931,
+    "id": "the_iron_tower:_lady_marmelade"
+  },
+  {
+    "guid": 133932,
+    "id": "the_iron_tower:_age_of_exploration"
+  },
+  {
+    "guid": 133933,
+    "id": "the_iron_tower:_homard_sur_lit_de_terroir"
+  },
+  {
+    "guid": 6353,
+    "id": "police_headquarters"
+  },
+  {
+    "guid": 6354,
+    "id": "fire_department"
+  },
+  {
+    "guid": 6355,
+    "id": "city_hospital"
+  },
+  {
+    "guid": 5840,
+    "id": "samba_school"
+  },
+  {
+    "guid": 6018,
+    "id": "cinema"
+  },
+  {
+    "guid": 6258,
+    "id": "police_headquarters"
+  },
+  {
+    "guid": 6259,
+    "id": "fire_department"
+  },
+  {
+    "guid": 6260,
+    "id": "city_hospital"
+  },
+  {
+    "guid": 132780,
+    "id": "restaurant"
+  },
+  {
+    "guid": 132782,
+    "id": "cafe"
+  },
+  {
+    "guid": 132781,
+    "id": "bar"
+  },
+  {
+    "guid": 135100,
+    "id": "department_store"
+  },
+  {
+    "guid": 135099,
+    "id": "furniture_store"
+  },
+  {
+    "guid": 134629,
+    "id": "drug_store"
+  },
+  {
+    "guid": 132770,
+    "id": "the_iron_tower"
+  },
+  {
+    "guid": 5000000,
+    "id": "moderate"
+  },
+  {
+    "guid": 5000001,
+    "id": "colony01"
+  },
+  {
+    "guid": 160001,
+    "id": "arctic"
+  },
+  {
+    "guid": 114327,
+    "id": "africa"
+  },
+  {
+    "guid": 601445,
+    "id": "hotel"
+  },
+  {
+    "guid": 24792,
+    "id": "hacienda_jornalero_quarters"
+  },
+  {
+    "guid": 24793,
+    "id": "hacienda_obrera_quarters"
+  },
+  {
+    "guid": 1010343,
+    "id": "farmer_residence"
+  },
+  {
+    "guid": 1010344,
+    "id": "worker_residence"
+  },
+  {
+    "guid": 1010345,
+    "id": "artisan_residence"
+  },
+  {
+    "guid": 1010346,
+    "id": "engineer_residence"
+  },
+  {
+    "guid": 1010347,
+    "id": "investor_residence"
+  },
+  {
+    "guid": 101254,
+    "id": "jornalero_residence"
+  },
+  {
+    "guid": 101255,
+    "id": "obrero_residence"
+  },
+  {
+    "guid": 112091,
+    "id": "explorer_shelter"
+  },
+  {
+    "guid": 112652,
+    "id": "technician_shelter"
+  },
+  {
+    "guid": 406,
+    "id": "skyline_tower"
+  },
+  {
+    "guid": 114436,
+    "id": "shepherd_residence"
+  },
+  {
+    "guid": 114437,
+    "id": "elder_residence"
+  },
+  {
+    "guid": 114445,
+    "id": "scholar_residence"
+  },
+  {
+    "guid": 601888,
+    "id": "engineer_skyscraper:_level_1"
+  },
+  {
+    "guid": 601889,
+    "id": "engineer_skyscraper:_level_2"
+  },
+  {
+    "guid": 601890,
+    "id": "engineer_skyscraper:_level_3"
+  },
+  {
+    "guid": 601882,
+    "id": "investor_skyscraper:_level_1"
+  },
+  {
+    "guid": 601883,
+    "id": "investor_skyscraper:_level_2"
+  },
+  {
+    "guid": 601884,
+    "id": "investor_skyscraper:_level_3"
+  },
+  {
+    "guid": 601886,
+    "id": "investor_skyscraper:_level_4"
+  },
+  {
+    "guid": 601891,
+    "id": "investor_skyscraper:_level_5"
+  },
+  {
+    "guid": 5405,
+    "id": "artista_residence"
+  },
+  {
+    "guid": 6086,
+    "id": "hacienda_artista_quarters"
+  },
+  {
+    "guid": 7728,
+    "id": "dietary_education_initiative"
+  },
+  {
+    "guid": 191912,
+    "id": "rabies_vaccine"
+  },
+  {
+    "guid": 192022,
+    "id": "generous_cheese_board"
+  },
+  {
+    "guid": 192025,
+    "id": "bicycle_repair_kit"
+  },
+  {
+    "guid": 192027,
+    "id": "tinned_fish"
+  },
+  {
+    "guid": 190658,
+    "id": "chief_george_doughty,_smouldering_hero"
+  },
+  {
+    "guid": 190672,
+    "id": "generous_innkeeper"
+  },
+  {
+    "guid": 190673,
+    "id": "brasserie_patron_mertens"
+  },
+  {
+    "guid": 190674,
+    "id": "franck_von_lewenstein,_warmest_of_hosts"
+  },
+  {
+    "guid": 190677,
+    "id": "very_senior_lecturer"
+  },
+  {
+    "guid": 190717,
+    "id": "arch-archbishop_archibald"
+  },
+  {
+    "guid": 190719,
+    "id": "pope_lucius_i,_\"the_rejuvenator\""
+  },
+  {
+    "guid": 190193,
+    "id": "saint_d'artois,_vision_of_the_valley"
+  },
+  {
+    "guid": 190724,
+    "id": "louis_p._hecate,_arm-puncturing_pioneer"
+  },
+  {
+    "guid": 190728,
+    "id": "actor"
+  },
+  {
+    "guid": 191469,
+    "id": "gordon_the_master_grocer"
+  },
+  {
+    "guid": 191470,
+    "id": "aristelia_bataille,_of_the_\"novelty_store\""
+  },
+  {
+    "guid": 191573,
+    "id": "joseph_beaumont,_historic_society_founder"
+  },
+  {
+    "guid": 191579,
+    "id": "jakob_sokow,_the_charitable_banker"
+  },
+  {
+    "guid": 192441,
+    "id": "dennis_brammen_the_food_critic_"
+  },
+  {
+    "guid": 191738,
+    "id": "sunday_best_law"
+  },
+  {
+    "guid": 191739,
+    "id": "mandatory_mass_law"
+  },
+  {
+    "guid": 191740,
+    "id": "patriarch_grigor's_calendar_of_holy_days"
+  },
+  {
+    "guid": 191777,
+    "id": "teetotalers_manifesto"
+  },
+  {
+    "guid": 191778,
+    "id": "moderation_act"
+  },
+  {
+    "guid": 191779,
+    "id": "ms._amelia's_essential_prohibition_measures"
+  },
+  {
+    "guid": 191815,
+    "id": "the_withdrawal_amendment"
+  },
+  {
+    "guid": 191816,
+    "id": "contraception_regulation"
+  },
+  {
+    "guid": 191817,
+    "id": "papal_paper_of_prenatal_preservation"
+  },
+  {
+    "guid": 116161,
+    "id": "outdoorsy_grill"
+  },
+  {
+    "guid": 116166,
+    "id": "heated_jacket_of_pouchiness"
+  },
+  {
+    "guid": 116169,
+    "id": "nate's_darling_kettle"
+  },
+  {
+    "guid": 116182,
+    "id": "craft_beer_to_takeaway"
+  },
+  {
+    "guid": 116184,
+    "id": "the_\"don't_leave_it_'til_l8r!\"_espresson8r_"
+  },
+  {
+    "guid": 116188,
+    "id": "the_\"magnificone\"_ice_cream_maker"
+  },
+  {
+    "guid": 121004,
+    "id": "amadi_ilga,_ketema's_chief_civil_engineer_"
+  },
+  {
+    "guid": 137263,
+    "id": "dedication_to_anti-consumerist_causes"
+  },
+  {
+    "guid": 137264,
+    "id": "dedication_to_theodora's_egalitarian_futures"
+  },
+  {
+    "guid": 25634,
+    "id": "dietary_education_initiative"
+  },
+  {
+    "guid": 11656,
+    "id": "communal_garden"
+  },
+  {
+    "guid": 191133,
+    "id": "taiga_forest_park"
+  },
+  {
+    "guid": 111161,
+    "id": "intoxicator"
+  },
+  {
+    "guid": 111167,
+    "id": "mr._garrick,_founder_of_the_entrepreneur_gentlemen's_club"
+  },
+  {
+    "guid": 111176,
+    "id": "anti-clerical_lecturer"
+  },
+  {
+    "guid": 111178,
+    "id": "krapotkin,_evolutionist_of_kindness"
+  },
+  {
+    "guid": 111180,
+    "id": "pietro_jonah_proud,_the_philosopher_of_the_public_good"
+  },
+  {
+    "guid": 113800,
+    "id": "fernando_de_faro,_coffee-lover_and_all-round_cad"
+  },
+  {
+    "guid": 116133,
+    "id": "arnarunn_the_seamless"
+  },
+  {
+    "guid": 116151,
+    "id": "rugged_outdoor_cook"
+  },
+  {
+    "guid": 125114,
+    "id": "kaldi,_infuser_of_teas"
+  },
+  {
+    "guid": 125119,
+    "id": "shayi_shaah,_tea_house_empress_"
+  },
+  {
+    "guid": 125121,
+    "id": "banquet_chef"
+  },
+  {
+    "guid": 125125,
+    "id": "patriarch_matteos_x"
+  },
+  {
+    "guid": 125127,
+    "id": "industrious_embroidress"
+  },
+  {
+    "guid": 125130,
+    "id": "elder_selassy'e"
+  },
+  {
+    "guid": 125132,
+    "id": "aesop,_the_fabled_storyteller"
+  },
+  {
+    "guid": 125134,
+    "id": "mulatu_the_musical_maestro"
+  },
+  {
+    "guid": 129022,
+    "id": "amazing_fashion_designer"
+  },
+  {
+    "guid": 125140,
+    "id": "lineman"
+  },
+  {
+    "guid": 125143,
+    "id": "dean_the_dean_of_deansville_university"
+  },
+  {
+    "guid": 125146,
+    "id": "eshe_the_eager_enbesan_entrepreneur"
+  },
+  {
+    "guid": 125071,
+    "id": "telephone_repeater"
+  },
+  {
+    "guid": 124208,
+    "id": "enbesan_highlands_park"
+  },
+  {
+    "guid": 124914,
+    "id": "lost_tribes_exhibition"
+  },
+  {
+    "guid": 136668,
+    "id": "mr._bertram,_hotel_manager"
+  },
+  {
+    "guid": 136697,
+    "id": "madame_blanc,_maître_d'hôtel"
+  },
+  {
+    "guid": 601908,
+    "id": "weak_panorama"
+  },
+  {
+    "guid": 601909,
+    "id": "moderate_panorama"
+  },
+  {
+    "guid": 601910,
+    "id": "decent_panorama"
+  },
+  {
+    "guid": 601911,
+    "id": "strong_panorama"
+  },
+  {
+    "guid": 601912,
+    "id": "intense_panorama"
+  },
+  {
+    "guid": 601904,
+    "id": "weak_panorama"
+  },
+  {
+    "guid": 601903,
+    "id": "moderate_panorama"
+  },
+  {
+    "guid": 601905,
+    "id": "decent_panorama"
+  },
+  {
+    "guid": 601906,
+    "id": "strong_panorama"
+  },
+  {
+    "guid": 601902,
+    "id": "intense_panorama"
+  },
+  {
+    "guid": 6148,
+    "id": "empanadas"
+  },
+  {
+    "guid": 6154,
+    "id": "absinth"
+  },
+  {
+    "guid": 6157,
+    "id": "cone_o'copia"
+  },
+  {
+    "guid": 269407,
+    "id": "creative_cuisine_act"
+  },
+  {
+    "guid": 269453,
+    "id": "late_licence_act"
+  },
+  {
+    "guid": 137798,
+    "id": "blue_skies_maid_"
+  },
+  {
+    "guid": 137797,
+    "id": "blue_skies_delivery_service"
+  },
+  {
+    "guid": 133929,
+    "id": "brioche_royale"
+  },
+  {
+    "guid": 133934,
+    "id": "trifle_tower"
+  },
+  {
+    "guid": 133935,
+    "id": "lady_marmelade"
+  },
+  {
+    "guid": 133936,
+    "id": "age_of_exploration"
+  },
+  {
+    "guid": 133937,
+    "id": "homard_sur_lit_de_terroir"
+  },
+  {
+    "guid": 132745,
+    "id": "archduke's_schnitzel"
+  },
+  {
+    "guid": 132749,
+    "id": "stroggof_goulash"
+  },
+  {
+    "guid": 133352,
+    "id": "fish_and_frites"
+  },
+  {
+    "guid": 133353,
+    "id": "venison_en_croûte"
+  },
+  {
+    "guid": 133354,
+    "id": "lobster_cheminée"
+  },
+  {
+    "guid": 132758,
+    "id": "daiquiri_tropic"
+  },
+  {
+    "guid": 133361,
+    "id": "black_muscovy"
+  },
+  {
+    "guid": 133362,
+    "id": "montmartre_'75'"
+  },
+  {
+    "guid": 133363,
+    "id": "glogg"
+  },
+  {
+    "guid": 133364,
+    "id": "enbesa_sunrise"
+  },
+  {
+    "guid": 132759,
+    "id": "donut_fourré"
+  },
+  {
+    "guid": 133357,
+    "id": "eclair"
+  },
+  {
+    "guid": 133358,
+    "id": "palmier_biscuit"
+  },
+  {
+    "guid": 133359,
+    "id": "venison_tartare"
+  },
+  {
+    "guid": 133360,
+    "id": "banana_surprise"
+  },
+  {
+    "guid": 135111,
+    "id": "estimated_toaster_sales"
+  },
+  {
+    "guid": 135195,
+    "id": "estimated_crockery_sales"
+  },
+  {
+    "guid": 135196,
+    "id": "estimated_vacuum_cleaner_sales"
+  },
+  {
+    "guid": 135197,
+    "id": "estimated_refrigerator_sales"
+  },
+  {
+    "guid": 658,
+    "id": "estimated_briefcase_sales"
+  },
+  {
+    "guid": 135112,
+    "id": "estimated_banker's_lamp_sales"
+  },
+  {
+    "guid": 135151,
+    "id": "estimated_vanity_screen_sales"
+  },
+  {
+    "guid": 135152,
+    "id": "estimated_writing_desk_sales"
+  },
+  {
+    "guid": 135153,
+    "id": "estimated_four-poster_bed_sales"
+  },
+  {
+    "guid": 661,
+    "id": "estimated_lounge_seating_sales"
+  },
+  {
+    "guid": 135113,
+    "id": "estimated_toothpaste_sales"
+  },
+  {
+    "guid": 135199,
+    "id": "estimated_detergent_sales"
+  },
+  {
+    "guid": 135200,
+    "id": "estimated_lipstick_sales"
+  },
+  {
+    "guid": 135201,
+    "id": "estimated_face_cream_sales"
+  },
+  {
+    "guid": 664,
+    "id": "estimated_pomade_sales"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 191141,
+    "id": "bronze_age_exhibition"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 124209,
+    "id": "proud_savannah_park"
+  },
+  {
+    "guid": 45,
+    "id": "sir_archibald_blake"
+  },
+  {
+    "guid": 73,
+    "id": "anne_harlow"
+  },
+  {
+    "guid": 76,
+    "id": "jean_la_fortune"
+  },
+  {
+    "guid": 29,
+    "id": "isabel_sarmento"
+  },
+  {
+    "guid": 77,
+    "id": "old_nate"
+  },
+  {
+    "guid": 46,
+    "id": "eli_bleakworth"
+  },
+  {
+    "guid": 78,
+    "id": "madame_kahina"
+  },
+  {
+    "guid": 237,
+    "id": "qumaq"
+  },
+  {
+    "guid": 119051,
+    "id": "emperor_ketema"
+  },
+  {
+    "guid": 1010052,
+    "id": "farmer_workforce"
+  },
+  {
+    "guid": 1010115,
+    "id": "worker_workforce"
+  },
+  {
+    "guid": 1010116,
+    "id": "artisan_workforce"
+  },
+  {
+    "guid": 1010117,
+    "id": "engineer_workforce"
+  },
+  {
+    "guid": 1010128,
+    "id": "investor_workforce"
+  },
+  {
+    "guid": 1010366,
+    "id": "jornalero_workforce"
+  },
+  {
+    "guid": 1010367,
+    "id": "obrero_workforce"
+  },
+  {
+    "guid": 112653,
+    "id": "explorer_workforce"
+  },
+  {
+    "guid": 112654,
+    "id": "technicians_workforce"
+  },
+  {
+    "guid": 132723,
+    "id": "tourist_customers"
+  },
+  {
+    "guid": 5406,
+    "id": "artista_workforce"
+  },
+  {
+    "guid": 114340,
+    "id": "shepherd_workforce"
+  },
+  {
+    "guid": 114341,
+    "id": "elder_workforce"
+  },
+  {
+    "guid": 124478,
+    "id": "scholar_workforce"
+  }
+]

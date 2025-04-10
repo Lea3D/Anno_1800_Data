@@ -1,0 +1,93 @@
+[
+  {
+    "guid": 1010052,
+    "friendly_name": "Farmer Workforce",
+    "id": "farmer_workforce"
+  },
+  {
+    "guid": 1010115,
+    "friendly_name": "Worker Workforce",
+    "id": "worker_workforce"
+  },
+  {
+    "guid": 1010116,
+    "friendly_name": "Artisan Workforce",
+    "id": "artisan_workforce"
+  },
+  {
+    "guid": 1010117,
+    "friendly_name": "Engineer Workforce",
+    "id": "engineer_workforce"
+  },
+  {
+    "guid": 1010128,
+    "friendly_name": "Investor Workforce",
+    "id": "investor_workforce"
+  },
+  {
+    "guid": 1010366,
+    "friendly_name": "Jornalero Workforce",
+    "id": "jornalero_workforce"
+  },
+  {
+    "guid": 1010367,
+    "friendly_name": "Obrero Workforce",
+    "id": "obrero_workforce"
+  },
+  {
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112653,
+    "friendly_name": "Explorer Workforce",
+    "id": "explorer_workforce"
+  },
+  {
+    "dlcs": [
+      "dlc3"
+    ],
+    "guid": 112654,
+    "friendly_name": "Technicians Workforce",
+    "id": "technicians_workforce"
+  },
+  {
+    "dlcs": [
+      "dlc8"
+    ],
+    "guid": 132723,
+    "friendly_name": "Tourist Customers",
+    "id": "tourist_customers"
+  },
+  {
+    "dlcs": [
+      "dlc12"
+    ],
+    "guid": 5406,
+    "friendly_name": "Artista Workforce",
+    "id": "artista_workforce"
+  },
+  {
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114340,
+    "friendly_name": "Shepherd Workforce",
+    "id": "shepherd_workforce"
+  },
+  {
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 114341,
+    "friendly_name": "Elder Workforce",
+    "id": "elder_workforce"
+  },
+  {
+    "dlcs": [
+      "dlc6"
+    ],
+    "guid": 124478,
+    "friendly_name": "Scholar Workforce",
+    "id": "scholar_workforce"
+  }
+]

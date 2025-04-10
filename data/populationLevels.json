@@ -2,8 +2,6 @@
   {
     "fullHouse": 10,
     "guid": 15000000,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_farmer.png",
-    "name": "Farmers",
     "needs": [
       {
         "guid": 120020,
@@ -132,13 +130,13 @@
       }
     ],
     "region": 5000000,
-    "residence": 1010343
+    "residence": 1010343,
+    "friendly_name": "Farmers",
+    "id": "farmers"
   },
   {
     "fullHouse": 20,
     "guid": 15000001,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_worker.png",
-    "name": "Workers",
     "needs": [
       {
         "guid": 120020,
@@ -302,13 +300,13 @@
       }
     ],
     "region": 5000000,
-    "residence": 1010344
+    "residence": 1010344,
+    "friendly_name": "Workers",
+    "id": "workers"
   },
   {
     "fullHouse": 30,
     "guid": 15000002,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_artisan.png",
-    "name": "Artisans",
     "needs": [
       {
         "guid": 1010238,
@@ -480,13 +478,13 @@
       }
     ],
     "region": 5000000,
-    "residence": 1010345
+    "residence": 1010345,
+    "friendly_name": "Artisans",
+    "id": "artisans"
   },
   {
     "fullHouse": 40,
     "guid": 15000003,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_engineer.png",
-    "name": "Engineers",
     "needs": [
       {
         "guid": 1010217,
@@ -731,13 +729,13 @@
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Engineers",
+    "id": "engineers"
   },
   {
     "fullHouse": 50,
     "guid": 15000004,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_investor.png",
-    "name": "Investors",
     "needs": [
       {
         "guid": 120030,
@@ -1249,13 +1247,13 @@
       601886,
       601891
     ],
-    "specialResidence": 406
+    "specialResidence": 406,
+    "friendly_name": "Investors",
+    "id": "investors"
   },
   {
     "fullHouse": 10,
     "guid": 15000005,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_jornalero.png",
-    "name": "Jornaleros",
     "needs": [
       {
         "guid": 120020,
@@ -1421,13 +1419,13 @@
     ],
     "region": 5000001,
     "residence": 101254,
-    "specialResidence": 24792
+    "specialResidence": 24792,
+    "friendly_name": "Jornaleros",
+    "id": "jornaleros"
   },
   {
     "fullHouse": 20,
     "guid": 15000006,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_obrera.png",
-    "name": "Obreros",
     "needs": [
       {
         "guid": 120020,
@@ -1634,7 +1632,9 @@
     ],
     "region": 5000001,
     "residence": 101255,
-    "specialResidence": 24793
+    "specialResidence": 24793,
+    "friendly_name": "Obreros",
+    "id": "obreros"
   },
   {
     "dlcs": [
@@ -1642,8 +1642,6 @@
     ],
     "fullHouse": 40,
     "guid": 5403,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_artista.png",
-    "name": "Artista",
     "needs": [
       {
         "guid": 120035,
@@ -1870,7 +1868,9 @@
     ],
     "region": 5000001,
     "residence": 5405,
-    "specialResidence": 6086
+    "specialResidence": 6086,
+    "friendly_name": "Artista",
+    "id": "artista"
   },
   {
     "dlcs": [
@@ -1878,8 +1878,6 @@
     ],
     "fullHouse": 500,
     "guid": 601379,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_tourist.png",
-    "name": "Tourists",
     "needs": [
       {
         "guid": 133891,
@@ -2124,7 +2122,9 @@
       }
     ],
     "region": 5000000,
-    "residence": 601445
+    "residence": 601445,
+    "friendly_name": "Tourists",
+    "id": "tourists"
   },
   {
     "dlcs": [
@@ -2132,8 +2132,6 @@
     ],
     "fullHouse": 10,
     "guid": 112642,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_colony03_tier01.png",
-    "name": "Explorers",
     "needs": [
       {
         "guid": 114890,
@@ -2237,7 +2235,9 @@
       }
     ],
     "region": 160001,
-    "residence": 112091
+    "residence": 112091,
+    "friendly_name": "Explorers",
+    "id": "explorers"
   },
   {
     "dlcs": [
@@ -2245,8 +2245,6 @@
     ],
     "fullHouse": 20,
     "guid": 112643,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_colony03_tier02.png",
-    "name": "Technicians",
     "needs": [
       {
         "guid": 114890,
@@ -2389,7 +2387,9 @@
       }
     ],
     "region": 160001,
-    "residence": 112652
+    "residence": 112652,
+    "friendly_name": "Technicians",
+    "id": "technicians"
   },
   {
     "dlcs": [
@@ -2397,8 +2397,6 @@
     ],
     "fullHouse": 10,
     "guid": 114329,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_sheperd.png",
-    "name": "Shepherds",
     "needs": [
       {
         "guid": 120020,
@@ -2506,7 +2504,9 @@
       }
     ],
     "region": 114327,
-    "residence": 114436
+    "residence": 114436,
+    "friendly_name": "Shepherds",
+    "id": "shepherds"
   },
   {
     "dlcs": [
@@ -2514,8 +2514,6 @@
     ],
     "fullHouse": 20,
     "guid": 114330,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_elder.png",
-    "name": "Elders",
     "needs": [
       {
         "guid": 120020,
@@ -2670,7 +2668,9 @@
       }
     ],
     "region": 114327,
-    "residence": 114437
+    "residence": 114437,
+    "friendly_name": "Elders",
+    "id": "elders"
   },
   {
     "dlcs": [
@@ -2678,8 +2678,6 @@
     ],
     "fullHouse": 120,
     "guid": 118745,
-    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_scholars.png",
-    "name": "Scholars",
     "needs": [
       {
         "guid": 1010353,
@@ -2887,6 +2885,8 @@
       }
     ],
     "region": 5000000,
-    "residence": 114445
+    "residence": 114445,
+    "friendly_name": "Scholars",
+    "id": "scholars"
   }
 ]

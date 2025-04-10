@@ -4,8 +4,6 @@
       "dlc8"
     ],
     "guid": 132780,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_restaurant.png",
-    "name": "Restaurant",
     "recipeBuildings": [
       132747,
       132750,
@@ -15,15 +13,15 @@
       6136
     ],
     "recipeListType": "Diner",
-    "region": 5000000
+    "region": 5000000,
+    "friendly_name": "Restaurant",
+    "id": "restaurant"
   },
   {
     "dlcs": [
       "dlc8"
     ],
     "guid": 132782,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_caffee.png",
-    "name": "Cafe",
     "recipeBuildings": [
       132753,
       133347,
@@ -33,15 +31,15 @@
       6138
     ],
     "recipeListType": "Cafe",
-    "region": 5000000
+    "region": 5000000,
+    "friendly_name": "Cafe",
+    "id": "cafe"
   },
   {
     "dlcs": [
       "dlc8"
     ],
     "guid": 132781,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_bar.png",
-    "name": "Bar",
     "recipeBuildings": [
       132752,
       133342,
@@ -51,15 +49,15 @@
       6137
     ],
     "recipeListType": "Bar",
-    "region": 5000000
+    "region": 5000000,
+    "friendly_name": "Bar",
+    "id": "bar"
   },
   {
     "dlcs": [
       "dlc9"
     ],
     "guid": 135100,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_mall.png",
-    "name": "Department Store",
     "recipeBuildings": [
       135103,
       135188,
@@ -68,15 +66,15 @@
       135190
     ],
     "recipeListType": "DepartmentStore",
-    "region": 5000000
+    "region": 5000000,
+    "friendly_name": "Department Store",
+    "id": "department_store"
   },
   {
     "dlcs": [
       "dlc9"
     ],
     "guid": 135099,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_furnitures.png",
-    "name": "Furniture Store",
     "recipeBuildings": [
       135105,
       135121,
@@ -85,15 +83,15 @@
       135123
     ],
     "recipeListType": "FurnitureStore",
-    "region": 5000000
+    "region": 5000000,
+    "friendly_name": "Furniture Store",
+    "id": "furniture_store"
   },
   {
     "dlcs": [
       "dlc9"
     ],
     "guid": 134629,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_drugstore.png",
-    "name": "Drug Store",
     "recipeBuildings": [
       134631,
       135191,
@@ -102,15 +100,15 @@
       135194
     ],
     "recipeListType": "Pharmacy",
-    "region": 5000000
+    "region": 5000000,
+    "friendly_name": "Drug Store",
+    "id": "drug_store"
   },
   {
     "dlcs": [
       "dlc8"
     ],
     "guid": 132770,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_eiffel_tower.png",
-    "name": "The Iron Tower",
     "recipeBuildings": [
       133928,
       133930,
@@ -119,6 +117,8 @@
       133933
     ],
     "recipeListType": "LuxuryDiner",
-    "region": 5000000
+    "region": 5000000,
+    "friendly_name": "The Iron Tower",
+    "id": "the_iron_tower"
   }
 ]

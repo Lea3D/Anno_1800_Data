@@ -1,0 +1,3778 @@
+[
+  {
+    "guid": 4100010,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_anarchist.png"
+  },
+  {
+    "guid": 410040,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_sunken_treasure_256.png"
+  },
+  {
+    "guid": 410041,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_botanica_256.png"
+  },
+  {
+    "guid": 410042,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_passage_256.png"
+  },
+  {
+    "guid": 410059,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_palace_256.png"
+  },
+  {
+    "guid": 410070,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_bright_harvest_256.png"
+  },
+  {
+    "guid": 410071,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_land_of_lions_256.png"
+  },
+  {
+    "guid": 410083,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_docklands_256.png"
+  },
+  {
+    "guid": 410084,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_tourist_season_256.png"
+  },
+  {
+    "guid": 410085,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_256.png"
+  },
+  {
+    "guid": 24961,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_seeds_of_change_256.png"
+  },
+  {
+    "guid": 24962,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_empire_of_the_skies_256.png"
+  },
+  {
+    "guid": 24963,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_new_world_rising_256.png"
+  },
+  {
+    "guid": 24798,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cane_sugar_1.png"
+  },
+  {
+    "guid": 25003,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_corn.png"
+  },
+  {
+    "guid": 25005,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffee_beans.png"
+  },
+  {
+    "guid": 25006,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_caoutchouc.png"
+  },
+  {
+    "guid": 25009,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cocoa.png"
+  },
+  {
+    "guid": 25019,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_potatoes.png"
+  },
+  {
+    "guid": 25020,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_spices.png"
+  },
+  {
+    "guid": 25128,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cereals_2.png"
+  },
+  {
+    "guid": 24801,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_rum_barrel.png"
+  },
+  {
+    "guid": 25064,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_beer.png"
+  },
+  {
+    "guid": 25126,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_atole.png"
+  },
+  {
+    "guid": 25350,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_schnapps_4.png"
+  },
+  {
+    "guid": 25508,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tabasco_sauce.png"
+  },
+  {
+    "guid": 24805,
+    "iconPath": "data/ui/2kimages/main/3dicons/hacienda/icon_hacienda_module_fertiliser.png"
+  },
+  {
+    "guid": 1010262,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cereals_2.png"
+  },
+  {
+    "guid": 1010263,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_meat_raw.png"
+  },
+  {
+    "guid": 1010264,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_hops.png"
+  },
+  {
+    "guid": 1010265,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_potatoes.png"
+  },
+  {
+    "guid": 1010266,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wood_log.png"
+  },
+  {
+    "guid": 1010267,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wool.png"
+  },
+  {
+    "guid": 1010269,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pigs.png"
+  },
+  {
+    "guid": 1010558,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur.png"
+  },
+  {
+    "guid": 100654,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pepper.png"
+  },
+  {
+    "guid": 100655,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_grapes.png"
+  },
+  {
+    "guid": 1010278,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fish.png"
+  },
+  {
+    "guid": 1010310,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_niter.png"
+  },
+  {
+    "guid": 1010560,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_quartz_sand.png"
+  },
+  {
+    "guid": 1010280,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_reinforced_concrete.png"
+  },
+  {
+    "guid": 1010281,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_soap_2.png"
+  },
+  {
+    "guid": 1010283,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bricks.png"
+  },
+  {
+    "guid": 100451,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wooden_planks.png"
+  },
+  {
+    "guid": 1010325,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur_coats.png"
+  },
+  {
+    "guid": 1010286,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_light_bulb.png"
+  },
+  {
+    "guid": 1010285,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_glass_window_3.png"
+  },
+  {
+    "guid": 1010288,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sail.png"
+  },
+  {
+    "guid": 100416,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_clay.png"
+  },
+  {
+    "guid": 1010289,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_chassis.png"
+  },
+  {
+    "guid": 1010291,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bread.png"
+  },
+  {
+    "guid": 1010292,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_beer.png"
+  },
+  {
+    "guid": 1010293,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_goulash_01.png"
+  },
+  {
+    "guid": 1010295,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_canned_goulash.png"
+  },
+  {
+    "guid": 1010294,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_schnapps_4.png"
+  },
+  {
+    "guid": 1010316,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_meat_sausage.png"
+  },
+  {
+    "guid": 100659,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_champagne.png"
+  },
+  {
+    "guid": 1010296,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_beams.png"
+  },
+  {
+    "guid": 1010297,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_steel.png"
+  },
+  {
+    "guid": 1010298,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_burn.png"
+  },
+  {
+    "guid": 1010299,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_weapons.png"
+  },
+  {
+    "guid": 1010301,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_advanced_weaponry.png"
+  },
+  {
+    "guid": 1010302,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_steam_machine.png"
+  },
+  {
+    "guid": 1010303,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_steam_carriage.png"
+  },
+  {
+    "guid": 1010282,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_brass.png"
+  },
+  {
+    "guid": 101331,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_oil.png"
+  },
+  {
+    "guid": 1010304,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_2.png"
+  },
+  {
+    "guid": 1010305,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_iron.png"
+  },
+  {
+    "guid": 1010307,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tin_ore.png"
+  },
+  {
+    "guid": 1010308,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_copper.png"
+  },
+  {
+    "guid": 1010309,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cement.png"
+  },
+  {
+    "guid": 1010312,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tallow.png"
+  },
+  {
+    "guid": 1010313,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_flour.png"
+  },
+  {
+    "guid": 1010314,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_malt.png"
+  },
+  {
+    "guid": 1010315,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_working_cloth.png"
+  },
+  {
+    "guid": 1010300,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dynamite.png"
+  },
+  {
+    "guid": 1010319,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_glass.png"
+  },
+  {
+    "guid": 1010320,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_inlay.png"
+  },
+  {
+    "guid": 1010321,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_carbon_filament.png"
+  },
+  {
+    "guid": 1010323,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_high_wheeler.png"
+  },
+  {
+    "guid": 1010324,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pocket_watch.png"
+  },
+  {
+    "guid": 1010284,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sewing_machine.png"
+  },
+  {
+    "guid": 1010326,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_phonographs.png"
+  },
+  {
+    "guid": 1010327,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gold.png"
+  },
+  {
+    "guid": 1010328,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_jewelry.png"
+  },
+  {
+    "guid": 101250,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_glasses.png"
+  },
+  {
+    "guid": 1010329,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cane_sugar_1.png"
+  },
+  {
+    "guid": 1010330,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tobacco.png"
+  },
+  {
+    "guid": 1010331,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cotton.png"
+  },
+  {
+    "guid": 1010332,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cocoa.png"
+  },
+  {
+    "guid": 1010333,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_caoutchouc.png"
+  },
+  {
+    "guid": 101251,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffee_beans.png"
+  },
+  {
+    "guid": 101263,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_banana.png"
+  },
+  {
+    "guid": 101269,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_meat_raw.png"
+  },
+  {
+    "guid": 101270,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_corn.png"
+  },
+  {
+    "guid": 101272,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_alpaca_wool.png"
+  },
+  {
+    "guid": 1010339,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pearls.png"
+  },
+  {
+    "guid": 101262,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fishoil.png"
+  },
+  {
+    "guid": 1010318,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cotton_fur.png"
+  },
+  {
+    "guid": 101415,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_felt.png"
+  },
+  {
+    "guid": 101273,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bowler_hat.png"
+  },
+  {
+    "guid": 1010340,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_rum_barrel.png"
+  },
+  {
+    "guid": 1010341,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_chocolate.png"
+  },
+  {
+    "guid": 101252,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffe_cup.png"
+  },
+  {
+    "guid": 101264,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fried_bananas.png"
+  },
+  {
+    "guid": 101271,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_burrito.png"
+  },
+  {
+    "guid": 1010317,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_salt.png"
+  },
+  {
+    "guid": 101266,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_poncho.png"
+  },
+  {
+    "guid": 1010342,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cigars.png"
+  },
+  {
+    "guid": 114703,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wood_log.png"
+  },
+  {
+    "guid": 112667,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_reindeer_meat.png"
+  },
+  {
+    "guid": 112676,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_goose_feathers.png"
+  },
+  {
+    "guid": 112673,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bear_fur.png"
+  },
+  {
+    "guid": 112682,
+    "iconPath": "data/ui/2kimages/main/3dicons/animals/icon_husky.png"
+  },
+  {
+    "guid": 116034,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur.png"
+  },
+  {
+    "guid": 114705,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_burn.png"
+  },
+  {
+    "guid": 112666,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_whale_oil_2.png"
+  },
+  {
+    "guid": 112674,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_seal_skin.png"
+  },
+  {
+    "guid": 114704,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wooden_planks.png"
+  },
+  {
+    "guid": 112675,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sleeping_bags.png"
+  },
+  {
+    "guid": 112679,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_oil_lamps.png"
+  },
+  {
+    "guid": 112672,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur_parka.png"
+  },
+  {
+    "guid": 112681,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sled_frame.png"
+  },
+  {
+    "guid": 112680,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sled.png"
+  },
+  {
+    "guid": 112668,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pemmican.png"
+  },
+  {
+    "guid": 112690,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gas_red.png"
+  },
+  {
+    "guid": 116029,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gold_ore.png"
+  },
+  {
+    "guid": 118571,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gasoline.png"
+  },
+  {
+    "guid": 269840,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gasoline.png"
+  },
+  {
+    "guid": 119028,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gasoline.png"
+  },
+  {
+    "guid": 133004,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coconut.png"
+  },
+  {
+    "guid": 133030,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cinamon.png"
+  },
+  {
+    "guid": 133031,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_citrus.png"
+  },
+  {
+    "guid": 134614,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cellulose.png"
+  },
+  {
+    "guid": 924,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_bomb_b.png"
+  },
+  {
+    "guid": 934,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_seamines.png"
+  },
+  {
+    "guid": 935,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_pamphlets.png"
+  },
+  {
+    "guid": 936,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_care_packages.png"
+  },
+  {
+    "guid": 1345,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_burn.png"
+  },
+  {
+    "guid": 1418,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_industrial_lubricant_a.png"
+  },
+  {
+    "guid": 835,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_aluminium.png"
+  },
+  {
+    "guid": 906,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_bomb_b.png"
+  },
+  {
+    "guid": 907,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_seamines.png"
+  },
+  {
+    "guid": 908,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_pamphlets.png"
+  },
+  {
+    "guid": 916,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_care_packages.png"
+  },
+  {
+    "guid": 915,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_water.png"
+  },
+  {
+    "guid": 1308,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bauxit.png"
+  },
+  {
+    "guid": 1353,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_helium.png"
+  },
+  {
+    "guid": 122963,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_wansa_wood.png"
+  },
+  {
+    "guid": 114448,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_linen_farm.png"
+  },
+  {
+    "guid": 114447,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_hibiscus_farm.png"
+  },
+  {
+    "guid": 114450,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_teff_grass.png"
+  },
+  {
+    "guid": 114451,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_indigo.png"
+  },
+  {
+    "guid": 114452,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_spices.png"
+  },
+  {
+    "guid": 114453,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_beeswax.png"
+  },
+  {
+    "guid": 114439,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_watusi.png"
+  },
+  {
+    "guid": 114456,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_goat_milk.png"
+  },
+  {
+    "guid": 114440,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_salt.png"
+  },
+  {
+    "guid": 118729,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_seafood.png"
+  },
+  {
+    "guid": 117743,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_clay.png"
+  },
+  {
+    "guid": 117744,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_paper.png"
+  },
+  {
+    "guid": 114441,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_linen_fabric.png"
+  },
+  {
+    "guid": 114459,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_teff_flour.png"
+  },
+  {
+    "guid": 114461,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_candles.png"
+  },
+  {
+    "guid": 114444,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_dried_meat.png"
+  },
+  {
+    "guid": 114466,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_traditional_clothing.png"
+  },
+  {
+    "guid": 114468,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_hibiscus_tea.png"
+  },
+  {
+    "guid": 118725,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_ceramics.png"
+  },
+  {
+    "guid": 114469,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_tapestries.png"
+  },
+  {
+    "guid": 114467,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_mud_bricks.png"
+  },
+  {
+    "guid": 114471,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_wat_stew.png"
+  },
+  {
+    "guid": 114472,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_tobacco_pipes.png"
+  },
+  {
+    "guid": 114470,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_scriptures.png"
+  },
+  {
+    "guid": 114464,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_lanterns.png"
+  },
+  {
+    "guid": 118733,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_leather_shoes.png"
+  },
+  {
+    "guid": 118734,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_suits.png"
+  },
+  {
+    "guid": 118735,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_telephones.png"
+  },
+  {
+    "guid": 124738,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffe_cup.png"
+  },
+  {
+    "guid": 124737,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_rum_barrel.png"
+  },
+  {
+    "guid": 124739,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cotton_fur.png"
+  },
+  {
+    "guid": 132777,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_lemonade.png"
+  },
+  {
+    "guid": 132786,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_shampoo.png"
+  },
+  {
+    "guid": 133533,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_souvenir.png"
+  },
+  {
+    "guid": 133496,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_jam.png"
+  },
+  {
+    "guid": 135088,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cherry_wood.png"
+  },
+  {
+    "guid": 135085,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wood_resin.png"
+  },
+  {
+    "guid": 134622,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_elevator.png"
+  },
+  {
+    "guid": 135361,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_cookie.png"
+  },
+  {
+    "guid": 135148,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_typewriter.png"
+  },
+  {
+    "guid": 135133,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_lacquer.png"
+  },
+  {
+    "guid": 135418,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_cognac.png"
+  },
+  {
+    "guid": 135397,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_violin.png"
+  },
+  {
+    "guid": 135407,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_billard.png"
+  },
+  {
+    "guid": 135669,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toys.png"
+  },
+  {
+    "guid": 135185,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_bubble_gum.png"
+  },
+  {
+    "guid": 135134,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_ethanol.png"
+  },
+  {
+    "guid": 135224,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_celluloid.png"
+  },
+  {
+    "guid": 5457,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_nandu_leather.png"
+  },
+  {
+    "guid": 5463,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_herbs_with_flower.png"
+  },
+  {
+    "guid": 5814,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_orchid.png"
+  },
+  {
+    "guid": 7919,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_squid.png"
+  },
+  {
+    "guid": 6080,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_steel.png"
+  },
+  {
+    "guid": 6083,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sewing_machine.png"
+  },
+  {
+    "guid": 6279,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_electric_cable_3.png"
+  },
+  {
+    "guid": 5458,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_jalea.png"
+  },
+  {
+    "guid": 5459,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_icecream_cone.png"
+  },
+  {
+    "guid": 6594,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_mezcal.png"
+  },
+  {
+    "guid": 5658,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_scooter.png"
+  },
+  {
+    "guid": 5659,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_motor.png"
+  },
+  {
+    "guid": 5862,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_ventilator.png"
+  },
+  {
+    "guid": 1388,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_iron.png"
+  },
+  {
+    "guid": 1390,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_minerals.png"
+  },
+  {
+    "guid": 5657,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_perfume.png"
+  },
+  {
+    "guid": 5879,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_ballsports.png"
+  },
+  {
+    "guid": 5933,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_costumes.png"
+  },
+  {
+    "guid": 5828,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_film_role.png"
+  },
+  {
+    "guid": 6630,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_police_equipment.png"
+  },
+  {
+    "guid": 6629,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_extinguisher.png"
+  },
+  {
+    "guid": 6631,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_medicine.png"
+  },
+  {
+    "guid": 5462,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_pigments.png"
+  },
+  {
+    "guid": 8027,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_niter.png"
+  },
+  {
+    "guid": 8002,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sheep_milk.png"
+  },
+  {
+    "guid": 8026,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_nandu_feathers.png"
+  },
+  {
+    "guid": 190872,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dung.png"
+  },
+  {
+    "guid": 190619,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_fisherman_102.png"
+  },
+  {
+    "guid": 190620,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_pearl_diver_201.png"
+  },
+  {
+    "guid": 190621,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_414.png"
+  },
+  {
+    "guid": 190622,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_navigator_102.png"
+  },
+  {
+    "guid": 190625,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_206.png"
+  },
+  {
+    "guid": 190626,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_201_c.png"
+  },
+  {
+    "guid": 190627,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_106.png"
+  },
+  {
+    "guid": 190628,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_101.png"
+  },
+  {
+    "guid": 190630,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_401_b.png"
+  },
+  {
+    "guid": 190632,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_102.png"
+  },
+  {
+    "guid": 190642,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_teacher_805.png"
+  },
+  {
+    "guid": 190643,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_torcedor_512.png"
+  },
+  {
+    "guid": 190689,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_201.png"
+  },
+  {
+    "guid": 190690,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_403.png"
+  },
+  {
+    "guid": 190691,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normaldress_308.png"
+  },
+  {
+    "guid": 190692,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_105.png"
+  },
+  {
+    "guid": 190693,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_102_b.png"
+  },
+  {
+    "guid": 190742,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_explorer_716.png"
+  },
+  {
+    "guid": 190737,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_hunter_native.png"
+  },
+  {
+    "guid": 190738,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_forester_401.png"
+  },
+  {
+    "guid": 190743,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_hunter_common.png"
+  },
+  {
+    "guid": 190750,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_302.png"
+  },
+  {
+    "guid": 190751,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_105.png"
+  },
+  {
+    "guid": 190761,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_104.png"
+  },
+  {
+    "guid": 191309,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_travelagent_723.png"
+  },
+  {
+    "guid": 191310,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_206.png"
+  },
+  {
+    "guid": 191318,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_418.png"
+  },
+  {
+    "guid": 191319,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_206.png"
+  },
+  {
+    "guid": 191323,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_407.png"
+  },
+  {
+    "guid": 191324,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_108.png"
+  },
+  {
+    "guid": 191327,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normaldress_304.png"
+  },
+  {
+    "guid": 191348,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_409.png"
+  },
+  {
+    "guid": 191328,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_401.png"
+  },
+  {
+    "guid": 192039,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_boris_franke.png"
+  },
+  {
+    "guid": 191329,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normaldress_810.png"
+  },
+  {
+    "guid": 191345,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_601.png"
+  },
+  {
+    "guid": 191349,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_entertainer_508.png"
+  },
+  {
+    "guid": 191346,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_602.png"
+  },
+  {
+    "guid": 191347,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_teacher_515.png"
+  },
+  {
+    "guid": 191331,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_101.png"
+  },
+  {
+    "guid": 191332,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_202_b.png"
+  },
+  {
+    "guid": 191356,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_201.png"
+  },
+  {
+    "guid": 191333,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_401.png"
+  },
+  {
+    "guid": 191334,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_102.png"
+  },
+  {
+    "guid": 191375,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_106.png"
+  },
+  {
+    "guid": 191353,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_401.png"
+  },
+  {
+    "guid": 191376,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_109.png"
+  },
+  {
+    "guid": 191354,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_202.png"
+  },
+  {
+    "guid": 191355,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_102.png"
+  },
+  {
+    "guid": 191369,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normaldress_815.png"
+  },
+  {
+    "guid": 191370,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_welldress_812.png"
+  },
+  {
+    "guid": 191371,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_curator_702.png"
+  },
+  {
+    "guid": 191383,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_priest_uncommon.png"
+  },
+  {
+    "guid": 191386,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_202_b.png"
+  },
+  {
+    "guid": 191387,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_602.png"
+  },
+  {
+    "guid": 191402,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_entertainer_508.png"
+  },
+  {
+    "guid": 191403,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_101.png"
+  },
+  {
+    "guid": 191401,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_402.png"
+  },
+  {
+    "guid": 191388,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_102.png"
+  },
+  {
+    "guid": 191404,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_401_c.png"
+  },
+  {
+    "guid": 191406,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_201.png"
+  },
+  {
+    "guid": 191407,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_401.png"
+  },
+  {
+    "guid": 191400,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_401.png"
+  },
+  {
+    "guid": 191405,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_401.png"
+  },
+  {
+    "guid": 191408,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_201.png"
+  },
+  {
+    "guid": 191418,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_206.png"
+  },
+  {
+    "guid": 191419,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_401.png"
+  },
+  {
+    "guid": 191420,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_406.png"
+  },
+  {
+    "guid": 191424,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_202.png"
+  },
+  {
+    "guid": 191422,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_205.png"
+  },
+  {
+    "guid": 191425,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_carpenter_721.png"
+  },
+  {
+    "guid": 191428,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_204.png"
+  },
+  {
+    "guid": 191430,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_202.png"
+  },
+  {
+    "guid": 191431,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_107.png"
+  },
+  {
+    "guid": 191462,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_205.png"
+  },
+  {
+    "guid": 191463,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_109.png"
+  },
+  {
+    "guid": 191465,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_103.png"
+  },
+  {
+    "guid": 191583,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_shepherd_519.png"
+  },
+  {
+    "guid": 191584,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_207.png"
+  },
+  {
+    "guid": 191590,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_106.png"
+  },
+  {
+    "guid": 191591,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_204.png"
+  },
+  {
+    "guid": 192443,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/influencer/icon_influencer_lewis_2.png"
+  },
+  {
+    "guid": 193187,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/influencer/icon_influencer_alex_hancock.png"
+  },
+  {
+    "guid": 116162,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_lamp_maker.png"
+  },
+  {
+    "guid": 116163,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_electric_battery.png"
+  },
+  {
+    "guid": 116164,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_berries_press.png"
+  },
+  {
+    "guid": 116165,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_canning_machine.png"
+  },
+  {
+    "guid": 116167,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_gas_extractor.png"
+  },
+  {
+    "guid": 116185,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_cola_mola_machine.png"
+  },
+  {
+    "guid": 116187,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_cigars_roller.png"
+  },
+  {
+    "guid": 116189,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_ballon_radar.png"
+  },
+  {
+    "guid": 116190,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_electric_potato_harvester.png"
+  },
+  {
+    "guid": 24806,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dung.png"
+  },
+  {
+    "guid": 7225,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_1003_a.png"
+  },
+  {
+    "guid": 8347,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_shepherd_509.png"
+  },
+  {
+    "guid": 8348,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_328.png"
+  },
+  {
+    "guid": 8351,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_forester_822.png"
+  },
+  {
+    "guid": 8355,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_105.png"
+  },
+  {
+    "guid": 8356,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_shepherd_510.png"
+  },
+  {
+    "guid": 112879,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_gold_ore_finder_3.png"
+  },
+  {
+    "guid": 112880,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_gold_ore_finder_2.png"
+  },
+  {
+    "guid": 112881,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_gold_ore_finder_1.png"
+  },
+  {
+    "guid": 112882,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_ore_finder_3.png"
+  },
+  {
+    "guid": 112883,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_ore_finder_2.png"
+  },
+  {
+    "guid": 112884,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_ore_finder_1.png"
+  },
+  {
+    "guid": 112885,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_oil_extractor_3.png"
+  },
+  {
+    "guid": 112886,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_oil_extractor_2.png"
+  },
+  {
+    "guid": 112887,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_oil_extractor_1.png"
+  },
+  {
+    "guid": 113799,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/sunken_treasure_rewards/icon_coffee_specialist_800.png"
+  },
+  {
+    "guid": 116132,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_1000.png"
+  },
+  {
+    "guid": 116144,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_901b.png"
+  },
+  {
+    "guid": 116152,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_1005_b.png"
+  },
+  {
+    "guid": 116153,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_904.png"
+  },
+  {
+    "guid": 116154,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_1004.png"
+  },
+  {
+    "guid": 125112,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_herder_1.png"
+  },
+  {
+    "guid": 125118,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_innkeeper_2.png"
+  },
+  {
+    "guid": 125122,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_enbesan_cook_3b.png"
+  },
+  {
+    "guid": 125124,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_ewahedo_faith_2.png"
+  },
+  {
+    "guid": 125128,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_traditional_handcraft_3b.png"
+  },
+  {
+    "guid": 125129,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_water_use_expert_1.png"
+  },
+  {
+    "guid": 125133,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_keeper_of_tradition_2.png"
+  },
+  {
+    "guid": 125138,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_tailor_2.png"
+  },
+  {
+    "guid": 125139,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_tailor_3.png"
+  },
+  {
+    "guid": 136739,
+    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_plantation_item_2.png"
+  },
+  {
+    "guid": 136746,
+    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_chemical_plant_item_2.png"
+  },
+  {
+    "guid": 136647,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_chef_1.png"
+  },
+  {
+    "guid": 136649,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_chef_3.png"
+  },
+  {
+    "guid": 958,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_combustion_chemist.png"
+  },
+  {
+    "guid": 1772,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_cold_fracking_expert_a.png"
+  },
+  {
+    "guid": 1964,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_nw_dung_collector.png"
+  },
+  {
+    "guid": 1897,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_synthesis_expert.png"
+  },
+  {
+    "guid": 1966,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_enbesa_dung_collector.png"
+  },
+  {
+    "guid": 1961,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_top_soil_scientist_sa.png"
+  },
+  {
+    "guid": 1956,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_top_soil_scientist_eu.png"
+  },
+  {
+    "guid": 1948,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_explosive_expert.png"
+  },
+  {
+    "guid": 2223,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_warm_fracking_expert.png"
+  },
+  {
+    "guid": 2224,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_scientist_mineralogist.png"
+  },
+  {
+    "guid": 1895,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/empireofskies/icon_emergency_military.png"
+  },
+  {
+    "guid": 8908,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_doctor_518.png"
+  },
+  {
+    "guid": 136823,
+    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_plantation_item_2_sa.png"
+  },
+  {
+    "guid": 136819,
+    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_plantation_item_3_sa.png"
+  },
+  {
+    "guid": 136827,
+    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_chemical_plant_item_1.png"
+  },
+  {
+    "guid": 137631,
+    "iconPath": "data/ui/2kimages/main/3dicons/highlife/icon_assembly_line_item_new_2.png"
+  },
+  {
+    "guid": 136885,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_mall_01.png"
+  },
+  {
+    "guid": 270041,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_om_tractor.png"
+  },
+  {
+    "guid": 25240,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png"
+  },
+  {
+    "guid": 25241,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png"
+  },
+  {
+    "guid": 25242,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png"
+  },
+  {
+    "guid": 269837,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png"
+  },
+  {
+    "guid": 269839,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png"
+  },
+  {
+    "guid": 269957,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png"
+  },
+  {
+    "guid": 269848,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png"
+  },
+  {
+    "guid": 269849,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png"
+  },
+  {
+    "guid": 269958,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png"
+  },
+  {
+    "guid": 119026,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png"
+  },
+  {
+    "guid": 119027,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tractor.png"
+  },
+  {
+    "guid": 119025,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_silo.png"
+  },
+  {
+    "guid": 25638,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25639,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25640,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25641,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25642,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25643,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25644,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25645,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25646,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25651,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25652,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25653,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25654,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25655,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25656,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25657,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 25658,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 112919,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_oil_extractor_3.png"
+  },
+  {
+    "guid": 112920,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_oil_extractor_2.png"
+  },
+  {
+    "guid": 269191,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png"
+  },
+  {
+    "guid": 269254,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png"
+  },
+  {
+    "guid": 269255,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png"
+  },
+  {
+    "guid": 269256,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png"
+  },
+  {
+    "guid": 269257,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png"
+  },
+  {
+    "guid": 269564,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png"
+  },
+  {
+    "guid": 269565,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png"
+  },
+  {
+    "guid": 269566,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png"
+  },
+  {
+    "guid": 269366,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png"
+  },
+  {
+    "guid": 269200,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 269275,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 269276,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 269277,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 269278,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 269279,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 269280,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 269281,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 269282,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 269399,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 280087,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 280088,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 280089,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 280090,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 280091,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 280092,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 280093,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_manufacturing_reform.png"
+  },
+  {
+    "guid": 112641,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_passage.png"
+  },
+  {
+    "guid": 15000000,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_farmer.png"
+  },
+  {
+    "guid": 15000001,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_worker.png"
+  },
+  {
+    "guid": 15000002,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_artisan.png"
+  },
+  {
+    "guid": 15000003,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_engineer.png"
+  },
+  {
+    "guid": 15000004,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_investor.png"
+  },
+  {
+    "guid": 15000005,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_jornalero.png"
+  },
+  {
+    "guid": 15000006,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_obrera.png"
+  },
+  {
+    "guid": 5403,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_artista.png"
+  },
+  {
+    "guid": 601379,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_tourist.png"
+  },
+  {
+    "guid": 112642,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_colony03_tier01.png"
+  },
+  {
+    "guid": 112643,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_colony03_tier02.png"
+  },
+  {
+    "guid": 114329,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_sheperd.png"
+  },
+  {
+    "guid": 114330,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_elder.png"
+  },
+  {
+    "guid": 118745,
+    "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_scholars.png"
+  },
+  {
+    "guid": 114751,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_heating_center.png"
+  },
+  {
+    "guid": 117547,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_electric_works_gas.png"
+  },
+  {
+    "guid": 100780,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_electric_works_oil.png"
+  },
+  {
+    "guid": 5164,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_electric_works_coal.png"
+  },
+  {
+    "guid": 502031,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_moderate.png"
+  },
+  {
+    "guid": 502052,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_moderate.png"
+  },
+  {
+    "guid": 502040,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_moderate.png"
+  },
+  {
+    "guid": 502046,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_moderate.png"
+  },
+  {
+    "guid": 1010017,
+    "iconPath": "data/ui/2kimages/main/icons/icon_resource_money_4.png"
+  },
+  {
+    "guid": 1010190,
+    "iconPath": "data/ui/2kimages/main/icons/icon_influence.png"
+  },
+  {
+    "guid": 25131,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_atole.png"
+  },
+  {
+    "guid": 24807,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dung.png"
+  },
+  {
+    "guid": 24808,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_fertilizer_good.png"
+  },
+  {
+    "guid": 25506,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tabasco_sauce.png"
+  },
+  {
+    "guid": 25546,
+    "iconPath": "data/ui/2kimages/main/3dicons/hacienda/icon_hacienda_main.png"
+  },
+  {
+    "guid": 103866,
+    "iconPath": "data/ui/2kimages/main/3dicons/narative_item/empireofskies/icon_pile_of_letters.png"
+  },
+  {
+    "guid": 120021,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal.png"
+  },
+  {
+    "guid": 1010566,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_oil.png"
+  },
+  {
+    "guid": 120022,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_electricity.png"
+  },
+  {
+    "guid": 119392,
+    "iconPath": "data/ui/2kimages/main/icons/icon_research_resource.png"
+  },
+  {
+    "guid": 1591,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_mineral_desposits.png"
+  },
+  {
+    "guid": 1955,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fertile_lands.png"
+  },
+  {
+    "guid": 836,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bauxit.png"
+  },
+  {
+    "guid": 838,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_aluminium.png"
+  },
+  {
+    "guid": 840,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_helium.png"
+  },
+  {
+    "guid": 1414,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_industrial_lubricant_a.png"
+  },
+  {
+    "guid": 846,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_bomb_b.png"
+  },
+  {
+    "guid": 847,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_seamines.png"
+  },
+  {
+    "guid": 848,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_pamphlets.png"
+  },
+  {
+    "guid": 849,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_care_packages.png"
+  },
+  {
+    "guid": 850,
+    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_water.png"
+  },
+  {
+    "guid": 917,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_rich_sea_2.png"
+  },
+  {
+    "guid": 535,
+    "iconPath": "data/ui/2kimages/main/3dicons/mail/icon_letter_normal.png"
+  },
+  {
+    "guid": 536,
+    "iconPath": "data/ui/2kimages/main/3dicons/mail/icon_letter_delivered.png"
+  },
+  {
+    "guid": 2524,
+    "iconPath": "data/ui/2kimages/main/3dicons/mail/icon_letter_oversea.png"
+  },
+  {
+    "guid": 4267,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_herbarium.png"
+  },
+  {
+    "guid": 4268,
+    "iconPath": "data/ui/2kimages/main/3dicons/narative_item/empireofskies/icon_valuable_sketches_b.png"
+  },
+  {
+    "guid": 120020,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_marketplace.png"
+  },
+  {
+    "guid": 1010349,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pub.png"
+  },
+  {
+    "guid": 1010350,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_church.png"
+  },
+  {
+    "guid": 1010351,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_school.png"
+  },
+  {
+    "guid": 1010352,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cabaret.png"
+  },
+  {
+    "guid": 1010353,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_university.png"
+  },
+  {
+    "guid": 1010354,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_electric_works_oil.png"
+  },
+  {
+    "guid": 1010355,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_club_house.png"
+  },
+  {
+    "guid": 1010356,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bank.png"
+  },
+  {
+    "guid": 120050,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_church.png"
+  },
+  {
+    "guid": 1010348,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_box_arena.png"
+  },
+  {
+    "guid": 112708,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_heating_center.png"
+  },
+  {
+    "guid": 112693,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_post_office.png"
+  },
+  {
+    "guid": 114890,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_canteen.png"
+  },
+  {
+    "guid": 269751,
+    "iconPath": "data/ui/2kimages/main/icons/icon_gasoline_3d_outline.png"
+  },
+  {
+    "guid": 270042,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gasoline.png"
+  },
+  {
+    "guid": 133891,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_visitor_harbour.png"
+  },
+  {
+    "guid": 132751,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_restaurant.png"
+  },
+  {
+    "guid": 132754,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bar.png"
+  },
+  {
+    "guid": 132755,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_caffee.png"
+  },
+  {
+    "guid": 133573,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cabaret.png"
+  },
+  {
+    "guid": 601485,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_zoo.png"
+  },
+  {
+    "guid": 133535,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_museum.png"
+  },
+  {
+    "guid": 355,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_botanic_garden.png"
+  },
+  {
+    "guid": 134257,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_palace.png"
+  },
+  {
+    "guid": 132761,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_eiffel_tower.png"
+  },
+  {
+    "guid": 133536,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_world_fair_2.png"
+  },
+  {
+    "guid": 134781,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_docklands_main.png"
+  },
+  {
+    "guid": 137757,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_highlife_skyliner_monument.png"
+  },
+  {
+    "guid": 135108,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_mall.png"
+  },
+  {
+    "guid": 135107,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_furnitures.png"
+  },
+  {
+    "guid": 135109,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_drugstore.png"
+  },
+  {
+    "guid": 2038,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_settlement_rights_1.png"
+  },
+  {
+    "guid": 5831,
+    "iconPath": "data/ui/2kimages/main/3dicons/public_building/icon_samba_school.png"
+  },
+  {
+    "guid": 5830,
+    "iconPath": "data/ui/2kimages/main/3dicons/public_building/icon_cinema.png"
+  },
+  {
+    "guid": 6261,
+    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_police_advanced.png"
+  },
+  {
+    "guid": 6262,
+    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_fire_brigade_advanced.png"
+  },
+  {
+    "guid": 6263,
+    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_hospital_advanced.png"
+  },
+  {
+    "guid": 6265,
+    "iconPath": "data/ui/2kimages/main/3dicons/public_building/icon_beach.png"
+  },
+  {
+    "guid": 1010192,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cereals_2.png"
+  },
+  {
+    "guid": 1010193,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_meat_raw.png"
+  },
+  {
+    "guid": 1010194,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_hops.png"
+  },
+  {
+    "guid": 1010195,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_potatoes.png"
+  },
+  {
+    "guid": 120008,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wood_log.png"
+  },
+  {
+    "guid": 1010197,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wool.png"
+  },
+  {
+    "guid": 1010199,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pigs.png"
+  },
+  {
+    "guid": 1010209,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur.png"
+  },
+  {
+    "guid": 120014,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_grapes.png"
+  },
+  {
+    "guid": 1010198,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pepper.png"
+  },
+  {
+    "guid": 1010200,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fish.png"
+  },
+  {
+    "guid": 1010232,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_niter.png"
+  },
+  {
+    "guid": 1010228,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_quartz_sand.png"
+  },
+  {
+    "guid": 1010202,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_reinforced_concrete.png"
+  },
+  {
+    "guid": 1010203,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_soap_2.png"
+  },
+  {
+    "guid": 1010196,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wooden_planks.png"
+  },
+  {
+    "guid": 1010205,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bricks.png"
+  },
+  {
+    "guid": 1010247,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur_coats.png"
+  },
+  {
+    "guid": 1010207,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_glass_window_3.png"
+  },
+  {
+    "guid": 1010208,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_light_bulb.png"
+  },
+  {
+    "guid": 1010210,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sail.png"
+  },
+  {
+    "guid": 1010211,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_chassis.png"
+  },
+  {
+    "guid": 1010201,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_clay.png"
+  },
+  {
+    "guid": 1010206,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sewing_machine.png"
+  },
+  {
+    "guid": 1010213,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bread.png"
+  },
+  {
+    "guid": 1010214,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_beer.png"
+  },
+  {
+    "guid": 1010215,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_goulash_01.png"
+  },
+  {
+    "guid": 1010217,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_canned_goulash.png"
+  },
+  {
+    "guid": 1010216,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_schnapps_4.png"
+  },
+  {
+    "guid": 1010238,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_meat_sausage.png"
+  },
+  {
+    "guid": 120016,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_champagne.png"
+  },
+  {
+    "guid": 1010218,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_beams.png"
+  },
+  {
+    "guid": 1010219,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_steel.png"
+  },
+  {
+    "guid": 1010221,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_weapons.png"
+  },
+  {
+    "guid": 1010222,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dynamite.png"
+  },
+  {
+    "guid": 1010223,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_advanced_weaponry.png"
+  },
+  {
+    "guid": 1010224,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_steam_machine.png"
+  },
+  {
+    "guid": 1010225,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_steam_carriage.png"
+  },
+  {
+    "guid": 1010204,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_brass.png"
+  },
+  {
+    "guid": 1010226,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal.png"
+  },
+  {
+    "guid": 1010227,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_iron.png"
+  },
+  {
+    "guid": 1010229,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tin_ore.png"
+  },
+  {
+    "guid": 1010230,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_copper.png"
+  },
+  {
+    "guid": 1010231,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cement.png"
+  },
+  {
+    "guid": 1010233,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gold_ore.png"
+  },
+  {
+    "guid": 1010234,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tallow.png"
+  },
+  {
+    "guid": 1010235,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_flour.png"
+  },
+  {
+    "guid": 1010236,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_malt.png"
+  },
+  {
+    "guid": 1010237,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_working_cloth.png"
+  },
+  {
+    "guid": 1010241,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_glass.png"
+  },
+  {
+    "guid": 1010242,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_inlay.png"
+  },
+  {
+    "guid": 1010243,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_carbon_filament.png"
+  },
+  {
+    "guid": 1010245,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_high_wheeler.png"
+  },
+  {
+    "guid": 1010246,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pocket_watch.png"
+  },
+  {
+    "guid": 120030,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_glasses.png"
+  },
+  {
+    "guid": 1010248,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_phonographs.png"
+  },
+  {
+    "guid": 1010249,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gold.png"
+  },
+  {
+    "guid": 1010250,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_jewelry.png"
+  },
+  {
+    "guid": 1010251,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cane_sugar_1.png"
+  },
+  {
+    "guid": 1010252,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tobacco.png"
+  },
+  {
+    "guid": 1010253,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cotton.png"
+  },
+  {
+    "guid": 1010254,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cocoa.png"
+  },
+  {
+    "guid": 1010255,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_caoutchouc.png"
+  },
+  {
+    "guid": 120031,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffee_beans.png"
+  },
+  {
+    "guid": 120034,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_corn.png"
+  },
+  {
+    "guid": 120036,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_alpaca_wool.png"
+  },
+  {
+    "guid": 120041,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_banana.png"
+  },
+  {
+    "guid": 1010256,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pearls.png"
+  },
+  {
+    "guid": 120042,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fishoil.png"
+  },
+  {
+    "guid": 120043,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_poncho.png"
+  },
+  {
+    "guid": 120044,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_felt.png"
+  },
+  {
+    "guid": 120037,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bowler_hat.png"
+  },
+  {
+    "guid": 1010257,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_rum_barrel.png"
+  },
+  {
+    "guid": 1010258,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_chocolate.png"
+  },
+  {
+    "guid": 120032,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffe_cup.png"
+  },
+  {
+    "guid": 120033,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fried_bananas.png"
+  },
+  {
+    "guid": 120035,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_burrito.png"
+  },
+  {
+    "guid": 1010239,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_salt.png"
+  },
+  {
+    "guid": 1010240,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cotton_fur.png"
+  },
+  {
+    "guid": 1010259,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cigars.png"
+  },
+  {
+    "guid": 112694,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_reindeer_meat.png"
+  },
+  {
+    "guid": 112697,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_goose_feathers.png"
+  },
+  {
+    "guid": 112695,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bear_fur.png"
+  },
+  {
+    "guid": 112698,
+    "iconPath": "data/ui/2kimages/main/3dicons/animals/icon_husky.png"
+  },
+  {
+    "guid": 112699,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_whale_oil_2.png"
+  },
+  {
+    "guid": 112696,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_seal_skin.png"
+  },
+  {
+    "guid": 112705,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_pemmican.png"
+  },
+  {
+    "guid": 112702,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_oil_lamps.png"
+  },
+  {
+    "guid": 112701,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sleeping_bags.png"
+  },
+  {
+    "guid": 112700,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur_parka.png"
+  },
+  {
+    "guid": 112704,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sled_frame.png"
+  },
+  {
+    "guid": 112703,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sled.png"
+  },
+  {
+    "guid": 112706,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gas_red.png"
+  },
+  {
+    "guid": 115980,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_passage_junk.png"
+  },
+  {
+    "guid": 114355,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bazaar.png"
+  },
+  {
+    "guid": 114361,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_music_plaza.png"
+  },
+  {
+    "guid": 114362,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_monastery.png"
+  },
+  {
+    "guid": 114425,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_radio_station.png"
+  },
+  {
+    "guid": 24821,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_fertilizer_1.png"
+  },
+  {
+    "guid": 24824,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_bubble_gum.png"
+  },
+  {
+    "guid": 24837,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_gasoline.png"
+  },
+  {
+    "guid": 24846,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_cyanide_leacher.png"
+  },
+  {
+    "guid": 24850,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_silver_smelter.png"
+  },
+  {
+    "guid": 24851,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_silver_coin_good.png"
+  },
+  {
+    "guid": 24852,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_ammonia.png"
+  },
+  {
+    "guid": 24863,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_whale_oil_2.png"
+  },
+  {
+    "guid": 25073,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_rich_sea_2.png"
+  },
+  {
+    "guid": 114356,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_wansa_wood.png"
+  },
+  {
+    "guid": 114364,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_hibiscus_farm.png"
+  },
+  {
+    "guid": 114365,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_linen_farm.png"
+  },
+  {
+    "guid": 114367,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_teff_grass.png"
+  },
+  {
+    "guid": 114368,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_indigo.png"
+  },
+  {
+    "guid": 114369,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_spices.png"
+  },
+  {
+    "guid": 114370,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_beeswax.png"
+  },
+  {
+    "guid": 114357,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_watusi.png"
+  },
+  {
+    "guid": 114371,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_goat_milk.png"
+  },
+  {
+    "guid": 114358,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_salt.png"
+  },
+  {
+    "guid": 117702,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_paper.png"
+  },
+  {
+    "guid": 118728,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_seafood.png"
+  },
+  {
+    "guid": 114391,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_linen_fabric.png"
+  },
+  {
+    "guid": 114408,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_teff_flour.png"
+  },
+  {
+    "guid": 117701,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_candles.png"
+  },
+  {
+    "guid": 114359,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_dried_meat.png"
+  },
+  {
+    "guid": 114401,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_traditional_clothing.png"
+  },
+  {
+    "guid": 114390,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_hibiscus_tea.png"
+  },
+  {
+    "guid": 114402,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_mud_bricks.png"
+  },
+  {
+    "guid": 118724,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_ceramics.png"
+  },
+  {
+    "guid": 114404,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_tapestries.png"
+  },
+  {
+    "guid": 114410,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_wat_stew.png"
+  },
+  {
+    "guid": 114414,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_tobacco_pipes.png"
+  },
+  {
+    "guid": 117698,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_scriptures.png"
+  },
+  {
+    "guid": 117699,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_lanterns.png"
+  },
+  {
+    "guid": 114428,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_leather_shoes.png"
+  },
+  {
+    "guid": 114430,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_suits.png"
+  },
+  {
+    "guid": 114431,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_telephones.png"
+  },
+  {
+    "guid": 133183,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_jam.png"
+  },
+  {
+    "guid": 133181,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_shampoo.png"
+  },
+  {
+    "guid": 133185,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_lemonade.png"
+  },
+  {
+    "guid": 133532,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_souvenir.png"
+  },
+  {
+    "guid": 133093,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cinamon.png"
+  },
+  {
+    "guid": 133095,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_coconut.png"
+  },
+  {
+    "guid": 133097,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_citrus.png"
+  },
+  {
+    "guid": 134616,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cellulose.png"
+  },
+  {
+    "guid": 134623,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_elevator.png"
+  },
+  {
+    "guid": 135229,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_cookie.png"
+  },
+  {
+    "guid": 135230,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_typewriter.png"
+  },
+  {
+    "guid": 135086,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_wood_resin.png"
+  },
+  {
+    "guid": 135087,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_cherry_wood.png"
+  },
+  {
+    "guid": 135129,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_lacquer.png"
+  },
+  {
+    "guid": 135234,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_cognac.png"
+  },
+  {
+    "guid": 135233,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_violin.png"
+  },
+  {
+    "guid": 135232,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_billard.png"
+  },
+  {
+    "guid": 135231,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toys.png"
+  },
+  {
+    "guid": 135186,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_bubble_gum.png"
+  },
+  {
+    "guid": 135130,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_ethanol.png"
+  },
+  {
+    "guid": 135150,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_celluloid.png"
+  },
+  {
+    "guid": 135816,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toaster.png"
+  },
+  {
+    "guid": 135876,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_dishes.png"
+  },
+  {
+    "guid": 135877,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_vacuumcleaner.png"
+  },
+  {
+    "guid": 135878,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_refrigerator.png"
+  },
+  {
+    "guid": 135879,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_suitcase.png"
+  },
+  {
+    "guid": 135880,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_bankerlamp.png"
+  },
+  {
+    "guid": 135881,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_paravent.png"
+  },
+  {
+    "guid": 135882,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_secretary.png"
+  },
+  {
+    "guid": 135883,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_canopy.png"
+  },
+  {
+    "guid": 135884,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_chesterfield.png"
+  },
+  {
+    "guid": 135885,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toothpaste.png"
+  },
+  {
+    "guid": 135886,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_detergent.png"
+  },
+  {
+    "guid": 135887,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_lipstick.png"
+  },
+  {
+    "guid": 135888,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_facecreme.png"
+  },
+  {
+    "guid": 135889,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_pomade.png"
+  },
+  {
+    "guid": 5383,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_herbs_with_flower.png"
+  },
+  {
+    "guid": 5384,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_nandu_leather.png"
+  },
+  {
+    "guid": 5401,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_nandu_feathers.png"
+  },
+  {
+    "guid": 5385,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sheep_milk.png"
+  },
+  {
+    "guid": 5386,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_orchid.png"
+  },
+  {
+    "guid": 5380,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_squid.png"
+  },
+  {
+    "guid": 5387,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_plusgood_bauxit.png"
+  },
+  {
+    "guid": 5393,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_extinguisher.png"
+  },
+  {
+    "guid": 5394,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_police_equipment.png"
+  },
+  {
+    "guid": 5395,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_ventilator.png"
+  },
+  {
+    "guid": 5397,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_medicine.png"
+  },
+  {
+    "guid": 6280,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_electric_cable_3.png"
+  },
+  {
+    "guid": 5381,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_jalea.png"
+  },
+  {
+    "guid": 5382,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_icecream_cone.png"
+  },
+  {
+    "guid": 6600,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_mezcal.png"
+  },
+  {
+    "guid": 5803,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_ballsports.png"
+  },
+  {
+    "guid": 5389,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_costumes.png"
+  },
+  {
+    "guid": 5388,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_perfume.png"
+  },
+  {
+    "guid": 5400,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_pigments.png"
+  },
+  {
+    "guid": 5390,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_motor.png"
+  },
+  {
+    "guid": 5391,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_scooter.png"
+  },
+  {
+    "guid": 5392,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_film_role.png"
+  },
+  {
+    "guid": 5399,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_plusgood_ammonia.png"
+  },
+  {
+    "guid": 5398,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_minerals.png"
+  },
+  {
+    "guid": 6360,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_iron_ore.png"
+  },
+  {
+    "guid": 132747,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_schnitzel.png"
+  },
+  {
+    "guid": 132750,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_goulash.png"
+  },
+  {
+    "guid": 133339,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_fish_and_chips.png"
+  },
+  {
+    "guid": 133340,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_venison_ragout.png"
+  },
+  {
+    "guid": 133341,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_lobster_fume.png"
+  },
+  {
+    "guid": 6136,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_empanadas.png"
+  },
+  {
+    "guid": 132753,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_berliner.png"
+  },
+  {
+    "guid": 133347,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_eclair.png"
+  },
+  {
+    "guid": 133348,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_palmier_biscuit.png"
+  },
+  {
+    "guid": 133349,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_venison_tartare.png"
+  },
+  {
+    "guid": 133350,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_banana_surprise.png"
+  },
+  {
+    "guid": 6138,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_icecream_cup.png"
+  },
+  {
+    "guid": 132752,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_daiquiri_tropic.png"
+  },
+  {
+    "guid": 133342,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_black_muscovy.png"
+  },
+  {
+    "guid": 133343,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_montmatre.png"
+  },
+  {
+    "guid": 133345,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_glogg.png"
+  },
+  {
+    "guid": 133346,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_enbesa_sunrise.png"
+  },
+  {
+    "guid": 6137,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_absinthe.png"
+  },
+  {
+    "guid": 135103,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toaster.png"
+  },
+  {
+    "guid": 135188,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_vacuumcleaner.png"
+  },
+  {
+    "guid": 135187,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_dishes.png"
+  },
+  {
+    "guid": 135189,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_refrigerator.png"
+  },
+  {
+    "guid": 135190,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_suitcase.png"
+  },
+  {
+    "guid": 135105,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_bankerlamp.png"
+  },
+  {
+    "guid": 135121,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_paravent.png"
+  },
+  {
+    "guid": 135120,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_secretary.png"
+  },
+  {
+    "guid": 135122,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_canopy.png"
+  },
+  {
+    "guid": 135123,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_chesterfield.png"
+  },
+  {
+    "guid": 134631,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toothpaste.png"
+  },
+  {
+    "guid": 135191,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_detergent.png"
+  },
+  {
+    "guid": 135192,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_lipstick.png"
+  },
+  {
+    "guid": 135193,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_facecreme.png"
+  },
+  {
+    "guid": 135194,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_pomade.png"
+  },
+  {
+    "guid": 133928,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_brioche_royale.png"
+  },
+  {
+    "guid": 133930,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_trifle_tower.png"
+  },
+  {
+    "guid": 133931,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_marmelade_review.png"
+  },
+  {
+    "guid": 133932,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_age_of_exploration.png"
+  },
+  {
+    "guid": 133933,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_homarde_lit_de_terrorir.png"
+  },
+  {
+    "guid": 6353,
+    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_police_advanced.png"
+  },
+  {
+    "guid": 6354,
+    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_fire_brigade_advanced.png"
+  },
+  {
+    "guid": 6355,
+    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_hospital_advanced.png"
+  },
+  {
+    "guid": 5840,
+    "iconPath": "data/ui/2kimages/main/3dicons/public_building/icon_samba_school.png"
+  },
+  {
+    "guid": 6018,
+    "iconPath": "data/ui/2kimages/main/3dicons/public_building/icon_cinema.png"
+  },
+  {
+    "guid": 6258,
+    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_police_advanced.png"
+  },
+  {
+    "guid": 6259,
+    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_fire_brigade_advanced.png"
+  },
+  {
+    "guid": 6260,
+    "iconPath": "data/ui/2kimages/main/3dicons/city_institution/icon_hospital_advanced.png"
+  },
+  {
+    "guid": 132780,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_restaurant.png"
+  },
+  {
+    "guid": 132782,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_caffee.png"
+  },
+  {
+    "guid": 132781,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_bar.png"
+  },
+  {
+    "guid": 135100,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_mall.png"
+  },
+  {
+    "guid": 135099,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_furnitures.png"
+  },
+  {
+    "guid": 134629,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_drugstore.png"
+  },
+  {
+    "guid": 132770,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_eiffel_tower.png"
+  },
+  {
+    "guid": 5000000,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_moderate.png"
+  },
+  {
+    "guid": 5000001,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_southamerica.png"
+  },
+  {
+    "guid": 160001,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_passage.png"
+  },
+  {
+    "guid": 114327,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_landoflions.png"
+  },
+  {
+    "guid": 601445,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_hotel.png"
+  },
+  {
+    "guid": 24792,
+    "iconPath": "data/ui/2kimages/main/3dicons/hacienda/icon_hacienda_module_jornalero.png"
+  },
+  {
+    "guid": 24793,
+    "iconPath": "data/ui/2kimages/main/3dicons/hacienda/icon_hacienda_module_obrera.png"
+  },
+  {
+    "guid": 1010343,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 1010344,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 1010345,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 1010346,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 1010347,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 101254,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 101255,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 112091,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 112652,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 406,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_highlife_skyliner_monument.png"
+  },
+  {
+    "guid": 114436,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 114437,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 114445,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_residence_scholars.png"
+  },
+  {
+    "guid": 601888,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png"
+  },
+  {
+    "guid": 601889,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png"
+  },
+  {
+    "guid": 601890,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png"
+  },
+  {
+    "guid": 601882,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png"
+  },
+  {
+    "guid": 601883,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png"
+  },
+  {
+    "guid": 601884,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png"
+  },
+  {
+    "guid": 601886,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png"
+  },
+  {
+    "guid": 601891,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_dlc_high_life_128.png"
+  },
+  {
+    "guid": 5405,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_resident.png"
+  },
+  {
+    "guid": 6086,
+    "iconPath": "data/ui/2kimages/main/3dicons/hacienda/icon_hacienda_module_artista.png"
+  },
+  {
+    "guid": 7728,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/policies_hacienda/icon_dietary_education.png"
+  },
+  {
+    "guid": 191912,
+    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_medicine_3.png"
+  },
+  {
+    "guid": 192022,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_sheep_cheese.png"
+  },
+  {
+    "guid": 192025,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_tools.png"
+  },
+  {
+    "guid": 192027,
+    "iconPath": "data/ui/2kimages/main/3dicons/icon_canned_food.png"
+  },
+  {
+    "guid": 190658,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_fireman_105.png"
+  },
+  {
+    "guid": 190672,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_201_b.png"
+  },
+  {
+    "guid": 190673,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_206_b.png"
+  },
+  {
+    "guid": 190674,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_201.png"
+  },
+  {
+    "guid": 190677,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_404.png"
+  },
+  {
+    "guid": 190717,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_priest_715.png"
+  },
+  {
+    "guid": 190719,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_priest_epic.png"
+  },
+  {
+    "guid": 190193,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_priest_legendary.png"
+  },
+  {
+    "guid": 190724,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_109.png"
+  },
+  {
+    "guid": 190728,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_entertainer_801.png"
+  },
+  {
+    "guid": 191469,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_202.png"
+  },
+  {
+    "guid": 191470,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_402.png"
+  },
+  {
+    "guid": 191573,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_103.png"
+  },
+  {
+    "guid": 191579,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_110.png"
+  },
+  {
+    "guid": 192441,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/influencer/icon_influencer_br4mm3n.png"
+  },
+  {
+    "guid": 191738,
+    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_comon.png"
+  },
+  {
+    "guid": 191739,
+    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_uncommon.png"
+  },
+  {
+    "guid": 191740,
+    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_rare.png"
+  },
+  {
+    "guid": 191777,
+    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_comon.png"
+  },
+  {
+    "guid": 191778,
+    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_uncommon.png"
+  },
+  {
+    "guid": 191779,
+    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_rare.png"
+  },
+  {
+    "guid": 191815,
+    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_comon.png"
+  },
+  {
+    "guid": 191816,
+    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_uncommon.png"
+  },
+  {
+    "guid": 191817,
+    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_rare.png"
+  },
+  {
+    "guid": 116161,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_grill.png"
+  },
+  {
+    "guid": 116166,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_heated_jacket.png"
+  },
+  {
+    "guid": 116169,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_kettle.png"
+  },
+  {
+    "guid": 116182,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_craft_beer_takeaway.png"
+  },
+  {
+    "guid": 116184,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_hot_drinks_machine.png"
+  },
+  {
+    "guid": 116188,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_ice_cream_maker.png"
+  },
+  {
+    "guid": 121004,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_adventurer_700.png"
+  },
+  {
+    "guid": 137263,
+    "iconPath": "data/ui/2kimages/main/3dicons/effects_highlife/icon_buff_dlc09_10.png"
+  },
+  {
+    "guid": 137264,
+    "iconPath": "data/ui/2kimages/main/3dicons/effects_highlife/icon_buff_dlc09_11.png"
+  },
+  {
+    "guid": 25634,
+    "iconPath": "data/ui/2kimages/main/3dicons/scenario/policies_hacienda/icon_dietary_education.png"
+  },
+  {
+    "guid": 11656,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/africa/item_insect_proof_net.png"
+  },
+  {
+    "guid": 191133,
+    "iconPath": "data/ui/2kimages/main/3dicons/animals/icon_moose.png"
+  },
+  {
+    "guid": 111161,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_bartender_324.png"
+  },
+  {
+    "guid": 111167,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_203.png"
+  },
+  {
+    "guid": 111176,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_anarchist_manager__202.png"
+  },
+  {
+    "guid": 111178,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_anarchist_krapotkin.png"
+  },
+  {
+    "guid": 111180,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_anarchist_proud.png"
+  },
+  {
+    "guid": 113800,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/sunken_treasure_rewards/icon_habour_master_700.png"
+  },
+  {
+    "guid": 116133,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_905.png"
+  },
+  {
+    "guid": 116151,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_1007.png"
+  },
+  {
+    "guid": 125114,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_herder_3a.png"
+  },
+  {
+    "guid": 125119,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_innkeeper_3a.png"
+  },
+  {
+    "guid": 125121,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_enbesan_cook_2.png"
+  },
+  {
+    "guid": 125125,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_ewahedo_faith_3.png"
+  },
+  {
+    "guid": 125127,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_plants_adept_2.png"
+  },
+  {
+    "guid": 125130,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_politician.png"
+  },
+  {
+    "guid": 125132,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_keeper_of_tradition_1.png"
+  },
+  {
+    "guid": 125134,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_keeper_of_tradition_3.png"
+  },
+  {
+    "guid": 129022,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_amazing_tailor.png"
+  },
+  {
+    "guid": 125140,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_telecommunication_expert_2.png"
+  },
+  {
+    "guid": 125143,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_dean_2.png"
+  },
+  {
+    "guid": 125146,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_enbesa_expatriate_3.png"
+  },
+  {
+    "guid": 125071,
+    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/africa/item_landline_repeater.png"
+  },
+  {
+    "guid": 124208,
+    "iconPath": "data/ui/2kimages/main/3dicons/animals/icon_gelada.png"
+  },
+  {
+    "guid": 124914,
+    "iconPath": "data/ui/2kimages/main/3dicons/museum/africa/icon_nuk_terracota_figure.png"
+  },
+  {
+    "guid": 136668,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_hotelier_4.png"
+  },
+  {
+    "guid": 136697,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_hotelier_5.png"
+  },
+  {
+    "guid": 601908,
+    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_01.png"
+  },
+  {
+    "guid": 601909,
+    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_02.png"
+  },
+  {
+    "guid": 601910,
+    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_03.png"
+  },
+  {
+    "guid": 601911,
+    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_04.png"
+  },
+  {
+    "guid": 601912,
+    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_05.png"
+  },
+  {
+    "guid": 601904,
+    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_01.png"
+  },
+  {
+    "guid": 601903,
+    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_02.png"
+  },
+  {
+    "guid": 601905,
+    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_03.png"
+  },
+  {
+    "guid": 601906,
+    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_04.png"
+  },
+  {
+    "guid": 601902,
+    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_05.png"
+  },
+  {
+    "guid": 6148,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_empanadas.png"
+  },
+  {
+    "guid": 6154,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_absinthe.png"
+  },
+  {
+    "guid": 6157,
+    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_icecream_cup.png"
+  },
+  {
+    "guid": 269407,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_sustainable_eating.png"
+  },
+  {
+    "guid": 269453,
+    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_common_spirits_act.png"
+  },
+  {
+    "guid": 137798,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_hotelier_6.png"
+  },
+  {
+    "guid": 137797,
+    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_specialist_delivery_service.png"
+  },
+  {
+    "guid": 133929,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_brioche_royale.png"
+  },
+  {
+    "guid": 133934,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_trifle_tower.png"
+  },
+  {
+    "guid": 133935,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_marmelade_review.png"
+  },
+  {
+    "guid": 133936,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_age_of_exploration.png"
+  },
+  {
+    "guid": 133937,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_homarde_lit_de_terrorir.png"
+  },
+  {
+    "guid": 132745,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_schnitzel.png"
+  },
+  {
+    "guid": 132749,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_goulash.png"
+  },
+  {
+    "guid": 133352,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_fish_and_chips.png"
+  },
+  {
+    "guid": 133353,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_venison_ragout.png"
+  },
+  {
+    "guid": 133354,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_lobster_fume.png"
+  },
+  {
+    "guid": 132758,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_daiquiri_tropic.png"
+  },
+  {
+    "guid": 133361,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_black_muscovy.png"
+  },
+  {
+    "guid": 133362,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_montmatre.png"
+  },
+  {
+    "guid": 133363,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_glogg.png"
+  },
+  {
+    "guid": 133364,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_enbesa_sunrise.png"
+  },
+  {
+    "guid": 132759,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_berliner.png"
+  },
+  {
+    "guid": 133357,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_eclair.png"
+  },
+  {
+    "guid": 133358,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_palmier_biscuit.png"
+  },
+  {
+    "guid": 133359,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_venison_tartare.png"
+  },
+  {
+    "guid": 133360,
+    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_banana_surprise.png"
+  },
+  {
+    "guid": 135111,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toaster.png"
+  },
+  {
+    "guid": 135195,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_dishes.png"
+  },
+  {
+    "guid": 135196,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_vacuumcleaner.png"
+  },
+  {
+    "guid": 135197,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_refrigerator.png"
+  },
+  {
+    "guid": 658,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_suitcase.png"
+  },
+  {
+    "guid": 135112,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_bankerlamp.png"
+  },
+  {
+    "guid": 135151,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_paravent.png"
+  },
+  {
+    "guid": 135152,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_secretary.png"
+  },
+  {
+    "guid": 135153,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_canopy.png"
+  },
+  {
+    "guid": 661,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_chesterfield.png"
+  },
+  {
+    "guid": 135113,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toothpaste.png"
+  },
+  {
+    "guid": 135199,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_detergent.png"
+  },
+  {
+    "guid": 135200,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_lipstick.png"
+  },
+  {
+    "guid": 135201,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_facecreme.png"
+  },
+  {
+    "guid": 664,
+    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_pomade.png"
+  },
+  {
+    "guid": 180023,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_moderate_white.png"
+  },
+  {
+    "guid": 180025,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_southamerica_white.png"
+  },
+  {
+    "guid": 110934,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_sunken_treasure_white.png"
+  },
+  {
+    "guid": 180045,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_passage_white.png"
+  },
+  {
+    "guid": 112132,
+    "iconPath": "data/ui/2kimages/main/icons/icon_session_landoflions_white.png"
+  },
+  {
+    "guid": 191141,
+    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_museum_celts_stonehenge.png"
+  },
+  {
+    "guid": 124209,
+    "iconPath": "data/ui/2kimages/main/3dicons/animals/icon_lion.png"
+  },
+  {
+    "guid": 45,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_02.png"
+  },
+  {
+    "guid": 73,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_03.png"
+  },
+  {
+    "guid": 76,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_04.png"
+  },
+  {
+    "guid": 29,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_05.png"
+  },
+  {
+    "guid": 77,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_06.png"
+  },
+  {
+    "guid": 46,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_07.png"
+  },
+  {
+    "guid": 78,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_08.png"
+  },
+  {
+    "guid": 237,
+    "iconPath": "data/ui/2kimages/main/profiles/inuit_trader.png"
+  },
+  {
+    "guid": 119051,
+    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_13.png"
+  },
+  {
+    "guid": 1010052,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_farmer.png"
+  },
+  {
+    "guid": 1010115,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_worker.png"
+  },
+  {
+    "guid": 1010116,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_artisan.png"
+  },
+  {
+    "guid": 1010117,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_engineer.png"
+  },
+  {
+    "guid": 1010128,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_investor.png"
+  },
+  {
+    "guid": 1010366,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_jornalero.png"
+  },
+  {
+    "guid": 1010367,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_obrero.png"
+  },
+  {
+    "guid": 112653,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_explorer.png"
+  },
+  {
+    "guid": 112654,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_technician.png"
+  },
+  {
+    "guid": 132723,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_tourist.png"
+  },
+  {
+    "guid": 5406,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_artista.png"
+  },
+  {
+    "guid": 114340,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_shepherd.png"
+  },
+  {
+    "guid": 114341,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_elder.png"
+  },
+  {
+    "guid": 124478,
+    "iconPath": "data/ui/2kimages/main/icons/workforce/icon_workforce_2.5d_scholar.png"
+  }
+]

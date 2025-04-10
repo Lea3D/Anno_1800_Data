@@ -1,0 +1,67 @@
+[
+  {
+    "guid": 4100010,
+    "id": "the_anarchist",
+    "friendly_name": "The Anarchist"
+  },
+  {
+    "guid": 410040,
+    "id": "sunken_treasures",
+    "friendly_name": "Sunken Treasures"
+  },
+  {
+    "guid": 410041,
+    "id": "botanica",
+    "friendly_name": "Botanica"
+  },
+  {
+    "guid": 410042,
+    "id": "the_passage",
+    "friendly_name": "The Passage"
+  },
+  {
+    "guid": 410059,
+    "id": "seat_of_power",
+    "friendly_name": "Seat of Power"
+  },
+  {
+    "guid": 410070,
+    "id": "bright_harvest",
+    "friendly_name": "Bright Harvest"
+  },
+  {
+    "guid": 410071,
+    "id": "land_of_lions",
+    "friendly_name": "Land of Lions"
+  },
+  {
+    "guid": 410083,
+    "id": "docklands",
+    "friendly_name": "Docklands"
+  },
+  {
+    "guid": 410084,
+    "id": "tourist_season",
+    "friendly_name": "Tourist Season"
+  },
+  {
+    "guid": 410085,
+    "id": "the_high_life",
+    "friendly_name": "The High Life"
+  },
+  {
+    "guid": 24961,
+    "id": "seeds_of_change",
+    "friendly_name": "Seeds of Change"
+  },
+  {
+    "guid": 24962,
+    "id": "empire_of_the_skies",
+    "friendly_name": "Empire of the Skies"
+  },
+  {
+    "guid": 24963,
+    "id": "new_world_rising",
+    "friendly_name": "New World Rising"
+  }
+]

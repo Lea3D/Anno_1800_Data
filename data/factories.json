@@ -5,7 +5,6 @@
     ],
     "fertilizerModule": 25241,
     "guid": 24798,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cane_sugar_1.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -20,7 +19,6 @@
     "module": 269849,
     "modulesLimit": 64,
     "modulesSize": 1,
-    "name": "Hacienda Sugar Cane Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -29,7 +27,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Hacienda Sugar Cane Farm",
+    "id": "hacienda_sugar_cane_farm"
   },
   {
     "dlcs": [
@@ -37,7 +37,6 @@
     ],
     "fertilizerModule": 25241,
     "guid": 25003,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_corn.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -52,7 +51,6 @@
     "module": 269849,
     "modulesLimit": 64,
     "modulesSize": 1,
-    "name": "Hacienda Corn Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -61,7 +59,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Hacienda Corn Farm",
+    "id": "hacienda_corn_farm"
   },
   {
     "dlcs": [
@@ -69,7 +69,6 @@
     ],
     "fertilizerModule": 25241,
     "guid": 25005,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffee_beans.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -84,7 +83,6 @@
     "module": 269849,
     "modulesLimit": 64,
     "modulesSize": 1,
-    "name": "Hacienda Coffee Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -93,7 +91,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Hacienda Coffee Farm",
+    "id": "hacienda_coffee_farm"
   },
   {
     "dlcs": [
@@ -101,7 +101,6 @@
     ],
     "fertilizerModule": 25241,
     "guid": 25006,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_caoutchouc.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -116,7 +115,6 @@
     "module": 269849,
     "modulesLimit": 64,
     "modulesSize": 1,
-    "name": "Hacienda Caoutchouc Plantation",
     "outputs": [
       {
         "Amount": 1,
@@ -125,7 +123,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Hacienda Caoutchouc Plantation",
+    "id": "hacienda_caoutchouc_plantation"
   },
   {
     "dlcs": [
@@ -133,7 +133,6 @@
     ],
     "fertilizerModule": 25241,
     "guid": 25009,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cocoa.png",
     "maintenances": [
       {
         "Amount": 5,
@@ -148,7 +147,6 @@
     "module": 269849,
     "modulesLimit": 64,
     "modulesSize": 1,
-    "name": "Hacienda Cocoa Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -157,7 +155,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Hacienda Cocoa Farm",
+    "id": "hacienda_cocoa_farm"
   },
   {
     "dlcs": [
@@ -165,7 +165,6 @@
     ],
     "fertilizerModule": 25241,
     "guid": 25019,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_potatoes.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -180,7 +179,6 @@
     "module": 269849,
     "modulesLimit": 64,
     "modulesSize": 1,
-    "name": "Hacienda Potato Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -189,7 +187,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Hacienda Potato Farm",
+    "id": "hacienda_potato_farm"
   },
   {
     "dlcs": [
@@ -197,7 +197,6 @@
     ],
     "fertilizerModule": 25241,
     "guid": 25020,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_spices.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -212,7 +211,6 @@
     "module": 269849,
     "modulesLimit": 64,
     "modulesSize": 1,
-    "name": "Hacienda Spice Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -221,7 +219,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Hacienda Spice Farm",
+    "id": "hacienda_spice_farm"
   },
   {
     "dlcs": [
@@ -229,7 +229,6 @@
     ],
     "fertilizerModule": 25241,
     "guid": 25128,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cereals_2.png",
     "maintenances": [
       {
         "Amount": 10,
@@ -244,7 +243,6 @@
     "module": 269849,
     "modulesLimit": 64,
     "modulesSize": 1,
-    "name": "Hacienda Grain Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -253,14 +251,15 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Hacienda Grain Farm",
+    "id": "hacienda_grain_farm"
   },
   {
     "dlcs": [
       "dlc10"
     ],
     "guid": 24801,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_rum_barrel.png",
     "inputs": [
       {
         "Amount": 1,
@@ -284,7 +283,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Hacienda Rum Distillery",
     "outputs": [
       {
         "Amount": 1,
@@ -293,14 +291,15 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Hacienda Rum Distillery",
+    "id": "hacienda_rum_distillery"
   },
   {
     "dlcs": [
       "dlc10"
     ],
     "guid": 25064,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_beer.png",
     "inputs": [
       {
         "Amount": 1,
@@ -324,7 +323,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Hacienda Beer Brewery",
     "outputs": [
       {
         "Amount": 1,
@@ -333,7 +331,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Hacienda Beer Brewery",
+    "id": "hacienda_beer_brewery"
   },
   {
     "canClip": false,
@@ -341,7 +341,6 @@
       "dlc10"
     ],
     "guid": 25126,
-    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_atole.png",
     "inputs": [
       {
         "Amount": 1,
@@ -365,7 +364,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Hacienda Atole Maker",
     "outputs": [
       {
         "Amount": 1,
@@ -374,14 +372,15 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Hacienda Atole Maker",
+    "id": "hacienda_atole_maker"
   },
   {
     "dlcs": [
       "dlc10"
     ],
     "guid": 25350,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_schnapps_4.png",
     "inputs": [
       {
         "Amount": 1,
@@ -400,7 +399,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Hacienda Schnapps Distillery",
     "outputs": [
       {
         "Amount": 1,
@@ -409,7 +407,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Hacienda Schnapps Distillery",
+    "id": "hacienda_schnapps_distillery"
   },
   {
     "canClip": false,
@@ -417,7 +417,6 @@
       "dlc10"
     ],
     "guid": 25508,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_tabasco_sauce.png",
     "inputs": [
       {
         "Amount": 1,
@@ -436,7 +435,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Hacienda Hot Sauce Brewery",
     "outputs": [
       {
         "Amount": 1,
@@ -445,7 +443,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Hacienda Hot Sauce Brewery",
+    "id": "hacienda_hot_sauce_brewery"
   },
   {
     "canClip": false,
@@ -453,7 +453,6 @@
       "dlc10"
     ],
     "guid": 24805,
-    "iconPath": "data/ui/2kimages/main/3dicons/hacienda/icon_hacienda_module_fertiliser.png",
     "inputs": [
       {
         "Amount": 1,
@@ -472,7 +471,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Hacienda",
     "outputs": [
       {
         "Amount": 1,
@@ -481,13 +479,14 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Hacienda",
+    "id": "hacienda"
   },
   {
     "canClip": false,
     "fertilizerModule": 25240,
     "guid": 1010262,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cereals_2.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -502,7 +501,6 @@
     "module": 269839,
     "modulesLimit": 144,
     "modulesSize": 1,
-    "name": "Grain Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -512,12 +510,13 @@
     ],
     "palaceBuff": 269366,
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Grain Farm",
+    "id": "grain_farm"
   },
   {
     "canClip": false,
     "guid": 1010263,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_meat_raw.png",
     "maintenances": [
       {
         "Amount": 50,
@@ -532,7 +531,6 @@
     "module": 269957,
     "modulesLimit": 4,
     "modulesSize": 12,
-    "name": "Cattle Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -543,13 +541,14 @@
     "palaceBuff": 269566,
     "region": 5000000,
     "setBuff": 124209,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Cattle Farm",
+    "id": "cattle_farm"
   },
   {
     "canClip": false,
     "fertilizerModule": 25240,
     "guid": 1010264,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_hops.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -564,7 +563,6 @@
     "module": 269837,
     "modulesLimit": 96,
     "modulesSize": 1,
-    "name": "Hop Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -574,13 +572,14 @@
     ],
     "palaceBuff": 269254,
     "region": 5000000,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Hop Farm",
+    "id": "hop_farm"
   },
   {
     "canClip": false,
     "fertilizerModule": 25240,
     "guid": 1010265,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_potatoes.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -595,7 +594,6 @@
     "module": 269837,
     "modulesLimit": 72,
     "modulesSize": 1,
-    "name": "Potato Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -605,13 +603,14 @@
     ],
     "palaceBuff": 269255,
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Potato Farm",
+    "id": "potato_farm"
   },
   {
     "canClip": true,
     "freeArea": 240,
     "guid": 1010266,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_wood_log.png",
     "maintenances": [
       {
         "Amount": 10,
@@ -624,7 +623,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Lumberjack's Hut",
     "outputs": [
       {
         "Amount": 1,
@@ -634,12 +632,13 @@
     ],
     "region": 5000000,
     "setBuff": 191141,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Lumberjack's Hut",
+    "id": "lumberjack's_hut"
   },
   {
     "canClip": false,
     "guid": 1010267,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_wool.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -654,7 +653,6 @@
     "module": 269957,
     "modulesLimit": 3,
     "modulesSize": 9,
-    "name": "Sheep Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -664,12 +662,13 @@
     ],
     "palaceBuff": 269564,
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Sheep Farm",
+    "id": "sheep_farm"
   },
   {
     "canClip": false,
     "guid": 1010269,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_pigs.png",
     "maintenances": [
       {
         "Amount": 40,
@@ -684,7 +683,6 @@
     "module": 269957,
     "modulesLimit": 5,
     "modulesSize": 6,
-    "name": "Pig Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -694,13 +692,14 @@
     ],
     "palaceBuff": 269565,
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Pig Farm",
+    "id": "pig_farm"
   },
   {
     "canClip": false,
     "freeArea": 352,
     "guid": 1010558,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur.png",
     "maintenances": [
       {
         "Amount": 50,
@@ -713,7 +712,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Hunting Cabin",
     "outputs": [
       {
         "Amount": 1,
@@ -723,13 +721,14 @@
     ],
     "region": 5000000,
     "setBuff": 191141,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Hunting Cabin",
+    "id": "hunting_cabin"
   },
   {
     "canClip": false,
     "fertilizerModule": 25240,
     "guid": 100654,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_pepper.png",
     "maintenances": [
       {
         "Amount": 100,
@@ -744,7 +743,6 @@
     "module": 269837,
     "modulesLimit": 108,
     "modulesSize": 1,
-    "name": "Red Pepper Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -754,13 +752,14 @@
     ],
     "palaceBuff": 269256,
     "region": 5000000,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Red Pepper Farm",
+    "id": "red_pepper_farm"
   },
   {
     "canClip": false,
     "fertilizerModule": 25240,
     "guid": 100655,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_grapes.png",
     "maintenances": [
       {
         "Amount": 200,
@@ -775,7 +774,6 @@
     "module": 269837,
     "modulesLimit": 128,
     "modulesSize": 1,
-    "name": "Vineyard",
     "outputs": [
       {
         "Amount": 1,
@@ -785,12 +783,13 @@
     ],
     "palaceBuff": 269257,
     "region": 5000000,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Vineyard",
+    "id": "vineyard"
   },
   {
     "canClip": false,
     "guid": 1010278,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_fish.png",
     "maintenances": [
       {
         "Amount": 40,
@@ -802,7 +801,6 @@
         "Product": 1010052
       }
     ],
-    "name": "Fishery",
     "outputs": [
       {
         "Amount": 1,
@@ -811,12 +809,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Fishery",
+    "id": "fishery"
   },
   {
     "canClip": true,
     "guid": 1010310,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_niter.png",
     "maintenances": [
       {
         "Amount": 500,
@@ -828,7 +827,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Saltpeter Works",
     "outputs": [
       {
         "Amount": 1,
@@ -838,12 +836,13 @@
     ],
     "region": 5000000,
     "setBuff": 191141,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Saltpeter Works",
+    "id": "saltpeter_works"
   },
   {
     "canClip": true,
     "guid": 1010560,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_quartz_sand.png",
     "maintenances": [
       {
         "Amount": 120,
@@ -855,7 +854,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Sand Mine",
     "outputs": [
       {
         "Amount": 1,
@@ -865,12 +863,13 @@
     ],
     "region": 5000000,
     "setBuff": 191141,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Sand Mine",
+    "id": "sand_mine"
   },
   {
     "canClip": false,
     "guid": 1010280,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_reinforced_concrete.png",
     "inputs": [
       {
         "Amount": 1,
@@ -894,7 +893,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Concrete Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -903,12 +901,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Concrete Factory",
+    "id": "concrete_factory"
   },
   {
     "canClip": true,
     "guid": 1010281,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_soap_2.png",
     "inputs": [
       {
         "Amount": 1,
@@ -927,7 +926,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Soap Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -936,12 +934,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Soap Factory",
+    "id": "soap_factory"
   },
   {
     "canClip": false,
     "guid": 1010283,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_bricks.png",
     "inputs": [
       {
         "Amount": 1,
@@ -960,7 +959,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Brick Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -969,12 +967,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Brick Factory",
+    "id": "brick_factory"
   },
   {
     "canClip": false,
     "guid": 100451,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_wooden_planks.png",
     "inputs": [
       {
         "Amount": 1,
@@ -993,7 +992,6 @@
         "Product": 1010052
       }
     ],
-    "name": "Sawmill",
     "outputs": [
       {
         "Amount": 1,
@@ -1002,12 +1000,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Sawmill",
+    "id": "sawmill"
   },
   {
     "canClip": true,
     "guid": 1010325,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur_coats.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1031,7 +1030,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Fur Dealer",
     "outputs": [
       {
         "Amount": 1,
@@ -1040,12 +1038,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Fur Dealer",
+    "id": "fur_dealer"
   },
   {
     "canClip": true,
     "guid": 1010286,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_light_bulb.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1069,7 +1068,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Light Bulb Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -1078,12 +1076,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Light Bulb Factory",
+    "id": "light_bulb_factory"
   },
   {
     "canClip": false,
     "guid": 1010285,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_glass_window_3.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1107,7 +1106,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Window-Makers",
     "outputs": [
       {
         "Amount": 1,
@@ -1116,12 +1114,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Window-Makers",
+    "id": "window-makers"
   },
   {
     "canClip": false,
     "guid": 1010288,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_sail.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1140,7 +1139,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Sailmakers",
     "outputs": [
       {
         "Amount": 1,
@@ -1149,12 +1147,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Sailmakers",
+    "id": "sailmakers"
   },
   {
     "canClip": false,
     "guid": 100416,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_clay.png",
     "maintenances": [
       {
         "Amount": 10,
@@ -1166,7 +1165,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Clay Pit",
     "outputs": [
       {
         "Amount": 1,
@@ -1176,12 +1174,13 @@
     ],
     "region": 5000000,
     "setBuff": 191141,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Clay Pit",
+    "id": "clay_pit"
   },
   {
     "canClip": false,
     "guid": 1010289,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_chassis.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1205,7 +1204,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Coachmakers",
     "outputs": [
       {
         "Amount": 1,
@@ -1214,12 +1212,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Coachmakers",
+    "id": "coachmakers"
   },
   {
     "canClip": false,
     "guid": 1010291,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_bread.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1238,7 +1237,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Bakery",
     "outputs": [
       {
         "Amount": 1,
@@ -1247,12 +1245,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Bakery",
+    "id": "bakery"
   },
   {
     "canClip": false,
     "guid": 1010292,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_beer.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1276,7 +1275,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Brewery",
     "outputs": [
       {
         "Amount": 1,
@@ -1285,12 +1283,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Brewery",
+    "id": "brewery"
   },
   {
     "canClip": false,
     "guid": 1010293,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_goulash_01.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1314,7 +1313,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Artisanal Kitchen",
     "outputs": [
       {
         "Amount": 1,
@@ -1323,12 +1321,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Artisanal Kitchen",
+    "id": "artisanal_kitchen"
   },
   {
     "canClip": false,
     "guid": 1010295,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_canned_goulash.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1352,7 +1351,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Cannery",
     "outputs": [
       {
         "Amount": 1,
@@ -1361,12 +1359,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Cannery",
+    "id": "cannery"
   },
   {
     "canClip": false,
     "guid": 1010294,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_schnapps_4.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1385,7 +1384,6 @@
         "Product": 1010052
       }
     ],
-    "name": "Schnapps Distillery",
     "outputs": [
       {
         "Amount": 1,
@@ -1394,12 +1392,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Schnapps Distillery",
+    "id": "schnapps_distillery"
   },
   {
     "canClip": false,
     "guid": 1010316,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_meat_sausage.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1418,7 +1417,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Butcher's",
     "outputs": [
       {
         "Amount": 1,
@@ -1427,12 +1425,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Butcher's",
+    "id": "butcher's"
   },
   {
     "canClip": false,
     "guid": 100659,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_champagne.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1456,7 +1455,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Champagne Cellar",
     "outputs": [
       {
         "Amount": 1,
@@ -1465,12 +1463,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Champagne Cellar",
+    "id": "champagne_cellar"
   },
   {
     "canClip": false,
     "guid": 1010296,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_beams.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1489,7 +1488,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Steelworks",
     "outputs": [
       {
         "Amount": 1,
@@ -1499,12 +1497,13 @@
     ],
     "palaceBuff": 269399,
     "region": 5000000,
-    "tpmin": 1.3333333333333335
+    "tpmin": 1.3333333333333335,
+    "friendly_name": "Steelworks",
+    "id": "steelworks"
   },
   {
     "canClip": false,
     "guid": 1010297,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_steel.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1528,7 +1527,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Furnace",
     "outputs": [
       {
         "Amount": 1,
@@ -1538,13 +1536,14 @@
     ],
     "palaceBuff": 269275,
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Furnace",
+    "id": "furnace"
   },
   {
     "canClip": false,
     "freeArea": 352,
     "guid": 1010298,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_burn.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -1557,7 +1556,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Charcoal Kiln",
     "outputs": [
       {
         "Amount": 1,
@@ -1567,12 +1565,13 @@
     ],
     "palaceBuff": 269276,
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Charcoal Kiln",
+    "id": "charcoal_kiln"
   },
   {
     "canClip": false,
     "guid": 1010299,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_weapons.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1591,7 +1590,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Weapon Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -1601,12 +1599,13 @@
     ],
     "palaceBuff": 269277,
     "region": 5000000,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Weapon Factory",
+    "id": "weapon_factory"
   },
   {
     "canClip": false,
     "guid": 1010301,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_advanced_weaponry.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1630,7 +1629,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Heavy Weapons Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -1640,12 +1638,13 @@
     ],
     "palaceBuff": 269278,
     "region": 5000000,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Heavy Weapons Factory",
+    "id": "heavy_weapons_factory"
   },
   {
     "canClip": false,
     "guid": 1010302,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_steam_machine.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1669,7 +1668,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Motor Assembly Line",
     "outputs": [
       {
         "Amount": 1,
@@ -1679,12 +1677,13 @@
     ],
     "palaceBuff": 269279,
     "region": 5000000,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Motor Assembly Line",
+    "id": "motor_assembly_line"
   },
   {
     "canClip": true,
     "guid": 1010303,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_steam_carriage.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1708,7 +1707,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Cab Assembly Line",
     "outputs": [
       {
         "Amount": 1,
@@ -1718,12 +1716,13 @@
     ],
     "palaceBuff": 269280,
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Cab Assembly Line",
+    "id": "cab_assembly_line"
   },
   {
     "canClip": false,
     "guid": 1010282,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_brass.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1747,7 +1746,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Brass Smeltery",
     "outputs": [
       {
         "Amount": 1,
@@ -1757,12 +1755,13 @@
     ],
     "palaceBuff": 269281,
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Brass Smeltery",
+    "id": "brass_smeltery"
   },
   {
     "canClip": false,
     "guid": 101331,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_oil.png",
     "maintenances": [
       {
         "Amount": 250,
@@ -1774,7 +1773,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Oil Refinery",
     "outputs": [
       {
         "Amount": 1,
@@ -1784,12 +1782,13 @@
     ],
     "palaceBuff": 269282,
     "region": 5000000,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Oil Refinery",
+    "id": "oil_refinery"
   },
   {
     "canClip": false,
     "guid": 1010304,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_2.png",
     "inputs": [
       {
         "Product": 1591,
@@ -1807,7 +1806,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Coal Mine",
     "outputs": [
       {
         "Amount": 1,
@@ -1816,12 +1814,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Coal Mine",
+    "id": "coal_mine"
   },
   {
     "canClip": false,
     "guid": 1010305,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_iron.png",
     "inputs": [
       {
         "Product": 1591,
@@ -1839,7 +1838,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Iron Mine",
     "outputs": [
       {
         "Amount": 1,
@@ -1848,12 +1846,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Iron Mine",
+    "id": "iron_mine"
   },
   {
     "canClip": false,
     "guid": 1010307,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_tin_ore.png",
     "inputs": [
       {
         "Product": 1591,
@@ -1871,7 +1870,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Zinc Mine",
     "outputs": [
       {
         "Amount": 1,
@@ -1880,12 +1878,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Zinc Mine",
+    "id": "zinc_mine"
   },
   {
     "canClip": false,
     "guid": 1010308,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_copper.png",
     "inputs": [
       {
         "Product": 1591,
@@ -1903,7 +1902,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Copper Mine",
     "outputs": [
       {
         "Amount": 1,
@@ -1912,12 +1910,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Copper Mine",
+    "id": "copper_mine"
   },
   {
     "canClip": false,
     "guid": 1010309,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cement.png",
     "inputs": [
       {
         "Product": 1591,
@@ -1935,7 +1934,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Limestone Quarry",
     "outputs": [
       {
         "Amount": 1,
@@ -1945,12 +1943,13 @@
     ],
     "region": 5000000,
     "setBuff": 191141,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Limestone Quarry",
+    "id": "limestone_quarry"
   },
   {
     "canClip": false,
     "guid": 1010312,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_tallow.png",
     "inputs": [
       {
         "Amount": 1,
@@ -1969,7 +1968,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Rendering Works",
     "outputs": [
       {
         "Amount": 1,
@@ -1978,12 +1976,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Rendering Works",
+    "id": "rendering_works"
   },
   {
     "canClip": false,
     "guid": 1010313,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_flour.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2002,7 +2001,6 @@
         "Product": 1010052
       }
     ],
-    "name": "Flour Mill",
     "outputs": [
       {
         "Amount": 1,
@@ -2011,12 +2009,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Flour Mill",
+    "id": "flour_mill"
   },
   {
     "canClip": false,
     "guid": 1010314,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_malt.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2035,7 +2034,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Malthouse",
     "outputs": [
       {
         "Amount": 1,
@@ -2044,12 +2042,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Malthouse",
+    "id": "malthouse"
   },
   {
     "canClip": true,
     "guid": 1010315,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_working_cloth.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2068,7 +2067,6 @@
         "Product": 1010052
       }
     ],
-    "name": "Framework Knitters",
     "outputs": [
       {
         "Amount": 1,
@@ -2077,12 +2075,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Framework Knitters",
+    "id": "framework_knitters"
   },
   {
     "canClip": false,
     "guid": 1010300,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_dynamite.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2106,7 +2105,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Dynamite Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -2115,12 +2113,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Dynamite Factory",
+    "id": "dynamite_factory"
   },
   {
     "canClip": true,
     "guid": 1010319,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_glass.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2139,7 +2138,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Glassmakers",
     "outputs": [
       {
         "Amount": 1,
@@ -2148,12 +2146,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Glassmakers",
+    "id": "glassmakers"
   },
   {
     "canClip": false,
     "guid": 1010320,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_inlay.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2172,7 +2171,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Marquetry Workshop",
     "outputs": [
       {
         "Amount": 1,
@@ -2181,12 +2179,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Marquetry Workshop",
+    "id": "marquetry_workshop"
   },
   {
     "canClip": false,
     "guid": 1010321,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_carbon_filament.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2205,7 +2204,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Filament Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -2214,12 +2212,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Filament Factory",
+    "id": "filament_factory"
   },
   {
     "canClip": true,
     "guid": 1010323,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_high_wheeler.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2243,7 +2242,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Bicycle Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -2252,12 +2250,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Bicycle Factory",
+    "id": "bicycle_factory"
   },
   {
     "canClip": false,
     "guid": 1010324,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_pocket_watch.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2281,7 +2280,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Clockmakers",
     "outputs": [
       {
         "Amount": 1,
@@ -2290,12 +2288,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Clockmakers",
+    "id": "clockmakers"
   },
   {
     "canClip": false,
     "guid": 1010284,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_sewing_machine.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2319,7 +2318,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Sewing Machine Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -2328,12 +2326,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Sewing Machine Factory",
+    "id": "sewing_machine_factory"
   },
   {
     "canClip": false,
     "guid": 1010326,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_phonographs.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2357,7 +2356,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Gramophone Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -2366,12 +2364,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Gramophone Factory",
+    "id": "gramophone_factory"
   },
   {
     "canClip": false,
     "guid": 1010327,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_gold.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2395,7 +2394,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Goldsmiths",
     "outputs": [
       {
         "Amount": 1,
@@ -2404,12 +2402,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Goldsmiths",
+    "id": "goldsmiths"
   },
   {
     "canClip": false,
     "guid": 1010328,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_jewelry.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2433,7 +2432,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Jewellers",
     "outputs": [
       {
         "Amount": 1,
@@ -2442,12 +2440,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Jewellers",
+    "id": "jewellers"
   },
   {
     "canClip": true,
     "guid": 101250,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_glasses.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2471,7 +2470,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Spectacle Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -2480,13 +2478,14 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Spectacle Factory",
+    "id": "spectacle_factory"
   },
   {
     "canClip": false,
     "fertilizerModule": 25241,
     "guid": 1010329,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cane_sugar_1.png",
     "maintenances": [
       {
         "Amount": 5,
@@ -2501,7 +2500,6 @@
     "module": 269849,
     "modulesLimit": 128,
     "modulesSize": 1,
-    "name": "Sugar Cane Plantation",
     "outputs": [
       {
         "Amount": 1,
@@ -2510,13 +2508,14 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Sugar Cane Plantation",
+    "id": "sugar_cane_plantation"
   },
   {
     "canClip": false,
     "fertilizerModule": 25241,
     "guid": 1010330,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_tobacco.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -2531,7 +2530,6 @@
     "module": 269848,
     "modulesLimit": 192,
     "modulesSize": 1,
-    "name": "Tobacco Plantation",
     "outputs": [
       {
         "Amount": 1,
@@ -2540,13 +2538,14 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Tobacco Plantation",
+    "id": "tobacco_plantation"
   },
   {
     "canClip": true,
     "fertilizerModule": 25241,
     "guid": 1010331,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cotton.png",
     "maintenances": [
       {
         "Amount": 5,
@@ -2561,7 +2560,6 @@
     "module": 269848,
     "modulesLimit": 144,
     "modulesSize": 1,
-    "name": "Cotton Plantation",
     "outputs": [
       {
         "Amount": 1,
@@ -2570,13 +2568,14 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Cotton Plantation",
+    "id": "cotton_plantation"
   },
   {
     "canClip": false,
     "fertilizerModule": 25241,
     "guid": 1010332,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cocoa.png",
     "maintenances": [
       {
         "Amount": 5,
@@ -2591,7 +2590,6 @@
     "module": 269848,
     "modulesLimit": 128,
     "modulesSize": 1,
-    "name": "Cocoa Plantation",
     "outputs": [
       {
         "Amount": 1,
@@ -2600,13 +2598,14 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Cocoa Plantation",
+    "id": "cocoa_plantation"
   },
   {
     "canClip": false,
     "fertilizerModule": 25241,
     "guid": 1010333,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_caoutchouc.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -2621,7 +2620,6 @@
     "module": 269848,
     "modulesLimit": 144,
     "modulesSize": 1,
-    "name": "Caoutchouc Plantation",
     "outputs": [
       {
         "Amount": 1,
@@ -2630,7 +2628,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Caoutchouc Plantation",
+    "id": "caoutchouc_plantation"
   },
   {
     "canClip": true,
@@ -2650,7 +2650,6 @@
         "VectorElement": null
       }
     ],
-    "name": "agriculture_colony01_06 (Timber Yard)",
     "outputs": [
       {
         "Amount": 1,
@@ -2660,13 +2659,14 @@
     ],
     "region": 5000001,
     "setBuff": 191141,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "agriculture_colony01_06 (Timber Yard)",
+    "id": "agriculture_colony01_06_(timber_yard)"
   },
   {
     "canClip": false,
     "fertilizerModule": 25241,
     "guid": 101251,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffee_beans.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -2681,7 +2681,6 @@
     "module": 269848,
     "modulesLimit": 168,
     "modulesSize": 1,
-    "name": "Coffee Plantation",
     "outputs": [
       {
         "Amount": 1,
@@ -2690,13 +2689,14 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Coffee Plantation",
+    "id": "coffee_plantation"
   },
   {
     "canClip": false,
     "fertilizerModule": 25241,
     "guid": 101263,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_banana.png",
     "maintenances": [
       {
         "Amount": 5,
@@ -2727,7 +2727,6 @@
     "module": 269848,
     "modulesLimit": 128,
     "modulesSize": 1,
-    "name": "Plantain Plantation",
     "outputs": [
       {
         "Amount": 1,
@@ -2736,12 +2735,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Plantain Plantation",
+    "id": "plantain_plantation"
   },
   {
     "canClip": false,
     "guid": 101269,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_meat_raw.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -2756,7 +2756,6 @@
     "module": 269958,
     "modulesLimit": 6,
     "modulesSize": 12,
-    "name": "Cattle Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -2766,13 +2765,14 @@
     ],
     "region": 5000001,
     "setBuff": 124209,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Cattle Farm",
+    "id": "cattle_farm"
   },
   {
     "canClip": false,
     "fertilizerModule": 25241,
     "guid": 101270,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_corn.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -2787,7 +2787,6 @@
     "module": 269849,
     "modulesLimit": 168,
     "modulesSize": 1,
-    "name": "Corn Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -2796,12 +2795,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Corn Farm",
+    "id": "corn_farm"
   },
   {
     "canClip": false,
     "guid": 101272,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_alpaca_wool.png",
     "maintenances": [
       {
         "Amount": 5,
@@ -2816,7 +2816,6 @@
     "module": 269958,
     "modulesLimit": 4,
     "modulesSize": 9,
-    "name": "Alpaca Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -2826,12 +2825,13 @@
     ],
     "region": 5000001,
     "setBuff": 124209,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Alpaca Farm",
+    "id": "alpaca_farm"
   },
   {
     "canClip": true,
     "guid": 1010339,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_pearls.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -2843,7 +2843,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Pearl Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -2852,12 +2851,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Pearl Farm",
+    "id": "pearl_farm"
   },
   {
     "canClip": false,
     "guid": 101262,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_fishoil.png",
     "maintenances": [
       {
         "Amount": 5,
@@ -2885,7 +2885,6 @@
         }
       }
     ],
-    "name": "Fish Oil Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -2894,7 +2893,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Fish Oil Factory",
+    "id": "fish_oil_factory"
   },
   {
     "canClip": false,
@@ -2919,7 +2920,6 @@
         "VectorElement": null
       }
     ],
-    "name": "factory_colony01_01 (Timber Factory)",
     "outputs": [
       {
         "Amount": 1,
@@ -2928,7 +2928,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "factory_colony01_01 (Timber Factory)",
+    "id": "factory_colony01_01_(timber_factory)"
   },
   {
     "canClip": true,
@@ -2954,7 +2956,6 @@
         "VectorElement": null
       }
     ],
-    "name": "factory_colony01_02 (Sailcloth Factory)",
     "outputs": [
       {
         "Amount": 1,
@@ -2963,12 +2964,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "factory_colony01_02 (Sailcloth Factory)",
+    "id": "factory_colony01_02_(sailcloth_factory)"
   },
   {
     "canClip": true,
     "guid": 1010318,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cotton_fur.png",
     "inputs": [
       {
         "Amount": 1,
@@ -2987,7 +2989,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Cotton Mill",
     "outputs": [
       {
         "Amount": 1,
@@ -2996,7 +2997,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Cotton Mill",
+    "id": "cotton_mill"
   },
   {
     "canClip": false,
@@ -3015,7 +3018,6 @@
         "VectorElement": null
       }
     ],
-    "name": "factory_colony01_04 (Clay Pit)",
     "outputs": [
       {
         "Amount": 1,
@@ -3025,7 +3027,9 @@
     ],
     "region": 5000001,
     "setBuff": 191141,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "factory_colony01_04 (Clay Pit)",
+    "id": "factory_colony01_04_(clay_pit)"
   },
   {
     "canClip": false,
@@ -3050,7 +3054,6 @@
         "VectorElement": null
       }
     ],
-    "name": "factory_colony01_05 (Brick Factory)",
     "outputs": [
       {
         "Amount": 1,
@@ -3059,12 +3062,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "factory_colony01_05 (Brick Factory)",
+    "id": "factory_colony01_05_(brick_factory)"
   },
   {
     "canClip": true,
     "guid": 101415,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_felt.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3083,7 +3087,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Felt Producer",
     "outputs": [
       {
         "Amount": 1,
@@ -3092,12 +3095,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Felt Producer",
+    "id": "felt_producer"
   },
   {
     "canClip": true,
     "guid": 101273,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_bowler_hat.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3121,7 +3125,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Bombín Weaver",
     "outputs": [
       {
         "Amount": 1,
@@ -3130,12 +3133,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Bombín Weaver",
+    "id": "bombín_weaver"
   },
   {
     "canClip": false,
     "guid": 1010340,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_rum_barrel.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3159,7 +3163,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Rum Distillery",
     "outputs": [
       {
         "Amount": 1,
@@ -3168,12 +3171,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Rum Distillery",
+    "id": "rum_distillery"
   },
   {
     "canClip": false,
     "guid": 1010341,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_chocolate.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3197,7 +3201,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Chocolate Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -3206,12 +3209,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Chocolate Factory",
+    "id": "chocolate_factory"
   },
   {
     "canClip": false,
     "guid": 101252,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffe_cup.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3230,7 +3234,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Coffee Roaster",
     "outputs": [
       {
         "Amount": 1,
@@ -3239,12 +3242,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Coffee Roaster",
+    "id": "coffee_roaster"
   },
   {
     "canClip": false,
     "guid": 101264,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_fried_bananas.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3268,7 +3272,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Fried Plantain Kitchen",
     "outputs": [
       {
         "Amount": 1,
@@ -3277,12 +3280,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Fried Plantain Kitchen",
+    "id": "fried_plantain_kitchen"
   },
   {
     "canClip": false,
     "guid": 101271,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_burrito.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3306,7 +3310,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Tortilla Maker",
     "outputs": [
       {
         "Amount": 1,
@@ -3315,7 +3318,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Tortilla Maker",
+    "id": "tortilla_maker"
   },
   {
     "canClip": false,
@@ -3334,7 +3339,6 @@
         "VectorElement": null
       }
     ],
-    "name": "heavy_colony01_01 (Oil Heavy Industry)",
     "outputs": [
       {
         "Amount": 1,
@@ -3343,7 +3347,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "heavy_colony01_01 (Oil Heavy Industry)",
+    "id": "heavy_colony01_01_(oil_heavy_industry)"
   },
   {
     "canClip": false,
@@ -3367,7 +3373,6 @@
         "VectorElement": null
       }
     ],
-    "name": "mining_colony01_01 (Gold Ore Mine)",
     "outputs": [
       {
         "Amount": 1,
@@ -3376,12 +3381,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 0.4
+    "tpmin": 0.4,
+    "friendly_name": "mining_colony01_01 (Gold Ore Mine)",
+    "id": "mining_colony01_01_(gold_ore_mine)"
   },
   {
     "canClip": true,
     "guid": 1010317,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_salt.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3400,7 +3406,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Sugar Refinery",
     "outputs": [
       {
         "Amount": 1,
@@ -3409,12 +3414,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Sugar Refinery",
+    "id": "sugar_refinery"
   },
   {
     "canClip": false,
     "guid": 101266,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_poncho.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3433,7 +3439,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Poncho Darner",
     "outputs": [
       {
         "Amount": 1,
@@ -3442,7 +3447,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Poncho Darner",
+    "id": "poncho_darner"
   },
   {
     "canClip": false,
@@ -3467,7 +3474,6 @@
         "VectorElement": null
       }
     ],
-    "name": "processing_colony01_03 (Inlay Processing)",
     "outputs": [
       {
         "Amount": 1,
@@ -3476,12 +3482,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "processing_colony01_03 (Inlay Processing)",
+    "id": "processing_colony01_03_(inlay_processing)"
   },
   {
     "canClip": false,
     "guid": 1010342,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cigars.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3505,7 +3512,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Cigar Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -3514,7 +3520,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Cigar Factory",
+    "id": "cigar_factory"
   },
   {
     "canClip": true,
@@ -3523,7 +3531,6 @@
     ],
     "freeArea": 240,
     "guid": 114703,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_wood_log.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -3536,7 +3543,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Lumberjack's Hut",
     "outputs": [
       {
         "Amount": 1,
@@ -3545,7 +3551,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Lumberjack's Hut",
+    "id": "lumberjack's_hut"
   },
   {
     "canClip": false,
@@ -3554,7 +3562,6 @@
     ],
     "freeArea": 352,
     "guid": 112667,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_reindeer_meat.png",
     "inputs": [
       {
         "Product": 1955,
@@ -3573,7 +3580,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Caribou Hunter",
     "outputs": [
       {
         "Amount": 1,
@@ -3582,7 +3588,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Caribou Hunter",
+    "id": "caribou_hunter"
   },
   {
     "canClip": false,
@@ -3590,7 +3598,6 @@
       "dlc3"
     ],
     "guid": 112676,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_goose_feathers.png",
     "maintenances": [
       {
         "Amount": 70,
@@ -3605,7 +3612,6 @@
     ],
     "modulesLimit": 5,
     "modulesSize": 6,
-    "name": "Goose Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -3614,7 +3620,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Goose Farm",
+    "id": "goose_farm"
   },
   {
     "canClip": false,
@@ -3623,7 +3631,6 @@
     ],
     "freeArea": 504,
     "guid": 112673,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_bear_fur.png",
     "inputs": [
       {
         "Product": 1955,
@@ -3642,7 +3649,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Bear Hunter",
     "outputs": [
       {
         "Amount": 1,
@@ -3651,7 +3657,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Bear Hunter",
+    "id": "bear_hunter"
   },
   {
     "canClip": false,
@@ -3659,7 +3667,6 @@
       "dlc3"
     ],
     "guid": 112682,
-    "iconPath": "data/ui/2kimages/main/3dicons/animals/icon_husky.png",
     "maintenances": [
       {
         "Amount": 150,
@@ -3674,7 +3681,6 @@
     ],
     "modulesLimit": 4,
     "modulesSize": 12,
-    "name": "Husky Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -3683,7 +3689,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Husky Farm",
+    "id": "husky_farm"
   },
   {
     "canClip": false,
@@ -3692,7 +3700,6 @@
     ],
     "freeArea": 352,
     "guid": 116034,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur.png",
     "inputs": [
       {
         "Product": 1955,
@@ -3711,7 +3718,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Prime Hunting Cabin",
     "outputs": [
       {
         "Amount": 1,
@@ -3720,7 +3726,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Prime Hunting Cabin",
+    "id": "prime_hunting_cabin"
   },
   {
     "canClip": false,
@@ -3729,7 +3737,6 @@
     ],
     "freeArea": 352,
     "guid": 114705,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_burn.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -3742,7 +3749,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Charcoal Kiln",
     "outputs": [
       {
         "Amount": 1,
@@ -3751,7 +3757,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Charcoal Kiln",
+    "id": "charcoal_kiln"
   },
   {
     "canClip": false,
@@ -3759,7 +3767,6 @@
       "dlc3"
     ],
     "guid": 112666,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_whale_oil_2.png",
     "maintenances": [
       {
         "Amount": 75,
@@ -3772,7 +3779,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Whale Hunter",
     "outputs": [
       {
         "Amount": 1,
@@ -3781,7 +3787,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Whale Hunter",
+    "id": "whale_hunter"
   },
   {
     "canClip": false,
@@ -3789,7 +3797,6 @@
       "dlc3"
     ],
     "guid": 112674,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_seal_skin.png",
     "maintenances": [
       {
         "Amount": 50,
@@ -3802,7 +3809,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Seal Hunter",
     "outputs": [
       {
         "Amount": 1,
@@ -3811,7 +3817,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Seal Hunter",
+    "id": "seal_hunter"
   },
   {
     "canClip": false,
@@ -3819,7 +3827,6 @@
       "dlc3"
     ],
     "guid": 114704,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_wooden_planks.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3839,7 +3846,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Sawmill",
     "outputs": [
       {
         "Amount": 1,
@@ -3848,7 +3854,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Sawmill",
+    "id": "sawmill"
   },
   {
     "canClip": true,
@@ -3856,7 +3864,6 @@
       "dlc3"
     ],
     "guid": 112675,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_sleeping_bags.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3881,7 +3888,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Sleeping Bag Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -3890,7 +3896,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Sleeping Bag Factory",
+    "id": "sleeping_bag_factory"
   },
   {
     "canClip": true,
@@ -3898,7 +3906,6 @@
       "dlc3"
     ],
     "guid": 112679,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_oil_lamps.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3923,7 +3930,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Oil Lamp Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -3932,7 +3938,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Oil Lamp Factory",
+    "id": "oil_lamp_factory"
   },
   {
     "canClip": true,
@@ -3940,7 +3948,6 @@
       "dlc3"
     ],
     "guid": 112672,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_fur_parka.png",
     "inputs": [
       {
         "Amount": 1,
@@ -3965,7 +3972,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Parka Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -3974,7 +3980,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Parka Factory",
+    "id": "parka_factory"
   },
   {
     "canClip": false,
@@ -3982,7 +3990,6 @@
       "dlc3"
     ],
     "guid": 112681,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_sled_frame.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4007,7 +4014,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Sled Frame Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -4016,7 +4022,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Sled Frame Factory",
+    "id": "sled_frame_factory"
   },
   {
     "canClip": true,
@@ -4024,7 +4032,6 @@
       "dlc3"
     ],
     "guid": 112680,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_sled.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4049,7 +4056,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Husky Sled Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -4058,7 +4064,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Husky Sled Factory",
+    "id": "husky_sled_factory"
   },
   {
     "canClip": false,
@@ -4066,7 +4074,6 @@
       "dlc3"
     ],
     "guid": 112668,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_pemmican.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4091,7 +4098,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Pemmican Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -4100,7 +4106,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Pemmican Factory",
+    "id": "pemmican_factory"
   },
   {
     "canClip": true,
@@ -4108,7 +4116,6 @@
       "dlc3"
     ],
     "guid": 112690,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_gas_red.png",
     "maintenances": [
       {
         "Amount": 1000,
@@ -4121,7 +4128,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Arctic Gas Mine",
     "outputs": [
       {
         "Amount": 1,
@@ -4130,7 +4136,9 @@
       }
     ],
     "region": 160001,
-    "tpmin": 0.22222222222222224
+    "tpmin": 0.22222222222222224,
+    "friendly_name": "Arctic Gas Mine",
+    "id": "arctic_gas_mine"
   },
   {
     "canClip": false,
@@ -4138,7 +4146,6 @@
       "dlc3"
     ],
     "guid": 116029,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_gold_ore.png",
     "inputs": [
       {
         "Product": 1591,
@@ -4157,7 +4164,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Deep Gold Mine",
     "outputs": [
       {
         "Amount": 1,
@@ -4166,12 +4172,13 @@
       }
     ],
     "region": 160001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Deep Gold Mine",
+    "id": "deep_gold_mine"
   },
   {
     "canClip": false,
     "guid": 118571,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_gasoline.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4191,7 +4198,6 @@
         "ShutdownThreshold": 0.5
       }
     ],
-    "name": "Fuel Station",
     "outputs": [
       {
         "Amount": 1,
@@ -4200,12 +4206,13 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Fuel Station",
+    "id": "fuel_station"
   },
   {
     "canClip": false,
     "guid": 269840,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_gasoline.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4225,7 +4232,6 @@
         "ShutdownThreshold": 0.5
       }
     ],
-    "name": "Fuel Station",
     "outputs": [
       {
         "Amount": 1,
@@ -4234,7 +4240,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Fuel Station",
+    "id": "fuel_station"
   },
   {
     "canClip": false,
@@ -4242,7 +4250,6 @@
       "dlc6"
     ],
     "guid": 119028,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_gasoline.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4262,7 +4269,6 @@
         "ShutdownThreshold": 0.5
       }
     ],
-    "name": "Fuel Station",
     "outputs": [
       {
         "Amount": 1,
@@ -4271,7 +4277,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Fuel Station",
+    "id": "fuel_station"
   },
   {
     "canClip": true,
@@ -4281,7 +4289,6 @@
     ],
     "freeArea": 240,
     "guid": 133004,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_coconut.png",
     "inputs": [
       {
         "Product": 1955,
@@ -4300,7 +4307,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Orchard: Coconut Oil",
     "outputs": [
       {
         "Amount": 1,
@@ -4310,7 +4316,9 @@
     ],
     "region": 5000001,
     "setBuff": 191141,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Orchard: Coconut Oil",
+    "id": "orchard:_coconut_oil"
   },
   {
     "canClip": true,
@@ -4320,7 +4328,6 @@
     ],
     "freeArea": 240,
     "guid": 133030,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cinamon.png",
     "inputs": [
       {
         "Product": 1955,
@@ -4339,7 +4346,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Orchard: Cinnamon",
     "outputs": [
       {
         "Amount": 1,
@@ -4349,7 +4355,9 @@
     ],
     "region": 5000001,
     "setBuff": 191141,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Orchard: Cinnamon",
+    "id": "orchard:_cinnamon"
   },
   {
     "canClip": true,
@@ -4360,7 +4368,6 @@
     ],
     "freeArea": 240,
     "guid": 133031,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_citrus.png",
     "inputs": [
       {
         "Product": 1955,
@@ -4379,7 +4386,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Orchard: Citrus",
     "outputs": [
       {
         "Amount": 1,
@@ -4389,7 +4395,9 @@
     ],
     "region": 5000001,
     "setBuff": 191141,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Orchard: Citrus",
+    "id": "orchard:_citrus"
   },
   {
     "canClip": true,
@@ -4400,7 +4408,6 @@
     ],
     "freeArea": 240,
     "guid": 134614,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cellulose.png",
     "inputs": [
       {
         "Product": 1955,
@@ -4419,7 +4426,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Orchard: Camphor Wax",
     "outputs": [
       {
         "Amount": 1,
@@ -4429,14 +4435,15 @@
     ],
     "region": 5000001,
     "setBuff": 191141,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Orchard: Camphor Wax",
+    "id": "orchard:_camphor_wax"
   },
   {
     "dlcs": [
       "dlc11"
     ],
     "guid": 924,
-    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_bomb_b.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4465,7 +4472,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Bomb Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -4474,14 +4480,15 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Bomb Factory",
+    "id": "bomb_factory"
   },
   {
     "dlcs": [
       "dlc11"
     ],
     "guid": 934,
-    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_seamines.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4510,7 +4517,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Sea Mine Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -4519,14 +4525,15 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Sea Mine Factory",
+    "id": "sea_mine_factory"
   },
   {
     "dlcs": [
       "dlc11"
     ],
     "guid": 935,
-    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_pamphlets.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4550,7 +4557,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Pamphlet Printer",
     "outputs": [
       {
         "Amount": 1,
@@ -4559,14 +4565,15 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Pamphlet Printer",
+    "id": "pamphlet_printer"
   },
   {
     "dlcs": [
       "dlc11"
     ],
     "guid": 936,
-    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_care_packages.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4595,7 +4602,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Care Package Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -4604,7 +4610,9 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Care Package Factory",
+    "id": "care_package_factory"
   },
   {
     "dlcs": [
@@ -4613,7 +4621,6 @@
     ],
     "freeArea": 352,
     "guid": 1345,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_coal_burn.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -4626,7 +4633,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Charcoal Kiln",
     "outputs": [
       {
         "Amount": 1,
@@ -4635,7 +4641,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Charcoal Kiln",
+    "id": "charcoal_kiln"
   },
   {
     "canClip": false,
@@ -4644,7 +4652,6 @@
     ],
     "freeArea": 366,
     "guid": 1418,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_industrial_lubricant_a.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4669,7 +4676,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Industrial Oil Press",
     "outputs": [
       {
         "Amount": 1,
@@ -4678,7 +4684,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Industrial Oil Press",
+    "id": "industrial_oil_press"
   },
   {
     "canClip": false,
@@ -4687,7 +4695,6 @@
       "dlc12"
     ],
     "guid": 835,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_aluminium.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4714,7 +4721,6 @@
         "VectorElement": null
       }
     ],
-    "name": "Aluminium Smelter",
     "outputs": [
       {
         "Amount": 1,
@@ -4724,7 +4730,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Aluminium Smelter",
+    "id": "aluminium_smelter"
   },
   {
     "canClip": true,
@@ -4732,7 +4740,6 @@
       "dlc11"
     ],
     "guid": 906,
-    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_bomb_b.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4761,7 +4768,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Bomb Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -4770,7 +4776,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Bomb Factory",
+    "id": "bomb_factory"
   },
   {
     "canClip": true,
@@ -4778,7 +4786,6 @@
       "dlc11"
     ],
     "guid": 907,
-    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_seamines.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4807,7 +4814,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Sea Mine Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -4816,7 +4822,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Sea Mine Factory",
+    "id": "sea_mine_factory"
   },
   {
     "canClip": true,
@@ -4824,7 +4832,6 @@
       "dlc11"
     ],
     "guid": 908,
-    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_pamphlets.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4848,7 +4855,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Pamphlet Printer",
     "outputs": [
       {
         "Amount": 1,
@@ -4857,7 +4863,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Pamphlet Printer",
+    "id": "pamphlet_printer"
   },
   {
     "canClip": true,
@@ -4865,7 +4873,6 @@
       "dlc11"
     ],
     "guid": 916,
-    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_care_packages.png",
     "inputs": [
       {
         "Amount": 1,
@@ -4894,7 +4901,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Care Package Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -4903,7 +4909,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Care Package Factory",
+    "id": "care_package_factory"
   },
   {
     "canClip": true,
@@ -4911,7 +4919,6 @@
       "dlc11"
     ],
     "guid": 915,
-    "iconPath": "data/ui/2kimages/main/3dicons/drop_goods/icon_dropgood_water.png",
     "inputs": [
       {
         "Product": 917,
@@ -4929,7 +4936,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Water Drop Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -4938,7 +4944,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Water Drop Factory",
+    "id": "water_drop_factory"
   },
   {
     "canClip": false,
@@ -4947,7 +4955,6 @@
       "dlc12"
     ],
     "guid": 1308,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_bauxit.png",
     "inputs": [],
     "maintenances": [
       {
@@ -4962,7 +4969,6 @@
         "VectorElement": null
       }
     ],
-    "name": "Bauxite Mine",
     "outputs": [
       {
         "Amount": 1,
@@ -4973,7 +4979,9 @@
     ],
     "region": 5000001,
     "setBuff": 191141,
-    "tpmin": 6
+    "tpmin": 6,
+    "friendly_name": "Bauxite Mine",
+    "id": "bauxite_mine"
   },
   {
     "canClip": false,
@@ -4981,7 +4989,6 @@
       "dlc11"
     ],
     "guid": 1353,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_helium.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5007,7 +5014,6 @@
         "VectorElement": null
       }
     ],
-    "name": "Helium Extractor",
     "outputs": [
       {
         "Amount": 1,
@@ -5017,7 +5023,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Helium Extractor",
+    "id": "helium_extractor"
   },
   {
     "canClip": true,
@@ -5026,7 +5034,6 @@
     ],
     "freeArea": 240,
     "guid": 122963,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_wansa_wood.png",
     "maintenances": [
       {
         "Amount": 15,
@@ -5039,7 +5046,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Wanza Woodcutter",
     "outputs": [
       {
         "Amount": 1,
@@ -5048,7 +5054,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Wanza Woodcutter",
+    "id": "wanza_woodcutter"
   },
   {
     "canClip": false,
@@ -5057,7 +5065,6 @@
     ],
     "fertilizerModule": 25242,
     "guid": 114448,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_linen_farm.png",
     "maintenances": [
       {
         "Amount": 10,
@@ -5072,7 +5079,6 @@
     "module": 119026,
     "modulesLimit": 96,
     "modulesSize": 1,
-    "name": "Linseed Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -5081,7 +5087,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Linseed Farm",
+    "id": "linseed_farm"
   },
   {
     "canClip": false,
@@ -5090,7 +5098,6 @@
     ],
     "fertilizerModule": 25242,
     "guid": 114447,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_hibiscus_farm.png",
     "maintenances": [
       {
         "Amount": 15,
@@ -5105,7 +5112,6 @@
     "module": 119026,
     "modulesLimit": 144,
     "modulesSize": 1,
-    "name": "Hibiscus Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -5114,7 +5120,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Hibiscus Farm",
+    "id": "hibiscus_farm"
   },
   {
     "canClip": false,
@@ -5123,7 +5131,6 @@
     ],
     "fertilizerModule": 25242,
     "guid": 114450,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_teff_grass.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -5138,7 +5145,6 @@
     "module": 119026,
     "modulesLimit": 168,
     "modulesSize": 1,
-    "name": "Teff Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -5147,7 +5153,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Teff Farm",
+    "id": "teff_farm"
   },
   {
     "canClip": true,
@@ -5156,7 +5164,6 @@
     ],
     "fertilizerModule": 25242,
     "guid": 114451,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_indigo.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -5171,7 +5178,6 @@
     "module": 119026,
     "modulesLimit": 144,
     "modulesSize": 1,
-    "name": "Indigo Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -5180,7 +5186,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Indigo Farm",
+    "id": "indigo_farm"
   },
   {
     "canClip": true,
@@ -5189,7 +5197,6 @@
     ],
     "fertilizerModule": 25242,
     "guid": 114452,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_spices.png",
     "maintenances": [
       {
         "Amount": 25,
@@ -5204,7 +5211,6 @@
     "module": 119026,
     "modulesLimit": 128,
     "modulesSize": 1,
-    "name": "Spice Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -5213,7 +5219,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Spice Farm",
+    "id": "spice_farm"
   },
   {
     "canClip": false,
@@ -5221,7 +5229,6 @@
       "dlc6"
     ],
     "guid": 114453,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_beeswax.png",
     "maintenances": [
       {
         "Amount": 70,
@@ -5236,7 +5243,6 @@
     "module": 119026,
     "modulesLimit": 192,
     "modulesSize": 1,
-    "name": "Apiary",
     "outputs": [
       {
         "Amount": 1,
@@ -5245,7 +5251,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Apiary",
+    "id": "apiary"
   },
   {
     "canClip": false,
@@ -5253,7 +5261,6 @@
       "dlc6"
     ],
     "guid": 114439,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_watusi.png",
     "maintenances": [
       {
         "Amount": 10,
@@ -5268,7 +5275,6 @@
     "module": 119025,
     "modulesLimit": 5,
     "modulesSize": 16,
-    "name": "Sanga Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -5277,7 +5283,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Sanga Farm",
+    "id": "sanga_farm"
   },
   {
     "canClip": false,
@@ -5285,7 +5293,6 @@
       "dlc6"
     ],
     "guid": 114456,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_goat_milk.png",
     "maintenances": [
       {
         "Amount": 5,
@@ -5300,7 +5307,6 @@
     "module": 119025,
     "modulesLimit": 4,
     "modulesSize": 12,
-    "name": "Goat Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -5309,7 +5315,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Goat Farm",
+    "id": "goat_farm"
   },
   {
     "canClip": false,
@@ -5317,7 +5325,6 @@
       "dlc6"
     ],
     "guid": 114440,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_salt.png",
     "maintenances": [
       {
         "Amount": 15,
@@ -5345,7 +5352,6 @@
         }
       }
     ],
-    "name": "Salt Works",
     "outputs": [
       {
         "Amount": 1,
@@ -5354,7 +5360,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Salt Works",
+    "id": "salt_works"
   },
   {
     "canClip": false,
@@ -5362,7 +5370,6 @@
       "dlc6"
     ],
     "guid": 118729,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_seafood.png",
     "maintenances": [
       {
         "Amount": 40,
@@ -5390,7 +5397,6 @@
         }
       }
     ],
-    "name": "Lobster Fishery",
     "outputs": [
       {
         "Amount": 1,
@@ -5399,7 +5405,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Lobster Fishery",
+    "id": "lobster_fishery"
   },
   {
     "canClip": false,
@@ -5407,7 +5415,6 @@
       "dlc6"
     ],
     "guid": 117743,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_clay.png",
     "maintenances": [
       {
         "Amount": 20,
@@ -5435,7 +5442,6 @@
         }
       }
     ],
-    "name": "Clay Collector",
     "outputs": [
       {
         "Amount": 1,
@@ -5444,7 +5450,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Clay Collector",
+    "id": "clay_collector"
   },
   {
     "canClip": false,
@@ -5452,7 +5460,6 @@
       "dlc6"
     ],
     "guid": 117744,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_paper.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5487,7 +5494,6 @@
         }
       }
     ],
-    "name": "Paper Mill",
     "outputs": [
       {
         "Amount": 1,
@@ -5496,7 +5502,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Paper Mill",
+    "id": "paper_mill"
   },
   {
     "canClip": true,
@@ -5504,7 +5512,6 @@
       "dlc6"
     ],
     "guid": 114441,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_linen_fabric.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5523,7 +5530,6 @@
         "Product": 114340
       }
     ],
-    "name": "Linen Mill",
     "outputs": [
       {
         "Amount": 1,
@@ -5532,7 +5538,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Linen Mill",
+    "id": "linen_mill"
   },
   {
     "canClip": false,
@@ -5540,7 +5548,6 @@
       "dlc6"
     ],
     "guid": 114459,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_teff_flour.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5564,7 +5571,6 @@
         "Product": 114341
       }
     ],
-    "name": "Teff Mill",
     "outputs": [
       {
         "Amount": 1,
@@ -5573,7 +5579,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Teff Mill",
+    "id": "teff_mill"
   },
   {
     "canClip": false,
@@ -5581,7 +5589,6 @@
       "dlc6"
     ],
     "guid": 114461,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_candles.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5605,7 +5612,6 @@
         "Product": 114341
       }
     ],
-    "name": "Chandler",
     "outputs": [
       {
         "Amount": 1,
@@ -5614,7 +5620,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Chandler",
+    "id": "chandler"
   },
   {
     "canClip": true,
@@ -5622,7 +5630,6 @@
       "dlc6"
     ],
     "guid": 114444,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_dried_meat.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5646,7 +5653,6 @@
         "Product": 114340
       }
     ],
-    "name": "Dry-House",
     "outputs": [
       {
         "Amount": 1,
@@ -5655,7 +5661,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Dry-House",
+    "id": "dry-house"
   },
   {
     "canClip": false,
@@ -5663,7 +5671,6 @@
       "dlc6"
     ],
     "guid": 114466,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_traditional_clothing.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5682,7 +5689,6 @@
         "Product": 114340
       }
     ],
-    "name": "Embroiderer",
     "outputs": [
       {
         "Amount": 1,
@@ -5691,7 +5697,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Embroiderer",
+    "id": "embroiderer"
   },
   {
     "canClip": false,
@@ -5699,7 +5707,6 @@
       "dlc6"
     ],
     "guid": 114468,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_hibiscus_tea.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5718,7 +5725,6 @@
         "Product": 114340
       }
     ],
-    "name": "Tea Spicer",
     "outputs": [
       {
         "Amount": 1,
@@ -5727,7 +5733,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Tea Spicer",
+    "id": "tea_spicer"
   },
   {
     "canClip": false,
@@ -5735,7 +5743,6 @@
       "dlc6"
     ],
     "guid": 118725,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_ceramics.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5759,7 +5766,6 @@
         "Product": 114341
       }
     ],
-    "name": "Ceramics Workshop",
     "outputs": [
       {
         "Amount": 1,
@@ -5768,7 +5774,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Ceramics Workshop",
+    "id": "ceramics_workshop"
   },
   {
     "canClip": false,
@@ -5776,7 +5784,6 @@
       "dlc6"
     ],
     "guid": 114469,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_tapestries.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5800,7 +5807,6 @@
         "Product": 114341
       }
     ],
-    "name": "Tapestry Looms",
     "outputs": [
       {
         "Amount": 1,
@@ -5809,7 +5815,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Tapestry Looms",
+    "id": "tapestry_looms"
   },
   {
     "canClip": false,
@@ -5817,7 +5825,6 @@
       "dlc6"
     ],
     "guid": 114467,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_mud_bricks.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5841,7 +5848,6 @@
         "Product": 114341
       }
     ],
-    "name": "Brick Dry-House",
     "outputs": [
       {
         "Amount": 1,
@@ -5850,7 +5856,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Brick Dry-House",
+    "id": "brick_dry-house"
   },
   {
     "canClip": true,
@@ -5858,7 +5866,6 @@
       "dlc6"
     ],
     "guid": 114471,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_wat_stew.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5882,7 +5889,6 @@
         "Product": 114341
       }
     ],
-    "name": "Wat Kitchen",
     "outputs": [
       {
         "Amount": 1,
@@ -5891,7 +5897,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Wat Kitchen",
+    "id": "wat_kitchen"
   },
   {
     "canClip": false,
@@ -5899,7 +5907,6 @@
       "dlc6"
     ],
     "guid": 114472,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_tobacco_pipes.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5923,7 +5930,6 @@
         "Product": 114341
       }
     ],
-    "name": "Pipe Maker",
     "outputs": [
       {
         "Amount": 1,
@@ -5932,7 +5938,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Pipe Maker",
+    "id": "pipe_maker"
   },
   {
     "canClip": false,
@@ -5940,7 +5948,6 @@
       "dlc6"
     ],
     "guid": 114470,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_scriptures.png",
     "inputs": [
       {
         "Amount": 1,
@@ -5964,7 +5971,6 @@
         "Product": 114341
       }
     ],
-    "name": "Luminer",
     "outputs": [
       {
         "Amount": 1,
@@ -5973,7 +5979,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Luminer",
+    "id": "luminer"
   },
   {
     "canClip": false,
@@ -5981,7 +5989,6 @@
       "dlc6"
     ],
     "guid": 114464,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_lanterns.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6005,7 +6012,6 @@
         "Product": 114341
       }
     ],
-    "name": "Lanternsmith",
     "outputs": [
       {
         "Amount": 1,
@@ -6014,7 +6020,9 @@
       }
     ],
     "region": 114327,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Lanternsmith",
+    "id": "lanternsmith"
   },
   {
     "canClip": true,
@@ -6022,7 +6030,6 @@
       "dlc6"
     ],
     "guid": 118733,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_leather_shoes.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6041,7 +6048,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Bootmakers",
     "outputs": [
       {
         "Amount": 1,
@@ -6050,7 +6056,9 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Bootmakers",
+    "id": "bootmakers"
   },
   {
     "canClip": false,
@@ -6058,7 +6066,6 @@
       "dlc6"
     ],
     "guid": 118734,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_suits.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6082,7 +6089,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Tailor's Shop",
     "outputs": [
       {
         "Amount": 1,
@@ -6091,7 +6097,9 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Tailor's Shop",
+    "id": "tailor's_shop"
   },
   {
     "canClip": true,
@@ -6099,7 +6107,6 @@
       "dlc6"
     ],
     "guid": 118735,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_africa/icon_telephones.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6123,7 +6130,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Telephone Manufacturer",
     "outputs": [
       {
         "Amount": 1,
@@ -6132,7 +6138,9 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 0.6666666666666667
+    "tpmin": 0.6666666666666667,
+    "friendly_name": "Telephone Manufacturer",
+    "id": "telephone_manufacturer"
   },
   {
     "canClip": false,
@@ -6140,7 +6148,6 @@
       "dlc6"
     ],
     "guid": 124738,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_coffe_cup.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6159,7 +6166,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Advanced Coffee Roaster",
     "outputs": [
       {
         "Amount": 1,
@@ -6168,7 +6174,9 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Advanced Coffee Roaster",
+    "id": "advanced_coffee_roaster"
   },
   {
     "canClip": false,
@@ -6176,7 +6184,6 @@
       "dlc6"
     ],
     "guid": 124737,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_rum_barrel.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6200,7 +6207,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Advanced Rum Distillery",
     "outputs": [
       {
         "Amount": 1,
@@ -6209,7 +6215,9 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Advanced Rum Distillery",
+    "id": "advanced_rum_distillery"
   },
   {
     "canClip": true,
@@ -6217,7 +6225,6 @@
       "dlc6"
     ],
     "guid": 124739,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cotton_fur.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6241,7 +6248,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Advanced Cotton Mill",
     "outputs": [
       {
         "Amount": 1,
@@ -6250,7 +6256,9 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Advanced Cotton Mill",
+    "id": "advanced_cotton_mill"
   },
   {
     "canClip": true,
@@ -6258,7 +6266,6 @@
       "dlc8"
     ],
     "guid": 132777,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_lemonade.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6287,7 +6294,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Chemical Plant: Lemonade",
     "outputs": [
       {
         "Amount": 1,
@@ -6297,7 +6303,9 @@
     ],
     "palaceBuff": 280091,
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Chemical Plant: Lemonade",
+    "id": "chemical_plant:_lemonade"
   },
   {
     "canClip": true,
@@ -6305,7 +6313,6 @@
       "dlc8"
     ],
     "guid": 132786,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_shampoo.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6334,7 +6341,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Chemical Plant: Shampoo",
     "outputs": [
       {
         "Amount": 1,
@@ -6344,7 +6350,9 @@
     ],
     "palaceBuff": 280090,
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Chemical Plant: Shampoo",
+    "id": "chemical_plant:_shampoo"
   },
   {
     "canClip": true,
@@ -6352,7 +6360,6 @@
       "dlc8"
     ],
     "guid": 133533,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_souvenir.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6381,7 +6388,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Chemical Plant: Souvenirs",
     "outputs": [
       {
         "Amount": 1,
@@ -6391,7 +6397,9 @@
     ],
     "palaceBuff": 280092,
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Chemical Plant: Souvenirs",
+    "id": "chemical_plant:_souvenirs"
   },
   {
     "canClip": true,
@@ -6401,7 +6409,6 @@
     ],
     "freeArea": 240,
     "guid": 133496,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_jam.png",
     "inputs": [
       {
         "Product": 1955,
@@ -6420,7 +6427,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Orchard: Jam",
     "outputs": [
       {
         "Amount": 1,
@@ -6430,7 +6436,9 @@
     ],
     "region": 5000000,
     "setBuff": 191141,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Orchard: Jam",
+    "id": "orchard:_jam"
   },
   {
     "canClip": true,
@@ -6439,7 +6447,6 @@
     ],
     "freeArea": 240,
     "guid": 135088,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_cherry_wood.png",
     "inputs": [
       {
         "Product": 1955,
@@ -6458,7 +6465,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Orchard: Cherry Wood",
     "outputs": [
       {
         "Amount": 1,
@@ -6468,7 +6474,9 @@
     ],
     "region": 5000000,
     "setBuff": 191141,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Orchard: Cherry Wood",
+    "id": "orchard:_cherry_wood"
   },
   {
     "canClip": true,
@@ -6477,7 +6485,6 @@
     ],
     "freeArea": 240,
     "guid": 135085,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_wood_resin.png",
     "inputs": [
       {
         "Product": 1955,
@@ -6496,7 +6503,6 @@
         "ShutdownThreshold": 0.2
       }
     ],
-    "name": "Orchard: Resin",
     "outputs": [
       {
         "Amount": 1,
@@ -6506,7 +6512,9 @@
     ],
     "region": 5000000,
     "setBuff": 191141,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Orchard: Resin",
+    "id": "orchard:_resin"
   },
   {
     "canClip": false,
@@ -6514,7 +6522,6 @@
       "dlc9"
     ],
     "guid": 134622,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_elevator.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6543,7 +6550,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Assembly Line: Elevators",
     "outputs": [
       {
         "Amount": 1,
@@ -6553,7 +6559,9 @@
     ],
     "palaceBuff": 280087,
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Assembly Line: Elevators",
+    "id": "assembly_line:_elevators"
   },
   {
     "canClip": false,
@@ -6561,7 +6569,6 @@
       "dlc9"
     ],
     "guid": 135361,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_cookie.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6590,7 +6597,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Assembly Line: Biscuits",
     "outputs": [
       {
         "Amount": 1,
@@ -6600,7 +6606,9 @@
     ],
     "palaceBuff": 280088,
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Assembly Line: Biscuits",
+    "id": "assembly_line:_biscuits"
   },
   {
     "canClip": false,
@@ -6608,7 +6616,6 @@
       "dlc9"
     ],
     "guid": 135148,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_typewriter.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6637,7 +6644,6 @@
         "Product": 1010115
       }
     ],
-    "name": "Assembly Line: Typewriters",
     "outputs": [
       {
         "Amount": 1,
@@ -6647,7 +6653,9 @@
     ],
     "palaceBuff": 280089,
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Assembly Line: Typewriters",
+    "id": "assembly_line:_typewriters"
   },
   {
     "canClip": true,
@@ -6655,7 +6663,6 @@
       "dlc9"
     ],
     "guid": 135133,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_lacquer.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6684,7 +6691,6 @@
         "Product": 1010117
       }
     ],
-    "name": "Chemical Plant: Lacquer",
     "outputs": [
       {
         "Amount": 1,
@@ -6694,7 +6700,9 @@
     ],
     "palaceBuff": 280093,
     "region": 5000000,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Chemical Plant: Lacquer",
+    "id": "chemical_plant:_lacquer"
   },
   {
     "canClip": false,
@@ -6702,7 +6710,6 @@
       "dlc9"
     ],
     "guid": 135418,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_cognac.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6731,7 +6738,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Artisan's Workshop: Cognac",
     "outputs": [
       {
         "Amount": 1,
@@ -6740,7 +6746,9 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Artisan's Workshop: Cognac",
+    "id": "artisan's_workshop:_cognac"
   },
   {
     "canClip": false,
@@ -6748,7 +6756,6 @@
       "dlc9"
     ],
     "guid": 135397,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_violin.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6777,7 +6784,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Artisan's Workshop: Violins",
     "outputs": [
       {
         "Amount": 1,
@@ -6786,7 +6792,9 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Artisan's Workshop: Violins",
+    "id": "artisan's_workshop:_violins"
   },
   {
     "canClip": false,
@@ -6794,7 +6802,6 @@
       "dlc9"
     ],
     "guid": 135407,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_billard.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6823,7 +6830,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Artisan's Workshop: Billiard Tables",
     "outputs": [
       {
         "Amount": 1,
@@ -6832,7 +6838,9 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Artisan's Workshop: Billiard Tables",
+    "id": "artisan's_workshop:_billiard_tables"
   },
   {
     "canClip": false,
@@ -6840,7 +6848,6 @@
       "dlc9"
     ],
     "guid": 135669,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toys.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6869,7 +6876,6 @@
         "Product": 1010116
       }
     ],
-    "name": "Artisan's Workshop: Toys",
     "outputs": [
       {
         "Amount": 1,
@@ -6878,7 +6884,9 @@
       }
     ],
     "region": 5000000,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Artisan's Workshop: Toys",
+    "id": "artisan's_workshop:_toys"
   },
   {
     "canClip": true,
@@ -6886,7 +6894,6 @@
       "dlc9"
     ],
     "guid": 135185,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_bubble_gum.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6915,7 +6922,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Chemical Plant: Chewing Gum",
     "outputs": [
       {
         "Amount": 1,
@@ -6924,7 +6930,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Chemical Plant: Chewing Gum",
+    "id": "chemical_plant:_chewing_gum"
   },
   {
     "canClip": true,
@@ -6933,7 +6941,6 @@
       "dlc12"
     ],
     "guid": 135134,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_ethanol.png",
     "inputs": [
       {
         "Amount": 1,
@@ -6957,7 +6964,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Chemical Plant: Ethanol",
     "outputs": [
       {
         "Amount": 1,
@@ -6966,7 +6972,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Chemical Plant: Ethanol",
+    "id": "chemical_plant:_ethanol"
   },
   {
     "canClip": true,
@@ -6975,7 +6983,6 @@
       "dlc12"
     ],
     "guid": 135224,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_celluloid.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7004,7 +7011,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Chemical Plant: Celluloid",
     "outputs": [
       {
         "Amount": 1,
@@ -7013,12 +7019,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Chemical Plant: Celluloid",
+    "id": "chemical_plant:_celluloid"
   },
   {
     "canClip": false,
     "guid": 5457,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_nandu_leather.png",
     "maintenances": [
       {
         "Amount": 5,
@@ -7033,7 +7040,6 @@
     "module": 269958,
     "modulesLimit": 4,
     "modulesSize": 16,
-    "name": "Nandu Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -7043,13 +7049,14 @@
     ],
     "region": 5000001,
     "setBuff": 124209,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Nandu Farm",
+    "id": "nandu_farm"
   },
   {
     "canClip": true,
     "fertilizerModule": 25241,
     "guid": 5463,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_herbs_with_flower.png",
     "maintenances": [
       {
         "Amount": 5,
@@ -7064,7 +7071,6 @@
     "module": 269849,
     "modulesLimit": 128,
     "modulesSize": 1,
-    "name": "Herb Garden",
     "outputs": [
       {
         "Amount": 1,
@@ -7073,13 +7079,14 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Herb Garden",
+    "id": "herb_garden"
   },
   {
     "canClip": false,
     "fertilizerModule": 25241,
     "guid": 5814,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_orchid.png",
     "maintenances": [
       {
         "Amount": 5,
@@ -7094,7 +7101,6 @@
     "module": 269849,
     "modulesLimit": 128,
     "modulesSize": 1,
-    "name": "Orchid Farm",
     "outputs": [
       {
         "Amount": 1,
@@ -7103,12 +7109,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Orchid Farm",
+    "id": "orchid_farm"
   },
   {
     "canClip": false,
     "guid": 7919,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_squid.png",
     "maintenances": [
       {
         "Amount": 150,
@@ -7136,7 +7143,6 @@
         }
       }
     ],
-    "name": "Calamari Fishery",
     "outputs": [
       {
         "Amount": 1,
@@ -7145,14 +7151,15 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Calamari Fishery",
+    "id": "calamari_fishery"
   },
   {
     "dlcs": [
       "dlc12"
     ],
     "guid": 6080,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_steel.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7176,7 +7183,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Furnace",
     "outputs": [
       {
         "Amount": 1,
@@ -7185,14 +7191,15 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Furnace",
+    "id": "furnace"
   },
   {
     "dlcs": [
       "dlc12"
     ],
     "guid": 6083,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_sewing_machine.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7216,7 +7223,6 @@
         "Product": 5406
       }
     ],
-    "name": "Sewing Machine Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -7225,7 +7231,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Sewing Machine Factory",
+    "id": "sewing_machine_factory"
   },
   {
     "canClip": false,
@@ -7233,7 +7241,6 @@
       "dlc12"
     ],
     "guid": 6279,
-    "iconPath": "data/ui/2kimages/main/3dicons/scenario/goods/icon_electric_cable_3.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7257,7 +7264,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Cable Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -7266,7 +7272,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Cable Factory",
+    "id": "cable_factory"
   },
   {
     "canClip": true,
@@ -7274,7 +7282,6 @@
       "dlc12"
     ],
     "guid": 5458,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_jalea.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7303,7 +7310,6 @@
         "Product": 5406
       }
     ],
-    "name": "Jalea Kitchen",
     "outputs": [
       {
         "Amount": 1,
@@ -7312,7 +7318,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Jalea Kitchen",
+    "id": "jalea_kitchen"
   },
   {
     "canClip": false,
@@ -7320,7 +7328,6 @@
       "dlc12"
     ],
     "guid": 5459,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_icecream_cone.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7349,7 +7356,6 @@
         "Product": 5406
       }
     ],
-    "name": "Ice Cream Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -7358,7 +7364,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Ice Cream Factory",
+    "id": "ice_cream_factory"
   },
   {
     "canClip": true,
@@ -7366,7 +7374,6 @@
       "dlc12"
     ],
     "guid": 6594,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_mezcal.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7395,7 +7402,6 @@
         "Product": 5406
       }
     ],
-    "name": "Mezcal Bar",
     "outputs": [
       {
         "Amount": 1,
@@ -7404,7 +7410,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Mezcal Bar",
+    "id": "mezcal_bar"
   },
   {
     "canClip": false,
@@ -7412,7 +7420,6 @@
       "dlc12"
     ],
     "guid": 5658,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_scooter.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7441,7 +7448,6 @@
         "Product": 5406
       }
     ],
-    "name": "Scooter Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -7450,7 +7456,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Scooter Factory",
+    "id": "scooter_factory"
   },
   {
     "canClip": true,
@@ -7458,7 +7466,6 @@
       "dlc12"
     ],
     "guid": 5659,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_motor.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7487,7 +7494,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Motor Assembly Plant",
     "outputs": [
       {
         "Amount": 1,
@@ -7496,14 +7502,15 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Motor Assembly Plant",
+    "id": "motor_assembly_plant"
   },
   {
     "dlcs": [
       "dlc12"
     ],
     "guid": 5862,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_ventilator.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7527,7 +7534,6 @@
         "Product": 5406
       }
     ],
-    "name": "Fan Factory",
     "outputs": [
       {
         "Amount": 1,
@@ -7536,14 +7542,15 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Fan Factory",
+    "id": "fan_factory"
   },
   {
     "dlcs": [
       "dlc12"
     ],
     "guid": 1388,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_iron.png",
     "inputs": [],
     "maintenances": [
       {
@@ -7558,7 +7565,6 @@
         "VectorElement": null
       }
     ],
-    "name": "Mineral Mine",
     "outputs": [
       {
         "Amount": 1,
@@ -7568,7 +7574,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Mineral Mine",
+    "id": "mineral_mine"
   },
   {
     "canClip": false,
@@ -7576,7 +7584,6 @@
       "dlc12"
     ],
     "guid": 1390,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_minerals.png",
     "inputs": [],
     "maintenances": [
       {
@@ -7591,7 +7598,6 @@
         "VectorElement": null
       }
     ],
-    "name": "Mineral Mine",
     "outputs": [
       {
         "Amount": 1,
@@ -7601,7 +7607,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 4
+    "tpmin": 4,
+    "friendly_name": "Mineral Mine",
+    "id": "mineral_mine"
   },
   {
     "canClip": false,
@@ -7609,7 +7617,6 @@
       "dlc12"
     ],
     "guid": 5657,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_perfume.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7638,7 +7645,6 @@
         "Product": 5406
       }
     ],
-    "name": "Perfume Mixer",
     "outputs": [
       {
         "Amount": 1,
@@ -7647,7 +7653,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Perfume Mixer",
+    "id": "perfume_mixer"
   },
   {
     "canClip": false,
@@ -7655,7 +7663,6 @@
       "dlc12"
     ],
     "guid": 5879,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_ballsports.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7679,7 +7686,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Ball Manufactory",
     "outputs": [
       {
         "Amount": 1,
@@ -7688,7 +7694,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Ball Manufactory",
+    "id": "ball_manufactory"
   },
   {
     "canClip": false,
@@ -7696,7 +7704,6 @@
       "dlc12"
     ],
     "guid": 5933,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_costumes.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7725,7 +7732,6 @@
         "Product": 5406
       }
     ],
-    "name": "Costume Shop",
     "outputs": [
       {
         "Amount": 1,
@@ -7734,7 +7740,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Costume Shop",
+    "id": "costume_shop"
   },
   {
     "canClip": true,
@@ -7742,7 +7750,6 @@
       "dlc12"
     ],
     "guid": 5828,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_film_role.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7766,7 +7773,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Chemical Plant: Film Reels",
     "outputs": [
       {
         "Amount": 1,
@@ -7775,7 +7781,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 2
+    "tpmin": 2,
+    "friendly_name": "Chemical Plant: Film Reels",
+    "id": "chemical_plant:_film_reels"
   },
   {
     "canClip": true,
@@ -7783,7 +7791,6 @@
       "dlc12"
     ],
     "guid": 6630,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_police_equipment.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7812,7 +7819,6 @@
         "Product": 1010366
       }
     ],
-    "name": "Arsenal: Police Equipment",
     "outputs": [
       {
         "Amount": 1,
@@ -7821,7 +7827,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Arsenal: Police Equipment",
+    "id": "arsenal:_police_equipment"
   },
   {
     "canClip": false,
@@ -7829,7 +7837,6 @@
       "dlc12"
     ],
     "guid": 6629,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_extinguisher.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7853,7 +7860,6 @@
         "Product": 1010367
       }
     ],
-    "name": "Laboratory: Fire Extinguisher",
     "outputs": [
       {
         "Amount": 1,
@@ -7862,7 +7868,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1.3333333333333335
+    "tpmin": 1.3333333333333335,
+    "friendly_name": "Laboratory: Fire Extinguisher",
+    "id": "laboratory:_fire_extinguisher"
   },
   {
     "canClip": false,
@@ -7870,7 +7878,6 @@
       "dlc12"
     ],
     "guid": 6631,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_medicine.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7899,7 +7906,6 @@
         "Product": 5406
       }
     ],
-    "name": "Laboratory: Medicine",
     "outputs": [
       {
         "Amount": 1,
@@ -7908,7 +7914,9 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1.3333333333333335
+    "tpmin": 1.3333333333333335,
+    "friendly_name": "Laboratory: Medicine",
+    "id": "laboratory:_medicine"
   },
   {
     "canClip": false,
@@ -7916,7 +7924,6 @@
       "dlc12"
     ],
     "guid": 5462,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_pigments.png",
     "inputs": [
       {
         "Amount": 1,
@@ -7940,7 +7947,6 @@
         "Product": 5406
       }
     ],
-    "name": "Laboratory: Pigments",
     "outputs": [
       {
         "Amount": 1,
@@ -7949,13 +7955,13 @@
       }
     ],
     "region": 5000001,
-    "tpmin": 1.3333333333333335
+    "tpmin": 1.3333333333333335,
+    "friendly_name": "Laboratory: Pigments",
+    "id": "laboratory:_pigments"
   },
   {
     "guid": 8027,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_niter.png",
     "maintenances": [],
-    "name": "Powered Pasture",
     "outputs": [
       {
         "Amount": 1,
@@ -7965,13 +7971,13 @@
     ],
     "region": 5000001,
     "setBuff": 124209,
-    "tpmin": 0.25
+    "tpmin": 0.25,
+    "friendly_name": "Powered Pasture",
+    "id": "powered_pasture"
   },
   {
     "guid": 8002,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_sheep_milk.png",
     "maintenances": [],
-    "name": "Powered Pasture",
     "outputs": [
       {
         "Amount": 1,
@@ -7981,14 +7987,14 @@
     ],
     "region": 5000001,
     "setBuff": 124209,
-    "tpmin": 1
+    "tpmin": 1,
+    "friendly_name": "Powered Pasture",
+    "id": "powered_pasture"
   },
   {
     "canClip": true,
     "guid": 8026,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_nandu_feathers.png",
     "maintenances": [],
-    "name": "Powered Pasture",
     "outputs": [
       {
         "Amount": 1,
@@ -7998,7 +8004,9 @@
     ],
     "region": 5000001,
     "setBuff": 124209,
-    "tpmin": 0.5
+    "tpmin": 0.5,
+    "friendly_name": "Powered Pasture",
+    "id": "powered_pasture"
   },
   {
     "dlcs": [
@@ -8006,7 +8014,6 @@
     ],
     "guid": 190872,
     "icon": "data/ui/2kimages/main/3dicons/icon_dung.png",
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_dung.png",
     "maintenances": [],
     "outputs": [
       {

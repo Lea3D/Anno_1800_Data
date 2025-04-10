@@ -8,7 +8,8 @@
     ],
     "guid": 141060,
     "influenceCosts": 35,
-    "name": "Propaganda Consumption Weak"
+    "friendly_name": "Propaganda Consumption Weak",
+    "id": "propaganda_consumption_weak"
   },
   {
     "articleEffects": [
@@ -19,7 +20,8 @@
     ],
     "guid": 141061,
     "influenceCosts": 75,
-    "name": "Propaganda Consumption Medium"
+    "friendly_name": "Propaganda Consumption Medium",
+    "id": "propaganda_consumption_medium"
   },
   {
     "articleEffects": [
@@ -30,7 +32,8 @@
     ],
     "guid": 141062,
     "influenceCosts": 115,
-    "name": "Propaganda Consumption Strong"
+    "friendly_name": "Propaganda Consumption Strong",
+    "id": "propaganda_consumption_strong"
   },
   {
     "articleEffects": [
@@ -44,6 +47,7 @@
     ],
     "guid": 111251,
     "influenceCosts": 0,
-    "name": "Propaganda Anarchy Workforce + Consumption"
+    "friendly_name": "Propaganda Anarchy Workforce + Consumption",
+    "id": "propaganda_anarchy_workforce_+_consumption"
   }
 ]

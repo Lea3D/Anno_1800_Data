@@ -27,11 +27,11 @@
       }
     ],
     "guid": 45,
-    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_02.png",
-    "name": "Sir Archibald Blake",
     "regions": [
       5000000
-    ]
+    ],
+    "friendly_name": "Sir Archibald Blake",
+    "id": "sir_archibald_blake"
   },
   {
     "goodsProduction": [
@@ -53,11 +53,11 @@
       }
     ],
     "guid": 73,
-    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_03.png",
-    "name": "Anne Harlow",
     "regions": [
       5000000
-    ]
+    ],
+    "friendly_name": "Anne Harlow",
+    "id": "anne_harlow"
   },
   {
     "goodsProduction": [
@@ -79,11 +79,11 @@
       }
     ],
     "guid": 76,
-    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_04.png",
-    "name": "Jean La Fortune",
     "regions": [
       5000001
-    ]
+    ],
+    "friendly_name": "Jean La Fortune",
+    "id": "jean_la_fortune"
   },
   {
     "goodsProduction": [
@@ -113,11 +113,11 @@
       }
     ],
     "guid": 29,
-    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_05.png",
-    "name": "Isabel Sarmento",
     "regions": [
       5000001
-    ]
+    ],
+    "friendly_name": "Isabel Sarmento",
+    "id": "isabel_sarmento"
   },
   {
     "goodsProduction": [
@@ -167,12 +167,12 @@
       }
     ],
     "guid": 77,
-    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_06.png",
-    "name": "Old Nate",
     "regions": [
       5000000,
       160001
-    ]
+    ],
+    "friendly_name": "Old Nate",
+    "id": "old_nate"
   },
   {
     "goodsProduction": [
@@ -202,11 +202,11 @@
       }
     ],
     "guid": 46,
-    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_07.png",
-    "name": "Eli Bleakworth",
     "regions": [
       5000000
-    ]
+    ],
+    "friendly_name": "Eli Bleakworth",
+    "id": "eli_bleakworth"
   },
   {
     "goodsProduction": [
@@ -232,11 +232,11 @@
       }
     ],
     "guid": 78,
-    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_08.png",
-    "name": "Madame Kahina",
     "regions": [
       5000000
-    ]
+    ],
+    "friendly_name": "Madame Kahina",
+    "id": "madame_kahina"
   },
   {
     "goodsProduction": [
@@ -266,11 +266,11 @@
       }
     ],
     "guid": 237,
-    "iconPath": "data/ui/2kimages/main/profiles/inuit_trader.png",
-    "name": "Qumaq",
     "regions": [
       160001
-    ]
+    ],
+    "friendly_name": "Qumaq",
+    "id": "qumaq"
   },
   {
     "goodsProduction": [
@@ -300,10 +300,10 @@
       }
     ],
     "guid": 119051,
-    "iconPath": "data/ui/2kimages/main/profiles/3rd_party_13.png",
-    "name": "Emperor Ketema",
     "regions": [
       114327
-    ]
+    ],
+    "friendly_name": "Emperor Ketema",
+    "id": "emperor_ketema"
   }
 ]

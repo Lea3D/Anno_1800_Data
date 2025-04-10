@@ -16,12 +16,12 @@
       }
     ],
     "guid": 7728,
-    "iconPath": "data/ui/2kimages/main/3dicons/scenario/policies_hacienda/icon_dietary_education.png",
-    "name": "Dietary Education Initiative",
     "residences": [
       5405,
       6086
-    ]
+    ],
+    "friendly_name": "Dietary Education Initiative",
+    "id": "dietary_education_initiative"
   },
   {
     "allowStacking": true,
@@ -88,8 +88,6 @@
       }
     ],
     "guid": 191912,
-    "iconPath": "data/ui/2kimages/main/3dicons/consumables/icon_medicine_3.png",
-    "name": "Rabies Vaccine",
     "residences": [
       1010343,
       1010344,
@@ -113,7 +111,9 @@
       24793,
       5405,
       6086
-    ]
+    ],
+    "friendly_name": "Rabies Vaccine",
+    "id": "rabies_vaccine"
   },
   {
     "allowStacking": true,
@@ -126,12 +126,12 @@
       }
     ],
     "guid": 192022,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_sheep_cheese.png",
-    "name": "Generous Cheese Board",
     "residences": [
       1010344,
       1010345
-    ]
+    ],
+    "friendly_name": "Generous Cheese Board",
+    "id": "generous_cheese_board"
   },
   {
     "allowStacking": true,
@@ -144,8 +144,6 @@
       }
     ],
     "guid": 192025,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_tools.png",
-    "name": "Bicycle Repair Kit",
     "residences": [
       1010344,
       1010346,
@@ -159,7 +157,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Bicycle Repair Kit",
+    "id": "bicycle_repair_kit"
   },
   {
     "allowStacking": true,
@@ -178,8 +178,6 @@
       }
     ],
     "guid": 192027,
-    "iconPath": "data/ui/2kimages/main/3dicons/icon_canned_food.png",
-    "name": "Tinned Fish",
     "residences": [
       1010343,
       1010344,
@@ -192,7 +190,9 @@
       601890,
       24793,
       6086
-    ]
+    ],
+    "friendly_name": "Tinned Fish",
+    "id": "tinned_fish"
   },
   {
     "allowStacking": true,
@@ -253,8 +253,6 @@
       }
     ],
     "guid": 190658,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_fireman_105.png",
-    "name": "Chief George Doughty, Smouldering Hero",
     "residences": [
       1010343,
       1010344,
@@ -275,7 +273,9 @@
       24793,
       6086,
       5405
-    ]
+    ],
+    "friendly_name": "Chief George Doughty, Smouldering Hero",
+    "id": "chief_george_doughty,_smouldering_hero"
   },
   {
     "allowStacking": true,
@@ -290,11 +290,11 @@
       }
     ],
     "guid": 190672,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_201_b.png",
-    "name": "Generous Innkeeper",
     "residences": [
       1010344
-    ]
+    ],
+    "friendly_name": "Generous Innkeeper",
+    "id": "generous_innkeeper"
   },
   {
     "allowStacking": true,
@@ -333,11 +333,11 @@
       }
     ],
     "guid": 190673,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_206_b.png",
-    "name": "Brasserie Patron Mertens",
     "residences": [
       1010344
-    ]
+    ],
+    "friendly_name": "Brasserie Patron Mertens",
+    "id": "brasserie_patron_mertens"
   },
   {
     "allowStacking": true,
@@ -352,11 +352,11 @@
       }
     ],
     "guid": 190674,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_201.png",
-    "name": "Franck von Lewenstein, Warmest of Hosts",
     "residences": [
       1010344
-    ]
+    ],
+    "friendly_name": "Franck von Lewenstein, Warmest of Hosts",
+    "id": "franck_von_lewenstein,_warmest_of_hosts"
   },
   {
     "allowStacking": true,
@@ -371,15 +371,15 @@
       }
     ],
     "guid": 190677,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_404.png",
-    "name": "Very Senior Lecturer",
     "residences": [
       1010345,
       1010346,
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Very Senior Lecturer",
+    "id": "very_senior_lecturer"
   },
   {
     "allowStacking": true,
@@ -410,12 +410,12 @@
       }
     ],
     "guid": 190717,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_priest_715.png",
-    "name": "Arch-Archbishop Archibald",
     "residences": [
       1010344,
       1010345
-    ]
+    ],
+    "friendly_name": "Arch-Archbishop Archibald",
+    "id": "arch-archbishop_archibald"
   },
   {
     "allowStacking": true,
@@ -430,12 +430,12 @@
       }
     ],
     "guid": 190719,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_priest_epic.png",
-    "name": "Pope Lucius I, \"The Rejuvenator\"",
     "residences": [
       1010344,
       1010345
-    ]
+    ],
+    "friendly_name": "Pope Lucius I, \"The Rejuvenator\"",
+    "id": "pope_lucius_i,_\"the_rejuvenator\""
   },
   {
     "allowStacking": true,
@@ -502,8 +502,6 @@
       }
     ],
     "guid": 190193,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/icon_priest_legendary.png",
-    "name": "Saint D'Artois, Vision of the Valley",
     "residences": [
       1010343,
       1010344,
@@ -525,7 +523,9 @@
       24793,
       6086,
       5405
-    ]
+    ],
+    "friendly_name": "Saint D'Artois, Vision of the Valley",
+    "id": "saint_d'artois,_vision_of_the_valley"
   },
   {
     "allowStacking": true,
@@ -592,8 +592,6 @@
       }
     ],
     "guid": 190724,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_109.png",
-    "name": "Louis P. Hecate, Arm-Puncturing Pioneer",
     "residences": [
       1010343,
       1010344,
@@ -614,7 +612,9 @@
       24793,
       6086,
       5405
-    ]
+    ],
+    "friendly_name": "Louis P. Hecate, Arm-Puncturing Pioneer",
+    "id": "louis_p._hecate,_arm-puncturing_pioneer"
   },
   {
     "allowStacking": true,
@@ -637,15 +637,15 @@
       }
     ],
     "guid": 190728,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_entertainer_801.png",
-    "name": "Actor",
     "residences": [
       1010345,
       1010346,
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Actor",
+    "id": "actor"
   },
   {
     "allowStacking": true,
@@ -658,8 +658,6 @@
       }
     ],
     "guid": 191469,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_202.png",
-    "name": "Gordon the Master Grocer",
     "residences": [
       1010344,
       1010345,
@@ -667,7 +665,9 @@
       24793,
       5405,
       6086
-    ]
+    ],
+    "friendly_name": "Gordon the Master Grocer",
+    "id": "gordon_the_master_grocer"
   },
   {
     "allowStacking": true,
@@ -680,8 +680,6 @@
       }
     ],
     "guid": 191470,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_402.png",
-    "name": "Aristelia Bataille, of the \"Novelty Store\"",
     "residences": [
       1010347,
       601882,
@@ -693,7 +691,9 @@
       24793,
       5405,
       6086
-    ]
+    ],
+    "friendly_name": "Aristelia Bataille, of the \"Novelty Store\"",
+    "id": "aristelia_bataille,_of_the_\"novelty_store\""
   },
   {
     "allowStacking": true,
@@ -708,8 +708,6 @@
       }
     ],
     "guid": 191573,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_103.png",
-    "name": "Joseph Beaumont, Historic Society Founder",
     "residences": [
       1010347,
       601882,
@@ -718,7 +716,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Joseph Beaumont, Historic Society Founder",
+    "id": "joseph_beaumont,_historic_society_founder"
   },
   {
     "allowStacking": true,
@@ -785,8 +785,6 @@
       }
     ],
     "guid": 191579,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_110.png",
-    "name": "Jakob Sokow, The Charitable Banker",
     "residences": [
       1010343,
       1010344,
@@ -807,7 +805,9 @@
       24793,
       6086,
       5405
-    ]
+    ],
+    "friendly_name": "Jakob Sokow, The Charitable Banker",
+    "id": "jakob_sokow,_the_charitable_banker"
   },
   {
     "allowStacking": true,
@@ -838,12 +838,12 @@
       }
     ],
     "guid": 192441,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/influencer/icon_influencer_br4mm3n.png",
-    "name": "Dennis Brammen the Food Critic ",
     "residences": [
       1010343,
       1010344
-    ]
+    ],
+    "friendly_name": "Dennis Brammen the Food Critic ",
+    "id": "dennis_brammen_the_food_critic_"
   },
   {
     "allowStacking": true,
@@ -866,13 +866,13 @@
       }
     ],
     "guid": 191738,
-    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_comon.png",
-    "name": "Sunday Best Law",
     "residences": [
       1010344,
       101254,
       24792
-    ]
+    ],
+    "friendly_name": "Sunday Best Law",
+    "id": "sunday_best_law"
   },
   {
     "allowStacking": true,
@@ -903,14 +903,14 @@
       }
     ],
     "guid": 191739,
-    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_uncommon.png",
-    "name": "Mandatory Mass Law",
     "residences": [
       1010344,
       1010345,
       101254,
       24792
-    ]
+    ],
+    "friendly_name": "Mandatory Mass Law",
+    "id": "mandatory_mass_law"
   },
   {
     "allowStacking": true,
@@ -957,8 +957,6 @@
       }
     ],
     "guid": 191740,
-    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_rare.png",
-    "name": "Patriarch Grigor's Calendar of Holy Days",
     "residences": [
       1010344,
       1010345,
@@ -966,7 +964,9 @@
       101255,
       24792,
       24793
-    ]
+    ],
+    "friendly_name": "Patriarch Grigor's Calendar of Holy Days",
+    "id": "patriarch_grigor's_calendar_of_holy_days"
   },
   {
     "allowStacking": true,
@@ -997,8 +997,6 @@
       }
     ],
     "guid": 191777,
-    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_comon.png",
-    "name": "Teetotalers Manifesto",
     "residences": [
       1010343,
       1010344,
@@ -1021,7 +1019,9 @@
       24793,
       5405,
       6086
-    ]
+    ],
+    "friendly_name": "Teetotalers Manifesto",
+    "id": "teetotalers_manifesto"
   },
   {
     "allowStacking": true,
@@ -1052,8 +1052,6 @@
       }
     ],
     "guid": 191778,
-    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_uncommon.png",
-    "name": "Moderation Act",
     "residences": [
       1010343,
       1010344,
@@ -1076,7 +1074,9 @@
       24793,
       5405,
       6086
-    ]
+    ],
+    "friendly_name": "Moderation Act",
+    "id": "moderation_act"
   },
   {
     "allowStacking": true,
@@ -1107,8 +1107,6 @@
       }
     ],
     "guid": 191779,
-    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_rare.png",
-    "name": "Ms. Amelia's Essential Prohibition Measures",
     "residences": [
       1010343,
       1010344,
@@ -1131,7 +1129,9 @@
       24793,
       5405,
       6086
-    ]
+    ],
+    "friendly_name": "Ms. Amelia's Essential Prohibition Measures",
+    "id": "ms._amelia's_essential_prohibition_measures"
   },
   {
     "allowStacking": true,
@@ -1198,8 +1198,6 @@
       }
     ],
     "guid": 191815,
-    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_comon.png",
-    "name": "The Withdrawal Amendment",
     "residences": [
       1010343,
       1010344,
@@ -1221,7 +1219,9 @@
       24793,
       6086,
       5405
-    ]
+    ],
+    "friendly_name": "The Withdrawal Amendment",
+    "id": "the_withdrawal_amendment"
   },
   {
     "allowStacking": true,
@@ -1294,8 +1294,6 @@
       }
     ],
     "guid": 191816,
-    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_uncommon.png",
-    "name": "Contraception Regulation",
     "residences": [
       1010343,
       1010344,
@@ -1317,7 +1315,9 @@
       24793,
       6086,
       5405
-    ]
+    ],
+    "friendly_name": "Contraception Regulation",
+    "id": "contraception_regulation"
   },
   {
     "allowStacking": true,
@@ -1390,8 +1390,6 @@
       }
     ],
     "guid": 191817,
-    "iconPath": "data/ui/2kimages/main/3dicons/museum/icon_book_rare.png",
-    "name": "Papal Paper of Prenatal Preservation",
     "residences": [
       1010343,
       1010344,
@@ -1413,7 +1411,9 @@
       24793,
       6086,
       5405
-    ]
+    ],
+    "friendly_name": "Papal Paper of Prenatal Preservation",
+    "id": "papal_paper_of_prenatal_preservation"
   },
   {
     "allowStacking": true,
@@ -1429,12 +1429,12 @@
       }
     ],
     "guid": 116161,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_grill.png",
-    "name": "Outdoorsy Grill",
     "residences": [
       112091,
       112652
-    ]
+    ],
+    "friendly_name": "Outdoorsy Grill",
+    "id": "outdoorsy_grill"
   },
   {
     "allowStacking": true,
@@ -1450,11 +1450,11 @@
       }
     ],
     "guid": 116166,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_heated_jacket.png",
-    "name": "Heated Jacket Of Pouchiness",
     "residences": [
       112652
-    ]
+    ],
+    "friendly_name": "Heated Jacket Of Pouchiness",
+    "id": "heated_jacket_of_pouchiness"
   },
   {
     "allowStacking": true,
@@ -1470,11 +1470,11 @@
       }
     ],
     "guid": 116169,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_kettle.png",
-    "name": "Nate's Darling Kettle",
     "residences": [
       112652
-    ]
+    ],
+    "friendly_name": "Nate's Darling Kettle",
+    "id": "nate's_darling_kettle"
   },
   {
     "allowStacking": true,
@@ -1490,13 +1490,13 @@
       }
     ],
     "guid": 116182,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_craft_beer_takeaway.png",
-    "name": "Craft Beer To Takeaway",
     "residences": [
       1010344,
       1010345,
       101255
-    ]
+    ],
+    "friendly_name": "Craft Beer To Takeaway",
+    "id": "craft_beer_to_takeaway"
   },
   {
     "allowStacking": true,
@@ -1512,8 +1512,6 @@
       }
     ],
     "guid": 116184,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_hot_drinks_machine.png",
-    "name": "The \"Don't Leave It 'Til L8r!\" EspressoN8r ",
     "residences": [
       1010346,
       1010347,
@@ -1527,7 +1525,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "The \"Don't Leave It 'Til L8r!\" EspressoN8r ",
+    "id": "the_\"don't_leave_it_'til_l8r!\"_espresson8r_"
   },
   {
     "allowStacking": true,
@@ -1543,8 +1543,6 @@
       }
     ],
     "guid": 116188,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/icon_ice_cream_maker.png",
-    "name": "The \"Magnificone\" Ice Cream Maker",
     "residences": [
       1010347,
       601882,
@@ -1553,7 +1551,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "The \"Magnificone\" Ice Cream Maker",
+    "id": "the_\"magnificone\"_ice_cream_maker"
   },
   {
     "allowStacking": true,
@@ -1575,12 +1575,12 @@
       }
     ],
     "guid": 121004,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_adventurer_700.png",
-    "name": "Amadi Ilga, Ketema's Chief Civil Engineer ",
     "residences": [
       114436,
       114437
-    ]
+    ],
+    "friendly_name": "Amadi Ilga, Ketema's Chief Civil Engineer ",
+    "id": "amadi_ilga,_ketema's_chief_civil_engineer_"
   },
   {
     "allowStacking": true,
@@ -1605,11 +1605,11 @@
       }
     ],
     "guid": 137263,
-    "iconPath": "data/ui/2kimages/main/3dicons/effects_highlife/icon_buff_dlc09_10.png",
-    "name": "Dedication to Anti-Consumerist Causes",
     "residences": [
       406
-    ]
+    ],
+    "friendly_name": "Dedication to Anti-Consumerist Causes",
+    "id": "dedication_to_anti-consumerist_causes"
   },
   {
     "allowStacking": true,
@@ -1634,11 +1634,11 @@
       }
     ],
     "guid": 137264,
-    "iconPath": "data/ui/2kimages/main/3dicons/effects_highlife/icon_buff_dlc09_11.png",
-    "name": "Dedication to Theodora's Egalitarian Futures",
     "residences": [
       406
-    ]
+    ],
+    "friendly_name": "Dedication to Theodora's Egalitarian Futures",
+    "id": "dedication_to_theodora's_egalitarian_futures"
   },
   {
     "allowStacking": true,
@@ -1672,8 +1672,6 @@
       }
     ],
     "guid": 25634,
-    "iconPath": "data/ui/2kimages/main/3dicons/scenario/policies_hacienda/icon_dietary_education.png",
-    "name": "Dietary Education Initiative",
     "residences": [
       101254,
       101255,
@@ -1681,7 +1679,9 @@
       24793,
       5405,
       6086
-    ]
+    ],
+    "friendly_name": "Dietary Education Initiative",
+    "id": "dietary_education_initiative"
   },
   {
     "allowStacking": true,
@@ -1718,8 +1718,6 @@
       }
     ],
     "guid": 11656,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/africa/item_insect_proof_net.png",
-    "name": "Communal Garden",
     "residences": [
       1010343,
       1010344,
@@ -1735,7 +1733,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Communal Garden",
+    "id": "communal_garden"
   },
   {
     "allowStacking": true,
@@ -1790,8 +1790,6 @@
       }
     ],
     "guid": 191133,
-    "iconPath": "data/ui/2kimages/main/3dicons/animals/icon_moose.png",
-    "name": "Taiga Forest Park",
     "residences": [
       1010343,
       1010344,
@@ -1814,7 +1812,9 @@
       24793,
       5405,
       6086
-    ]
+    ],
+    "friendly_name": "Taiga Forest Park",
+    "id": "taiga_forest_park"
   },
   {
     "allowStacking": true,
@@ -1829,12 +1829,12 @@
       }
     ],
     "guid": 111161,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_bartender_324.png",
-    "name": "Intoxicator",
     "residences": [
       1010343,
       1010344
-    ]
+    ],
+    "friendly_name": "Intoxicator",
+    "id": "intoxicator"
   },
   {
     "allowStacking": true,
@@ -1857,8 +1857,6 @@
       }
     ],
     "guid": 111167,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_203.png",
-    "name": "Mr. Garrick, Founder of the Entrepreneur Gentlemen's Club",
     "residences": [
       1010346,
       1010347,
@@ -1871,7 +1869,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Mr. Garrick, Founder of the Entrepreneur Gentlemen's Club",
+    "id": "mr._garrick,_founder_of_the_entrepreneur_gentlemen's_club"
   },
   {
     "allowStacking": true,
@@ -1887,12 +1887,12 @@
       }
     ],
     "guid": 111176,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_anarchist_manager__202.png",
-    "name": "Anti-Clerical Lecturer",
     "residences": [
       1010344,
       1010345
-    ]
+    ],
+    "friendly_name": "Anti-Clerical Lecturer",
+    "id": "anti-clerical_lecturer"
   },
   {
     "allowStacking": true,
@@ -1908,12 +1908,12 @@
       }
     ],
     "guid": 111178,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_anarchist_krapotkin.png",
-    "name": "Krapotkin, Evolutionist of Kindness",
     "residences": [
       1010344,
       1010345
-    ]
+    ],
+    "friendly_name": "Krapotkin, Evolutionist of Kindness",
+    "id": "krapotkin,_evolutionist_of_kindness"
   },
   {
     "allowStacking": true,
@@ -1990,8 +1990,6 @@
       }
     ],
     "guid": 111180,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_anarchist_proud.png",
-    "name": "Pietro Jonah Proud, The Philosopher of the Public Good",
     "residences": [
       1010343,
       1010344,
@@ -2007,7 +2005,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Pietro Jonah Proud, The Philosopher of the Public Good",
+    "id": "pietro_jonah_proud,_the_philosopher_of_the_public_good"
   },
   {
     "allowStacking": true,
@@ -2023,8 +2023,6 @@
       }
     ],
     "guid": 113800,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/sunken_treasure_rewards/icon_habour_master_700.png",
-    "name": "Fernando de Faro, Coffee-Lover and All-Round Cad",
     "residences": [
       1010346,
       1010347,
@@ -2041,7 +2039,9 @@
       24793,
       5405,
       6086
-    ]
+    ],
+    "friendly_name": "Fernando de Faro, Coffee-Lover and All-Round Cad",
+    "id": "fernando_de_faro,_coffee-lover_and_all-round_cad"
   },
   {
     "allowStacking": true,
@@ -2057,12 +2057,12 @@
       }
     ],
     "guid": 116133,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_905.png",
-    "name": "Arnarunn the Seamless",
     "residences": [
       112091,
       112652
-    ]
+    ],
+    "friendly_name": "Arnarunn the Seamless",
+    "id": "arnarunn_the_seamless"
   },
   {
     "allowStacking": true,
@@ -2078,12 +2078,12 @@
       }
     ],
     "guid": 116151,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_1007.png",
-    "name": "Rugged Outdoor Cook",
     "residences": [
       112091,
       112652
-    ]
+    ],
+    "friendly_name": "Rugged Outdoor Cook",
+    "id": "rugged_outdoor_cook"
   },
   {
     "allowStacking": true,
@@ -2099,11 +2099,11 @@
       }
     ],
     "guid": 125114,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_herder_3a.png",
-    "name": "Kaldi, Infuser Of Teas",
     "residences": [
       114445
-    ]
+    ],
+    "friendly_name": "Kaldi, Infuser Of Teas",
+    "id": "kaldi,_infuser_of_teas"
   },
   {
     "allowStacking": true,
@@ -2119,12 +2119,12 @@
       }
     ],
     "guid": 125119,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_innkeeper_3a.png",
-    "name": "Shayi Shaah, Tea House Empress ",
     "residences": [
       114436,
       114437
-    ]
+    ],
+    "friendly_name": "Shayi Shaah, Tea House Empress ",
+    "id": "shayi_shaah,_tea_house_empress_"
   },
   {
     "allowStacking": true,
@@ -2140,12 +2140,12 @@
       }
     ],
     "guid": 125121,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_enbesan_cook_2.png",
-    "name": "Banquet Chef",
     "residences": [
       114436,
       114437
-    ]
+    ],
+    "friendly_name": "Banquet Chef",
+    "id": "banquet_chef"
   },
   {
     "allowStacking": true,
@@ -2161,11 +2161,11 @@
       }
     ],
     "guid": 125125,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_ewahedo_faith_3.png",
-    "name": "Patriarch Matteos X",
     "residences": [
       114437
-    ]
+    ],
+    "friendly_name": "Patriarch Matteos X",
+    "id": "patriarch_matteos_x"
   },
   {
     "allowStacking": true,
@@ -2181,11 +2181,11 @@
       }
     ],
     "guid": 125127,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_plants_adept_2.png",
-    "name": "Industrious Embroidress",
     "residences": [
       114437
-    ]
+    ],
+    "friendly_name": "Industrious Embroidress",
+    "id": "industrious_embroidress"
   },
   {
     "allowStacking": true,
@@ -2201,12 +2201,12 @@
       }
     ],
     "guid": 125130,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_politician.png",
-    "name": "Elder Selassy'e",
     "residences": [
       114436,
       114437
-    ]
+    ],
+    "friendly_name": "Elder Selassy'e",
+    "id": "elder_selassy'e"
   },
   {
     "allowStacking": true,
@@ -2228,12 +2228,12 @@
       }
     ],
     "guid": 125132,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_keeper_of_tradition_1.png",
-    "name": "Aesop, The Fabled Storyteller",
     "residences": [
       114436,
       114437
-    ]
+    ],
+    "friendly_name": "Aesop, The Fabled Storyteller",
+    "id": "aesop,_the_fabled_storyteller"
   },
   {
     "allowStacking": true,
@@ -2255,12 +2255,12 @@
       }
     ],
     "guid": 125134,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_keeper_of_tradition_3.png",
-    "name": "Mulatu The Musical Maestro",
     "residences": [
       114436,
       114437
-    ]
+    ],
+    "friendly_name": "Mulatu The Musical Maestro",
+    "id": "mulatu_the_musical_maestro"
   },
   {
     "allowStacking": true,
@@ -2282,11 +2282,11 @@
       }
     ],
     "guid": 129022,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_amazing_tailor.png",
-    "name": "Amazing Fashion Designer",
     "residences": [
       114445
-    ]
+    ],
+    "friendly_name": "Amazing Fashion Designer",
+    "id": "amazing_fashion_designer"
   },
   {
     "allowStacking": true,
@@ -2308,11 +2308,11 @@
       }
     ],
     "guid": 125140,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_telecommunication_expert_2.png",
-    "name": "Lineman",
     "residences": [
       114445
-    ]
+    ],
+    "friendly_name": "Lineman",
+    "id": "lineman"
   },
   {
     "allowStacking": true,
@@ -2328,11 +2328,11 @@
       }
     ],
     "guid": 125143,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_dean_2.png",
-    "name": "Dean the Dean of Deansville University",
     "residences": [
       114445
-    ]
+    ],
+    "friendly_name": "Dean the Dean of Deansville University",
+    "id": "dean_the_dean_of_deansville_university"
   },
   {
     "allowStacking": true,
@@ -2354,11 +2354,11 @@
       }
     ],
     "guid": 125146,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/africa/icon_enbesa_expatriate_3.png",
-    "name": "Eshe the Eager Enbesan Entrepreneur",
     "residences": [
       114445
-    ]
+    ],
+    "friendly_name": "Eshe the Eager Enbesan Entrepreneur",
+    "id": "eshe_the_eager_enbesan_entrepreneur"
   },
   {
     "allowStacking": true,
@@ -2374,11 +2374,11 @@
       }
     ],
     "guid": 125071,
-    "iconPath": "data/ui/2kimages/main/3dicons/machine_items/africa/item_landline_repeater.png",
-    "name": "Telephone Repeater",
     "residences": [
       114445
-    ]
+    ],
+    "friendly_name": "Telephone Repeater",
+    "id": "telephone_repeater"
   },
   {
     "allowStacking": true,
@@ -2400,11 +2400,11 @@
       }
     ],
     "guid": 124208,
-    "iconPath": "data/ui/2kimages/main/3dicons/animals/icon_gelada.png",
-    "name": "Enbesan Highlands Park",
     "residences": [
       114445
-    ]
+    ],
+    "friendly_name": "Enbesan Highlands Park",
+    "id": "enbesan_highlands_park"
   },
   {
     "allowStacking": true,
@@ -2432,8 +2432,6 @@
       }
     ],
     "guid": 124914,
-    "iconPath": "data/ui/2kimages/main/3dicons/museum/africa/icon_nuk_terracota_figure.png",
-    "name": "Lost Tribes Exhibition",
     "residences": [
       1010345,
       1010346,
@@ -2452,7 +2450,9 @@
       24793,
       5405,
       6086
-    ]
+    ],
+    "friendly_name": "Lost Tribes Exhibition",
+    "id": "lost_tribes_exhibition"
   },
   {
     "allowStacking": true,
@@ -2510,11 +2510,11 @@
       }
     ],
     "guid": 136668,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_hotelier_4.png",
-    "name": "Mr. Bertram, Hotel Manager",
     "residences": [
       601445
-    ]
+    ],
+    "friendly_name": "Mr. Bertram, Hotel Manager",
+    "id": "mr._bertram,_hotel_manager"
   },
   {
     "allowStacking": true,
@@ -2542,11 +2542,11 @@
       }
     ],
     "guid": 136697,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_hotelier_5.png",
-    "name": "Madame Blanc, Maître d'hôtel",
     "residences": [
       601445
-    ]
+    ],
+    "friendly_name": "Madame Blanc, Maître d'hôtel",
+    "id": "madame_blanc,_maître_d'hôtel"
   },
   {
     "allowStacking": true,
@@ -2634,14 +2634,14 @@
       }
     ],
     "guid": 601908,
-    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_01.png",
-    "name": "Weak Panorama",
     "panoramaLevel": 1,
     "residences": [
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Weak Panorama",
+    "id": "weak_panorama"
   },
   {
     "allowStacking": true,
@@ -2729,14 +2729,14 @@
       }
     ],
     "guid": 601909,
-    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_02.png",
-    "name": "Moderate Panorama",
     "panoramaLevel": 2,
     "residences": [
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Moderate Panorama",
+    "id": "moderate_panorama"
   },
   {
     "allowStacking": true,
@@ -2824,14 +2824,14 @@
       }
     ],
     "guid": 601910,
-    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_03.png",
-    "name": "Decent Panorama",
     "panoramaLevel": 3,
     "residences": [
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Decent Panorama",
+    "id": "decent_panorama"
   },
   {
     "allowStacking": true,
@@ -2919,14 +2919,14 @@
       }
     ],
     "guid": 601911,
-    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_04.png",
-    "name": "Strong Panorama",
     "panoramaLevel": 4,
     "residences": [
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Strong Panorama",
+    "id": "strong_panorama"
   },
   {
     "allowStacking": true,
@@ -3014,14 +3014,14 @@
       }
     ],
     "guid": 601912,
-    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_05.png",
-    "name": "Intense Panorama",
     "panoramaLevel": 5,
     "residences": [
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Intense Panorama",
+    "id": "intense_panorama"
   },
   {
     "allowStacking": true,
@@ -3115,8 +3115,6 @@
       }
     ],
     "guid": 601904,
-    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_01.png",
-    "name": "Weak Panorama",
     "panoramaLevel": 1,
     "residences": [
       601882,
@@ -3124,7 +3122,9 @@
       601884,
       601886,
       601891
-    ]
+    ],
+    "friendly_name": "Weak Panorama",
+    "id": "weak_panorama"
   },
   {
     "allowStacking": true,
@@ -3218,8 +3218,6 @@
       }
     ],
     "guid": 601903,
-    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_02.png",
-    "name": "Moderate Panorama",
     "panoramaLevel": 2,
     "residences": [
       601882,
@@ -3227,7 +3225,9 @@
       601884,
       601886,
       601891
-    ]
+    ],
+    "friendly_name": "Moderate Panorama",
+    "id": "moderate_panorama"
   },
   {
     "allowStacking": true,
@@ -3321,8 +3321,6 @@
       }
     ],
     "guid": 601905,
-    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_03.png",
-    "name": "Decent Panorama",
     "panoramaLevel": 3,
     "residences": [
       601882,
@@ -3330,7 +3328,9 @@
       601884,
       601886,
       601891
-    ]
+    ],
+    "friendly_name": "Decent Panorama",
+    "id": "decent_panorama"
   },
   {
     "allowStacking": true,
@@ -3424,8 +3424,6 @@
       }
     ],
     "guid": 601906,
-    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_04.png",
-    "name": "Strong Panorama",
     "panoramaLevel": 4,
     "residences": [
       601882,
@@ -3433,7 +3431,9 @@
       601884,
       601886,
       601891
-    ]
+    ],
+    "friendly_name": "Strong Panorama",
+    "id": "strong_panorama"
   },
   {
     "allowStacking": true,
@@ -3527,8 +3527,6 @@
       }
     ],
     "guid": 601902,
-    "iconPath": "data/ui/2kimages/main/icons/panorama_effect_levels/panorama_buff_05.png",
-    "name": "Intense Panorama",
     "panoramaLevel": 5,
     "residences": [
       601882,
@@ -3536,7 +3534,9 @@
       601884,
       601886,
       601891
-    ]
+    ],
+    "friendly_name": "Intense Panorama",
+    "id": "intense_panorama"
   },
   {
     "allowStacking": false,
@@ -3564,8 +3564,6 @@
       }
     ],
     "guid": 6148,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_empanadas.png",
-    "name": "Empanadas",
     "residences": [
       1010343,
       1010344,
@@ -3574,7 +3572,9 @@
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Empanadas",
+    "id": "empanadas"
   },
   {
     "allowStacking": false,
@@ -3602,8 +3602,6 @@
       }
     ],
     "guid": 6154,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_absinthe.png",
-    "name": "Absinth",
     "residences": [
       1010343,
       1010344,
@@ -3612,7 +3610,9 @@
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Absinth",
+    "id": "absinth"
   },
   {
     "allowStacking": false,
@@ -3640,8 +3640,6 @@
       }
     ],
     "guid": 6157,
-    "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_icecream_cup.png",
-    "name": "Cone O'Copia",
     "residences": [
       1010346,
       1010347,
@@ -3654,7 +3652,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Cone O'Copia",
+    "id": "cone_o'copia"
   },
   {
     "allowStacking": true,
@@ -3712,8 +3712,6 @@
       }
     ],
     "guid": 269407,
-    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_sustainable_eating.png",
-    "name": "Creative Cuisine Act",
     "residences": [
       1010343,
       1010344,
@@ -3731,7 +3729,9 @@
       601891,
       406,
       601445
-    ]
+    ],
+    "friendly_name": "Creative Cuisine Act",
+    "id": "creative_cuisine_act"
   },
   {
     "allowStacking": false,
@@ -3783,8 +3783,6 @@
       }
     ],
     "guid": 269453,
-    "iconPath": "data/ui/2kimages/main/3dicons/palace/icon_common_spirits_act.png",
-    "name": "Late Licence Act",
     "residences": [
       1010343,
       1010344,
@@ -3801,7 +3799,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Late Licence Act",
+    "id": "late_licence_act"
   },
   {
     "allowStacking": true,
@@ -3865,8 +3865,6 @@
       }
     ],
     "guid": 137798,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/highlife/icon_specialist_hotelier_6.png",
-    "name": "Blue Skies Maid ",
     "residences": [
       601888,
       601889,
@@ -3876,7 +3874,9 @@
       601884,
       601886,
       601891
-    ]
+    ],
+    "friendly_name": "Blue Skies Maid ",
+    "id": "blue_skies_maid_"
   },
   {
     "allowStacking": true,
@@ -3910,8 +3910,6 @@
       }
     ],
     "guid": 137797,
-    "iconPath": "data/ui/2kimages/main/3dicons/specialists/systemic/icon_specialist_delivery_service.png",
-    "name": "Blue Skies Delivery Service",
     "residences": [
       601889,
       601890,
@@ -3919,7 +3917,9 @@
       601884,
       601886,
       601891
-    ]
+    ],
+    "friendly_name": "Blue Skies Delivery Service",
+    "id": "blue_skies_delivery_service"
   },
   {
     "allowStacking": true,
@@ -3989,8 +3989,6 @@
       }
     ],
     "guid": 133929,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_brioche_royale.png",
-    "name": "Brioche Royale",
     "residences": [
       1010343,
       1010344,
@@ -4006,7 +4004,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Brioche Royale",
+    "id": "brioche_royale"
   },
   {
     "allowStacking": true,
@@ -4070,8 +4070,6 @@
       }
     ],
     "guid": 133934,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_trifle_tower.png",
-    "name": "Trifle Tower",
     "residences": [
       1010343,
       1010344,
@@ -4087,7 +4085,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Trifle Tower",
+    "id": "trifle_tower"
   },
   {
     "allowStacking": true,
@@ -4151,8 +4151,6 @@
       }
     ],
     "guid": 133935,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_marmelade_review.png",
-    "name": "Lady Marmelade",
     "residences": [
       1010343,
       1010344,
@@ -4168,7 +4166,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Lady Marmelade",
+    "id": "lady_marmelade"
   },
   {
     "allowStacking": true,
@@ -4232,8 +4232,6 @@
       }
     ],
     "guid": 133936,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_age_of_exploration.png",
-    "name": "Age of Exploration",
     "residences": [
       1010343,
       1010344,
@@ -4249,7 +4247,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Age of Exploration",
+    "id": "age_of_exploration"
   },
   {
     "allowStacking": true,
@@ -4325,8 +4325,6 @@
       }
     ],
     "guid": 133937,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_homarde_lit_de_terrorir.png",
-    "name": "Homard sur Lit de Terroir",
     "residences": [
       1010343,
       1010344,
@@ -4343,7 +4341,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Homard sur Lit de Terroir",
+    "id": "homard_sur_lit_de_terroir"
   },
   {
     "allowStacking": false,
@@ -4371,8 +4371,6 @@
       }
     ],
     "guid": 132745,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_schnitzel.png",
-    "name": "Archduke's Schnitzel",
     "residences": [
       1010343,
       1010344,
@@ -4388,7 +4386,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Archduke's Schnitzel",
+    "id": "archduke's_schnitzel"
   },
   {
     "allowStacking": false,
@@ -4416,8 +4416,6 @@
       }
     ],
     "guid": 132749,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_goulash.png",
-    "name": "Stroggof Goulash",
     "residences": [
       1010343,
       1010344,
@@ -4426,7 +4424,9 @@
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Stroggof Goulash",
+    "id": "stroggof_goulash"
   },
   {
     "allowStacking": false,
@@ -4454,8 +4454,6 @@
       }
     ],
     "guid": 133352,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_fish_and_chips.png",
-    "name": "Fish and Frites",
     "residences": [
       1010344,
       1010345,
@@ -4470,7 +4468,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Fish and Frites",
+    "id": "fish_and_frites"
   },
   {
     "allowStacking": false,
@@ -4498,8 +4498,6 @@
       }
     ],
     "guid": 133353,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_venison_ragout.png",
-    "name": "Venison en Croûte",
     "residences": [
       1010343,
       1010344,
@@ -4515,7 +4513,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Venison en Croûte",
+    "id": "venison_en_croûte"
   },
   {
     "allowStacking": false,
@@ -4543,8 +4543,6 @@
       }
     ],
     "guid": 133354,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_lobster_fume.png",
-    "name": "Lobster Cheminée",
     "residences": [
       1010344,
       1010345,
@@ -4559,7 +4557,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Lobster Cheminée",
+    "id": "lobster_cheminée"
   },
   {
     "allowStacking": false,
@@ -4587,8 +4587,6 @@
       }
     ],
     "guid": 132758,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_daiquiri_tropic.png",
-    "name": "Daiquiri Tropic",
     "residences": [
       1010343,
       1010344,
@@ -4597,7 +4595,9 @@
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Daiquiri Tropic",
+    "id": "daiquiri_tropic"
   },
   {
     "allowStacking": false,
@@ -4625,8 +4625,6 @@
       }
     ],
     "guid": 133361,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_black_muscovy.png",
-    "name": "Black Muscovy",
     "residences": [
       1010343,
       1010344,
@@ -4641,7 +4639,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Black Muscovy",
+    "id": "black_muscovy"
   },
   {
     "allowStacking": false,
@@ -4669,8 +4669,6 @@
       }
     ],
     "guid": 133362,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_montmatre.png",
-    "name": "Montmartre '75'",
     "residences": [
       1010344,
       1010345,
@@ -4678,7 +4676,9 @@
       601888,
       601889,
       601890
-    ]
+    ],
+    "friendly_name": "Montmartre '75'",
+    "id": "montmartre_'75'"
   },
   {
     "allowStacking": false,
@@ -4706,8 +4706,6 @@
       }
     ],
     "guid": 133363,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_glogg.png",
-    "name": "Glogg",
     "residences": [
       1010344,
       1010345,
@@ -4722,7 +4720,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Glogg",
+    "id": "glogg"
   },
   {
     "allowStacking": false,
@@ -4750,8 +4750,6 @@
       }
     ],
     "guid": 133364,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_enbesa_sunrise.png",
-    "name": "Enbesa Sunrise",
     "residences": [
       1010343,
       1010344,
@@ -4767,7 +4765,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Enbesa Sunrise",
+    "id": "enbesa_sunrise"
   },
   {
     "allowStacking": false,
@@ -4795,8 +4795,6 @@
       }
     ],
     "guid": 132759,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_berliner.png",
-    "name": "Donut Fourré",
     "residences": [
       1010343,
       1010344,
@@ -4811,7 +4809,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Donut Fourré",
+    "id": "donut_fourré"
   },
   {
     "allowStacking": false,
@@ -4839,8 +4839,6 @@
       }
     ],
     "guid": 133357,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_eclair.png",
-    "name": "Eclair",
     "residences": [
       1010344,
       1010345,
@@ -4855,7 +4853,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Eclair",
+    "id": "eclair"
   },
   {
     "allowStacking": false,
@@ -4883,8 +4883,6 @@
       }
     ],
     "guid": 133358,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_palmier_biscuit.png",
-    "name": "Palmier Biscuit",
     "residences": [
       1010344,
       1010345,
@@ -4899,7 +4897,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Palmier Biscuit",
+    "id": "palmier_biscuit"
   },
   {
     "allowStacking": false,
@@ -4927,8 +4927,6 @@
       }
     ],
     "guid": 133359,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_venison_tartare.png",
-    "name": "Venison Tartare",
     "residences": [
       1010344,
       1010345,
@@ -4943,7 +4941,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Venison Tartare",
+    "id": "venison_tartare"
   },
   {
     "allowStacking": false,
@@ -4971,8 +4971,6 @@
       }
     ],
     "guid": 133360,
-    "iconPath": "data/ui/2kimages/main/3dicons/recipes/icon_banana_surprise.png",
-    "name": "Banana Surprise",
     "residences": [
       1010346,
       1010347,
@@ -4985,7 +4983,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Banana Surprise",
+    "id": "banana_surprise"
   },
   {
     "allowStacking": false,
@@ -5007,8 +5007,6 @@
       }
     ],
     "guid": 135111,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toaster.png",
-    "name": "Estimated Toaster Sales",
     "residences": [
       1010346,
       1010347,
@@ -5021,7 +5019,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Toaster Sales",
+    "id": "estimated_toaster_sales"
   },
   {
     "allowStacking": false,
@@ -5043,8 +5043,6 @@
       }
     ],
     "guid": 135195,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_dishes.png",
-    "name": "Estimated Crockery Sales",
     "residences": [
       1010347,
       601882,
@@ -5053,7 +5051,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Crockery Sales",
+    "id": "estimated_crockery_sales"
   },
   {
     "allowStacking": false,
@@ -5075,8 +5075,6 @@
       }
     ],
     "guid": 135196,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_vacuumcleaner.png",
-    "name": "Estimated Vacuum Cleaner Sales",
     "residences": [
       1010346,
       1010347,
@@ -5089,7 +5087,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Vacuum Cleaner Sales",
+    "id": "estimated_vacuum_cleaner_sales"
   },
   {
     "allowStacking": false,
@@ -5111,8 +5111,6 @@
       }
     ],
     "guid": 135197,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_refrigerator.png",
-    "name": "Estimated Refrigerator Sales",
     "residences": [
       1010344,
       1010346,
@@ -5126,7 +5124,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Refrigerator Sales",
+    "id": "estimated_refrigerator_sales"
   },
   {
     "allowStacking": false,
@@ -5148,8 +5148,6 @@
       }
     ],
     "guid": 658,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_suitcase.png",
-    "name": "Estimated Briefcase Sales",
     "residences": [
       1010347,
       114445,
@@ -5159,7 +5157,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Briefcase Sales",
+    "id": "estimated_briefcase_sales"
   },
   {
     "allowStacking": false,
@@ -5181,8 +5181,6 @@
       }
     ],
     "guid": 135112,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_bankerlamp.png",
-    "name": "Estimated Banker's Lamp Sales",
     "residences": [
       1010346,
       1010347,
@@ -5195,7 +5193,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Banker's Lamp Sales",
+    "id": "estimated_banker's_lamp_sales"
   },
   {
     "allowStacking": false,
@@ -5217,8 +5217,6 @@
       }
     ],
     "guid": 135151,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_paravent.png",
-    "name": "Estimated Vanity Screen Sales",
     "residences": [
       1010346,
       1010347,
@@ -5231,7 +5229,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Vanity Screen Sales",
+    "id": "estimated_vanity_screen_sales"
   },
   {
     "allowStacking": false,
@@ -5253,8 +5253,6 @@
       }
     ],
     "guid": 135152,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_secretary.png",
-    "name": "Estimated Writing Desk Sales",
     "residences": [
       1010344,
       1010346,
@@ -5268,7 +5266,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Writing Desk Sales",
+    "id": "estimated_writing_desk_sales"
   },
   {
     "allowStacking": false,
@@ -5290,8 +5290,6 @@
       }
     ],
     "guid": 135153,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_canopy.png",
-    "name": "Estimated Four-Poster Bed Sales",
     "residences": [
       1010346,
       1010347,
@@ -5304,7 +5302,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Four-Poster Bed Sales",
+    "id": "estimated_four-poster_bed_sales"
   },
   {
     "allowStacking": false,
@@ -5326,8 +5326,6 @@
       }
     ],
     "guid": 661,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_chesterfield.png",
-    "name": "Estimated Lounge Seating Sales",
     "residences": [
       1010346,
       1010347,
@@ -5341,7 +5339,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Lounge Seating Sales",
+    "id": "estimated_lounge_seating_sales"
   },
   {
     "allowStacking": false,
@@ -5363,8 +5363,6 @@
       }
     ],
     "guid": 135113,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_toothpaste.png",
-    "name": "Estimated Toothpaste Sales",
     "residences": [
       1010345,
       1010346,
@@ -5378,7 +5376,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Toothpaste Sales",
+    "id": "estimated_toothpaste_sales"
   },
   {
     "allowStacking": false,
@@ -5400,8 +5400,6 @@
       }
     ],
     "guid": 135199,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_detergent.png",
-    "name": "Estimated Detergent Sales",
     "residences": [
       1010347,
       601882,
@@ -5410,7 +5408,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Detergent Sales",
+    "id": "estimated_detergent_sales"
   },
   {
     "allowStacking": false,
@@ -5432,8 +5432,6 @@
       }
     ],
     "guid": 135200,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_lipstick.png",
-    "name": "Estimated Lipstick Sales",
     "residences": [
       1010346,
       1010347,
@@ -5446,7 +5444,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Lipstick Sales",
+    "id": "estimated_lipstick_sales"
   },
   {
     "allowStacking": false,
@@ -5468,8 +5468,6 @@
       }
     ],
     "guid": 135201,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_facecreme.png",
-    "name": "Estimated Face Cream Sales",
     "residences": [
       1010344,
       1010346,
@@ -5483,7 +5481,9 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Face Cream Sales",
+    "id": "estimated_face_cream_sales"
   },
   {
     "allowStacking": false,
@@ -5505,8 +5505,6 @@
       }
     ],
     "guid": 664,
-    "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_pomade.png",
-    "name": "Estimated Pomade Sales",
     "residences": [
       1010346,
       1010347,
@@ -5520,6 +5518,8 @@
       601886,
       601891,
       406
-    ]
+    ],
+    "friendly_name": "Estimated Pomade Sales",
+    "id": "estimated_pomade_sales"
   }
 ]
