@@ -7,13 +7,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 270042,
+        "Product": "fuel",
         "StorageAmount": 10
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 200,
-    "region": 5000000,
+    "region": "moderate",
     "tpmin": 2,
     "workforceAmountUpgrade": {
       "Value": -50
@@ -30,13 +30,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 24808,
+        "Product": "fertiliser",
         "StorageAmount": 5
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 100,
-    "region": 5000000,
+    "region": "moderate",
     "tpmin": 0.2,
     "friendly_name": "Fertiliser Silo",
     "id": "fertiliser_silo"
@@ -50,13 +50,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 24808,
+        "Product": "fertiliser",
         "StorageAmount": 5
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 100,
-    "region": 5000001,
+    "region": "colony01",
     "tpmin": 0.2,
     "friendly_name": "Fertiliser Silo",
     "id": "fertiliser_silo"
@@ -70,13 +70,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 24808,
+        "Product": "fertiliser",
         "StorageAmount": 5
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 100,
-    "region": 114327,
+    "region": "africa",
     "tpmin": 0.2,
     "friendly_name": "Fertiliser Silo",
     "id": "fertiliser_silo"
@@ -90,13 +90,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 270042,
+        "Product": "fuel",
         "StorageAmount": 10
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 200,
-    "region": 5000000,
+    "region": "moderate",
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
@@ -114,13 +114,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 270042,
+        "Product": "fuel",
         "StorageAmount": 10
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 200,
-    "region": 5000000,
+    "region": "moderate",
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
@@ -138,13 +138,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 1010192,
+        "Product": "grain",
         "StorageAmount": 5
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 100,
-    "region": 5000000,
+    "region": "moderate",
     "tpmin": 0.2,
     "friendly_name": "Silo",
     "id": "silo"
@@ -158,13 +158,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 270042,
+        "Product": "fuel",
         "StorageAmount": 10
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 200,
-    "region": 5000001,
+    "region": "colony01",
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
@@ -182,13 +182,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 270042,
+        "Product": "fuel",
         "StorageAmount": 10
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 200,
-    "region": 5000001,
+    "region": "colony01",
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
@@ -206,13 +206,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 120034,
+        "Product": "corn",
         "StorageAmount": 5
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 100,
-    "region": 5000001,
+    "region": "colony01",
     "tpmin": 0.2,
     "friendly_name": "Silo",
     "id": "silo"
@@ -226,13 +226,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 270042,
+        "Product": "fuel",
         "StorageAmount": 10
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 200,
-    "region": 114327,
+    "region": "africa",
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
@@ -250,13 +250,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 270042,
+        "Product": "fuel",
         "StorageAmount": 10
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 200,
-    "region": 114327,
+    "region": "africa",
     "tpmin": 0.2,
     "workforceAmountUpgrade": {
       "Percental": 1,
@@ -274,13 +274,13 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 114367,
+        "Product": "teff",
         "StorageAmount": 5
       }
     ],
     "maintenances": [],
     "productivityUpgrade": 100,
-    "region": 114327,
+    "region": "africa",
     "tpmin": 0.2,
     "friendly_name": "Silo",
     "id": "silo"

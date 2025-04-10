@@ -5,7 +5,7 @@
     ],
     "guid": 601445,
     "populationLevel": 601379,
-    "region": 5000000,
+    "region": "moderate",
     "residentMax": 500,
     "residentsPerNeed": {
       "1010213": 55,
@@ -44,7 +44,7 @@
     ],
     "guid": 24792,
     "populationLevel": 15000005,
-    "region": 5000001,
+    "region": "colony01",
     "residentMax": 20,
     "residentsPerNeed": {
       "1010216": 4,
@@ -73,7 +73,7 @@
     ],
     "guid": 24793,
     "populationLevel": 15000006,
-    "region": 5000001,
+    "region": "colony01",
     "residentMax": 40,
     "residentsPerNeed": {
       "1010206": 4,
@@ -113,7 +113,7 @@
   {
     "guid": 1010343,
     "populationLevel": 15000000,
-    "region": 5000000,
+    "region": "moderate",
     "residentMax": 10,
     "residentsPerNeed": {
       "1010200": 3,
@@ -138,7 +138,7 @@
   {
     "guid": 1010344,
     "populationLevel": 15000001,
-    "region": 5000000,
+    "region": "moderate",
     "residentMax": 20,
     "residentsPerNeed": {
       "1010193": 2,
@@ -169,7 +169,7 @@
   {
     "guid": 1010345,
     "populationLevel": 15000002,
-    "region": 5000000,
+    "region": "moderate",
     "residentMax": 30,
     "residentsPerNeed": {
       "1010197": 1,
@@ -201,7 +201,7 @@
   {
     "guid": 1010346,
     "populationLevel": 15000003,
-    "region": 5000000,
+    "region": "moderate",
     "residentMax": 40,
     "residentsPerNeed": {
       "1010203": 2,
@@ -234,7 +234,7 @@
   {
     "guid": 1010347,
     "populationLevel": 15000004,
-    "region": 5000000,
+    "region": "moderate",
     "residentMax": 50,
     "residentsPerNeed": {
       "1010208": 8,
@@ -267,7 +267,7 @@
   {
     "guid": 101254,
     "populationLevel": 15000005,
-    "region": 5000001,
+    "region": "colony01",
     "residentMax": 10,
     "residentsPerNeed": {
       "1010237": 2,
@@ -292,7 +292,7 @@
   {
     "guid": 101255,
     "populationLevel": 15000006,
-    "region": 5000001,
+    "region": "colony01",
     "residentMax": 20,
     "residentsPerNeed": {
       "1010206": 2,
@@ -327,7 +327,7 @@
     ],
     "guid": 112091,
     "populationLevel": 112642,
-    "region": 160001,
+    "region": "arctic",
     "residentMax": 10,
     "residentsPerNeed": {
       "1010213": 2,
@@ -353,7 +353,7 @@
     ],
     "guid": 112652,
     "populationLevel": 112643,
-    "region": 160001,
+    "region": "arctic",
     "residentMax": 20,
     "residentsPerNeed": {
       "1010216": 0,
@@ -384,7 +384,7 @@
     ],
     "guid": 406,
     "populationLevel": 15000004,
-    "region": 5000000,
+    "region": "moderate",
     "residentMax": 2500,
     "residentsPerNeed": {
       "1010208": 400,
@@ -427,7 +427,7 @@
     ],
     "guid": 114436,
     "populationLevel": 114329,
-    "region": 114327,
+    "region": "africa",
     "residentMax": 10,
     "residentsPerNeed": {
       "1010192": 1,
@@ -453,7 +453,7 @@
     ],
     "guid": 114437,
     "populationLevel": 114330,
-    "region": 114327,
+    "region": "africa",
     "residentMax": 20,
     "residentsPerNeed": {
       "1010203": 2,
@@ -486,7 +486,7 @@
     ],
     "guid": 114445,
     "populationLevel": 118745,
-    "region": 5000000,
+    "region": "moderate",
     "residentMax": 120,
     "residentsPerNeed": {
       "1010217": 19,
@@ -843,7 +843,7 @@
     ],
     "guid": 5405,
     "populationLevel": 5403,
-    "region": 5000001,
+    "region": "colony01",
     "residentMax": 40,
     "residentsPerNeed": {
       "1010206": 5,
@@ -882,7 +882,7 @@
     ],
     "guid": 6086,
     "populationLevel": 5403,
-    "region": 5000001,
+    "region": "colony01",
     "residentMax": 90,
     "residentsPerNeed": {
       "1010206": 7,

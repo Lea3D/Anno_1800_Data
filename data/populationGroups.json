@@ -8,7 +8,7 @@
       15000003,
       15000004
     ],
-    "region": 5000000,
+    "region": "moderate",
     "friendly_name": "Population: Old World",
     "id": "population:_old_world"
   },
@@ -19,7 +19,7 @@
       15000006,
       5403
     ],
-    "region": 5000001,
+    "region": "colony01",
     "friendly_name": "Population: New World",
     "id": "population:_new_world"
   },
@@ -31,7 +31,7 @@
     "populationLevels": [
       601379
     ],
-    "region": 5000000,
+    "region": "moderate",
     "friendly_name": "Population: Tourists",
     "id": "population:_tourists"
   },
@@ -44,7 +44,7 @@
       112642,
       112643
     ],
-    "region": 160001,
+    "region": "arctic",
     "friendly_name": "Population: The Arctic",
     "id": "population:_the_arctic"
   },
@@ -57,7 +57,7 @@
       114329,
       114330
     ],
-    "region": 114327,
+    "region": "africa",
     "friendly_name": "Population: Enbesa",
     "id": "population:_enbesa"
   },
@@ -69,7 +69,7 @@
     "populationLevels": [
       118745
     ],
-    "region": 5000000,
+    "region": "moderate",
     "friendly_name": "Population: Scholars",
     "id": "population:_scholars"
   }

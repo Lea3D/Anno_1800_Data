@@ -2,27 +2,27 @@
   {
     "goodsProduction": [
       {
-        "Good": 1010196,
+        "Good": "timber",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010218,
+        "Good": "steel_beams",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010205,
+        "Good": "bricks",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010206,
+        "Good": "sewing_machines",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010246,
+        "Good": "pocket_watches",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010248,
+        "Good": "gramophones",
         "ProductionPerMinute": 7
       }
     ],
@@ -36,19 +36,19 @@
   {
     "goodsProduction": [
       {
-        "Good": 1010210,
+        "Good": "sails",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010221,
+        "Good": "weapons",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 1010249,
+        "Good": "gold",
         "ProductionPerMinute": 6
       },
       {
-        "Good": 1010223,
+        "Good": "advanced_weapons",
         "ProductionPerMinute": 3
       }
     ],
@@ -62,19 +62,19 @@
   {
     "goodsProduction": [
       {
-        "Good": 1010210,
+        "Good": "sails",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010221,
+        "Good": "weapons",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 1010249,
+        "Good": "gold",
         "ProductionPerMinute": 6
       },
       {
-        "Good": 1010223,
+        "Good": "advanced_weapons",
         "ProductionPerMinute": 3
       }
     ],
@@ -88,27 +88,27 @@
   {
     "goodsProduction": [
       {
-        "Good": 1010251,
+        "Good": "sugar_cane",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010254,
+        "Good": "cocoa",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010239,
+        "Good": "sugar",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010240,
+        "Good": "cotton_fabric",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010252,
+        "Good": "tobacco",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010256,
+        "Good": "pearls",
         "ProductionPerMinute": 7
       }
     ],
@@ -122,47 +122,47 @@
   {
     "goodsProduction": [
       {
-        "Good": 112518,
+        "Good": "scrap",
         "ProductionPerMinute": 1
       },
       {
-        "Good": 112520,
+        "Good": "nice_scrap",
         "ProductionPerMinute": 1
       },
       {
-        "Good": 112523,
+        "Good": "special_scrap",
         "ProductionPerMinute": 1
       },
       {
-        "Good": 1010219,
+        "Good": "steel",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 1010255,
+        "Good": "caoutchouc",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 1010196,
+        "Good": "timber",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 1010227,
+        "Good": "iron",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 1010211,
+        "Good": "chassis",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 1010224,
+        "Good": "steam_motors",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 1010243,
+        "Good": "filaments",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 1010232,
+        "Good": "saltpeter",
         "ProductionPerMinute": 5
       }
     ],
@@ -177,27 +177,27 @@
   {
     "goodsProduction": [
       {
-        "Good": 1010227,
+        "Good": "iron",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010226,
+        "Good": "coal",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010229,
+        "Good": "zinc",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010230,
+        "Good": "copper",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010231,
+        "Good": "cement",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010233,
+        "Good": "gold_ore",
         "ProductionPerMinute": 7
       }
     ],
@@ -211,23 +211,23 @@
   {
     "goodsProduction": [
       {
-        "Good": 1010257,
+        "Good": "rum",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010258,
+        "Good": "chocolate",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 120032,
+        "Good": "coffee",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010259,
+        "Good": "cigars",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 1010256,
+        "Good": "pearls",
         "ProductionPerMinute": 7
       }
     ],
@@ -241,27 +241,27 @@
   {
     "goodsProduction": [
       {
-        "Good": 112698,
+        "Good": "huskies",
         "ProductionPerMinute": 4
       },
       {
-        "Good": 112695,
+        "Good": "bear_fur",
         "ProductionPerMinute": 3
       },
       {
-        "Good": 112705,
+        "Good": "pemmican",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 112696,
+        "Good": "seal_skin",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 112699,
+        "Good": "whale_oil",
         "ProductionPerMinute": 5
       },
       {
-        "Good": 112694,
+        "Good": "caribou_meat",
         "ProductionPerMinute": 4
       }
     ],
@@ -275,27 +275,27 @@
   {
     "goodsProduction": [
       {
-        "Good": 114356,
+        "Good": "wanza_timber",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 114364,
+        "Good": "hibiscus_petals",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 114391,
+        "Good": "linen",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 114402,
+        "Good": "mud_bricks",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 114357,
+        "Good": "sanga_cow",
         "ProductionPerMinute": 7
       },
       {
-        "Good": 114408,
+        "Good": "spiced_flour",
         "ProductionPerMinute": 7
       }
     ],

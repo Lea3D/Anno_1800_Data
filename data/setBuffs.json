@@ -4,7 +4,7 @@
     "amount": 1,
     "factory": 1010266,
     "guid": 191141,
-    "product": 120008,
+    "product": "wood",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -13,7 +13,7 @@
     "amount": 1,
     "factory": 101260,
     "guid": 191141,
-    "product": 120008,
+    "product": "wood",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -22,7 +22,7 @@
     "amount": 1,
     "factory": 1010558,
     "guid": 191141,
-    "product": 1010209,
+    "product": "furs",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -31,7 +31,7 @@
     "amount": 1,
     "factory": 1010310,
     "guid": 191141,
-    "product": 1010232,
+    "product": "saltpeter",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -40,7 +40,7 @@
     "amount": 1,
     "factory": 1010560,
     "guid": 191141,
-    "product": 1010228,
+    "product": "quartz_sand",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -49,7 +49,7 @@
     "amount": 1,
     "factory": 100416,
     "guid": 191141,
-    "product": 1010201,
+    "product": "clay",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -58,7 +58,7 @@
     "amount": 1,
     "factory": 1010309,
     "guid": 191141,
-    "product": 1010231,
+    "product": "cement",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -67,7 +67,7 @@
     "amount": 1,
     "factory": 101267,
     "guid": 191141,
-    "product": 1010201,
+    "product": "clay",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -76,7 +76,7 @@
     "amount": 1,
     "factory": 1308,
     "guid": 191141,
-    "product": 836,
+    "product": "bauxite_",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -85,7 +85,7 @@
     "amount": 1,
     "factory": 133004,
     "guid": 191141,
-    "product": 133095,
+    "product": "coconut_oil",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -94,7 +94,7 @@
     "amount": 1,
     "factory": 133030,
     "guid": 191141,
-    "product": 133093,
+    "product": "cinnamon",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -103,7 +103,7 @@
     "amount": 1,
     "factory": 133031,
     "guid": 191141,
-    "product": 133097,
+    "product": "citrus",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -112,7 +112,7 @@
     "amount": 1,
     "factory": 133496,
     "guid": 191141,
-    "product": 133183,
+    "product": "jam",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -121,7 +121,7 @@
     "amount": 1,
     "factory": 134614,
     "guid": 191141,
-    "product": 134616,
+    "product": "camphor_wax",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -130,7 +130,7 @@
     "amount": 1,
     "factory": 135085,
     "guid": 191141,
-    "product": 135086,
+    "product": "resin",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -139,7 +139,7 @@
     "amount": 1,
     "factory": 135088,
     "guid": 191141,
-    "product": 135087,
+    "product": "cherry_wood",
     "friendly_name": "Bronze Age Exhibition",
     "id": "bronze_age_exhibition"
   },
@@ -148,7 +148,7 @@
     "amount": 1,
     "factory": 1010263,
     "guid": 124209,
-    "product": 1010193,
+    "product": "beef",
     "friendly_name": "Proud Savannah Park",
     "id": "proud_savannah_park"
   },
@@ -157,7 +157,7 @@
     "amount": 1,
     "factory": 101269,
     "guid": 124209,
-    "product": 1010193,
+    "product": "beef",
     "friendly_name": "Proud Savannah Park",
     "id": "proud_savannah_park"
   },
@@ -166,7 +166,7 @@
     "amount": 1,
     "factory": 101272,
     "guid": 124209,
-    "product": 120036,
+    "product": "alpaca_wool",
     "friendly_name": "Proud Savannah Park",
     "id": "proud_savannah_park"
   },
@@ -175,7 +175,7 @@
     "amount": 1,
     "factory": 8026,
     "guid": 124209,
-    "product": 5401,
+    "product": "nandu_feathers",
     "friendly_name": "Proud Savannah Park",
     "id": "proud_savannah_park"
   },
@@ -184,7 +184,7 @@
     "amount": 1,
     "factory": 8002,
     "guid": 124209,
-    "product": 5385,
+    "product": "milk",
     "friendly_name": "Proud Savannah Park",
     "id": "proud_savannah_park"
   },
@@ -193,7 +193,7 @@
     "amount": 1,
     "factory": 8027,
     "guid": 124209,
-    "product": 1010232,
+    "product": "saltpeter",
     "friendly_name": "Proud Savannah Park",
     "id": "proud_savannah_park"
   },
@@ -202,7 +202,7 @@
     "amount": 1,
     "factory": 5457,
     "guid": 124209,
-    "product": 5384,
+    "product": "nandu_leather",
     "friendly_name": "Proud Savannah Park",
     "id": "proud_savannah_park"
   }

@@ -7,17 +7,17 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 1010226,
+        "Product": "coal",
         "StorageAmount": 20
       }
     ],
     "maintenances": [
       {
         "Amount": 50,
-        "Product": 1010017
+        "Product": "coins"
       }
     ],
-    "region": 160001,
+    "region": "arctic",
     "tpmin": 2,
     "friendly_name": "Heater",
     "id": "heater"
@@ -30,7 +30,7 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 112706,
+        "Product": "arctic_gas",
         "StorageAmount": 10
       }
     ],
@@ -38,15 +38,15 @@
       {
         "Amount": 1200,
         "InactiveAmount": 600,
-        "Product": 1010017
+        "Product": "coins"
       },
       {
         "Amount": 250,
-        "Product": 1010117,
+        "Product": "engineer_workforce",
         "ShutdownThreshold": 0.5
       }
     ],
-    "region": 5000000,
+    "region": "moderate",
     "tpmin": 1.3333333333333335,
     "friendly_name": "Gas-Fired Power Plant",
     "id": "gas-fired_power_plant"
@@ -56,7 +56,7 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 1010566,
+        "Product": "oil",
         "StorageAmount": 100
       }
     ],
@@ -64,15 +64,15 @@
       {
         "Amount": 400,
         "InactiveAmount": 200,
-        "Product": 1010017
+        "Product": "coins"
       },
       {
         "Amount": 150,
-        "Product": 1010117,
+        "Product": "engineer_workforce",
         "ShutdownThreshold": 0.5
       }
     ],
-    "region": 5000000,
+    "region": "moderate",
     "tpmin": 12,
     "friendly_name": "Oil Power Plant",
     "id": "oil_power_plant"
@@ -82,7 +82,7 @@
     "inputs": [
       {
         "Amount": 1,
-        "Product": 1010566,
+        "Product": "oil",
         "StorageAmount": 100
       }
     ],
@@ -90,15 +90,15 @@
       {
         "Amount": 400,
         "InactiveAmount": 200,
-        "Product": 1010017
+        "Product": "coins"
       },
       {
         "Amount": 150,
-        "Product": 1010367,
+        "Product": "obrero_workforce",
         "ShutdownThreshold": 0.5
       }
     ],
-    "region": 5000001,
+    "region": "colony01",
     "tpmin": 12,
     "friendly_name": "Power Station",
     "id": "power_station"

@@ -129,7 +129,7 @@
         "tpmin": 0.0010000001999999999
       }
     ],
-    "region": 5000000,
+    "region": "moderate",
     "residence": 1010343,
     "friendly_name": "Farmers",
     "id": "farmers"
@@ -299,7 +299,7 @@
         "tpmin": 0.0003333333
       }
     ],
-    "region": 5000000,
+    "region": "moderate",
     "residence": 1010344,
     "friendly_name": "Workers",
     "id": "workers"
@@ -477,7 +477,7 @@
         "tpmin": 0.0002166666
       }
     ],
-    "region": 5000000,
+    "region": "moderate",
     "residence": 1010345,
     "friendly_name": "Artisans",
     "id": "artisans"
@@ -723,7 +723,7 @@
         "tpmin": 0.00041666669999999997
       }
     ],
-    "region": 5000000,
+    "region": "moderate",
     "residence": 1010346,
     "skyscraperLevels": [
       601888,
@@ -1238,7 +1238,7 @@
         "tpmin": 0.000225
       }
     ],
-    "region": 5000000,
+    "region": "moderate",
     "residence": 1010347,
     "skyscraperLevels": [
       601882,
@@ -1417,7 +1417,7 @@
         "residents": 2
       }
     ],
-    "region": 5000001,
+    "region": "colony01",
     "residence": 101254,
     "specialResidence": 24792,
     "friendly_name": "Jornaleros",
@@ -1630,7 +1630,7 @@
         "tpmin": 0.00024999999
       }
     ],
-    "region": 5000001,
+    "region": "colony01",
     "residence": 101255,
     "specialResidence": 24793,
     "friendly_name": "Obreros",
@@ -1866,7 +1866,7 @@
         "tpmin": 0.00049999995
       }
     ],
-    "region": 5000001,
+    "region": "colony01",
     "residence": 5405,
     "specialResidence": 6086,
     "friendly_name": "Artista",
@@ -2121,7 +2121,7 @@
         "tpmin": 0.000114999996
       }
     ],
-    "region": 5000000,
+    "region": "moderate",
     "residence": 601445,
     "friendly_name": "Tourists",
     "id": "tourists"
@@ -2234,7 +2234,7 @@
         "tpmin": 0.0019999998
       }
     ],
-    "region": 160001,
+    "region": "arctic",
     "residence": 112091,
     "friendly_name": "Explorers",
     "id": "explorers"
@@ -2386,7 +2386,7 @@
         "tpmin": 0.00075
       }
     ],
-    "region": 160001,
+    "region": "arctic",
     "residence": 112652,
     "friendly_name": "Technicians",
     "id": "technicians"
@@ -2503,7 +2503,7 @@
         "tpmin": 0.0015
       }
     ],
-    "region": 114327,
+    "region": "africa",
     "residence": 114436,
     "friendly_name": "Shepherds",
     "id": "shepherds"
@@ -2667,7 +2667,7 @@
         "tpmin": 0.0025000002
       }
     ],
-    "region": 114327,
+    "region": "africa",
     "residence": 114437,
     "friendly_name": "Elders",
     "id": "elders"
@@ -2884,7 +2884,7 @@
         "tpmin": 0.00010416665
       }
     ],
-    "region": 5000000,
+    "region": "moderate",
     "residence": 114445,
     "friendly_name": "Scholars",
     "id": "scholars"

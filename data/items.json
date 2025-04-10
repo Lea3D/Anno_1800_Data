@@ -4,7 +4,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010234
+        "Product": "tallow"
       }
     ],
     "factories": [
@@ -22,7 +22,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 120042
+        "Product": "fish_oil"
       }
     ],
     "factories": [
@@ -37,7 +37,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010234
+        "Product": "tallow"
       }
     ],
     "factories": [
@@ -56,12 +56,12 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010234
+        "Product": "tallow"
       },
       {
         "AdditionalOutputCycle": 7,
         "Amount": 1,
-        "Product": 1010249
+        "Product": "gold"
       }
     ],
     "factories": [
@@ -108,7 +108,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010246
+        "Product": "pocket_watches"
       }
     ],
     "factories": [
@@ -143,7 +143,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010258
+        "Product": "chocolate"
       }
     ],
     "factories": [
@@ -158,12 +158,12 @@
       {
         "AdditionalOutputCycle": 6,
         "Amount": 1,
-        "Product": 120014
+        "Product": "grapes"
       },
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010258
+        "Product": "chocolate"
       }
     ],
     "factories": [
@@ -201,7 +201,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010254
+        "Product": "cocoa"
       }
     ],
     "factories": [
@@ -220,7 +220,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010252
+        "Product": "tobacco"
       }
     ],
     "factories": [
@@ -242,17 +242,17 @@
       {
         "AdditionalOutputCycle": 11,
         "Amount": 1,
-        "Product": 1010254
+        "Product": "cocoa"
       },
       {
         "AdditionalOutputCycle": 12,
         "Amount": 1,
-        "Product": 1010255
+        "Product": "caoutchouc"
       },
       {
         "AdditionalOutputCycle": 13,
         "Amount": 1,
-        "Product": 1010253
+        "Product": "cotton"
       }
     ],
     "factories": [
@@ -272,17 +272,17 @@
       {
         "AdditionalOutputCycle": 12,
         "Amount": 1,
-        "Product": 1010198
+        "Product": "red_peppers"
       },
       {
         "AdditionalOutputCycle": 11,
         "Amount": 1,
-        "Product": 1010195
+        "Product": "potatoes"
       },
       {
         "AdditionalOutputCycle": 13,
         "Amount": 1,
-        "Product": 120014
+        "Product": "grapes"
       }
     ],
     "factories": [
@@ -305,27 +305,27 @@
       {
         "AdditionalOutputCycle": 16,
         "Amount": 1,
-        "Product": 1010198
+        "Product": "red_peppers"
       },
       {
         "AdditionalOutputCycle": 13,
         "Amount": 1,
-        "Product": 1010195
+        "Product": "potatoes"
       },
       {
         "AdditionalOutputCycle": 17,
         "Amount": 1,
-        "Product": 120014
+        "Product": "grapes"
       },
       {
         "AdditionalOutputCycle": 14,
         "Amount": 1,
-        "Product": 1010192
+        "Product": "grain"
       },
       {
         "AdditionalOutputCycle": 15,
         "Amount": 1,
-        "Product": 1010194
+        "Product": "hops"
       }
     ],
     "factories": [
@@ -357,7 +357,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010255
+        "Product": "caoutchouc"
       }
     ],
     "factories": [
@@ -374,7 +374,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010197
+        "Product": "wool"
       }
     ],
     "factories": [
@@ -389,7 +389,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010253
+        "Product": "cotton"
       }
     ],
     "factories": [
@@ -409,7 +409,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010193
+        "Product": "beef"
       }
     ],
     "factories": [
@@ -424,7 +424,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010216
+        "Product": "schnapps"
       }
     ],
     "factories": [
@@ -441,7 +441,7 @@
       {
         "AdditionalOutputCycle": 8,
         "Amount": 1,
-        "Product": 120016
+        "Product": "champagne"
       }
     ],
     "factories": [
@@ -459,12 +459,12 @@
       {
         "AdditionalOutputCycle": 6,
         "Amount": 1,
-        "Product": 1010233
+        "Product": "gold_ore"
       },
       {
         "AdditionalOutputCycle": 1,
         "Amount": 1,
-        "Product": 1010566
+        "Product": "oil"
       }
     ],
     "factories": [
@@ -488,7 +488,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010241
+        "Product": "glass"
       }
     ],
     "factories": [
@@ -503,7 +503,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010246
+        "Product": "pocket_watches"
       }
     ],
     "factories": [
@@ -538,7 +538,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010222
+        "Product": "dynamite"
       }
     ],
     "factories": [
@@ -567,7 +567,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010250
+        "Product": "jewelry"
       }
     ],
     "factories": [
@@ -583,7 +583,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010210
+        "Product": "sails"
       }
     ],
     "factories": [
@@ -613,7 +613,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 120043
+        "Product": "ponchos"
       }
     ],
     "factories": [
@@ -630,17 +630,17 @@
       {
         "AdditionalOutputCycle": 12,
         "Amount": 1,
-        "Product": 120043
+        "Product": "ponchos"
       },
       {
         "AdditionalOutputCycle": 12,
         "Amount": 1,
-        "Product": 1010237
+        "Product": "work_clothes"
       },
       {
         "AdditionalOutputCycle": 12,
         "Amount": 1,
-        "Product": 120037
+        "Product": "bombins"
       }
     ],
     "factories": [
@@ -665,12 +665,12 @@
       {
         "AdditionalOutputCycle": 6,
         "Amount": 1,
-        "Product": 120043
+        "Product": "ponchos"
       },
       {
         "AdditionalOutputCycle": 6,
         "Amount": 1,
-        "Product": 120037
+        "Product": "bombins"
       }
     ],
     "factories": [
@@ -687,7 +687,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010210
+        "Product": "sails"
       }
     ],
     "factories": [
@@ -717,7 +717,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010237
+        "Product": "work_clothes"
       }
     ],
     "factories": [
@@ -735,12 +735,12 @@
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 1010237
+        "Product": "work_clothes"
       },
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010247
+        "Product": "fur_coats"
       }
     ],
     "factories": [
@@ -766,7 +766,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 120032
+        "Product": "coffee"
       }
     ],
     "factories": [
@@ -787,7 +787,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010258
+        "Product": "chocolate"
       }
     ],
     "factories": [
@@ -808,7 +808,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010239
+        "Product": "sugar"
       }
     ],
     "factories": [
@@ -825,12 +825,12 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010239
+        "Product": "sugar"
       },
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010257
+        "Product": "rum"
       }
     ],
     "factories": [
@@ -847,7 +847,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010566
+        "Product": "oil"
       }
     ],
     "factories": [
@@ -863,7 +863,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010243
+        "Product": "filaments"
       }
     ],
     "factories": [
@@ -880,7 +880,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010566
+        "Product": "oil"
       }
     ],
     "factories": [
@@ -910,27 +910,27 @@
       {
         "AdditionalOutputCycle": 16,
         "Amount": 1,
-        "Product": 1010246
+        "Product": "pocket_watches"
       },
       {
         "AdditionalOutputCycle": 14,
         "Amount": 1,
-        "Product": 120030
+        "Product": "spectacles"
       },
       {
         "AdditionalOutputCycle": 15,
         "Amount": 1,
-        "Product": 1010245
+        "Product": "penny_farthings"
       },
       {
         "AdditionalOutputCycle": 17,
         "Amount": 1,
-        "Product": 1010225
+        "Product": "steam_carriages"
       },
       {
         "AdditionalOutputCycle": 13,
         "Amount": 1,
-        "Product": 1010206
+        "Product": "sewing_machines"
       }
     ],
     "factories": [
@@ -957,7 +957,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010258
+        "Product": "chocolate"
       }
     ],
     "factories": [
@@ -973,7 +973,7 @@
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 120031
+        "Product": "coffee_beans"
       }
     ],
     "factories": [
@@ -989,7 +989,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010257
+        "Product": "rum"
       }
     ],
     "factories": [
@@ -1031,7 +1031,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 120033
+        "Product": "fried_plantains"
       }
     ],
     "factories": [
@@ -1052,7 +1052,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010234
+        "Product": "tallow"
       }
     ],
     "factories": [
@@ -1067,7 +1067,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010234
+        "Product": "tallow"
       }
     ],
     "factories": [
@@ -1082,7 +1082,7 @@
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 1010215
+        "Product": "goulash"
       }
     ],
     "factories": [
@@ -1112,7 +1112,7 @@
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 1010238
+        "Product": "sausages"
       }
     ],
     "factories": [
@@ -1133,7 +1133,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 120035
+        "Product": "tortillas"
       }
     ],
     "factories": [
@@ -1177,7 +1177,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010238
+        "Product": "sausages"
       }
     ],
     "factories": [
@@ -1198,7 +1198,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010245
+        "Product": "penny_farthings"
       }
     ],
     "factories": [
@@ -1223,7 +1223,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010208
+        "Product": "light_bulbs"
       }
     ],
     "factories": [
@@ -1244,12 +1244,12 @@
       {
         "AdditionalOutputCycle": 8,
         "Amount": 1,
-        "Product": 1010246
+        "Product": "pocket_watches"
       },
       {
         "AdditionalOutputCycle": 8,
         "Amount": 1,
-        "Product": 1010248
+        "Product": "gramophones"
       }
     ],
     "factories": [
@@ -1271,12 +1271,12 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010223
+        "Product": "advanced_weapons"
       },
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010224
+        "Product": "steam_motors"
       }
     ],
     "factories": [
@@ -1297,7 +1297,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 120008
+        "Product": "wood"
       }
     ],
     "factories": [
@@ -1332,7 +1332,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010256
+        "Product": "pearls"
       }
     ],
     "factories": [
@@ -1353,7 +1353,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010242
+        "Product": "wood_veneers"
       }
     ],
     "factories": [
@@ -1388,7 +1388,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010218
+        "Product": "steel_beams"
       }
     ],
     "factories": [
@@ -1406,7 +1406,7 @@
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 1010242
+        "Product": "wood_veneers"
       }
     ],
     "factories": [
@@ -1423,7 +1423,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010193
+        "Product": "beef"
       }
     ],
     "factories": [
@@ -1445,7 +1445,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 120036
+        "Product": "alpaca_wool"
       }
     ],
     "factories": [
@@ -1467,7 +1467,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010256
+        "Product": "pearls"
       }
     ],
     "factories": [
@@ -1487,12 +1487,12 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010256
+        "Product": "pearls"
       },
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010233
+        "Product": "gold_ore"
       }
     ],
     "factories": [
@@ -1513,7 +1513,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010257
+        "Product": "rum"
       }
     ],
     "factories": [
@@ -1529,7 +1529,7 @@
       {
         "AdditionalOutputCycle": 8,
         "Amount": 1,
-        "Product": 1010195
+        "Product": "potatoes"
       }
     ],
     "factories": [
@@ -1583,7 +1583,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010216
+        "Product": "schnapps"
       }
     ],
     "dlcs": [
@@ -1602,7 +1602,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010217
+        "Product": "canned_food"
       }
     ],
     "dlcs": [
@@ -1620,12 +1620,12 @@
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 1010229
+        "Product": "zinc"
       },
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 1010230
+        "Product": "copper"
       }
     ],
     "dlcs": [
@@ -1643,7 +1643,7 @@
       {
         "AdditionalOutputCycle": 10,
         "Amount": 1,
-        "Product": 120032
+        "Product": "coffee"
       }
     ],
     "dlcs": [
@@ -1665,7 +1665,7 @@
       {
         "AdditionalOutputCycle": 25,
         "Amount": 1,
-        "Product": 1010259
+        "Product": "cigars"
       }
     ],
     "dlcs": [
@@ -1711,7 +1711,7 @@
       {
         "AdditionalOutputCycle": 1,
         "Amount": 1,
-        "Product": 1010227
+        "Product": "iron"
       }
     ],
     "dlcs": [
@@ -1737,7 +1737,7 @@
       {
         "AdditionalOutputCycle": 25,
         "Amount": 1,
-        "Product": 1010233
+        "Product": "gold_ore"
       }
     ],
     "dlcs": [
@@ -1783,7 +1783,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 24807
+        "Product": "dung"
       }
     ],
     "dlcs": [
@@ -1803,7 +1803,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 112695
+        "Product": "bear_fur"
       }
     ],
     "dlcs": [
@@ -1848,12 +1848,12 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 5385
+        "Product": "milk"
       },
       {
         "AdditionalOutputCycle": 8,
         "Amount": 1,
-        "Product": 5383
+        "Product": "herbs"
       }
     ],
     "dlcs": [
@@ -1873,12 +1873,12 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010225
+        "Product": "steam_carriages"
       },
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 5391
+        "Product": "scooter"
       }
     ],
     "dlcs": [
@@ -1928,17 +1928,17 @@
       {
         "AdditionalOutputCycle": 7,
         "Amount": 1,
-        "Product": 5380
+        "Product": "calamari"
       },
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010200
+        "Product": "fish"
       },
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 120042
+        "Product": "fish_oil"
       }
     ],
     "dlcs": [
@@ -1959,7 +1959,7 @@
       {
         "AdditionalOutputCycle": 10,
         "Amount": 1,
-        "Product": 1010233
+        "Product": "gold_ore"
       }
     ],
     "dlcs": [
@@ -1977,7 +1977,7 @@
       {
         "AdditionalOutputCycle": 8,
         "Amount": 1,
-        "Product": 1010233
+        "Product": "gold_ore"
       }
     ],
     "dlcs": [
@@ -1995,7 +1995,7 @@
       {
         "AdditionalOutputCycle": 6,
         "Amount": 1,
-        "Product": 1010233
+        "Product": "gold_ore"
       }
     ],
     "dlcs": [
@@ -2013,12 +2013,12 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010230
+        "Product": "copper"
       },
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010229
+        "Product": "zinc"
       }
     ],
     "dlcs": [
@@ -2044,12 +2044,12 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010230
+        "Product": "copper"
       },
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010229
+        "Product": "zinc"
       }
     ],
     "dlcs": [
@@ -2075,12 +2075,12 @@
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 1010230
+        "Product": "copper"
       },
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 1010229
+        "Product": "zinc"
       }
     ],
     "dlcs": [
@@ -2106,7 +2106,7 @@
       {
         "AdditionalOutputCycle": 1,
         "Amount": 1,
-        "Product": 1010566
+        "Product": "oil"
       }
     ],
     "dlcs": [
@@ -2125,7 +2125,7 @@
       {
         "AdditionalOutputCycle": 1,
         "Amount": 2,
-        "Product": 1010566
+        "Product": "oil"
       }
     ],
     "dlcs": [
@@ -2144,7 +2144,7 @@
       {
         "AdditionalOutputCycle": 1,
         "Amount": 4,
-        "Product": 1010566
+        "Product": "oil"
       }
     ],
     "dlcs": [
@@ -2163,7 +2163,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 1010249
+        "Product": "gold"
       }
     ],
     "dlcs": [
@@ -2182,7 +2182,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 112696
+        "Product": "seal_skin"
       }
     ],
     "dlcs": [
@@ -2201,7 +2201,7 @@
       {
         "AdditionalOutputCycle": 6,
         "Amount": 1,
-        "Product": 112694
+        "Product": "caribou_meat"
       }
     ],
     "dlcs": [
@@ -2220,7 +2220,7 @@
       {
         "AdditionalOutputCycle": 7,
         "Amount": 1,
-        "Product": 112697
+        "Product": "goose_feathers"
       }
     ],
     "dlcs": [
@@ -2241,7 +2241,7 @@
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 1010196
+        "Product": "timber"
       }
     ],
     "dlcs": [
@@ -2261,7 +2261,7 @@
       {
         "AdditionalOutputCycle": 7,
         "Amount": 1,
-        "Product": 112702
+        "Product": "oil_lamps"
       }
     ],
     "dlcs": [
@@ -2279,7 +2279,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 114371
+        "Product": "goat_milk"
       }
     ],
     "dlcs": [
@@ -2315,7 +2315,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 114359
+        "Product": "dried_meat"
       }
     ],
     "dlcs": [
@@ -2386,12 +2386,12 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 117698
+        "Product": "illuminated_script"
       },
       {
         "AdditionalOutputCycle": 10,
         "Amount": 1,
-        "Product": 117699
+        "Product": "lanterns"
       }
     ],
     "dlcs": [
@@ -2409,7 +2409,7 @@
       {
         "AdditionalOutputCycle": 10,
         "Amount": 1,
-        "Product": 120037
+        "Product": "bombins"
       }
     ],
     "dlcs": [
@@ -2427,7 +2427,7 @@
       {
         "AdditionalOutputCycle": 8,
         "Amount": 1,
-        "Product": 114430
+        "Product": "tailored_suits"
       }
     ],
     "dlcs": [
@@ -2451,7 +2451,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 133097
+        "Product": "citrus"
       }
     ],
     "dlcs": [
@@ -2475,17 +2475,17 @@
       {
         "AdditionalOutputCycle": 7,
         "Amount": 1,
-        "Product": 1010232
+        "Product": "saltpeter"
       },
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010234
+        "Product": "tallow"
       },
       {
         "AdditionalOutputCycle": 11,
         "Amount": 1,
-        "Product": 1010222
+        "Product": "dynamite"
       }
     ],
     "dlcs": [
@@ -2508,7 +2508,7 @@
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 1010217
+        "Product": "canned_food"
       }
     ],
     "dlcs": [
@@ -2546,7 +2546,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 133183
+        "Product": "jam"
       }
     ],
     "dlcs": [
@@ -2610,7 +2610,7 @@
       {
         "AdditionalOutputCycle": 1,
         "Amount": 1,
-        "Product": 112706
+        "Product": "arctic_gas"
       }
     ],
     "dlcs": [
@@ -2634,7 +2634,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 24807
+        "Product": "dung"
       }
     ],
     "dlcs": [
@@ -2654,7 +2654,7 @@
       {
         "AdditionalOutputCycle": 1,
         "Amount": 14,
-        "Product": 24808
+        "Product": "fertiliser"
       }
     ],
     "dlcs": [
@@ -2679,7 +2679,7 @@
       {
         "AdditionalOutputCycle": 2,
         "Amount": 1,
-        "Product": 24807
+        "Product": "dung"
       }
     ],
     "dlcs": [
@@ -2776,7 +2776,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 840
+        "Product": "helium"
       }
     ],
     "dlcs": [
@@ -2800,7 +2800,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 836
+        "Product": "bauxite_"
       }
     ],
     "dlcs": [
@@ -2819,7 +2819,7 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 838
+        "Product": "aluminium_profiles"
       }
     ],
     "dlcs": [
@@ -2881,7 +2881,7 @@
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010239
+        "Product": "sugar"
       }
     ],
     "dlcs": [
@@ -2903,17 +2903,17 @@
       {
         "AdditionalOutputCycle": 5,
         "Amount": 1,
-        "Product": 120031
+        "Product": "coffee_beans"
       },
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 1010252
+        "Product": "tobacco"
       },
       {
         "AdditionalOutputCycle": 3,
         "Amount": 1,
-        "Product": 1010254
+        "Product": "cocoa"
       }
     ],
     "dlcs": [
@@ -2936,7 +2936,7 @@
       {
         "AdditionalOutputCycle": 4,
         "Amount": 1,
-        "Product": 135130
+        "Product": "ethanol"
       }
     ],
     "dlcs": [

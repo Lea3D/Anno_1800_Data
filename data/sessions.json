@@ -2,12 +2,12 @@
   {
     "guid": 180023,
     "icon": "data/ui/2kimages/main/icons/icon_session_moderate_white.png",
-    "region": 5000000
+    "region": "moderate"
   },
   {
     "guid": 180025,
     "icon": "data/ui/2kimages/main/icons/icon_session_southamerica_white.png",
-    "region": 5000001
+    "region": "colony01"
   },
   {
     "dlcs": [
@@ -15,7 +15,7 @@
     ],
     "guid": 110934,
     "icon": "data/ui/2kimages/main/icons/icon_session_sunken_treasure_white.png",
-    "region": 5000000
+    "region": "moderate"
   },
   {
     "dlcs": [
@@ -23,7 +23,7 @@
     ],
     "guid": 180045,
     "icon": "data/ui/2kimages/main/icons/icon_session_passage_white.png",
-    "region": 160001
+    "region": "arctic"
   },
   {
     "dlcs": [
@@ -31,6 +31,6 @@
     ],
     "guid": 112132,
     "icon": "data/ui/2kimages/main/icons/icon_session_landoflions_white.png",
-    "region": 114327
+    "region": "africa"
   }
 ]

@@ -5,15 +5,15 @@
     ],
     "guid": 132780,
     "recipeBuildings": [
-      132747,
-      132750,
-      133339,
-      133340,
-      133341,
-      6136
+      "restaurant:_archduke's_schnitzel",
+      "restaurant:_stroggof_goulash",
+      "restaurant:_fish_and_frites",
+      "restaurant:_venison_en_croûte",
+      "restaurant:_lobster_cheminée",
+      "restaurant:_empanadas"
     ],
     "recipeListType": "Diner",
-    "region": 5000000,
+    "region": "moderate",
     "friendly_name": "Restaurant",
     "id": "restaurant"
   },
@@ -23,15 +23,15 @@
     ],
     "guid": 132782,
     "recipeBuildings": [
-      132753,
-      133347,
-      133348,
-      133349,
-      133350,
-      6138
+      "cafe:_donut_fourré",
+      "cafe:_eclair",
+      "cafe:_palmier_biscuit",
+      "cafe:_venison_tartare",
+      "cafe:_banana_surprise",
+      "cafe:_cone_o'copia_"
     ],
     "recipeListType": "Cafe",
-    "region": 5000000,
+    "region": "moderate",
     "friendly_name": "Cafe",
     "id": "cafe"
   },
@@ -41,15 +41,15 @@
     ],
     "guid": 132781,
     "recipeBuildings": [
-      132752,
-      133342,
-      133343,
-      133345,
-      133346,
-      6137
+      "bar:_daiquiri_tropic",
+      "bar:_black_muscovy",
+      "bar:_montmartre_'75'",
+      "bar:_arctic_glogg",
+      "bar:_enbesa_sunrise",
+      "bar:_absynthe"
     ],
     "recipeListType": "Bar",
-    "region": 5000000,
+    "region": "moderate",
     "friendly_name": "Bar",
     "id": "bar"
   },
@@ -59,14 +59,14 @@
     ],
     "guid": 135100,
     "recipeBuildings": [
-      135103,
-      135188,
-      135187,
-      135189,
-      135190
+      "department_store:_toasters",
+      "department_store:_vacuum_cleaners",
+      "department_store:_crockery",
+      "department_store:_refrigerators",
+      "department_store:_briefcases"
     ],
     "recipeListType": "DepartmentStore",
-    "region": 5000000,
+    "region": "moderate",
     "friendly_name": "Department Store",
     "id": "department_store"
   },
@@ -76,14 +76,14 @@
     ],
     "guid": 135099,
     "recipeBuildings": [
-      135105,
-      135121,
-      135120,
-      135122,
-      135123
+      "furniture_store:_banker's_lamps",
+      "furniture_store:_vanity_screens",
+      "furniture_store:_writing_desks",
+      "furniture_store:_four-poster_beds",
+      "furniture_store:_lounge_seating"
     ],
     "recipeListType": "FurnitureStore",
-    "region": 5000000,
+    "region": "moderate",
     "friendly_name": "Furniture Store",
     "id": "furniture_store"
   },
@@ -93,14 +93,14 @@
     ],
     "guid": 134629,
     "recipeBuildings": [
-      134631,
-      135191,
-      135192,
-      135193,
-      135194
+      "drug_store:_toothpaste",
+      "drug_store:_detergent",
+      "drug_store:_lipstick",
+      "drug_store:_face_cream",
+      "drug_store:_pomade"
     ],
     "recipeListType": "Pharmacy",
-    "region": 5000000,
+    "region": "moderate",
     "friendly_name": "Drug Store",
     "id": "drug_store"
   },
@@ -110,14 +110,14 @@
     ],
     "guid": 132770,
     "recipeBuildings": [
-      133928,
-      133930,
-      133931,
-      133932,
-      133933
+      "the_iron_tower:_brioche_royale_",
+      "the_iron_tower:_trifle_tower",
+      "the_iron_tower:_lady_marmelade",
+      "the_iron_tower:_age_of_exploration",
+      "the_iron_tower:_homard_sur_lit_de_terroir"
     ],
     "recipeListType": "LuxuryDiner",
-    "region": 5000000,
+    "region": "moderate",
     "friendly_name": "The Iron Tower",
     "id": "the_iron_tower"
   }

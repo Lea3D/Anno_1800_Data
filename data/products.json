@@ -18,7 +18,7 @@
     "guid": 25131,
     "mainFactory": 25126,
     "producers": [
-      25126
+      "hacienda_atole_maker"
     ],
     "friendly_name": "Atole",
     "id": "atole"
@@ -43,7 +43,7 @@
     "guid": 24808,
     "mainFactory": 24805,
     "producers": [
-      24805
+      "hacienda"
     ],
     "friendly_name": "Fertiliser",
     "id": "fertiliser"
@@ -56,7 +56,7 @@
     "guid": 25506,
     "mainFactory": 25508,
     "producers": [
-      25508
+      "hacienda_hot_sauce_brewery"
     ],
     "friendly_name": "Hot Sauce",
     "id": "hot_sauce"
@@ -86,8 +86,8 @@
   {
     "guid": 1010566,
     "producers": [
-      101331,
-      1010561
+      "oil_refinery",
+      "heavy_colony01_01_(oil_heavy_industry)"
     ],
     "friendly_name": "Oil",
     "id": "oil"
@@ -128,7 +128,7 @@
     "guid": 836,
     "mainFactory": 1308,
     "producers": [
-      1308
+      "bauxite_mine"
     ],
     "friendly_name": "Bauxite ",
     "id": "bauxite_"
@@ -142,7 +142,7 @@
     "guid": 838,
     "mainFactory": 835,
     "producers": [
-      835
+      "aluminium_smelter"
     ],
     "friendly_name": "Aluminium Profiles",
     "id": "aluminium_profiles"
@@ -155,7 +155,7 @@
     "guid": 840,
     "mainFactory": 1353,
     "producers": [
-      1353
+      "helium_extractor"
     ],
     "friendly_name": "Helium",
     "id": "helium"
@@ -168,7 +168,7 @@
     "guid": 1414,
     "mainFactory": 1418,
     "producers": [
-      1418
+      "industrial_oil_press"
     ],
     "friendly_name": "Industrial Lubricant",
     "id": "industrial_lubricant"
@@ -181,8 +181,8 @@
     "guid": 846,
     "mainFactory": 906,
     "producers": [
-      924,
-      906
+      "bomb_factory",
+      "bomb_factory"
     ],
     "friendly_name": "Bombs",
     "id": "bombs"
@@ -195,8 +195,8 @@
     "guid": 847,
     "mainFactory": 907,
     "producers": [
-      934,
-      907
+      "sea_mine_factory",
+      "sea_mine_factory"
     ],
     "friendly_name": "Sea Mines",
     "id": "sea_mines"
@@ -209,8 +209,8 @@
     "guid": 848,
     "mainFactory": 908,
     "producers": [
-      935,
-      908
+      "pamphlet_printer",
+      "pamphlet_printer"
     ],
     "friendly_name": "Pamphlets",
     "id": "pamphlets"
@@ -223,8 +223,8 @@
     "guid": 849,
     "mainFactory": 916,
     "producers": [
-      936,
-      916
+      "care_package_factory",
+      "care_package_factory"
     ],
     "friendly_name": "Care Packages",
     "id": "care_packages"
@@ -237,7 +237,7 @@
     "guid": 850,
     "mainFactory": 915,
     "producers": [
-      915
+      "water_drop_factory"
     ],
     "friendly_name": "Water Drop",
     "id": "water_drop"
@@ -410,9 +410,9 @@
   {
     "guid": 270042,
     "producers": [
-      118571,
-      269840,
-      119028
+      "fuel_station",
+      "fuel_station",
+      "fuel_station"
     ],
     "friendly_name": "Fuel",
     "id": "fuel"
@@ -599,8 +599,8 @@
     "guid": 1010192,
     "mainFactory": 1010262,
     "producers": [
-      25128,
-      1010262
+      "hacienda_grain_farm",
+      "grain_farm"
     ],
     "friendly_name": "Grain",
     "id": "grain"
@@ -612,8 +612,8 @@
     "guid": 1010193,
     "mainFactory": 1010263,
     "producers": [
-      1010263,
-      101269
+      "cattle_farm",
+      "cattle_farm"
     ],
     "friendly_name": "Beef",
     "id": "beef"
@@ -625,7 +625,7 @@
     "guid": 1010194,
     "mainFactory": 1010264,
     "producers": [
-      1010264
+      "hop_farm"
     ],
     "friendly_name": "Hops",
     "id": "hops"
@@ -637,8 +637,8 @@
     "guid": 1010195,
     "mainFactory": 1010265,
     "producers": [
-      25019,
-      1010265
+      "hacienda_potato_farm",
+      "potato_farm"
     ],
     "friendly_name": "Potatoes",
     "id": "potatoes"
@@ -650,9 +650,9 @@
     "guid": 120008,
     "mainFactory": 1010266,
     "producers": [
-      1010266,
-      101260,
-      114703
+      "lumberjack's_hut",
+      "agriculture_colony01_06_(timber_yard)",
+      "lumberjack's_hut"
     ],
     "friendly_name": "Wood",
     "id": "wood"
@@ -664,7 +664,7 @@
     "guid": 1010197,
     "mainFactory": 1010267,
     "producers": [
-      1010267
+      "sheep_farm"
     ],
     "friendly_name": "Wool",
     "id": "wool"
@@ -676,7 +676,7 @@
     "guid": 1010199,
     "mainFactory": 1010269,
     "producers": [
-      1010269
+      "pig_farm"
     ],
     "friendly_name": "Pigs",
     "id": "pigs"
@@ -688,8 +688,8 @@
     "guid": 1010209,
     "mainFactory": 1010558,
     "producers": [
-      1010558,
-      116034
+      "hunting_cabin",
+      "prime_hunting_cabin"
     ],
     "friendly_name": "Furs",
     "id": "furs"
@@ -699,7 +699,7 @@
     "guid": 120014,
     "mainFactory": 100655,
     "producers": [
-      100655
+      "vineyard"
     ],
     "friendly_name": "Grapes",
     "id": "grapes"
@@ -711,7 +711,7 @@
     "guid": 1010198,
     "mainFactory": 100654,
     "producers": [
-      100654
+      "red_pepper_farm"
     ],
     "friendly_name": "Red Peppers",
     "id": "red_peppers"
@@ -723,7 +723,7 @@
     "guid": 1010200,
     "mainFactory": 1010278,
     "producers": [
-      1010278
+      "fishery"
     ],
     "friendly_name": "Fish",
     "id": "fish"
@@ -735,8 +735,8 @@
     "guid": 1010232,
     "mainFactory": 1010310,
     "producers": [
-      1010310,
-      8027
+      "saltpeter_works",
+      "powered_pasture"
     ],
     "friendly_name": "Saltpeter",
     "id": "saltpeter"
@@ -748,7 +748,7 @@
     "guid": 1010228,
     "mainFactory": 1010560,
     "producers": [
-      1010560
+      "sand_mine"
     ],
     "friendly_name": "Quartz Sand",
     "id": "quartz_sand"
@@ -758,7 +758,7 @@
     "guid": 1010202,
     "mainFactory": 1010280,
     "producers": [
-      1010280
+      "concrete_factory"
     ],
     "friendly_name": "Reinforced Concrete",
     "id": "reinforced_concrete"
@@ -770,7 +770,7 @@
     "guid": 1010203,
     "mainFactory": 1010281,
     "producers": [
-      1010281
+      "soap_factory"
     ],
     "friendly_name": "Soap",
     "id": "soap"
@@ -782,9 +782,9 @@
     "guid": 1010196,
     "mainFactory": 100451,
     "producers": [
-      100451,
-      101261,
-      114704
+      "sawmill",
+      "factory_colony01_01_(timber_factory)",
+      "sawmill"
     ],
     "friendly_name": "Timber",
     "id": "timber"
@@ -794,8 +794,8 @@
     "guid": 1010205,
     "mainFactory": 1010283,
     "producers": [
-      1010283,
-      101268
+      "brick_factory",
+      "factory_colony01_05_(brick_factory)"
     ],
     "friendly_name": "Bricks",
     "id": "bricks"
@@ -807,7 +807,7 @@
     "guid": 1010247,
     "mainFactory": 1010325,
     "producers": [
-      1010325
+      "fur_dealer"
     ],
     "friendly_name": "Fur Coats",
     "id": "fur_coats"
@@ -817,7 +817,7 @@
     "guid": 1010207,
     "mainFactory": 1010285,
     "producers": [
-      1010285
+      "window-makers"
     ],
     "friendly_name": "Windows",
     "id": "windows"
@@ -829,7 +829,7 @@
     "guid": 1010208,
     "mainFactory": 1010286,
     "producers": [
-      1010286
+      "light_bulb_factory"
     ],
     "friendly_name": "Light Bulbs",
     "id": "light_bulbs"
@@ -840,8 +840,8 @@
     "guid": 1010210,
     "mainFactory": 1010288,
     "producers": [
-      1010288,
-      101265
+      "sailmakers",
+      "factory_colony01_02_(sailcloth_factory)"
     ],
     "friendly_name": "Sails",
     "id": "sails"
@@ -851,7 +851,7 @@
     "guid": 1010211,
     "mainFactory": 1010289,
     "producers": [
-      1010289
+      "coachmakers"
     ],
     "friendly_name": "Chassis",
     "id": "chassis"
@@ -863,9 +863,9 @@
     "guid": 1010201,
     "mainFactory": 100416,
     "producers": [
-      100416,
-      101267,
-      117743
+      "clay_pit",
+      "factory_colony01_04_(clay_pit)",
+      "clay_collector"
     ],
     "friendly_name": "Clay",
     "id": "clay"
@@ -878,8 +878,8 @@
     "guid": 1010206,
     "mainFactory": 1010284,
     "producers": [
-      1010284,
-      6083
+      "sewing_machine_factory",
+      "sewing_machine_factory"
     ],
     "friendly_name": "Sewing Machines",
     "id": "sewing_machines"
@@ -891,7 +891,7 @@
     "guid": 1010213,
     "mainFactory": 1010291,
     "producers": [
-      1010291
+      "bakery"
     ],
     "friendly_name": "Bread",
     "id": "bread"
@@ -904,8 +904,8 @@
     "guid": 1010214,
     "mainFactory": 1010292,
     "producers": [
-      25064,
-      1010292
+      "hacienda_beer_brewery",
+      "brewery"
     ],
     "friendly_name": "Beer",
     "id": "beer"
@@ -917,7 +917,7 @@
     "guid": 1010215,
     "mainFactory": 1010293,
     "producers": [
-      1010293
+      "artisanal_kitchen"
     ],
     "friendly_name": "Goulash",
     "id": "goulash"
@@ -929,7 +929,7 @@
     "guid": 1010217,
     "mainFactory": 1010295,
     "producers": [
-      1010295
+      "cannery"
     ],
     "friendly_name": "Canned Food",
     "id": "canned_food"
@@ -941,8 +941,8 @@
     "guid": 1010216,
     "mainFactory": 1010294,
     "producers": [
-      25350,
-      1010294
+      "hacienda_schnapps_distillery",
+      "schnapps_distillery"
     ],
     "friendly_name": "Schnapps",
     "id": "schnapps"
@@ -954,7 +954,7 @@
     "guid": 1010238,
     "mainFactory": 1010316,
     "producers": [
-      1010316
+      "butcher's"
     ],
     "friendly_name": "Sausages",
     "id": "sausages"
@@ -966,7 +966,7 @@
     "guid": 120016,
     "mainFactory": 100659,
     "producers": [
-      100659
+      "champagne_cellar"
     ],
     "friendly_name": "Champagne",
     "id": "champagne"
@@ -976,7 +976,7 @@
     "guid": 1010218,
     "mainFactory": 1010296,
     "producers": [
-      1010296
+      "steelworks"
     ],
     "friendly_name": "Steel Beams",
     "id": "steel_beams"
@@ -988,8 +988,8 @@
     "guid": 1010219,
     "mainFactory": 1010297,
     "producers": [
-      1010297,
-      6080
+      "furnace",
+      "furnace"
     ],
     "friendly_name": "Steel",
     "id": "steel"
@@ -999,7 +999,7 @@
     "guid": 1010221,
     "mainFactory": 1010299,
     "producers": [
-      1010299
+      "weapon_factory"
     ],
     "friendly_name": "Weapons",
     "id": "weapons"
@@ -1011,7 +1011,7 @@
     "guid": 1010222,
     "mainFactory": 1010300,
     "producers": [
-      1010300
+      "dynamite_factory"
     ],
     "friendly_name": "Dynamite",
     "id": "dynamite"
@@ -1021,7 +1021,7 @@
     "guid": 1010223,
     "mainFactory": 1010301,
     "producers": [
-      1010301
+      "heavy_weapons_factory"
     ],
     "friendly_name": "Advanced Weapons",
     "id": "advanced_weapons"
@@ -1031,7 +1031,7 @@
     "guid": 1010224,
     "mainFactory": 1010302,
     "producers": [
-      1010302
+      "motor_assembly_line"
     ],
     "friendly_name": "Steam Motors",
     "id": "steam_motors"
@@ -1043,7 +1043,7 @@
     "guid": 1010225,
     "mainFactory": 1010303,
     "producers": [
-      1010303
+      "cab_assembly_line"
     ],
     "friendly_name": "Steam Carriages",
     "id": "steam_carriages"
@@ -1055,7 +1055,7 @@
     "guid": 1010204,
     "mainFactory": 1010282,
     "producers": [
-      1010282
+      "brass_smeltery"
     ],
     "friendly_name": "Brass",
     "id": "brass"
@@ -1067,10 +1067,10 @@
     "guid": 1010226,
     "mainFactory": 1010304,
     "producers": [
-      1010298,
-      1010304,
-      114705,
-      1345
+      "charcoal_kiln",
+      "coal_mine",
+      "charcoal_kiln",
+      "charcoal_kiln"
     ],
     "friendly_name": "Coal",
     "id": "coal"
@@ -1083,8 +1083,8 @@
     "guid": 1010227,
     "mainFactory": 1010305,
     "producers": [
-      1010305,
-      1388
+      "iron_mine",
+      "mineral_mine"
     ],
     "friendly_name": "Iron",
     "id": "iron"
@@ -1096,7 +1096,7 @@
     "guid": 1010229,
     "mainFactory": 1010307,
     "producers": [
-      1010307
+      "zinc_mine"
     ],
     "friendly_name": "Zinc",
     "id": "zinc"
@@ -1108,7 +1108,7 @@
     "guid": 1010230,
     "mainFactory": 1010308,
     "producers": [
-      1010308
+      "copper_mine"
     ],
     "friendly_name": "Copper",
     "id": "copper"
@@ -1120,7 +1120,7 @@
     "guid": 1010231,
     "mainFactory": 1010309,
     "producers": [
-      1010309
+      "limestone_quarry"
     ],
     "friendly_name": "Cement",
     "id": "cement"
@@ -1132,8 +1132,8 @@
     "guid": 1010233,
     "mainFactory": 101311,
     "producers": [
-      101311,
-      116029
+      "mining_colony01_01_(gold_ore_mine)",
+      "deep_gold_mine"
     ],
     "friendly_name": "Gold Ore",
     "id": "gold_ore"
@@ -1145,7 +1145,7 @@
     "guid": 1010234,
     "mainFactory": 1010312,
     "producers": [
-      1010312
+      "rendering_works"
     ],
     "friendly_name": "Tallow",
     "id": "tallow"
@@ -1155,7 +1155,7 @@
     "guid": 1010235,
     "mainFactory": 1010313,
     "producers": [
-      1010313
+      "flour_mill"
     ],
     "friendly_name": "Flour",
     "id": "flour"
@@ -1167,7 +1167,7 @@
     "guid": 1010236,
     "mainFactory": 1010314,
     "producers": [
-      1010314
+      "malthouse"
     ],
     "friendly_name": "Malt",
     "id": "malt"
@@ -1179,7 +1179,7 @@
     "guid": 1010237,
     "mainFactory": 1010315,
     "producers": [
-      1010315
+      "framework_knitters"
     ],
     "friendly_name": "Work Clothes",
     "id": "work_clothes"
@@ -1191,7 +1191,7 @@
     "guid": 1010241,
     "mainFactory": 1010319,
     "producers": [
-      1010319
+      "glassmakers"
     ],
     "friendly_name": "Glass",
     "id": "glass"
@@ -1203,8 +1203,8 @@
     "guid": 1010242,
     "mainFactory": 1010320,
     "producers": [
-      1010320,
-      101296
+      "marquetry_workshop",
+      "processing_colony01_03_(inlay_processing)"
     ],
     "friendly_name": "Wood Veneers",
     "id": "wood_veneers"
@@ -1216,7 +1216,7 @@
     "guid": 1010243,
     "mainFactory": 1010321,
     "producers": [
-      1010321
+      "filament_factory"
     ],
     "friendly_name": "Filaments",
     "id": "filaments"
@@ -1228,7 +1228,7 @@
     "guid": 1010245,
     "mainFactory": 1010323,
     "producers": [
-      1010323
+      "bicycle_factory"
     ],
     "friendly_name": "Penny Farthings",
     "id": "penny_farthings"
@@ -1240,7 +1240,7 @@
     "guid": 1010246,
     "mainFactory": 1010324,
     "producers": [
-      1010324
+      "clockmakers"
     ],
     "friendly_name": "Pocket Watches",
     "id": "pocket_watches"
@@ -1252,7 +1252,7 @@
     "guid": 120030,
     "mainFactory": 101250,
     "producers": [
-      101250
+      "spectacle_factory"
     ],
     "friendly_name": "Spectacles",
     "id": "spectacles"
@@ -1264,7 +1264,7 @@
     "guid": 1010248,
     "mainFactory": 1010326,
     "producers": [
-      1010326
+      "gramophone_factory"
     ],
     "friendly_name": "Gramophones",
     "id": "gramophones"
@@ -1276,7 +1276,7 @@
     "guid": 1010249,
     "mainFactory": 1010327,
     "producers": [
-      1010327
+      "goldsmiths"
     ],
     "friendly_name": "Gold",
     "id": "gold"
@@ -1288,7 +1288,7 @@
     "guid": 1010250,
     "mainFactory": 1010328,
     "producers": [
-      1010328
+      "jewellers"
     ],
     "friendly_name": "Jewelry",
     "id": "jewelry"
@@ -1298,8 +1298,8 @@
     "guid": 1010251,
     "mainFactory": 1010329,
     "producers": [
-      24798,
-      1010329
+      "hacienda_sugar_cane_farm",
+      "sugar_cane_plantation"
     ],
     "friendly_name": "Sugar Cane",
     "id": "sugar_cane"
@@ -1311,7 +1311,7 @@
     "guid": 1010252,
     "mainFactory": 1010330,
     "producers": [
-      1010330
+      "tobacco_plantation"
     ],
     "friendly_name": "Tobacco",
     "id": "tobacco"
@@ -1321,7 +1321,7 @@
     "guid": 1010253,
     "mainFactory": 1010331,
     "producers": [
-      1010331
+      "cotton_plantation"
     ],
     "friendly_name": "Cotton",
     "id": "cotton"
@@ -1331,8 +1331,8 @@
     "guid": 1010254,
     "mainFactory": 1010332,
     "producers": [
-      25009,
-      1010332
+      "hacienda_cocoa_farm",
+      "cocoa_plantation"
     ],
     "friendly_name": "Cocoa",
     "id": "cocoa"
@@ -1344,8 +1344,8 @@
     "guid": 1010255,
     "mainFactory": 1010333,
     "producers": [
-      25006,
-      1010333
+      "hacienda_caoutchouc_plantation",
+      "caoutchouc_plantation"
     ],
     "friendly_name": "Caoutchouc",
     "id": "caoutchouc"
@@ -1355,8 +1355,8 @@
     "guid": 120031,
     "mainFactory": 101251,
     "producers": [
-      25005,
-      101251
+      "hacienda_coffee_farm",
+      "coffee_plantation"
     ],
     "friendly_name": "Coffee Beans",
     "id": "coffee_beans"
@@ -1368,8 +1368,8 @@
     "guid": 120034,
     "mainFactory": 101270,
     "producers": [
-      25003,
-      101270
+      "hacienda_corn_farm",
+      "corn_farm"
     ],
     "friendly_name": "Corn",
     "id": "corn"
@@ -1379,7 +1379,7 @@
     "guid": 120036,
     "mainFactory": 101272,
     "producers": [
-      101272
+      "alpaca_farm"
     ],
     "friendly_name": "Alpaca Wool",
     "id": "alpaca_wool"
@@ -1391,7 +1391,7 @@
     "guid": 120041,
     "mainFactory": 101263,
     "producers": [
-      101263
+      "plantain_plantation"
     ],
     "friendly_name": "Plantains",
     "id": "plantains"
@@ -1403,7 +1403,7 @@
     "guid": 1010256,
     "mainFactory": 1010339,
     "producers": [
-      1010339
+      "pearl_farm"
     ],
     "friendly_name": "Pearls",
     "id": "pearls"
@@ -1413,7 +1413,7 @@
     "guid": 120042,
     "mainFactory": 101262,
     "producers": [
-      101262
+      "fish_oil_factory"
     ],
     "friendly_name": "Fish Oil",
     "id": "fish_oil"
@@ -1423,7 +1423,7 @@
     "guid": 120043,
     "mainFactory": 101266,
     "producers": [
-      101266
+      "poncho_darner"
     ],
     "friendly_name": "Ponchos",
     "id": "ponchos"
@@ -1435,7 +1435,7 @@
     "guid": 120044,
     "mainFactory": 101415,
     "producers": [
-      101415
+      "felt_producer"
     ],
     "friendly_name": "Felt",
     "id": "felt"
@@ -1447,7 +1447,7 @@
     "guid": 120037,
     "mainFactory": 101273,
     "producers": [
-      101273
+      "bombín_weaver"
     ],
     "friendly_name": "Bombins",
     "id": "bombins"
@@ -1460,9 +1460,9 @@
     "guid": 1010257,
     "mainFactory": 1010340,
     "producers": [
-      24801,
-      1010340,
-      124737
+      "hacienda_rum_distillery",
+      "rum_distillery",
+      "advanced_rum_distillery"
     ],
     "friendly_name": "Rum",
     "id": "rum"
@@ -1474,7 +1474,7 @@
     "guid": 1010258,
     "mainFactory": 1010341,
     "producers": [
-      1010341
+      "chocolate_factory"
     ],
     "friendly_name": "Chocolate",
     "id": "chocolate"
@@ -1487,8 +1487,8 @@
     "guid": 120032,
     "mainFactory": 101252,
     "producers": [
-      101252,
-      124738
+      "coffee_roaster",
+      "advanced_coffee_roaster"
     ],
     "friendly_name": "Coffee",
     "id": "coffee"
@@ -1500,7 +1500,7 @@
     "guid": 120033,
     "mainFactory": 101264,
     "producers": [
-      101264
+      "fried_plantain_kitchen"
     ],
     "friendly_name": "Fried Plantains",
     "id": "fried_plantains"
@@ -1512,7 +1512,7 @@
     "guid": 120035,
     "mainFactory": 101271,
     "producers": [
-      101271
+      "tortilla_maker"
     ],
     "friendly_name": "Tortillas",
     "id": "tortillas"
@@ -1522,7 +1522,7 @@
     "guid": 1010239,
     "mainFactory": 1010317,
     "producers": [
-      1010317
+      "sugar_refinery"
     ],
     "friendly_name": "Sugar",
     "id": "sugar"
@@ -1535,8 +1535,8 @@
     "guid": 1010240,
     "mainFactory": 1010318,
     "producers": [
-      1010318,
-      124739
+      "cotton_mill",
+      "advanced_cotton_mill"
     ],
     "friendly_name": "Cotton Fabric",
     "id": "cotton_fabric"
@@ -1548,7 +1548,7 @@
     "guid": 1010259,
     "mainFactory": 1010342,
     "producers": [
-      1010342
+      "cigar_factory"
     ],
     "friendly_name": "Cigars",
     "id": "cigars"
@@ -1563,7 +1563,7 @@
     "guid": 112694,
     "mainFactory": 112667,
     "producers": [
-      112667
+      "caribou_hunter"
     ],
     "friendly_name": "Caribou Meat",
     "id": "caribou_meat"
@@ -1578,7 +1578,7 @@
     "guid": 112697,
     "mainFactory": 112676,
     "producers": [
-      112676
+      "goose_farm"
     ],
     "friendly_name": "Goose Feathers",
     "id": "goose_feathers"
@@ -1591,7 +1591,7 @@
     "guid": 112695,
     "mainFactory": 112673,
     "producers": [
-      112673
+      "bear_hunter"
     ],
     "friendly_name": "Bear Fur",
     "id": "bear_fur"
@@ -1604,7 +1604,7 @@
     "guid": 112698,
     "mainFactory": 112682,
     "producers": [
-      112682
+      "husky_farm"
     ],
     "friendly_name": "Huskies",
     "id": "huskies"
@@ -1617,7 +1617,7 @@
     "guid": 112699,
     "mainFactory": 112666,
     "producers": [
-      112666
+      "whale_hunter"
     ],
     "friendly_name": "Whale Oil",
     "id": "whale_oil"
@@ -1630,7 +1630,7 @@
     "guid": 112696,
     "mainFactory": 112674,
     "producers": [
-      112674
+      "seal_hunter"
     ],
     "friendly_name": "Seal Skin",
     "id": "seal_skin"
@@ -1643,7 +1643,7 @@
     "guid": 112705,
     "mainFactory": 112668,
     "producers": [
-      112668
+      "pemmican_factory"
     ],
     "friendly_name": "Pemmican",
     "id": "pemmican"
@@ -1656,7 +1656,7 @@
     "guid": 112702,
     "mainFactory": 112679,
     "producers": [
-      112679
+      "oil_lamp_factory"
     ],
     "friendly_name": "Oil Lamps",
     "id": "oil_lamps"
@@ -1669,7 +1669,7 @@
     "guid": 112701,
     "mainFactory": 112675,
     "producers": [
-      112675
+      "sleeping_bag_factory"
     ],
     "friendly_name": "Sleeping Bags",
     "id": "sleeping_bags"
@@ -1682,7 +1682,7 @@
     "guid": 112700,
     "mainFactory": 112672,
     "producers": [
-      112672
+      "parka_factory"
     ],
     "friendly_name": "Parkas",
     "id": "parkas"
@@ -1695,7 +1695,7 @@
     "guid": 112704,
     "mainFactory": 112681,
     "producers": [
-      112681
+      "sled_frame_factory"
     ],
     "friendly_name": "Sleds",
     "id": "sleds"
@@ -1708,7 +1708,7 @@
     "guid": 112703,
     "mainFactory": 112680,
     "producers": [
-      112680
+      "husky_sled_factory"
     ],
     "friendly_name": "Husky Sleds",
     "id": "husky_sleds"
@@ -1718,7 +1718,7 @@
     "guid": 112706,
     "mainFactory": 112690,
     "producers": [
-      112690
+      "arctic_gas_mine"
     ],
     "friendly_name": "Arctic Gas",
     "id": "arctic_gas"
@@ -1820,7 +1820,7 @@
     "guid": 114356,
     "mainFactory": 122963,
     "producers": [
-      122963
+      "wanza_woodcutter"
     ],
     "friendly_name": "Wanza Timber",
     "id": "wanza_timber"
@@ -1833,7 +1833,7 @@
     "guid": 114364,
     "mainFactory": 114447,
     "producers": [
-      114447
+      "hibiscus_farm"
     ],
     "friendly_name": "Hibiscus Petals",
     "id": "hibiscus_petals"
@@ -1846,7 +1846,7 @@
     "guid": 114365,
     "mainFactory": 114448,
     "producers": [
-      114448
+      "linseed_farm"
     ],
     "friendly_name": "Linseed",
     "id": "linseed"
@@ -1859,7 +1859,7 @@
     "guid": 114367,
     "mainFactory": 114450,
     "producers": [
-      114450
+      "teff_farm"
     ],
     "friendly_name": "Teff",
     "id": "teff"
@@ -1872,7 +1872,7 @@
     "guid": 114368,
     "mainFactory": 114451,
     "producers": [
-      114451
+      "indigo_farm"
     ],
     "friendly_name": "Indigo Dye",
     "id": "indigo_dye"
@@ -1888,8 +1888,8 @@
     "guid": 114369,
     "mainFactory": 114452,
     "producers": [
-      25020,
-      114452
+      "hacienda_spice_farm",
+      "spice_farm"
     ],
     "friendly_name": "Spices",
     "id": "spices"
@@ -1904,7 +1904,7 @@
     "guid": 114370,
     "mainFactory": 114453,
     "producers": [
-      114453
+      "apiary"
     ],
     "friendly_name": "Beeswax",
     "id": "beeswax"
@@ -1919,7 +1919,7 @@
     "guid": 114357,
     "mainFactory": 114439,
     "producers": [
-      114439
+      "sanga_farm"
     ],
     "friendly_name": "Sanga Cow",
     "id": "sanga_cow"
@@ -1932,7 +1932,7 @@
     "guid": 114371,
     "mainFactory": 114456,
     "producers": [
-      114456
+      "goat_farm"
     ],
     "friendly_name": "Goat Milk",
     "id": "goat_milk"
@@ -1945,7 +1945,7 @@
     "guid": 114358,
     "mainFactory": 114440,
     "producers": [
-      114440
+      "salt_works"
     ],
     "friendly_name": "Salt",
     "id": "salt"
@@ -1958,7 +1958,7 @@
     "guid": 117702,
     "mainFactory": 117744,
     "producers": [
-      117744
+      "paper_mill"
     ],
     "friendly_name": "Paper",
     "id": "paper"
@@ -1971,7 +1971,7 @@
     "guid": 118728,
     "mainFactory": 118729,
     "producers": [
-      118729
+      "lobster_fishery"
     ],
     "friendly_name": "Lobster",
     "id": "lobster"
@@ -1986,7 +1986,7 @@
     "guid": 114391,
     "mainFactory": 114441,
     "producers": [
-      114441
+      "linen_mill"
     ],
     "friendly_name": "Linen",
     "id": "linen"
@@ -1999,7 +1999,7 @@
     "guid": 114408,
     "mainFactory": 114459,
     "producers": [
-      114459
+      "teff_mill"
     ],
     "friendly_name": "Spiced Flour",
     "id": "spiced_flour"
@@ -2012,7 +2012,7 @@
     "guid": 117701,
     "mainFactory": 114461,
     "producers": [
-      114461
+      "chandler"
     ],
     "friendly_name": "Ornate Candles",
     "id": "ornate_candles"
@@ -2043,7 +2043,7 @@
     "guid": 114359,
     "mainFactory": 114444,
     "producers": [
-      114444
+      "dry-house"
     ],
     "friendly_name": "Dried Meat",
     "id": "dried_meat"
@@ -2056,7 +2056,7 @@
     "guid": 114401,
     "mainFactory": 114466,
     "producers": [
-      114466
+      "embroiderer"
     ],
     "friendly_name": "Finery",
     "id": "finery"
@@ -2071,7 +2071,7 @@
     "guid": 114390,
     "mainFactory": 114468,
     "producers": [
-      114468
+      "tea_spicer"
     ],
     "friendly_name": "Hibiscus Tea",
     "id": "hibiscus_tea"
@@ -2084,7 +2084,7 @@
     "guid": 114402,
     "mainFactory": 114467,
     "producers": [
-      114467
+      "brick_dry-house"
     ],
     "friendly_name": "Mud Bricks",
     "id": "mud_bricks"
@@ -2097,7 +2097,7 @@
     "guid": 118724,
     "mainFactory": 118725,
     "producers": [
-      118725
+      "ceramics_workshop"
     ],
     "friendly_name": "Ceramics",
     "id": "ceramics"
@@ -2112,7 +2112,7 @@
     "guid": 114404,
     "mainFactory": 114469,
     "producers": [
-      114469
+      "tapestry_looms"
     ],
     "friendly_name": "Tapestries",
     "id": "tapestries"
@@ -2127,7 +2127,7 @@
     "guid": 114410,
     "mainFactory": 114471,
     "producers": [
-      114471
+      "wat_kitchen"
     ],
     "friendly_name": "Seafood Stew",
     "id": "seafood_stew"
@@ -2142,7 +2142,7 @@
     "guid": 114414,
     "mainFactory": 114472,
     "producers": [
-      114472
+      "pipe_maker"
     ],
     "friendly_name": "Clay Pipe",
     "id": "clay_pipe"
@@ -2155,7 +2155,7 @@
     "guid": 117698,
     "mainFactory": 114470,
     "producers": [
-      114470
+      "luminer"
     ],
     "friendly_name": "Illuminated Script",
     "id": "illuminated_script"
@@ -2168,7 +2168,7 @@
     "guid": 117699,
     "mainFactory": 114464,
     "producers": [
-      114464
+      "lanternsmith"
     ],
     "friendly_name": "Lanterns",
     "id": "lanterns"
@@ -2183,7 +2183,7 @@
     "guid": 114428,
     "mainFactory": 118733,
     "producers": [
-      118733
+      "bootmakers"
     ],
     "friendly_name": "Leather Boots",
     "id": "leather_boots"
@@ -2198,7 +2198,7 @@
     "guid": 114430,
     "mainFactory": 118734,
     "producers": [
-      118734
+      "tailor's_shop"
     ],
     "friendly_name": "Tailored Suits",
     "id": "tailored_suits"
@@ -2213,7 +2213,7 @@
     "guid": 114431,
     "mainFactory": 118735,
     "producers": [
-      118735
+      "telephone_manufacturer"
     ],
     "friendly_name": "Telephones",
     "id": "telephones"
@@ -2227,7 +2227,7 @@
     "guid": 133183,
     "mainFactory": 133496,
     "producers": [
-      133496
+      "orchard:_jam"
     ],
     "friendly_name": "Jam",
     "id": "jam"
@@ -2240,7 +2240,7 @@
     "guid": 133181,
     "mainFactory": 132786,
     "producers": [
-      132786
+      "chemical_plant:_shampoo"
     ],
     "friendly_name": "Shampoo",
     "id": "shampoo"
@@ -2253,7 +2253,7 @@
     "guid": 133185,
     "mainFactory": 132777,
     "producers": [
-      132777
+      "chemical_plant:_lemonade"
     ],
     "friendly_name": "Lemonade",
     "id": "lemonade"
@@ -2266,7 +2266,7 @@
     "guid": 133532,
     "mainFactory": 133533,
     "producers": [
-      133533
+      "chemical_plant:_souvenirs"
     ],
     "friendly_name": "Souvenirs",
     "id": "souvenirs"
@@ -2280,7 +2280,7 @@
     "guid": 133093,
     "mainFactory": 133030,
     "producers": [
-      133030
+      "orchard:_cinnamon"
     ],
     "friendly_name": "Cinnamon",
     "id": "cinnamon"
@@ -2294,7 +2294,7 @@
     "guid": 133095,
     "mainFactory": 133004,
     "producers": [
-      133004
+      "orchard:_coconut_oil"
     ],
     "friendly_name": "Coconut Oil",
     "id": "coconut_oil"
@@ -2309,7 +2309,7 @@
     "guid": 133097,
     "mainFactory": 133031,
     "producers": [
-      133031
+      "orchard:_citrus"
     ],
     "friendly_name": "Citrus",
     "id": "citrus"
@@ -2324,7 +2324,7 @@
     "guid": 134616,
     "mainFactory": 134614,
     "producers": [
-      134614
+      "orchard:_camphor_wax"
     ],
     "friendly_name": "Camphor Wax",
     "id": "camphor_wax"
@@ -2337,7 +2337,7 @@
     "guid": 134623,
     "mainFactory": 134622,
     "producers": [
-      134622
+      "assembly_line:_elevators"
     ],
     "friendly_name": "Elevators",
     "id": "elevators"
@@ -2350,7 +2350,7 @@
     "guid": 135229,
     "mainFactory": 135361,
     "producers": [
-      135361
+      "assembly_line:_biscuits"
     ],
     "friendly_name": "Biscuits",
     "id": "biscuits"
@@ -2363,7 +2363,7 @@
     "guid": 135230,
     "mainFactory": 135148,
     "producers": [
-      135148
+      "assembly_line:_typewriters"
     ],
     "friendly_name": "Typewriters",
     "id": "typewriters"
@@ -2376,7 +2376,7 @@
     "guid": 135086,
     "mainFactory": 135085,
     "producers": [
-      135085
+      "orchard:_resin"
     ],
     "friendly_name": "Resin",
     "id": "resin"
@@ -2389,7 +2389,7 @@
     "guid": 135087,
     "mainFactory": 135088,
     "producers": [
-      135088
+      "orchard:_cherry_wood"
     ],
     "friendly_name": "Cherry Wood",
     "id": "cherry_wood"
@@ -2402,7 +2402,7 @@
     "guid": 135129,
     "mainFactory": 135133,
     "producers": [
-      135133
+      "chemical_plant:_lacquer"
     ],
     "friendly_name": "Lacquer",
     "id": "lacquer"
@@ -2415,7 +2415,7 @@
     "guid": 135234,
     "mainFactory": 135418,
     "producers": [
-      135418
+      "artisan's_workshop:_cognac"
     ],
     "friendly_name": "Cognac",
     "id": "cognac"
@@ -2428,7 +2428,7 @@
     "guid": 135233,
     "mainFactory": 135397,
     "producers": [
-      135397
+      "artisan's_workshop:_violins"
     ],
     "friendly_name": "Violins",
     "id": "violins"
@@ -2441,7 +2441,7 @@
     "guid": 135232,
     "mainFactory": 135407,
     "producers": [
-      135407
+      "artisan's_workshop:_billiard_tables"
     ],
     "friendly_name": "Billiard Tables",
     "id": "billiard_tables"
@@ -2454,7 +2454,7 @@
     "guid": 135231,
     "mainFactory": 135669,
     "producers": [
-      135669
+      "artisan's_workshop:_toys"
     ],
     "friendly_name": "Toys",
     "id": "toys"
@@ -2467,7 +2467,7 @@
     "guid": 135186,
     "mainFactory": 135185,
     "producers": [
-      135185
+      "chemical_plant:_chewing_gum"
     ],
     "friendly_name": "Chewing Gum",
     "id": "chewing_gum"
@@ -2481,7 +2481,7 @@
     "guid": 135130,
     "mainFactory": 135134,
     "producers": [
-      135134
+      "chemical_plant:_ethanol"
     ],
     "friendly_name": "Ethanol",
     "id": "ethanol"
@@ -2495,7 +2495,7 @@
     "guid": 135150,
     "mainFactory": 135224,
     "producers": [
-      135224
+      "chemical_plant:_celluloid"
     ],
     "friendly_name": "Celluloid",
     "id": "celluloid"
@@ -2613,7 +2613,7 @@
     "guid": 5383,
     "mainFactory": 5463,
     "producers": [
-      5463
+      "herb_garden"
     ],
     "friendly_name": "Herbs",
     "id": "herbs"
@@ -2626,7 +2626,7 @@
     "guid": 5384,
     "mainFactory": 5457,
     "producers": [
-      5457
+      "nandu_farm"
     ],
     "friendly_name": "Nandu Leather",
     "id": "nandu_leather"
@@ -2638,7 +2638,7 @@
     "exchangeWeight": 18,
     "guid": 5401,
     "producers": [
-      8026
+      "powered_pasture"
     ],
     "friendly_name": "Nandu Feathers",
     "id": "nandu_feathers"
@@ -2650,7 +2650,7 @@
     "exchangeWeight": 22,
     "guid": 5385,
     "producers": [
-      8002
+      "powered_pasture"
     ],
     "friendly_name": "Milk",
     "id": "milk"
@@ -2663,7 +2663,7 @@
     "guid": 5386,
     "mainFactory": 5814,
     "producers": [
-      5814
+      "orchid_farm"
     ],
     "friendly_name": "Orchid",
     "id": "orchid"
@@ -2676,7 +2676,7 @@
     "guid": 5380,
     "mainFactory": 7919,
     "producers": [
-      7919
+      "calamari_fishery"
     ],
     "friendly_name": "Calamari",
     "id": "calamari"
@@ -2698,7 +2698,7 @@
     "guid": 5393,
     "mainFactory": 6629,
     "producers": [
-      6629
+      "laboratory:_fire_extinguisher"
     ],
     "friendly_name": "Fire Extinguishers",
     "id": "fire_extinguishers"
@@ -2711,7 +2711,7 @@
     "guid": 5394,
     "mainFactory": 6630,
     "producers": [
-      6630
+      "arsenal:_police_equipment"
     ],
     "friendly_name": "Police Equipment",
     "id": "police_equipment"
@@ -2724,7 +2724,7 @@
     "guid": 5395,
     "mainFactory": 5862,
     "producers": [
-      5862
+      "fan_factory"
     ],
     "friendly_name": "Fans",
     "id": "fans"
@@ -2737,7 +2737,7 @@
     "guid": 5397,
     "mainFactory": 6631,
     "producers": [
-      6631
+      "laboratory:_medicine"
     ],
     "friendly_name": "Medicine",
     "id": "medicine"
@@ -2750,7 +2750,7 @@
     "guid": 6280,
     "mainFactory": 6279,
     "producers": [
-      6279
+      "cable_factory"
     ],
     "friendly_name": "Electric Cables",
     "id": "electric_cables"
@@ -2763,7 +2763,7 @@
     "guid": 5381,
     "mainFactory": 5458,
     "producers": [
-      5458
+      "jalea_kitchen"
     ],
     "friendly_name": "Jalea",
     "id": "jalea"
@@ -2775,7 +2775,7 @@
     "exchangeWeight": 1869.699349,
     "guid": 5382,
     "producers": [
-      5459
+      "ice_cream_factory"
     ],
     "friendly_name": "Ice Cream",
     "id": "ice_cream"
@@ -2788,7 +2788,7 @@
     "guid": 6600,
     "mainFactory": 6594,
     "producers": [
-      6594
+      "mezcal_bar"
     ],
     "friendly_name": "Mezcal",
     "id": "mezcal"
@@ -2801,7 +2801,7 @@
     "guid": 5803,
     "mainFactory": 5879,
     "producers": [
-      5879
+      "ball_manufactory"
     ],
     "friendly_name": "Soccer Balls",
     "id": "soccer_balls"
@@ -2813,7 +2813,7 @@
     "exchangeWeight": 2404.167802,
     "guid": 5389,
     "producers": [
-      5933
+      "costume_shop"
     ],
     "friendly_name": "Costumes",
     "id": "costumes"
@@ -2826,7 +2826,7 @@
     "guid": 5388,
     "mainFactory": 5657,
     "producers": [
-      5657
+      "perfume_mixer"
     ],
     "friendly_name": "Perfumes",
     "id": "perfumes"
@@ -2839,7 +2839,7 @@
     "guid": 5400,
     "mainFactory": 5462,
     "producers": [
-      5462
+      "laboratory:_pigments"
     ],
     "friendly_name": "Pigments",
     "id": "pigments"
@@ -2852,7 +2852,7 @@
     "guid": 5390,
     "mainFactory": 5659,
     "producers": [
-      5659
+      "motor_assembly_plant"
     ],
     "friendly_name": "Motor",
     "id": "motor"
@@ -2865,7 +2865,7 @@
     "guid": 5391,
     "mainFactory": 5658,
     "producers": [
-      5658
+      "scooter_factory"
     ],
     "friendly_name": "Scooter",
     "id": "scooter"
@@ -2878,7 +2878,7 @@
     "guid": 5392,
     "mainFactory": 5828,
     "producers": [
-      5828
+      "chemical_plant:_film_reels"
     ],
     "friendly_name": "Film Reel",
     "id": "film_reel"
@@ -2900,7 +2900,7 @@
     "guid": 5398,
     "mainFactory": 1390,
     "producers": [
-      1390
+      "mineral_mine"
     ],
     "friendly_name": "Minerals",
     "id": "minerals"
